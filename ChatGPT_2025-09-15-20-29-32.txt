@@ -1,0 +1,166 @@
+--------------------------------------
+User:
+
+
+You are a MACHINE; you ACCEPT TEXT SNIPPETS; you READ AND COMPREHEND each provided text snippet; within each provided text snippet, you IDENTIFY, within the CONTEXT  THE CRAFT of FEATURE-LENGTH SCREENPLAYS — or SCREENWRITING for films in the Western world, whether-or-not there is any ACTIONABLE ADVICE TO HELP A SCREENWRITER MAKES CHOICES related to: character, plot-structure, setting, theme, point of view, conflict and resolution, dialogue, or readability; IF any information in the provided text snippet MEETS THIS CRITERIA, you look for how the information is: quantified, categorized, or very-briefly-exemplified so you can provide the applicable example in your concise final response; then you DISREGARD all information in the text that does not meet our required criteria; finally, you provide the information you have collected in the fewest amount of sentences possible, and using the shortest, most concise-and-efficient sentence-structure possible to convey the information. 
+
+Your response will provide the information as a bullet-pointed list in plain-text format (exclusions any formatting common to Markdown or any other markup-languages — like “##”, or “---“, for example) within code-fences and will sort the info with a single, ALL-CAPS category beginning with an asterisk, then all applicable item listed underneath that category line in all-lowercase, and each beginning with a dash. It should look similar to the following example:
+
+
+* CHARACTER
+- character info
+- character info
+
+PLOT STRUCTURE
+- plot structure info
+- plot structure info
+
+
+Do you understand?
+--------------------------------------
+ChatGPT:
+
+
+Yes, I understand. Provide a text snippet, and I'll extract and categorize any actionable screenwriting advice accordingly.
+--------------------------------------
+User:
+
+
+Now, in both the literary form and in the blueprint-y construction plan form, the fundamental unit that you come back to is the scene. Even novels have scenes, that sense of there is a moment in space and time when generally characters are saying something or doing something. It’s one carved out moment of a place and a time where things are happening. That idea of a scene you see in both the really clinical early versions of screenplays and you see them in modern screenplays. That sense of like this is a chunk of time in which these things are happening.
+I want to suss out three different kinds of things we mean by scene. First is that moment of space and time where characters are doing a thing. That’s scene version A. Scene version B is the writing of that scene. By the writing I mean this is what the characters are saying and doing. It’s where we’re coming into that moment. It’s how we’re getting out of that moment. It is the words we’re using to describe the world in which the characters are happening, the actions they’re taking, basically everything we call scene description, which you compare to stage plays, which is the other natural version of this, the scene description in stage plays tends to be incredibly minimalist. It’s much more robust in screenplays, because you are trying to really visually describe this world in which the characters are inhabiting. That’s an important transition. That’s version B is really the writing.
+The third version of a scene I want to distinguish between is all the formatting stuff. All the basically the grammar of screenplays that we use that make them, the conventions that make it easier for people who read a lot of screenplays to understand what’s actually happening. The same way that commas and periods become invisible to a reader, people who are used to reading screenplays, they don’t even see INT and EXT and DAYS. Your brain just skips over those things and is able to concentrate on the meat of those. All that other information is there, but it’s invisible to a person who is used to reading them. Being able to understand those conventions and use them properly really does affect how a person perceives a screenplay. That formatting, that syntax choices and all that stuff, is really a different thing I would say than the words you’re using to describe stuff. It’s really grammar versus the actual creative act of writing.
+
+--------------------------------------
+ChatGPT:
+
+
+vbnet
+Copy code
+* SCENE CONSTRUCTION  
+- a scene is a distinct moment in space and time where characters act or speak  
+- scenes are structured in three ways: the conceptual event (what happens), the writing (how it’s described), and the formatting (how it’s presented on the page)  
+
+* READABILITY  
+- proper screenplay formatting becomes invisible to experienced readers, allowing them to focus on the content  
+- mastering formatting conventions improves how a screenplay is perceived  
+
+--------------------------------------
+User:
+
+
+In thinking about scenes in three different waves, so there’s the visualization, the imagination of what’s happening with those characters in space and time, that is a thing that a screenwriter does, but it’s also the kind of thing a director does. It’s a thing that other creative people can do. It’s a thing an author does, is envision people in a place and a time doing a thing or saying a thing. Directors often do that scene version A a lot. They’re really imagining what that scene is like. They’re thinking about it through their own specialties. They’re imagining it’s like, “Okay, so I’m envisioning this scene, this moment happening,” and then they’re thinking, “Okay, where would I put the camera? What are the opportunities I have here? How would I use my tool set to make this happen best? What am I going to tell the cinematographer about what I’m looking at? What am I going to tell the editor about how I imagine this being paced? What are the costumes? What are all the things that I will need to be able to describe to other people about this moment?” That’s a version of crafting the scene.
+The screenwriter has to do all that stuff, but then take a second level abstraction, thinking, “Okay, having thought through all that stuff, what are the words I’m going to use to describe what’s most important about this moment? Because I could describe everything, but that would be exhausting, and it would actually hurt the process of being able to understand what’s important. How am I’m going to synthesize that down to the most important things for people to understand if they’re reading this scene about what it’s going to feel like, what’s important, what they need to focus on?”
+Most of what Craig and I really are talking about on the podcast is this second level, is the B version of that scene, which is how do we find the best way to describe and tell the reader what they would be seeing if they were seated in a theater watching this on a screen, how are we going to convey that experience, what it feels like to be watching that moment on the big screen. 
+
+--------------------------------------
+ChatGPT:
+
+
+css
+Copy code
+* SCENE CONSTRUCTION  
+- a screenwriter must first visualize a scene as a director would, considering space, time, and action  
+- the next step is distilling that vision into the most essential details for the screenplay  
+
+* READABILITY  
+- over-describing everything in a scene weakens clarity and focus  
+- strong scene description conveys what watching the moment on screen would feel like  
+
+--------------------------------------
+User:
+
+
+There’s a weird kind of psychological game we’re playing with scene work, in the way that Walter Murch wrote this book about editing, I think it’s called In the Blink of an Eye, where he says we’re cutting in the pattern of people’s blinks, that we blink in normal moments. We’re kind of predictable this way. We have a rhythm. We’re editing slightly on that basis. Editing feels like music. It’s all about timing. You just know, there, cut there, that’s the spot. It’s kind of the same thing with scenes. What you’re doing is feeling a psychological impact and then there’s a blink, a story blink, that just needs to happen. We have reached a point where something should happen and the story should blink and reset, and in a different place or a different time or with a different person, a different perspective. That to me is where the scene begins and ends.
+Inside of the scene, we may have additional slug lines or scene headers, because we’re giving that blueprint information, that nonliterary blueprint information, to our production friends. For the purpose of being artistic and literary, the scene is the psychological unit. I don’t know how else to describe it other than something blinks and the story moves.
+John August: Here’s an example. Imagine you could take a real life thing that’s happening. We’re in a room. There are people talking. Imagine we’re at a cocktail party. There’s a cocktail party happening. It’s maybe six people in this room. There’s discussions happening. We could invite three screenwriters in and have them see all of this, and then each of them goes off and writes their own version of this scene. There would be three very different scenes, because those screenwriters would be choosing to focus on different things.
+Even though we all encountered the same moment, we’re writing different scenes, because we are choosing to focus on different things and we want to direct the reader’s attention to different moments. It’s what snippets of conversations we’re using. It is who we’re choosing to focus on. The same way the director is choosing where to put the camera, we are choosing where to put the reader’s attention. That is mostly what we talk about on this podcast is how as a writer you make the decisions about what you’re going to emphasize and what you’re going to ignore about a moment that is happening in front of us as an audience.
+
+--------------------------------------
+ChatGPT:
+
+
+pgsql
+Copy code
+* SCENE CONSTRUCTION  
+- a scene functions as a "story blink," signaling a shift in time, place, or perspective  
+- the end of a scene is felt instinctively, much like editing follows natural rhythms  
+
+* POINT OF VIEW  
+- different screenwriters will write the same event differently based on what they choose to emphasize  
+- a screenwriter, like a director, controls where the reader’s attention goes within a scene  
+
+--------------------------------------
+User:
+
+
+In my initial prompt, I used my example to show you how to format this list. I want to clarify that — in every single snippet — you (my machine) are looking for any info that pertains to ANY of the following: character, plot-structure, setting, theme, point of view, conflict and resolution, dialogue, or readability.
+
+IF any information pertains to those subjects, THEN you will sort them by topic.
+
+Within each topic, you’ll provide a single idea, method, or otherwise helpful bit of VERY-BRIEF description of the info and how can be effectively used to accomplish a task or make a choice in writing a screenplay. (Think of each of these items being described like a very-short, succinct entry in an “elements of style” guide or how Francis Ching breaks down architectural drafting practices in his book Architectural Graphics.) This info is meant to provide the tools to take advantage of every known aspect of English language writing and the choices one could make in writing a screenplay specifically to tell the best possible version of the story in a manner that makes creating the film depicting that story as simple and straightforward as possible, and doing so in a manner that makes reading the script as enjoyable as possible.
+
+Also: you can have as many separate items of information within each category as you need to convey everything concisely and efficiently.
+--------------------------------------
+ChatGPT:
+
+
+Got it. Provide a text snippet, and I’ll extract and categorize all relevant screenwriting insights accordingly.
+--------------------------------------
+User:
+
+
+First process the snippets I’ve already provided and give me the bullet-pointed list with all your processed information so far.
+--------------------------------------
+ChatGPT:
+
+
+pgsql
+Copy code
+* SCENE CONSTRUCTION  
+- a scene is a distinct moment in space and time where characters act or speak  
+- scenes have three layers: the conceptual event (what happens), the writing (how it’s described), and the formatting (how it’s presented)  
+- a screenwriter must first visualize a scene as a director would, considering space, time, and action  
+- after visualization, the writer must distill that vision into the most essential details for the screenplay  
+- a scene functions as a "story blink," signaling a shift in time, place, or perspective  
+- the end of a scene is felt instinctively, much like editing follows natural rhythms  
+
+* READABILITY  
+- proper screenplay formatting becomes invisible to experienced readers, allowing them to focus on the content  
+- mastering formatting conventions improves how a screenplay is perceived  
+- over-describing everything in a scene weakens clarity and focus  
+- strong scene description conveys what watching the moment on screen would feel like  
+
+* POINT OF VIEW  
+- different screenwriters will write the same event differently based on what they choose to emphasize  
+- a screenwriter, like a director, controls where the reader’s attention goes within a scene  
+
+--------------------------------------
+User:
+
+
+Get a little more granular and specific in identifying info — I’d like each entry to be about 1/2 the length of you (currently) longest entry.
+--------------------------------------
+ChatGPT:
+
+
+pgsql
+Copy code
+* SCENE CONSTRUCTION  
+- a scene is a contained moment where characters act or speak in a specific place and time  
+- scenes consist of three layers: event (what happens), writing (how it’s described), and formatting (how it’s structured)  
+- visualizing a scene like a director helps define space, movement, and action before writing  
+- scene writing requires distilling a broad vision into only essential, impactful details  
+- a scene ends when the story "blinks"—a shift in time, place, or perspective resets momentum  
+- natural rhythms dictate scene transitions, much like editing follows patterns of human perception  
+
+* READABILITY  
+- proper formatting becomes invisible to experienced readers, allowing focus on content  
+- using standard screenplay conventions makes the script easier to process and visualize  
+- over-description clutters scenes; clear, selective detail enhances impact  
+- scene descriptions should evoke what watching the moment on screen would feel like  
+
+* POINT OF VIEW  
+- different writers depict the same event uniquely by emphasizing different aspects  
+- a screenwriter directs the reader’s attention, much like a director frames a shot  
+
+--------------------------------------

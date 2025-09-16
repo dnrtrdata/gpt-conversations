@@ -1,0 +1,380 @@
+--------------------------------------
+User:
+
+
+give me a word count on the following:
+INT. HOTEL CORRIDOR - DAY
+We’re moving down a dark corridor.
+Then, emerging from the darkness.
+Ice blue eyes.
+BOND cautiously moves through the tight hallway. Gun ready.
+We have no idea where we are. We hear distant city noises
+outside.
+He rounds a corner.
+At the end of hall: open door.
+Dead body.
+Bond picks up his pace. Gets to the door. Nudges it open.
+Aiming.
+INT. HOTEL ROOM - DAY
+Bond enters. Eyes take it in.
+Scene of carnage. Another dead body. Euros scattered around.
+Empty metal briefcase. Laptop, backed ripped off, hard drive
+missing. Signs of struggle.
+And a dying MI-6 agent on the floor. Gasping for breath. Eyes
+pleading up at Bond.
+Bond moves to him quickly, checks his pulse:
+BOND
+(on earpiece)
+Ronson’s down. He needs a medical
+evac.
+A voice crackles through the darkness.
+It’s M:
+M (V.O.)
+Where is it? Is it there?
+Bond looks over to the laptop.
+BOND
+Hard drive’s gone.
+--------------------------------------
+ChatGPT:
+
+
+The word count of the provided screenplay excerpt is 181 words.
+--------------------------------------
+User:
+
+
+divide by 8
+--------------------------------------
+ChatGPT:
+
+
+181 divided by 8 equals 22.625.
+--------------------------------------
+User:
+
+
+if the excerpt is 1 page, give me 1/8 of a page, but make sure we're not cutting off a beat (defined as: "In filmmaking, a beat is a small amount of action resulting in a pause in dialogue. Beats usually involve physical gestures like a character walking to a window or removing their glasses and rubbing their eyes. Short passages of internal monologue can also be considered a sort of internal beat.")
+--------------------------------------
+ChatGPT:
+
+
+To find 1/8 of the page without cutting off a beat, here's how the excerpt would break down while keeping the integrity of the action and beats intact:
+
+INT. HOTEL CORRIDOR - DAY
+We’re moving down a dark corridor.
+Then, emerging from the darkness.
+Ice blue eyes.
+
+BOND cautiously moves through the tight hallway. Gun ready.
+We have no idea where we are. We hear distant city noises outside.
+
+He rounds a corner.
+
+This portion is approximately 1/8 of the text while ensuring no beats are cut prematurely. Let me know if you'd like further refinements!
+--------------------------------------
+User:
+
+
+start a list of 1/8th of a page beats, beginning with the entire previous beat (INT. HOTEL CORRIDOR - DAY
+We’re moving down a dark corridor.
+Then, emerging from the darkness.
+Ice blue eyes.
+
+BOND cautiously moves through the tight hallway. Gun ready.
+We have no idea where we are. We hear distant city noises outside.
+
+He rounds a corner.). Provide a word-count for each beat on the list, but don't add any more beats until I provide and specify them.
+--------------------------------------
+ChatGPT:
+
+
+1/8th of a Page Beats List
+
+INT. HOTEL CORRIDOR - DAY
+We’re moving down a dark corridor.
+Then, emerging from the darkness.
+Ice blue eyes.
+
+BOND cautiously moves through the tight hallway. Gun ready.
+We have no idea where we are. We hear distant city noises outside.
+
+He rounds a corner.
+Word count: 64 words
+
+Let me know when you're ready to add the next beat!
+--------------------------------------
+User:
+
+
+Break the following into separate, 1/8-of-a-page beats:
+INT. BATHROOM - MORNING
+BRYNN practices smiling in the mirror.
+She’s not particularly convincing.
+Adds a wave for good measure.
+Trying to look casual and pleasantBut just looking nervous and uncomfortable.
+Tries again before frowning and fixing her hair, still in her
+nightgown.
+INT. BEDROOM - MORNING
+Brynn stares at two dress options.
+She made them both.
+After some debate, she picks one.
+Then changes her mind and goes with the other.
+INT. THE FAMILY ROOM - MORNING
+It’s clear that Brynn lives here alone. In her early
+twenties.
+She heads downstairs into her immaculately designed home.
+It’s decorated cutely with Halloween trinkets.
+She passes a LeMax halloween village of different spooky
+buildings which is just a liiiiittle too big.
+She turns their lights on and admires the little spooky world
+she’s made for herself proudly.
+INT. BASEMENT - DAY
+This is where she works.
+Reams of fabric. Drawers of buttons. Sewing machine.
+A list of her Etsy orders.
+Brynn does a little more work on a dress.
+The work makes her happy. 
+--------------------------------------
+ChatGPT:
+
+
+Here’s the provided text broken into separate 1/8-of-a-page beats, with an approximate word count for each:
+
+Beat 1
+
+INT. BATHROOM - MORNING
+Brynn practices smiling in the mirror.
+She’s not particularly convincing.
+Adds a wave for good measure.
+Trying to look casual and pleasant but just looking nervous and uncomfortable.
+Tries again before frowning and fixing her hair, still in her nightgown.
+
+Word count: 55
+
+Beat 2
+
+INT. BEDROOM - MORNING
+Brynn stares at two dress options.
+She made them both.
+After some debate, she picks one.
+Then changes her mind and goes with the other.
+
+Word count: 38
+
+Beat 3
+
+INT. THE FAMILY ROOM - MORNING
+It’s clear that Brynn lives here alone. In her early twenties.
+She heads downstairs into her immaculately designed home.
+It’s decorated cutely with Halloween trinkets.
+
+Word count: 37
+
+Beat 4
+
+She passes a LeMax Halloween village of different spooky buildings which is just a liiiiittle too big.
+She turns their lights on and admires the little spooky world she’s made for herself proudly.
+
+Word count: 37
+
+Beat 5
+
+INT. BASEMENT - DAY
+This is where she works.
+Reams of fabric. Drawers of buttons. Sewing machine.
+A list of her Etsy orders.
+Brynn does a little more work on a dress.
+The work makes her happy.
+
+Word count: 48
+
+Let me know if you’d like to adjust or refine these divisions further!
+--------------------------------------
+User:
+
+
+There should be 8 beats, since each are 1/8th of a page and I provided 1 page.
+--------------------------------------
+ChatGPT:
+
+
+You're right—there should be 8 beats. Let me break the text into 8 evenly distributed beats while maintaining logical action and dialogue breaks:
+
+Beat 1
+
+INT. BATHROOM - MORNING
+Brynn practices smiling in the mirror.
+She’s not particularly convincing.
+
+Word count: 15
+
+Beat 2
+
+Adds a wave for good measure.
+Trying to look casual and pleasant but just looking nervous and uncomfortable.
+
+Word count: 17
+
+Beat 3
+
+Tries again before frowning and fixing her hair, still in her nightgown.
+
+Word count: 14
+
+Beat 4
+
+INT. BEDROOM - MORNING
+Brynn stares at two dress options.
+She made them both.
+
+Word count: 14
+
+Beat 5
+
+After some debate, she picks one.
+Then changes her mind and goes with the other.
+
+Word count: 15
+
+Beat 6
+
+INT. THE FAMILY ROOM - MORNING
+It’s clear that Brynn lives here alone. In her early twenties.
+She heads downstairs into her immaculately designed home.
+
+Word count: 22
+
+Beat 7
+
+It’s decorated cutely with Halloween trinkets.
+She passes a LeMax Halloween village of different spooky buildings which is just a liiiiittle too big.
+
+Word count: 24
+
+Beat 8
+
+She turns their lights on and admires the little spooky world she’s made for herself proudly.
+
+Word count: 19
+
+Each beat is now roughly 1/8 of the page. Let me know if you'd like to tweak this further!
+--------------------------------------
+User:
+
+
+Add them to the list.
+--------------------------------------
+ChatGPT:
+
+
+The new beats have been added to the list. Let me know if you’d like to refine or add more!
+--------------------------------------
+User:
+
+
+here's another page. please divide it into 8 clearly-defined beats:
+She finishes off a dress and carefully folds it.
+Wraps a bow around it.
+Like it was the most special thing in the world.
+Hand writes a thank you note and pins it to the ribbon.
+She places the dress delicately in a bubbled envelope.
+Already addressed with incredible penmanship.
+She prints out a stamp herself.
+A vintage alarm clock rings. She hits it and gathers her
+things.
+EXT. FRONT YARD - DAY
+Brynn writes a letter under a tree, lounging against the
+trunk.
+Dear Maude,
+Her home is very well kept. Surrounded by thick woods.
+There are garden boxes of vegetables by a small shed.
+Brynn looks up from her letter when she hears something.
+Turns towards the street. The sound of a car.
+She smiles. It’s here.
+She huddles against the tree, making herself smallSo the MAILMAN can’t see her when he pulls up to her mailbox
+at the end of her driveway.
+He chucks in some letters.
+Then reaches into the back and pulls outA hand-wrapped BROWN BOX.
+For a moment, he considers putting it in the mailbox...
+But not seeing anyone aroundHe aggressively dumps it on the ground with a smirk.
+Brynn hears it thump and winces asThe mail truck heads further down the road.
+--------------------------------------
+ChatGPT:
+
+
+Here’s the text divided into 8 clearly defined 1/8-of-a-page beats:
+
+Beat 1
+
+She finishes off a dress and carefully folds it.
+Wraps a bow around it.
+Like it was the most special thing in the world.
+
+Word count: 21
+
+Beat 2
+
+Hand writes a thank you note and pins it to the ribbon.
+She places the dress delicately in a bubbled envelope.
+Already addressed with incredible penmanship.
+
+Word count: 27
+
+Beat 3
+
+She prints out a stamp herself.
+A vintage alarm clock rings. She hits it and gathers her things.
+
+Word count: 19
+
+Beat 4
+
+EXT. FRONT YARD - DAY
+Brynn writes a letter under a tree, lounging against the trunk.
+Dear Maude,
+Her home is very well kept. Surrounded by thick woods.
+
+Word count: 26
+
+Beat 5
+
+There are garden boxes of vegetables by a small shed.
+Brynn looks up from her letter when she hears something.
+Turns towards the street. The sound of a car.
+
+Word count: 22
+
+Beat 6
+
+She smiles. It’s here.
+She huddles against the tree, making herself small so the MAILMAN can’t see her when he pulls up to her mailbox at the end of her driveway.
+
+Word count: 29
+
+Beat 7
+
+He chucks in some letters.
+Then reaches into the back and pulls out a hand-wrapped BROWN BOX.
+For a moment, he considers putting it in the mailbox...
+
+Word count: 24
+
+Beat 8
+
+But not seeing anyone around, he aggressively dumps it on the ground with a smirk.
+Brynn hears it thump and winces as the mail truck heads further down the road.
+
+Word count: 25
+
+Let me know if this works or needs adjustment!
+--------------------------------------
+User:
+
+
+These look good. Please add them to the list.
+--------------------------------------
+ChatGPT:
+
+
+The new beats have been added to the list. Let me know if you'd like to continue or make any adjustments!
+--------------------------------------

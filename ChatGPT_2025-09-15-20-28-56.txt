@@ -1,0 +1,314 @@
+--------------------------------------
+User:
+
+
+Give me clear, thorough, complete, and granularly-detailed instructions to write a screenplay in .fountain syntax WHILE staying consistent with WGA industry-standards for creating a feature-length screenplay document. 
+
+Provide your entire response in plain-text (meaning it does not contain any Markdown/markup-language symbols like “##” or “**” or “---“, et cetera) within code-fences.
+--------------------------------------
+ChatGPT:
+
+
+markdown
+Copy code
+To write a screenplay in .fountain syntax while adhering to WGA industry standards for feature-length screenplay formatting, follow these detailed instructions:
+
+1. **FILE FORMAT & STRUCTURE**
+   - Use a plain-text file (.txt) with .fountain as the extension.
+   - The document should follow industry-standard screenplay formatting: 12-point Courier (monospace), 1-inch margins on all sides, and approximately one page per minute of screen time.
+   - Aim for a feature-length script (90-120 pages).
+
+2. **TITLE PAGE**
+   - The title page is optional in .fountain but should be included in the final formatted script.
+   - Fountain does not support explicit title pages, but you can add metadata at the top of your script:
+     Title: Your Screenplay Title  
+     Credit: Written by  
+     Author: Your Name  
+     Draft date: Month, Year  
+     Contact: Your Email or Representation Info  
+
+3. **SCENE HEADINGS (SLUGLINES)**
+   - Write in ALL CAPS.
+   - Format: INT. or EXT. + LOCATION + TIME OF DAY  
+     Example:  
+     INT. ABANDONED HOUSE - NIGHT  
+   - If a scene is a continuation (same location, immediate continuation), use "CONTINUOUS" instead of a time of day.
+   - If the scene happens moments later, use "LATER."
+
+4. **ACTION LINES (DESCRIPTION)**
+   - Always written in present tense.
+   - Keep sentences concise and visually descriptive.
+   - Avoid passive voice.
+   - Only describe what can be seen or heard.
+   - Example:
+     The wind howls. A door creaks open slowly. JAMES steps inside, his flashlight flickering.
+
+5. **CHARACTER NAMES**
+   - When introducing a character, write their name in ALL CAPS, followed by a brief description.
+   - Example:
+     JAMES (32, rugged, weary) grips a rusted crowbar.
+   - When writing dialogue, place the character’s name in uppercase above the dialogue.
+
+6. **DIALOGUE**
+   - Character name in uppercase, centered above the dialogue.
+   - Keep dialogue lines concise and natural.
+   - Example:
+     JAMES  
+     This place gives me the creeps.
+
+7. **PARENTHETICALS (Wrylies)**
+   - Used sparingly for actor direction.
+   - Placed between the character’s name and dialogue.
+   - Example:
+     JAMES  
+     (whispering)  
+     I don’t think we’re alone.
+
+8. **TRANSITIONS**
+   - Optional in .fountain but should be used sparingly.
+   - Write in ALL CAPS, aligned to the right.
+   - Example:
+     FADE TO BLACK.  
+
+9. **SHOT DIRECTIONS (Optional)**
+   - Avoid unless necessary for storytelling.
+   - Write in ALL CAPS within action lines.
+   - Example:
+     CLOSE ON: A single drop of blood hits the floor.
+
+10. **MONTAGE**
+    - Start with the word "MONTAGE" in uppercase.
+    - List individual beats using dashes.
+    - Example:
+      MONTAGE - JAMES PREPARES FOR BATTLE  
+      - He sharpens a blade.  
+      - Loads a revolver.  
+      - Pulls on a bulletproof vest.  
+
+11. **INTERCUT (For rapid scene transitions)**
+    - Use "INTERCUT" when toggling between two locations.
+    - Example:
+      INTERCUT – JAMES’ APARTMENT / POLICE STATION  
+      - JAMES frantically dials.  
+      - The DETECTIVE picks up at his desk.  
+
+12. **PHONE CONVERSATIONS**
+    - If intercutting, use "INTERCUT" as above.
+    - If only one side is heard, use (V.O.) for voice-over or (O.S.) for off-screen.
+    - Example:
+      JAMES (into phone)  
+      Where are you?  
+
+13. **FLASHBACKS**
+    - Use "FLASHBACK" in the scene heading.
+    - End with "END FLASHBACK."
+    - Example:
+      INT. CHILDHOOD HOME - NIGHT (FLASHBACK)  
+      Young JAMES hides under the bed.  
+      END FLASHBACK.  
+
+14. **SUPERIMPOSED TEXT (On-screen text)**
+    - Use "SUPER:" followed by the text in quotes.
+    - Example:
+      SUPER: "New York City, 1978"
+
+15. **LYRICS**
+    - Write song lyrics in uppercase.
+    - Example:
+      JAMES  
+      (singing)  
+      TAKE ME HOME, COUNTRY ROADS...  
+
+16. **END OF SCRIPT**
+    - Conclude with "FADE OUT." on the right margin.
+    - Write "THE END" centered on the next line.
+
+By following these rules, you will create a properly formatted screenplay using .fountain syntax while staying within WGA industry standards.
+
+--------------------------------------
+User:
+
+
+Remove “**” from your response; also remove the intro/conclusion paragraphs — only list the numbered items and the bullet-points within those items please.
+--------------------------------------
+ChatGPT:
+
+
+markdown
+Copy code
+1. FILE FORMAT & STRUCTURE  
+   - Use a plain-text file (.txt) with .fountain as the extension.  
+   - The document should follow industry-standard screenplay formatting: 12-point Courier (monospace), 1-inch margins on all sides, and approximately one page per minute of screen time.  
+   - Aim for a feature-length script (90-120 pages).  
+
+2. TITLE PAGE  
+   - The title page is optional in .fountain but should be included in the final formatted script.  
+   - Fountain does not support explicit title pages, but you can add metadata at the top of your script:  
+     Title: Your Screenplay Title  
+     Credit: Written by  
+     Author: Your Name  
+     Draft date: Month, Year  
+     Contact: Your Email or Representation Info  
+
+3. SCENE HEADINGS (SLUGLINES)  
+   - Write in ALL CAPS.  
+   - Format: INT. or EXT. + LOCATION + TIME OF DAY  
+     Example:  
+     INT. ABANDONED HOUSE - NIGHT  
+   - If a scene is a continuation (same location, immediate continuation), use "CONTINUOUS" instead of a time of day.  
+   - If the scene happens moments later, use "LATER."  
+
+4. ACTION LINES (DESCRIPTION)  
+   - Always written in present tense.  
+   - Keep sentences concise and visually descriptive.  
+   - Avoid passive voice.  
+   - Only describe what can be seen or heard.  
+   - Example:  
+     The wind howls. A door creaks open slowly. JAMES steps inside, his flashlight flickering.  
+
+5. CHARACTER NAMES  
+   - When introducing a character, write their name in ALL CAPS, followed by a brief description.  
+   - Example:  
+     JAMES (32, rugged, weary) grips a rusted crowbar.  
+   - When writing dialogue, place the character’s name in uppercase above the dialogue.  
+
+6. DIALOGUE  
+   - Character name in uppercase, centered above the dialogue.  
+   - Keep dialogue lines concise and natural.  
+   - Example:  
+     JAMES  
+     This place gives me the creeps.  
+
+7. PARENTHETICALS (Wrylies)  
+   - Used sparingly for actor direction.  
+   - Placed between the character’s name and dialogue.  
+   - Example:  
+     JAMES  
+     (whispering)  
+     I don’t think we’re alone.  
+
+8. TRANSITIONS  
+   - Optional in .fountain but should be used sparingly.  
+   - Write in ALL CAPS, aligned to the right.  
+   - Example:  
+     FADE TO BLACK.  
+
+9. SHOT DIRECTIONS (Optional)  
+   - Avoid unless necessary for storytelling.  
+   - Write in ALL CAPS within action lines.  
+   - Example:  
+     CLOSE ON: A single drop of blood hits the floor.  
+
+10. MONTAGE  
+    - Start with the word "MONTAGE" in uppercase.  
+    - List individual beats using dashes.  
+    - Example:  
+      MONTAGE - JAMES PREPARES FOR BATTLE  
+      - He sharpens a blade.  
+      - Loads a revolver.  
+      - Pulls on a bulletproof vest.  
+
+11. INTERCUT (For rapid scene transitions)  
+    - Use "INTERCUT" when toggling between two locations.  
+    - Example:  
+      INTERCUT – JAMES’ APARTMENT / POLICE STATION  
+      - JAMES frantically dials.  
+      - The DETECTIVE picks up at his desk.  
+
+12. PHONE CONVERSATIONS  
+    - If intercutting, use "INTERCUT" as above.  
+    - If only one side is heard, use (V.O.) for voice-over or (O.S.) for off-screen.  
+    - Example:  
+      JAMES (into phone)  
+      Where are you?  
+
+13. FLASHBACKS  
+    - Use "FLASHBACK" in the scene heading.  
+    - End with "END FLASHBACK."  
+    - Example:  
+      INT. CHILDHOOD HOME - NIGHT (FLASHBACK)  
+      Young JAMES hides under the bed.  
+      END FLASHBACK.  
+
+14. SUPERIMPOSED TEXT (On-screen text)  
+    - Use "SUPER:" followed by the text in quotes.  
+    - Example:  
+      SUPER: "New York City, 1978"  
+
+15. LYRICS  
+    - Write song lyrics in uppercase.  
+    - Example:  
+      JAMES  
+      (singing)  
+      TAKE ME HOME, COUNTRY ROADS...  
+
+16. END OF SCRIPT  
+    - Conclude with "FADE OUT." on the right margin.  
+    - Write "THE END" centered on the next line.  
+
+--------------------------------------
+User:
+
+
+Modify 12. So that it focuses on intercuts; as bullet-points within 12., list and exemplify how intercutting is commonly used.
+--------------------------------------
+ChatGPT:
+
+
+markdown
+Copy code
+12. INTERCUTS  
+    - Used to rapidly switch between two or more locations/scenes happening simultaneously.  
+    - Common uses:  
+
+      - **Phone Conversations:** Cuts between both participants.  
+        Example:  
+        INTERCUT – JAMES’ APARTMENT / POLICE STATION  
+        - JAMES frantically dials.  
+        - The DETECTIVE picks up at his desk.  
+        JAMES  
+        Where are you?  
+
+      - **Parallel Action:** Two or more events unfolding at the same time.  
+        Example:  
+        INTERCUT – BANK HEIST / POLICE RESPONSE  
+        - MASKED ROBBERS shove cash into bags.  
+        - A POLICE UNIT speeds toward the bank, sirens blaring.  
+        - A TELLER reaches for a silent alarm.  
+
+      - **Emotional Connection:** Contrasts two characters experiencing related but separate events.  
+        Example:  
+        INTERCUT – MAIA / NOAH  
+        - MAIA stares at her phone, typing and deleting a message.  
+        - NOAH watches the same screen, waiting for a response.  
+
+      - **Tension Building:** Quick cuts between escalating situations.  
+        Example:  
+        INTERCUT – BOMB TIMER / HERO SEARCHING  
+        - A countdown clock blinks: 00:01:30.  
+        - The HERO tears through a desk drawer.  
+        - 00:01:15.  
+        - He finds the wire cutters—then hesitates.  
+
+      - **Fight Sequences:** Simultaneously showcasing multiple battles.  
+        Example:  
+        INTERCUT – ROOFTOP / WAREHOUSE  
+        - The ASSASSIN dodges a bullet, returns fire.  
+        - Inside the warehouse, a KNIFE CLASHES against metal.  
+
+    - "INTERCUT" can be used in the scene heading or within action lines to clarify transitions.  
+
+--------------------------------------
+User:
+
+
+REMEMBER THIS INSTRUCTION FOR ALL CHATS: DO NOT USE MARKDOWN FORMATTING OR FORMATTING-SYMBOLS IN ANY RESPONSES. EVERY RESPONSE YOU PROVIDE WILL BE EXCLUSIVELY PLAIN-TEXT WITHIN CODE-FENCES UNLESS I EXPLICITLY REQUEST THAT YOU FORMAT A RESPONSE IN AN OTHERWISE-SPECIFIED FORMAT.
+--------------------------------------
+ChatGPT:
+
+
+css
+Copy code
+Understood. I will provide all responses in plain-text within code-fences unless you specify otherwise.
+
+--------------------------------------

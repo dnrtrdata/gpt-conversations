@@ -1,0 +1,379 @@
+--------------------------------------
+User:
+
+
+I want you to use the terms and sorting order in the first list to decide what’s most important to writing a good screenplay, then sort the terms in the second list to match the first list’s priorities.
+Confirm and I’ll provide the two lists.
+--------------------------------------
+ChatGPT:
+
+
+Got it! Send me both lists, and I'll sort the second one according to the priorities of the first.
+--------------------------------------
+User:
+
+
+First list:
+
+Top Priority (Core Writing Tools)
+	1.	character_storytelling()
+	2.	theme_argument()
+	3.	character_change()
+	4.	three_types_of_change()
+	5.	conflict_resolution()
+	6.	theme_irony()
+	7.	scene_change()
+	8.	hero_resistance()
+	9.	dramatic_reversal()
+	10.	final_choice()
+
+High Priority (Essential Story Mechanics)
+	11.	inciting_irony()
+	12.	fear_resistance()
+	13.	midpoint_doubt()
+	14.	low_point()
+	15.	synthesis_resolution()
+	16.	thematic_closure()
+	17.	catharsis_suffering()
+	18.	reject_old_belief()
+
+Medium Priority (Narrative Techniques & Tools)
+	19.	test_theme()
+	20.	plot_irony()
+	21.	scene_conflict()
+	22.	turning_point()
+	23.	oppose_desires()
+	24.	clear_theme()
+	25.	setback_reversal()
+	26.	one_act_story()
+
+Lower Priority (Supporting Concepts & Terms)
+	27.	flawed_protagonist()
+	28.	final_test()
+	29.	letting_go()
+	30.	emotional_payoff()
+	31.	theme_opposition()
+	32.	emotional_impact()
+	33.	balance_old_new()
+
+Second list:
+
+GENERAL SCREENWRITING & FILMMAKING TERMS:  
+- action_[falling]()  
+- action_[rising]()  
+- ambience()  
+- antagonist_character()  
+- atmosphere()  
+- background()  
+- blow-up()  
+- button()  
+- climax()  
+- dramatic_irony()  
+- establish()  
+- expectation()  
+- juxtaposition()  
+- kicker()  
+- leitmotif()  
+- livelihood()  
+- man_vs_[conflict]()  
+- mise_en_scene()  
+- motif()  
+- needle_drop()  
+- non-verbal_communication()  
+- pov()  
+- premise()  
+- protagonist_character()  
+- resolution()  
+- reveal()  
+- rule_of_three()  
+- set_piece()  
+- stakes()  
+- storyline_a()  
+- storyline_c()  
+- supporting_characters()  
+- teaser()  
+- tension()  
+- ticking_clock()  
+- tightening_screw()  
+- trauma()  
+- tropes()  
+- turning_point()  
+- verisimilitude()  
+- vfx()  
+- voice()  
+- wardrobe()  
+- wild_sound()  
+- world_building()  
+- zeitgeist()
+
+(Keep the exact formatting of the first list in your response).
+--------------------------------------
+ChatGPT:
+
+
+Here’s the second list sorted according to the priorities of the first list’s structure:
+
+Top Priority (Core Writing Tools)
+
+protagonist_character()
+
+premise()
+
+character_change()
+
+man_vs_conflict
+
+resolution()
+
+dramatic_irony()
+
+turning_point()
+
+antagonist_character()
+
+dramatic_reversal()
+
+final_choice()
+
+High Priority (Essential Story Mechanics)
+11. climax()
+12. tension()
+13. midpoint_doubt() (implied by dramatic structure, no direct match)
+14. stakes()
+15. expectation()
+16. thematic_closure() (approximated by reveal())
+17. trauma()
+18. reveal()
+
+Medium Priority (Narrative Techniques & Tools)
+19. rule_of_three()
+20. tropes()
+21. storyline_a()
+22. juxtaposition()
+23. storyline_c()
+24. clear_theme() (approximated by motif())
+25. tightening_screw()
+26. teaser()
+
+Lower Priority (Supporting Concepts & Terms)
+27. supporting_characters()
+28. set_piece()
+29. kicker()
+30. emotional_payoff() (approximated by needle_drop())
+31. atmosphere() (linked to theme_opposition())
+32. verisimilitude() (linked to emotional_impact())
+33. balance_old_new() (approximated by leitmotif())
+
+Other filmmaking elements that don’t directly match the first list’s priorities—such as ambience(), background(), mise_en_scene(), vfx(), wardrobe(), and world_building()—are relevant for execution but don’t slot neatly into the writing hierarchy. Let me know if you want me to refine the list further!
+--------------------------------------
+User:
+
+
+Try to create a place for the items that don’t directly match the list’s priorities using the following method: use the following synthesis of terms/ideas to create categories for relevant EXISTING entries (don’t create any more entries) WITHIN THE SAME PRIORITY-LEVELS that are derived from the concepts…
+
+(For example:
+
+“	•	Ambience, Atmosphere, Background, Wild Sound → Environmental Texture (Elements that enrich setting and tone.)” 
+
+…would become…
+
+“[PLACE PRIORITY-LEVEL HERE]:
+
+* ENVIRONMENTAL_TEXTURE
+	a. AUDITORY
+		i. ambience()
+		ii. wild_sound()
+	b. VISUAL
+		i. atmosphere()
+		ii. background()”)
+
+Synthesis of terms/ideas… (etc.):
+“	•	Storyline B, Storyline C → Subplots (Secondary arcs that reinforce or contrast the protagonist’s main journey.)
+	•	Dramatic Irony, Juxtaposition → Contrast Mechanics (Tools to create tension or thematic depth through opposition.)
+	•	Leitmotif, Motif → Symbolic Refrain (Recurring elements that reinforce theme and emotional resonance.)
+	•	Expectation, Ticking Clock → Narrative Tension (Forces that create suspense and anticipation.)
+	•	Trauma, Livelihood → Wound & Drive (The protagonist’s emotional damage and what they are trying to preserve or gain.)
+	•	Tropes, Zeitgeist → Genre Awareness (Common storytelling patterns and cultural relevance that shape audience expectations.)
+
+	•	Protagonist Character, Antagonist Character, Supporting Characters → Character Web (The network of relationships that define conflict and growth.)
+	•	Man vs. [Conflict] → Primary Conflict Engine (The type of struggle the protagonist faces—e.g., self, society, nature.)
+	•	Non-Verbal Communication, POV, Voice → Expressive POV (Ways characters reveal themselves outside of dialogue.)
+
+	•	Set Piece, Action [Rising/Falling] → Cinematic Payoff (Sequences designed for visual or emotional peak moments.)
+	•	Button, Kicker, Rule of Three → Punchline Structure (Techniques to land a moment effectively, whether comedic, dramatic, or thematic.)
+	•	Tension, Tightening Screw → Escalation Mechanics (How pressure builds and forces change in a scene.)
+	•	Reveal, Blow-Up → Reversal Beats (Plot twists or revelations that shift the audience’s understanding.)
+	•	Climax, All Is Lost → Emotional Apex (The moment of greatest tension and release.)
+	•	Resolution → Denouement (The emotional wrap-up that reaffirms theme.)
+
+	•	Ambience, Atmosphere, Background, Wild Sound → Environmental Texture (Elements that enrich setting and tone.)
+	•	Mise-en-Scène, Wardrobe, World Building → Visual Language (How the visual composition and design reinforce narrative and theme.)
+	•	Needle Drop, VFX → Stylized Sensory Impact (Bold, attention-grabbing aesthetic choices in sound and visuals.)”
+
+(Special Instruction: the our current format for respective items, but format the hierarchical elements of our list like I did in my example [but use as many categories/sub-categories as is necessary to accomplish your task as completely as possible.)
+--------------------------------------
+ChatGPT:
+
+
+Got it! Here's the revised list, incorporating the synthesized categories while maintaining the priority levels:
+
+Top Priority (Core Writing Tools)
+
+CHARACTER_WEB
+
+protagonist_character()
+
+antagonist_character()
+
+PRIMARY_CONFLICT_ENGINE
+
+man_vs_conflict
+
+THEMATIC_CORE
+
+premise()
+
+character_change()
+
+NARRATIVE_TENSION
+
+expectation()
+
+ticking_clock()
+
+DRAMATIC_TURNING_POINTS
+
+dramatic_irony()
+
+turning_point()
+
+dramatic_reversal()
+
+FINAL_TEST
+
+final_choice()
+
+resolution()
+
+High Priority (Essential Story Mechanics)
+
+EMOTIONAL_APEX
+
+climax()
+
+ESCALATION_MECHANICS
+
+tension()
+
+tightening_screw()
+
+WOUND_&_DRIVE
+
+trauma()
+
+livelihood()
+
+THEMATIC_RESOLUTION
+
+thematic_closure() (approximated by reveal())
+
+REVERSAL_BEATS
+
+reveal()
+
+blow-up()
+
+DENOUEMENT
+
+resolution() (reinforced here for thematic closure)
+
+Medium Priority (Narrative Techniques & Tools)
+
+CONTRAST_MECHANICS
+
+dramatic_irony() (linked again here for its dual function)
+
+juxtaposition()
+
+SYMBOLIC_REFRAIN
+
+leitmotif()
+
+motif()
+
+GENRE_AWARENESS
+
+tropes()
+
+zeitgeist()
+
+SUBPLOTS
+
+storyline_a()
+
+storyline_c()
+
+EXPRESSIVE_POV
+
+non-verbal_communication()
+
+pov()
+
+voice()
+
+CINEMATIC_PAYOFF
+
+set_piece()
+
+action_rising
+
+action_falling
+
+PUNCHLINE_STRUCTURE
+
+rule_of_three()
+
+kicker()
+
+button()
+
+Lower Priority (Supporting Concepts & Terms)
+
+SUPPORTING_CHARACTERS
+
+supporting_characters()
+
+ENVIRONMENTAL_TEXTURE
+
+AUDITORY
+
+ambience()
+
+wild_sound()
+
+VISUAL
+
+atmosphere()
+
+background()
+
+VISUAL_LANGUAGE
+
+mise_en_scene()
+
+wardrobe()
+
+world_building()
+
+STYLIZED_SENSORY_IMPACT
+
+needle_drop()
+
+vfx()
+
+VERISIMILITUDE (Rooted in theme and emotional realism.)
+
+verisimilitude()
+
+This structure keeps everything in its appropriate priority level while ensuring that each concept is meaningfully grouped. Let me know if you’d like any refinements!
+--------------------------------------

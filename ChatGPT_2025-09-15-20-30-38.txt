@@ -1,0 +1,228 @@
+--------------------------------------
+User:
+
+
+I need the following text to be thoroughly analyzed to understand what it is teaching; after it’s overall purpose is comprehended, I need the theory presented to be broken into smaller aspects of theory that act as clear, helpful (one-to-three-word) categories to place the granular details presented within the information; then I need you to distill the theory into (one-to-five-word) terms/phrases with very-short descriptions of what the term/phrase means and how it fits into a screenplay. The end result should be presented as a categorized, comprehensive bullet-point list of items that lead the reader through the information at roughly an eighth-grade reading level. Your response should be rendered as plain-text (without any formatting symbols associated with Markdown or any markup-language like “**” or “##”, for example) within code-fences.
+
+The whole text is too long, so I’ll present it one-half at a time. Here’s the first half of text:
+
+# Structure and Character - Craig Mazin's "whole theory on how to write a movie"
+
+## structure:
+
+So when we talk about writing a script a lot of times we’re talking about structure. There are, I don’t know, four million books about structure. I went online and I looked for just images based on screenplay structure and what I saw was kind of mind-blowing. There are these long narrow lines with little ticks on them and then there’s a pie chart. And then there’s a swirly thing that kind of looks like a snail shell. There’s a triangle. There’s a diamond. I think there’s a parallelogram. And if there’s not a trapezoid maybe one of you can get on that.
+
+All of this is designed to help you learn how to structure a screenplay. Here’s the problem. All of it is done from the wrong end. All of it. It’s all done from the point of view of analysis. They look at things, they take them apart, and then they say, look, all these pieces fit into this swirly shape, or this diamond. The issue is that’s not going to help you actually write anything because when you write you’re starting from scratch. You’re not breaking something apart. You’re building something out of nothing. And when you’re building something out of nothing you need a different set of instructions.
+
+I can think of a doctor who takes bodies apart. That’s a medical examiner or a coroner. That’s not the doctor you want to go to make a baby for instance. It’s just a very different thing, right? So we’re going to come at it from the point of view of making babies and your baby is your script. Don’t worry, we’re going to keep this safe for work.
+
+So, structure. You need to know how to do your structure. Structure I’m here to tell you is a total trap. Yes, screenplay is structure, but structure isn’t what you think it is. Structure doesn’t say this happens on this page, this happens on that page. Here’s a pinch point. Here’s a stretchy point. Here’s a midpoint. Structure doesn’t tell you what to do. If you follow strict structural guidelines in all likelihood you will write a very well structured bad script.
+
+### structure is a symptom
+
+Structure isn’t the dog. It’s the tail. Structure is a symptom. It’s a symptom of a character’s relationship with a central dramatic argument. Take a moment. Think about that for a second. I’ll repeat it. Structure is a symptom of a character’s relationship with a central dramatic argument. Structure isn’t something you write well. It’s something that happens because you wrote well. Structure is not a tool, it is a symptom.
+
+When we think of rigid structural forms I have to tell you there’s nothing honest about them. There’s nothing true about them. They’re synthetic. There’s never been one single great writer who created one single great screenplay following a structural template. Not one.
+
+## character:
+
+What real writers follow are their characters. And what great writers follow are their characters as they evolve around a central dramatic argument that is actually meaningful to other human beings. Let me stop for a second and tell you that we are going to get into real practicals but for a bit now we’re just going to talk a little bit of philosophy. First, let’s consider what we call basic structure. There’s a Syd Field point of view. You have your three acts, your inciting incident, act break escalation, magical midpoint character shift, third act low point, and kick off to climactic action.
+
+We also have the Chris Vogler Hero’s Journey, ordinary world, call to action, refusal of call, acceptance of call, and blah, blah, blah. Save the Cat is a lot of stuff.
+
+### where's the "why"?
+
+There’s a lot of what to do but where’s the why? Who came up with this stuff in the first place? Why is it there? Why are there three acts at all? Why is there a low point? Why do we like it when there’s an inciting incident? Why do we like it when there’s a low point? If we don’t know why those things are there how are we supposed to know how to write them? Because we process the world through our consciousness and our consciousness is sort of a natural storyteller, all of us are actually walking around doing this right all the time. We just don’t know it. We’re narrativizing our own lives better than most who try and do it on purpose on Fade In or WriterDuet, or Highland2. I don’t know any other software.
+
+Right now you’re sitting there, you’re riding along in your car, you’re being passive. You are accepting this structure talk, wondering when I’m going to get to the practicals. And I will. But later if someone asks you about this experience you’re having you will naturally, without thinking, create a story. You won’t have to consult a graph or a chart or a swirly thing. You’ll just tell the story.
+
+### create a story
+
+Here’s a story. I listened to a podcast. It was on the following topics. Reasonable people could agree or disagree. Anyway, I’m the same. That’s not a very good story, is it?
+
+Here’s another story. I was listening to a podcast and it was OK, it was sort of a little boring, but then the person said this one thing and it reminded me of something else I’d heard once and that tied back to this moment in my life where something really interesting happened. And now I’m wondering maybe if I was wrong about that thing and I should be doing it this way instead. Huh. There you go. And that story has character, meaning you. That story is about you and maybe it’s about me. It’s about a relationship that we’re having right now through this podcast, for better or worse.
+
+### story structure
+
+And if you were to relay this story, this experience, you might share some parts of this that you thought were interesting or some parts that you thought were stupid, but you will naturally contextualize it as such. This moment in time did or did not help you in your desire to change. We live our lives this way, but when we sit down to write we somehow forget. You know who never forgets? Actors. They have to get it because they are the characters and we are experiencing them as the characters.
+
+So there’s that old cliché line: what’s my motivation? Well it’s not a joke. Believe it or not that is the key to structure. What is the purpose of all this storytelling that we engage in, all this narration? Well, narration helps us move through a changing world. And story is about a change of state. There are three basic ways your story changes. And this applies I think to every possible story.
+
+The first way is internal. This is what is going on inside the character’s mind. This is the things they’re thinking, they’re feeling, their emotions. And this axis goes all over the place. It zigzags up and down. Then there’s interpersonal. That’s the main relationship of your story. It has a start, it has an end. It usually begins in a kind of neutral way. Then depending on how your story unfolds it can dip and then rise and then plummet and then spike. And finally you have the external axis. That’s the narrative, the plot, the things that are going on around you. And that generally is just a straight line. Start to end.
+
+All of this is made up of scenes. And within scenes we’re doing something that follows the Hegelian dialectic. Calm down. You don’t need to look it up. I’ll help you out. The Hegelian Dialectic basically is a way of thinking about how we formulate ideas and thoughts and arguments. You take a thesis. That’s a statement. Something is true. And then you apply to that an antithesis. No, that’s not true and here’s why. Those things collide and in theory what results from that is a new thesis called the synthesis. And that starts the whole process over again. That synthesis becomes a thesis. There’s an antithesis. A new synthesis. That becomes a thesis. Constant changing. Every scene begins with a truth, something happens inside of that scene. There is a new truth at the end and you begin, and you begin, and you begin.
+
+And who is the person firing these antitheses at these theses? You.
+
+So, as we go through this talk never forget this one simple fact. At any given moment as you begin a scene you have a situation that is involving those three axes and you are going to fire something at at least one of them to make something new. That is all story is. But what is the glue that holds all those changes together? What’s the glue that you the creator can use to come up with your antitheses and get your new syntheses and do it over and over again?
+
+## theme
+
+And that brings us to theme. Theme is otherwise known as unity. Unity is a term that was first used by Aristotle in Poetics and this is one you actually should read. I know you’re like, Aristotle? Hegel? Hegelian guy. Calm down. It’s fine. In fact, Aristotle was really a contemporary writer in his own way. Poetics is an easy read. It will take you about 30 minutes. It’s a pretty good bathroom book. And in it you’ll find a lot of things that we hear today, like for instance the worst kind of plot is an episodic plot. Well, that’s pretty much true.
+
+What did he think of unity or theme? Well basically theme is your central dramatic argument. Some of those arguments are interesting. Some of them are a little cliché. And the quality of the argument itself isn’t necessarily related to the quality of the script. For instance, you can have a really good screenplay built around you can’t judge a book by its cover. That’s OK. The theme itself doesn’t have to be mind-altering or, I don’t know, revolutionary. It’s your execution around it that’s going to be interesting.
+
+But the important thing is that the argument has to be an argument. I think sometimes people misunderstand the use of theme in this context and they think a theme for a screenplay could be brotherhood. Well, no. Because there’s nothing to argue about there. There’s no way to answer that question one way or the other. It’s just a vague concept.
+
+But, man and women can’t just be friends, well, that’s an argument. Better to be dead than a slave. Life is beautiful, even in the midst of horrors. If you believe you are great, you will be great. If you love someone set them free. Those are arguments.
+
+Screenplays without arguments feel empty and pointless. You will probably get some version of the following note. What is this about? I mean, I know what it’s about, but what is it about? Why should this movie exist? What is the point of all this?
+
+Now, it’s really important to note you probably don’t want to start with an argument. That’s a weird way to begin a script. Usually we think of an idea. And that’s fine. But when you think of the idea the very next question you should ask is what central dramatic argument would fit really well with this? And ideally you’re going to think ironically. For instance, let’s talk about this idea. A fish has to find another fish who is somewhere in the ocean. Got it. The animators will love it. Water. Fish. Cool.
+
+OK, let’s think of a central dramatic argument. How about if you try hard enough you can do anything, even find a fish? That’s a bit boring, isn’t it? How about sometimes the things we’re searching for are the things that we need to be free from? Well, OK. That’s an interesting argument. I’m not sure how it necessarily is served or is being served by this idea of a fish in the ocean. How about you can’t find happiness out there, you have to find it within yourself? That could work. That’s sort of Wizard of Oz-ish.
+
+But let’s go really ironically. How about this one? No matter how much you want to hold onto the person you love, sometimes you have to set them free. Well, that is pretty cliché but it is a great central dramatic argument to pair with a fish needs to find another fish. Because when you’re looking for somebody out there in the deep, deep ocean you the writer know that what you’re promising is they’re going to find them and then have to let them go anyway. And that is starting to get good.
+
+### practicals
+
+All right. Let’s get into some practicals, shall we? Because this is thematic structure. This is going to help you write your script. In thematic structure the purpose of the story – and listen carefully now – the purpose of the story is to take a character from ignorance of the truth of the theme to embodiment of the theme through action. I shall repeat. The purpose of the story is to take your main character, your protagonist, from a place of ignorance of the truth or the true side of the argument you’re making and take them all the way to the point where they become the very embodiment of that argument and they do it through action.
+
+So, let’s talk about how we introduce. We begin in the beginning with the introduction of a protagonist in an ordinary world. You’ve probably heard this a thousand times. But why? Sometimes movies don’t start ordinarily. You probably saw Mad Max: Fury Road. If you didn’t, do so. Well, there’s no ordinary beginning there. I mean, it’s crazy from the jump. Ordinary doesn’t mean mundane. Although sometimes it can.
+
+### ordinary
+
+What ordinary means here is that the protagonist’s life essentially exemplifies their ignorance of the theme, of the argument that you want them to believe eventually. In fact, they believe the opposite of that argument. That’s how they begin. Typically in the beginning of a story your main character believes in the opposite of the theme and they have also achieved some kind of stasis. There’s a balance in their life. In fact, their ignorance of that theme has probably gotten them to this nice place of stasis and balance. It doesn’t mean they’re happy. What it means is that without the divine nudge of the writer-god their life could go on like this forever. It’s not a perfect life. It’s not the best life they could live but it’s the life they’ve settled for. Their stasis is acceptable imperfection.
+
+If we’re going to circle back around to my favorite fish movie, Marlin can live with a resentful son as long as he knows his son is safe. That’s acceptable imperfection. I get it. Nemo resents me. He’s angry at me. He feels stifled by me. That’s OK. He’s alive. I can keep going this way.
+
+### inciting incident
+
+And then along comes you, the writer. Your job is to disrupt that stasis. So you invent some sort of incident. Ah-ha. Now we know the point of the inciting incident. The point of the inciting incident is not to go, “Oh god, a meteor!” The point of the inciting incident is to specifically disrupt a character’s stasis. It makes the continuation of balance and stasis and acceptable imperfection impossible. It destroys it. And it forces a choice on the character.
+
+OK, but why? I’m just going to keep asking that question. But why? But why? But why? Why do you have to do this to this poor character? Because you are the parent and you have a lesson to teach this person, or animal, or fish. Your motivation is part of your relationship to your character. You don’t write an inciting incident. You don’t write push character out of safety. That gives you no real guidance to let something blossom. What you write is an ironic disruption of stasis. Ironic as in a situation that includes contradictions or sharp contrasts that is, and hear me out, genetically engineered to break your character’s soul.
+
+You’re going to destroy them. You are god. And you are designing a moment that will begin a transformation for this specific character so you have to make it intentional. It can be an explosion, or it can be the tiniest little change. But it’s not something that would disrupt everyone’s life the way it’s disrupting this person’s life. You have tailored it perfectly and terribly for them.
+
+### first thing your character wants to do
+
+So, what’s the first thing your character wants to do when this happens to them? Well, it they’re like you or me they’re going to immediately try and just get back to what they had. They have to leave their stasis behind because you’ve destroyed it, but everything they’re going to do following that is done in service of just trying to get it back. Shrek doesn’t have his swamp, so he has to go on a journey so he can get his swamp back. The point here is that the hero has absolutely no idea that there is a central dramatic argument. They’ve made up their mind about something and their mind has not changed.
+
+### fear and empathy
+
+Your heroes should be on some level cowards. I don’t mean coward like shaking in your boots. I mean coward like I don’t want to change. I’m happy with the way things are. Please just let me be. And underlining that is fear. And fear, especially in your character, is the heart of empathy. I feel for characters when I fear with them. It is vulnerability. It’s what makes me connect. Every protagonist fears something.
+
+Imagine a man who fears no other man. He doesn’t fear death. He doesn’t fear pain. But, ah-ha, fill in that blank. But the point is it has to be filled in. You can feel it, right? Like he’s going to have to fear something. Because fear is our connection to a character. And a fearful hero should have lived their lives to avoid the thing they’re afraid of.
+
+You, are taking their safety blanket away. So I want you to write your fearful hero honestly. What do they want? They want to return to what they had. They want to go backwards. And believe it or not that is the gift that is going to drive you through the second act. The second act.
+
+Oh, the thing that’s so scary. No. No, you should be excited about it. Let me take a break for a second and say that everything I’m talking about here is mostly to serve the writing of what I would call a traditional Hollywood movie. That doesn’t mean. It doesn’t mean cliché. It doesn’t even mean formulaic. It just means it’s a traditional narrative. So, I don’t know, if you’re looking to be a little more Lars von Trier about things, well, I don’t know how interesting or helpful this is going to be. But I’m presuming that most of you just want to write a general kind of movie that conforms to a general kind of movie shape.
+
+### antitheme to theme
+
+So this is how we’re going to help you do it. And the second act is the part that I think freaks people out the most. They get scared. But I think you should be excited about pages 30 to 90 roughly. Please do not quote me on those numbers. But first, are you getting it? Have you stopped thinking about plot? Have you stopped thinking about plot as something to jam characters into? Because when you do that that’s why you run out of road in your second act. You ran out of plot because it wasn’t being generated by anything except you.
+
+Ah-ha. But when you start thinking of your plot as not something that happens to your characters but what you are doing to your characters that’s when you can lead them from anti-theme to theme. How do we do it?
+
+First, we reinforce the anti-theme. That might sound a little counterintuitive but hear me out. You’ve knocked your hero out of their acceptable stasis. They are now on the way to do whatever they need to do to get back to it. The hero is going to experience new things. And I want you to think about making those new things reinforce her belief in an anti-theme. Because this is going to make them want to get back to the beginning even more. Oh, it’s delicious. We’re creating a torture chamber basically. Keep thinking that way.
+
+Imagine your hero is moving backwards against you and you push them forward and they push back. Ah-ha. Good. Design moments to do this. You’re going to keep forcing them forward, but you’re also going to put things in their path that make them want to go backwards. That’s tension. That’s exciting. And more importantly when they do get past those things it will be meaningful. You want to write your world to oppose your character’s desires.
+
+So, you’re going to reinforce their need to get back. Ah-ha. So, let’s see, Marlin wanders out into the ocean. His theory is the ocean is really, really dangerous. What should the first thing be? Maybe let’s have him meet some sharks. And actually, oh, you know what, they’re not scary at all. Oh god, yes they are. The ocean is in fact way worse than he even imagined. That’s what you need to do. He needs to get his son back really, really soon so he can return to stasis. And then when you’ve done that you’re going to introduce an element of doubt.
+--------------------------------------
+ChatGPT:
+
+
+Got it! I’ll analyze the first half of the text, break down the theory into clear categories, and present the information as a structured, easy-to-understand list. Here’s the plain-text output:
+
+sql
+Copy code
+Craig Mazin’s Theory on Writing a Movie
+
+STRUCTURE
+- Structure is a symptom: Structure emerges naturally from well-written character relationships and dramatic conflict, not from rigid templates.
+- Analysis vs. creation: Structural templates analyze existing films but don’t help create new ones. Writers must focus on building, not dissecting.
+- Structure is not a tool: Trying to follow strict structural rules results in well-structured bad scripts.
+
+CHARACTER
+- Follow characters, not structure: Good writers follow their characters as they change through a central dramatic argument.
+- Natural storytelling: Humans naturally create stories in daily life without charts or formulas.
+- Story is about change: Stories track a character’s internal, interpersonal, and external changes.
+
+STORY STRUCTURE
+- Three axes of change:
+  - Internal: Character’s thoughts, feelings, and emotions.
+  - Interpersonal: Relationships that shift throughout the story.
+  - External: Plot events, typically a straight progression from start to end.
+- Scenes drive change: Every scene starts with a belief, introduces a challenge, and ends with a new belief.
+- Hegelian dialectic: Scenes follow a pattern—thesis (belief), antithesis (challenge), synthesis (new belief).
+
+THEME
+- Theme = Central dramatic argument: The story must argue a point, not just explore a topic.
+- Not just a concept: “Brotherhood” is vague, but “Brothers will always betray each other” is an argument.
+- Argument choice matters: The argument doesn’t need to be revolutionary, but it must be clear and drive the story.
+
+THEMATIC STRUCTURE
+- Character ignorance to embodiment: The protagonist begins unaware of the theme’s truth and ends embodying it through action.
+- Irony in theme choice: The best themes contrast with the story’s concept (e.g., Finding Nemo argues that love means letting go).
+
+INTRODUCING THE PROTAGONIST
+- Ordinary world: The protagonist starts in a stable but imperfect life, unaware of the theme’s truth.
+- Inciting incident: A specific, ironic disruption that forces change.
+- Character resists change: At first, the hero only wants to restore their old life.
+
+FEAR AND EMPATHY
+- Fear defines characters: Every protagonist fears something, which makes them relatable.
+- Safe life avoidance: Characters have shaped their lives to avoid their fears.
+- Writer’s role: The writer’s job is to remove the safety blanket and force change.
+
+SECOND ACT: TRANSFORMATION
+- Anti-theme to theme: The protagonist starts believing the opposite of the theme.
+- Reinforce the anti-theme: Early events should confirm the hero’s incorrect belief.
+- Oppose character’s desires: The story’s world should challenge the hero’s attempts to stay the same.
+- Introduce doubt: Over time, small moments should make the hero question their beliefs.
+
+End of first half.
+
+
+Let me know if you’d like any refinements before we move to the second half!
+--------------------------------------
+User:
+
+
+I need it to be a bit more concise. Make it easy to read and comprehend quickly at-a-glance.
+--------------------------------------
+ChatGPT:
+
+
+markdown
+Copy code
+Craig Mazin’s Theory on Writing a Movie
+
+STRUCTURE  
+- Structure is a symptom: It naturally emerges from character and conflict, not templates.  
+- Analysis vs. creation: Templates analyze films but don’t help create them.  
+- Structure isn’t a tool: Following strict structure results in lifeless scripts.  
+
+CHARACTER  
+- Follow characters: Great stories follow characters, not formulas.  
+- Story is change: Every story tracks internal (mind), interpersonal (relationships), and external (plot) change.  
+- Natural storytelling: People instinctively create stories without charts.  
+
+STORY STRUCTURE  
+- Three types of change:  
+  - Internal: Thoughts & emotions shift.  
+  - Interpersonal: Relationships evolve.  
+  - External: Plot moves forward.  
+- Scenes create change: Each scene challenges a belief, forcing growth.  
+- Hegelian dialectic: Stories progress through conflict and resolution.  
+
+THEME  
+- Theme = Argument: A story must argue a point, not just explore a topic.  
+- Clear argument: “Brotherhood” is vague, but “Brothers always betray each other” is a theme.  
+- Irony works best: A strong theme contrasts with the story’s concept (e.g., Finding Nemo argues love means letting go).  
+
+CHARACTER JOURNEY  
+- Start: Protagonist believes the opposite of the theme and lives in stable imperfection.  
+- Inciting incident: An ironic disruption forces change.  
+- Fear & resistance: The hero clings to old beliefs, avoiding what they fear most.  
+- Transformation (Act 2):  
+  - Reinforce anti-theme: Early events confirm the hero’s false belief.  
+  - Oppose character’s desires: The world challenges their attempts to stay the same.  
+  - Introduce doubt: Small moments make them question their beliefs.  
+
+End of first half.  
+
+
+This version keeps it clear, concise, and easy to scan. Let me know if you need further refinements before moving on!
+--------------------------------------
