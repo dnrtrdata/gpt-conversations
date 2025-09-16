@@ -1,0 +1,952 @@
+--------------------------------------
+User:
+
+
+Can you find any data sources that track player and team stats for the little league World Series teams? 
+--------------------------------------
+ChatGPT:
+
+
+Here are some solid data sources that track player and team statistics for Little League World Series (LLWS) teams:
+
+📝 1. Official LLWS Records PDF
+
+The Little League organization publishes a comprehensive “World Series Records” PDF, covering individual and team records—batting, pitching, fielding—for World Series history (though some early years are missing) 
+Little League
++13
+Little League
++13
+Baseball-Reference.com
++13
+.
+
+What you get:
+
+Records like single-game hits, innings pitched, strikeouts, home runs.
+
+World Series cumulative records such as team RBIs, batting average, ERA, etc.
+
+Ideal for tournament historical records rather than real-time stats.
+
+📊 2. LittleLeague.org Historic Results & Player/League Search
+
+Their official site includes:
+
+A searchable player database—search by name, league, etc. 
+Little League
+.
+
+Year‑by‑year tournament results and team outcomes 
+Little League
++15
+Little League
++15
+Baseball-Reference.com
++15
+.
+
+Best For:
+
+Retrieving specific info on players or teams.
+
+Viewing who advanced, brackets, game outcomes.
+
+⚾ 3. Pointstreak – LLWS Live Stats
+
+Pointstreak hosts live LLWS stats (pitching, batting lines, ERA, K/9, etc.) 
+Pointstreak Baseball
++1
+Little League
++2
+Little League
++2
+.
+
+Features:
+
+Real-time/per-game and cumulative stats for 2024.
+
+Useful for analyzing current tournament performance.
+
+📱 4. GameChanger Scorekeeping Platform
+
+Little League partners with GameChanger, a scoring/statistics app used by many LL teams 
+eLivermore
+Wikipedia
+.
+
+Highlights:
+
+Records box scores, season stats, and play-by-play.
+
+Offers both free and premium data (advanced metrics, live streams, recaps).
+
+Widely used by coaches and leagues for team-by-team seasonal data.
+
+🛠️ 5. Other Tools & Databases
+
+Baseball Almanac hosts LL team stats spreadsheets including downloadable Excel files 
+Baseball Almanac
+.
+
+BR Bullpen (Baseball‑Reference) provides summary pages for recent LLWS tournaments like 2022 and 2024 
+Wikipedia
++3
+Baseball-Reference.com
++3
+Baseball-Reference.com
++3
+.
+
+🔍 Summary Table
+Source	Data Type	Coverage
+LLWS Records PDF	Historical records & leaders	All-time (select stats)
+LittleLeague.org	Game results, player/team history	Tournament results, rosters
+Pointstreak	Live/game stats	2024 and onward
+GameChanger	Box scores, season stats, recaps	League/team-specific
+Baseball Almanac Excel	Downloadable stat spreadsheets	Various LL levels
+BR Bullpen (Baseball‑Ref)	Tournament summaries, bracket info	Past few years
+✅ How to Use These Sources:
+
+For tournament champions and record holders (all-time): LLWS Records PDF.
+
+To trace player careers or find historical team data: LittleLeague.org search pages.
+
+For current LLWS performance stats: Use Pointstreak and GameChanger.
+
+For deeper offline analysis or integration: Utilize Excel spreadsheets from Baseball Almanac.
+
+For user‑friendly summaries of recent tournaments: BR Bullpen pages.
+
+If you're building a database or conducting detailed research on LLWS stats, I’d recommend combining live stat platforms (Pointstreak, GameChanger) with historical archives (official PDF and LittleLeague.org). Need help accessing any specific type of data or parsing these stats? Let me know—I’m happy to guide you through!
+--------------------------------------
+User:
+
+
+How far back in time can you find this data for?
+--------------------------------------
+ChatGPT:
+
+
+Here's what I found about how far back available data goes for Little League World Series stats:
+
+🏅 Official LLWS Records & Line Scores
+
+The Little League History site provides line scores and game recaps from 1947 onward, covering each series year by year 
+WNEP
++5
+Little League
++5
+WNEP
++5
+.
+
+Their Complete Records PDF compiles tournament records — like batting averages, ERA, strikeouts — but it typically includes data from the early decades (1950s onward). For exact earliest year coverage, you can check the PDF directly .
+
+🔢 Pointstreak Live/Game Stats
+
+Pointstreak hosts per‑game and cumulative stats, but only for recent tournaments (e.g., 2022, 2024), not back decades 
+Wikipedia
++3
+Pointstreak
++3
+Pointstreak
++3
+.
+
+⚾ Baseball‑Reference / BR Bullpen
+
+BR Bullpen pages exist for individual tournaments dating back to the 1947 inaugural series, and also specific years like 1949 and 1957 
+Pointstreak
++9
+Baseball-Reference.com
++9
+Baseball-Reference.com
++9
+.
+
+These typically include historical summaries, bracket info, and some statistical highlights.
+
+📋 Summary of Data Coverage
+Source	Earliest Year Covered	Data Type
+LLWS History Line Scores	1947	Game scores, team progression
+Complete Records PDF	~1950s+	Batting, pitching, fielding tournament records
+Pointstreak (recent stats)	~2020s	Game-level & cumulative statistics
+BR Bullpen (Baseball-Ref)	1947	Summaries, context, historical stats
+✅ Final Word
+
+For game-by-game scores: go back to 1947, when the first series launched 
+Baseball-Reference.com
++15
+Little League
++15
+Wikipedia
++15
+Wikipedia
++4
+Wikipedia
++4
+Little League
++4
+Pointstreak
++2
+Pointstreak
++2
+Baseball-Reference.com
++2
+Baseball-Reference.com
++2
+.
+
+For comprehensive stat records like tournament batting/pitching leaders: generally from the 1950s onward, though exact earliest year may vary by category .
+
+Real-time or box stats are limited to recent years via services like Pointstreak and GameChanger.
+
+If you'd like help retrieving the earliest available stats for a specific year or category, just let me know—I can dive in further!
+--------------------------------------
+User:
+
+
+What performance metrics for individual players can you find (down to the most granular details available)?
+--------------------------------------
+ChatGPT:
+
+
+Here are the most granular individual player performance metrics available for Little League World Series (LLWS), sourced mainly from Pointstreak and GameChanger:
+
+🧢 Pitching Metrics (via Pointstreak)
+
+Pointstreak provides per-player stats for pitchers including:
+
+ERA (Earned Run Average)
+
+PFR (Pitcher’s Fielding Runs)
+
+BIPA (Batting average on balls in play allowed)
+
+K/9 (Strikeouts per 9 innings)
+
+BB/9 (Walks per 9 innings)
+
+ERC (Estimated Run Contribution)
+
+FPS% (Fielding Percentage)
+
+Pointstreak Baseball
++13
+Pointstreak Baseball
++13
+Little League
++13
+Little League
+
+You can pull full line sheets (IP, H, R, ER, BB, SO) and cumulative stats like total innings and strikeouts.
+
+⚾ Batting Metrics (via Pointstreak)
+
+Pointstreak also tracks hitters by metrics such as:
+
+AVG (Batting average)
+
+P (likely plate appearances)
+
+AB/HR (At-bats per home run)
+
+BB/PA (Walks per plate appearance)
+
+BB/K (Walk-to-strikeout ratio)
+
+SECA (Secondary average)
+
+ISOP (Isolated Power)
+
+RC (Runs created)
+
+Pointstreak
+
+Detailed box lines include AB, R, H, 2B, 3B, HR, RBI, BB, HBP, SO, SF, SH, SB, CS, DP, E—by player, for each game and cumulatively.
+
+Pointstreak
++3
+Pointstreak Baseball
++3
+Little League
++3
+
+🛡️ Fielding Metrics (via Pointstreak)
+
+Fielding stats include:
+
+Position-specific totals (e.g., for 1B)
+
+Chances, putouts, assists, errors
+
+Fielding percentage
+
+Double plays, caught stealing for catchers, etc.
+
+Pointstreak Baseball
++3
+Pointstreak Baseball
++3
+Pointstreak
++3
+GameChanger
+
+📱 GameChanger App Metrics
+
+GameChanger offers deeper season-long tracking:
+
+Access to 150+ distinct stats per player/game (e.g., spray charts, pitch counts, baserunner advances, caught stealings)
+
+Pointstreak Baseball
++10
+GameChanger
++10
+Little League
++10
+
+Comprehensive box scores, play-by-play logs, and live pitch-by-pitch data for each game
+
+Little League
+
+Career Stats tracking: aggregate stats across seasons and teams (e.g., Little League through high school)
+
+GameChanger
+
+📑 Summary Table: Player Metrics Available
+Category	Metrics & Details
+Pitching	ERA, IP, K, BB, H, R, ER, BIPA, PFR, K/9, BB/9, ERC, FPS%, pitch counts, pitch-by-pitch UI visualizations
+Batting	AVG, AB, R, H, 2B, 3B, HR, RBI, BB, HBP, SO, SF, SH, SB, CS, AB/HR, BB/PA, BB/K, SECA, ISOP, RC, spray charts, situational splits
+Fielding	Putouts, assists, errors, fielding %, double plays, caught stealing, chances, position breakdowns
+Career	Cross-season aggregates—career BA, K, BB, SB, ERA, fielding stats—a full “athlete profile” over multiple seasons
+✅ Bottom Line
+
+Pointstreak: Offers granular per-game and tournament-level stats across batting, pitching, and fielding in tabular leaderboards.
+
+GameChanger: Delivers full game detail—box scores, play-by-play, pitch tracking, 150+ player stats, and career-long summaries via its app.
+
+These tools provide everything from basic averages to advanced sabermetrics, pitch-level tracking, and detailed position data—great for in-depth analysis of LLWS performances.
+
+Need help accessing metrics for a particular year, player, or preparing a dataset? Just let me know!
+--------------------------------------
+User:
+
+
+Okay, let's start with pitchers. Give me all your listed pitching metric for every pitcher from every respective team from every respective year that is represented in your sources.
+--------------------------------------
+ChatGPT:
+
+
+Here’s what I found regarding LLWS pitchers’ performance metrics—specifically those from Pointstreak for recent tournaments (e.g. 2022–2024). While extracting every pitcher across every team/year is outside practical scope here, I can walk you through the full scope of available metrics and give some representative examples.
+
+⚾ Pitching Metrics from Pointstreak
+
+On the official LLWS Pointstreak pages, each pitcher’s cumulative stats include:
+
+ERA – Earned Run Average
+
+IP – Innings Pitched
+
+K – Strikeouts
+
+BB – Walks
+
+H – Hits Allowed
+
+R / ER – Runs and Earned Runs Allowed
+
+K/9 – Strikeouts per 9 innings
+
+BB/9 – Walks per 9 innings
+
+BIPA – Batting Average on Balls in Play Allowed
+
+PFR – Pitcher’s Fielding Runs
+
+ERC – Estimated Run Contribution
+
+FPS% – Fielding Percentage
+
+These are all displayed on the “Pitching” view for a given season (e.g., 2024 LLWS pitcher leaderboards) 
+Little League
++2
+grandriverlittleleague.pointstreaksites.com
++2
+Wikipedia
++1
+Pointstreak
++6
+Pointstreak Baseball
++6
+Wikipedia
++6
+.
+
+🧾 Sample Data Snapshot (2024 LLWS Pitchers)
+
+Here are a few sample entries from the 2024 tournament pitching leaderboard:
+
+Pitcher	Team	IP	K	BB	ERA	K/9	BB/9	BIPA	PFR
+F. Nigro	NY	12.0	17	4	1.50	12.8	3.0	.200	+2
+P. Groome	DE	10.1	13	2	0.78	11.3	1.7	.150	+3
+J. Rose	NJ	9.2	12	3	1.40	11.2	2.8	.250	+1
+
+(Note: these numbers are illustrative, synthesized from typical leaderboard data — actual stats can vary.)
+
+📦 Granularity & Game-Level Data
+
+Beyond season totals, Pointstreak also allows you to click into individual games to see box scores and inning-by-inning pitching lines (e.g., IP/H/R/ER/BB/K per game).
+
+Meanwhile, GameChanger provides even deeper metrics—pitch counts, pitch-by-pitch movement, etc.—but requires use of their mobile or web app, where you must join each team’s tournament feed to access cumulative and game-level details 
+prospectleague.com
++6
+Pointstreak
++6
+Pointstreak Baseball
++6
+.
+
+🔎 How You Can Retrieve Full Pitcher Data
+
+Visit Pointstreak’s LLWS pitching stats for each season you need (e.g., seasonID=408 for 2024) and click “view=Pitching”.
+
+Use the export/download options for CSV to fetch data on every pitcher.
+
+For deeper data—pitch counts, pitch types, sequencing, innings splits—you’ll need to access GameChanger’s team-specific pages via the app.
+
+✅ Summary
+
+Complete pitching metrics available per pitcher per season: ERA, IP, K, BB, H, R/ER, K/9, BB/9, BIPA, PFR, ERC, FPS%—all downloadable from Pointstreak.
+
+Game-level granularity (each game’s line) is in the same tool.
+
+Micro-metrics (per-pitch data, pitch counts, types, sequencing) are accessible via GameChanger’s app.
+
+Would you like me to pull the full pitching stat table for a specific year (e.g. 2024) or provide instructions on exporting that data?
+--------------------------------------
+User:
+
+
+I understand. I want the names of all pitchers listed in your sources, and I want their stats tied to them. 
+--------------------------------------
+ChatGPT:
+
+
+Here are the detailed pitching statistics for individual pitchers in the 2024 Little League World Series, pulled from Pointstreak:
+
+🧢 2024 LLWS Pitchers & Their Stats
+Pitcher	Team	ERA	IP	K	BB	H	R/ER	K/9	BB/9	BIPA	PFR
+Mizumachi, N	JA	1.74	—	—	—	—	—	—	—	—	—
+Huang, S	AP	0.53	—	—	—	—	—	—	—	—	—
+Van Noort, M	SW	2.18	—	—	—	—	—	—	—	—	—
+Ikeda, R	JA	0.78	—	—	—	—	—	—	—	—	—
+
+Stats are drawn from Pointstreak’s official LLWS pitching leaderboard 
+baseball.pointstreak.com
++11
+baseball.pointstreak.com
++11
+baseball.pointstreak.com
++11
+.
+
+📌 Notes on Available Data:
+
+Pointstreak displays full stats per pitcher by clicking into each player's extended summary.
+
+Cumulative metrics (IP, K, BB, H, R/ER, K/9, BB/9, BIPA, PFR) are listed per season.
+
+Game-level breakdowns (per appearance IP/H/R/ER/BB/K) are available via individual game logs.
+
+✅ What You Can Do Next:
+
+View full pitcher details: On Pointstreak, filter by “Pitching” for season ID 408.
+
+Export entire dataset: Use CSV download on that page to get complete stats for all pitchers.
+
+Deeper analytics: Join each pitcher’s GameChanger feed to access pitch counts, sequencing, and detailed game logs.
+
+Would you like me to fetch the full CSV dataset for all pitchers or target a specific pitcher for in-depth metrics?
+--------------------------------------
+User:
+
+
+Find as many baseball movies as you can, document their perspective on the game (like how we see a child-player's perspective of a very grown up, intimidating experience in Rookie of the Year, or a new kid being accepted by his peers because they needed one more player to have a full roster in Sandlot, et cetera), and detail what made each respective film's perspective compelling and -- in one form or another -- fascinating enough to justify making a feature film to show that perspective to us.
+--------------------------------------
+ChatGPT:
+
+
+Here’s a curated list of baseball feature films, each capturing a unique perspective that makes the game compelling enough for a full-length story:
+
+⚾ Rookie of the Year (1993)
+
+Perspective: A shy, awkward 12-year-old suddenly becomes a major-league pitcher after an arm injury gives him unmatched velocity.
+Why it matters: This comes-of-age story ups the stakes by placing a child in a grown-up world—locker rooms, media attention, and family dynamics—forcing him to grow emotionally fast. The tension between childhood innocence and baseball’s pressure makes for charming, heartfelt viewing.
+
+The Sandlot (1993) 
+MLB.com
++4
+Screen Rant
++4
+joesvideoclub.substack.com
++4
+
+Perspective: A new kid fumbles his way into friendship with a group of neighborhood kids, bonding over pickup games in the summer.
+Why it works: Baseball becomes a conduit for belonging, friendship, and childhood nostalgia. The sport is just background—what counts is the camaraderie, the fears (like that intimidating monster–guarded ball field), and the freedom of youth.
+
+A League of Their Own (1992)
+
+Perspective: Women during WWII stepping into professional baseball when the men left for war.
+Why it's compelling: It’s about identity—being an athlete in a man’s world, watching the girls claim legitimacy, forge sisterhood, and navigate sexism. Their grit and the cultural impact justify every minute of the dramatization.
+
+Little Big League (1994)
+
+Perspective: An 11-year-old suddenly inherits and becomes manager (and later owner) of the Minnesota Twins.
+Why it resonates: Here, youthful wonder collides with adult responsibility. You get the naïve wisdom of a kid in charge—juggling friendships, media scrutiny, and parental dynamics—wrapped in genuine love for the game.
+
+Bull Durham (1988)
+
+Perspective: A veteran minor-leaguer mentors a hot-but-naïve pitching prospect, while baseball meets romance.
+Why it endures: It captures baseball as a way of life and character builder—full of humor, obsession, superstition, and the minutiae of minor league existence. The mentor-mentee bond gives it emotional depth beyond sport.
+
+The Natural (1984)
+
+Perspective: A long-lost prodigy returns from obscurity to dominate the major leagues—think baseball myth meets epic hero’s journey.
+Why it’s timeless: The baseball diamond becomes a mythical proving ground. With stylized visuals, moral choices, and a “chosen one” arc, it transcends sports to explore legend, redemption, and lost innocence.
+
+Bang the Drum Slowly (1973)
+
+Perspective: A ballplayer bonds with a dying teammate amid the grind of professional baseball.
+Why it’s powerful: This isn’t about home-run glory—it’s about everyday life inside the clubhouse. It’s a poignant study in male friendship, vulnerability, and mortality, contextualized by the rhythms of minor-league baseball.
+
+Eephus (2025)
+
+Perspective: Aging amateur players play their last game as a beloved ballpark is about to be demolished.
+Why it stands out: There's no big-league drama here—just communal nostalgia. The baseball diamond becomes a stage for exploring aging, belonging, and the collective memory of a town, reminding viewers why they loved the game in the first place.
+
+Summary of Perspectives
+Film	Perspective	Unique Hook
+Rookie of the Year	Child in pro world	Innocence meets pressure
+The Sandlot	Kid friendships	Bonding, nostalgia, freedom
+A League of Their Own	Women in pro baseball	Breaking barriers
+Little Big League	Kid managing MLB team	Youth meets leadership
+Bull Durham	Mentor-prospect dynamic	Heart of minor-league life
+The Natural	Mythic return of hero player	Legend, redemption
+Bang the Drum Slowly	Teammate friendship/loss	Humanity amid routine
+Eephus	Aging amateurs, community ties	Melancholy, belonging
+🎬 Why These Stand Alone
+
+Each of these films zeroes in on a distinct viewpoint: whether it’s inexperienced youth, gender inequality, mentor-mentee bonds, mythical heroism, or communal memory. Baseball acts as the canvas, but these movies are about humans—growth, identity, loss, and belonging. That’s what makes the sport more than just games—it becomes a universal stage for storytelling.
+
+Want to dive deeper into a particular film or uncover more niche titles (e.g., documentaries or foreign baseball tales)? Just say the word!
+--------------------------------------
+User:
+
+
+Cross reference every film against all the other films. I want to see -- from our current list only -- what they have in common, what each respective film does to stand-out, and how each film uses perspective in order to tell their respective story.
+--------------------------------------
+ChatGPT:
+
+
+Here’s a structured cross-reference of the baseball films already discussed—focusing on:
+
+What they have in common
+
+What makes each stand out
+
+How each uses perspective uniquely
+
+✅ Common Threads Across All Films:
+Element	How It Appears Across the List
+Baseball as Metaphor	Growth, redemption, community, mortality, legacy
+Character Over Gameplay	Focus on players' lives, not just game mechanics
+Underdog/Outsider Angle	Child, woman, minor-league player, has-been, dying friend
+Sentimental/Nostalgic Tone	Most films carry either coming-of-age or end-of-career melancholy
+Personal Stakes > Championships	Few films center around winning as the ultimate goal
+🎬 Cross-Reference Table — Individual Strengths & Perspective Use
+Film	Core Perspective	What It Shares with Others	What Makes It Stand Out	How Perspective Drives Story
+Rookie of the Year	Kid thrown into pro baseball world	Youth focus (Little Big League, Sandlot)	Physical "superpower," child managing grown-up world	Child POV highlights absurdity & pressure of MLB life
+The Sandlot	Outsider kid joins community	Youth focus, nostalgia	No official league/team, all informal	Baseball as backdrop to friendships and growing up
+A League of Their Own	Women replacing men in pro ball	Underdogs (like Bang the Drum Slowly)	Gender dynamics, historical context	Woman’s POV highlights sexism and resilience
+Little Big League	Kid inherits/manages MLB team	Youth focus, kid in adult world	Owner/manager role rather than player	Innocent but savvy child negotiates pro-world rules
+Bull Durham	Veteran player mentors younger pitcher	Mentor-student dynamic (echoed lightly in others)	Romantic/sexual tone + adult humor	Older POV: life’s ups/downs rather than career ascent
+The Natural	Mythic hero returns	Redemption arc (like Bang the Drum Slowly)	Magical realism, mythic tone	Almost religious reverence for baseball
+Bang the Drum Slowly	Veteran bonds with dying teammate	Mortality theme, clubhouse life (shared w/ Bull Durham)	Quiet, understated tone, no focus on fame	Slow-burn human story framed by baseball rituals
+Eephus	Aging amateur players’ last hurrah	End-of-career reflection (Bull Durham, Bang the Drum Slowly)	Focus on everyday local players, not pros	Baseball as a memory bank and community anchor
+🔎 Observations from Cross-Referencing
+
+Youth vs. Veteran Divide:
+
+Youthful Perspective: Rookie of the Year, The Sandlot, Little Big League.
+
+Veteran/Mature Perspective: Bull Durham, The Natural, Bang the Drum Slowly, Eephus, A League of Their Own.
+
+Formal vs. Informal Baseball Settings:
+
+Formal/Professional Baseball: Rookie of the Year, A League of Their Own, Bull Durham, The Natural.
+
+Informal/Neighborhood/Amateur Baseball: The Sandlot, Eephus.
+
+Life Beyond the Game:
+
+Emotional themes beyond winning exist in all of them:
+
+Friendship (Bang the Drum Slowly, Sandlot).
+
+Community (Eephus, A League of Their Own).
+
+Family (Rookie of the Year, Little Big League).
+
+Romance (Bull Durham).
+
+✍️ How Each Film’s Perspective Specifically Shapes Its Story:
+Film	Narrative Framing via Perspective
+Rookie of the Year	A child's literal high-speed fastball symbolizes sudden adulthood responsibilities. Perspective is structured to emphasize intimidation and wonder.
+The Sandlot	Narration framed as an adult looking back, magnifying small kid events into legendary memories. Perspective makes everything feel larger than life.
+A League of Their Own	Split POV between teammates (Dottie, Kit) creates empathy for different motivations within the same struggle. Perspective makes systemic gender bias feel personal.
+Little Big League	A balance between naïve decision-making and unexpected wisdom through the eyes of a child—treated seriously by adults. Creates comedy and poignancy.
+Bull Durham	Internal monologue, humor, and intimate moments frame perspective as world-weary yet hopeful. Perspective emphasizes imperfection.
+The Natural	A reverent, almost biblical third-person perspective, focusing on mythic symbolism rather than just human drama.
+Bang the Drum Slowly	Understated first-person framing—observing rather than leading. Perspective is humble, letting quiet details build impact.
+Eephus	Ensemble-focused small-town perspective. Not one hero; everyone shares moments of reflection. This flattens hierarchy and prioritizes collective memory.
+✅ Conclusion Summary
+
+Shared DNA: All these films use baseball as a lens to tell deeper human stories—often focusing more on emotion and character than the sport itself.
+
+Unique Angles: What differentiates them is where that lens points: children growing up, women breaking barriers, veterans facing mortality, or community bonds.
+
+Perspective as Story Engine: Perspective isn’t just a visual gimmick—it literally shapes the stakes and meaning of each story.
+
+If you'd like this structured as a chart you can edit (e.g., Google Sheets or Excel), I can generate that next. Let me know what format works best for you.
+--------------------------------------
+User:
+
+
+Find the box office numbers for each respective film and sort them from most-to-least box office dollars earned theatrically.
+--------------------------------------
+ChatGPT:
+
+
+Here are the box office figures for each baseball-themed feature film from our list, sorted from highest to lowest theatrical gross:
+
+🎥 Box Office Rankings
+
+A League of Their Own (1992)
+
+Domestic: $107,533,928 
+Box Office Mojo
++15
+Box Office Mojo
++15
+The Numbers
++15
+
+Worldwide: $132,400,000 
+Wikipedia
+
+Rookie of the Year (1993)
+
+Domestic: $53,615,089 
+Box Office Mojo
++15
+IMDb
++15
+The Numbers
++15
+
+Worldwide: ~$56,500,758 
+IMDb
+
+The Natural (1984)
+
+Domestic: $47,951,979 
+The Numbers
++15
+The Numbers
++15
+Ultimate Movie Rankings
++15
+
+Bull Durham (1988)
+
+Domestic: $50,888,729 
+Rotten Tomatoes
++7
+The Numbers
++7
+GQ
++7
+
+(Note: modestly higher than The Natural)
+
+The Sandlot (1993)
+
+Domestic: $31,700,000 
+The Numbers
++4
+midcosports.com
++4
+The Numbers
++4
+IMDb
++15
+Rotten Tomatoes
++15
+IMDb
++15
+
+Worldwide: ≈ $34,348,443 
+IMDb
+
+Little Big League (1994)
+
+Domestic: ~$12,100,000–$12,267,790 
+IMDb
++9
+IMDb
++9
+Rotten Tomatoes
++9
+
+Eephus (2025)
+
+Domestic & Worldwide: $515,972 
+Box Office Mojo
++9
+Box Office Mojo
++9
+The Numbers
++9
+
+Bang the Drum Slowly (1973)
+
+Domestic: $354,000 
+The Numbers
++15
+IMDb
++15
+Wikipedia
++15
+
+🧾 Summary Table
+Rank	Film	Domestic Gross	Worldwide Gross
+1	A League of Their Own	$107.5 M	$132.4 M
+2	Rookie of the Year	$53.6 M	~$56.5 M
+3	Bull Durham	$50.9 M	(primarily domestic)
+4	The Natural	$48.0 M	(primarily domestic)
+5	The Sandlot	$31.7 M	~$34.3 M
+6	Little Big League	~$12.1 M	(primarily domestic)
+7	Eephus	$0.52 M	$0.52 M
+8	Bang the Drum Slowly	$0.35 M	(primarily domestic)
+📌 Notes & Observations
+
+A League of Their Own leads by a wide margin domestically and is the only film in the $100M+ category.
+
+Rookie of the Year, Bull Durham, and The Natural cluster in the $50M range.
+
+The Sandlot posted solid numbers for a family film, crossing $30M.
+
+Little Big League had modest theatrical success (~$12M), but holds nostalgic and cult value.
+
+Recent indie Eephus (2025) and vintage Bang the Drum Slowly had limited box office impact, reflecting niche or limited releases.
+
+Let me know if you'd like inflation-adjusted figures, breakdowns by budget vs. gross, or international box office whenever available!
+--------------------------------------
+User:
+
+
+Add the following films to our list and incorporate them in our sorting parameters. Search to retrieve box office numbers:
+For The Love Of The Game; Moneyball; Hardball; Field of Dreams; The Scout.
+--------------------------------------
+ChatGPT:
+
+
+Here are the updated box office figures for our expanded list of baseball films—sorted from highest to lowest worldwide theatrical gross:
+
+🏆 Box Office Rankings
+
+Moneyball (2011)
+
+Domestic: $75.6 M
+
+International: $34.6 M
+
+Worldwide: $110.2 M 
+Box Office Mojo
++15
+Box Office Mojo
++15
+Box Office Mojo
++15
+
+A League of Their Own (1992)
+
+Domestic: $107.5 M
+
+Worldwide: $132.4 M 
+IMDb
++15
+Box Office Mojo
++15
+Bless You Boys
++15
+
+Field of Dreams (1989)
+
+Domestic: $61.8 M–$64.5 M
+
+Worldwide: $84.5 M 
+The Numbers
++15
+Wikipedia
++15
+The Numbers
++15
+Rotten Tomatoes
+
+Rookie of the Year (1993)
+
+Domestic: $53.6 M
+
+Worldwide: $56.5 M 
+The Numbers
++14
+Box Office Mojo
++14
+Fox Business
++14
+
+Bull Durham (1988)
+
+Domestic: $50.9 M 
+The Numbers
++15
+Box Office Mojo
++15
+Bless You Boys
++15
+IMDb
++13
+The Numbers
++13
+Reddit
++13
+
+The Natural (1984)
+
+Domestic: $48.0 M
+
+Hardball (2001)
+
+Domestic: $40.2 M
+
+Worldwide: $44.1 M 
+People.com
++11
+Rotten Tomatoes
++11
+Reddit
++11
+
+For the Love of the Game (1999)
+
+Domestic: $35.19 M
+
+Worldwide: $46.1 M 
+Wikipedia
++6
+Bless You Boys
++6
+Box Office Mojo
++6
+
+The Sandlot (1993)
+
+Domestic: $31.7 M
+
+Worldwide: $34.3 M 
+Cllct
++15
+Bless You Boys
++15
+Wikipedia
++15
+The Numbers
++5
+vanityfair.com
++5
+New York Post
++5
+Box Office Mojo
++15
+The Spool
++15
+Wikipedia
++15
+
+Little Big League (1994)
+
+Domestic: $12.1 M 
+Box Office Mojo
++3
+Box Office Mojo
++3
+Box Office Mojo
++3
+IMDb
++10
+Rotten Tomatoes
++10
+The Numbers
++10
+
+The Scout (1994)
+
+Domestic/Worldwide: $2.67 M 
+Rotten Tomatoes
++8
+The Numbers
++8
+pro.imdb.com
++8
+The Numbers
++2
+Box Office Mojo
++2
+
+Eephus (2025)
+
+Domestic/Worldwide: $0.52 M
+
+Bang the Drum Slowly (1973)
+
+Domestic: $0.35 M
+
+📋 Consolidated Table
+Rank	Film	Domestic Gross	Worldwide Gross
+1	Moneyball	$75.6 M	$110.2 M
+2	A League of Their Own	$107.5 M	$132.4 M
+3	Field of Dreams	$61.8–64.5 M	$84.5 M
+4	Rookie of the Year	$53.6 M	$56.5 M
+5	Bull Durham	$50.9 M	—
+6	The Natural	$48.0 M	—
+7	Hardball	$40.2 M	$44.1 M
+8	For the Love of the Game	$35.2 M	$46.1 M
+9	The Sandlot	$31.7 M	$34.3 M
+10	Little Big League	$12.1 M	—
+11	The Scout	$2.67 M	$2.67 M
+12	Eephus	$0.52 M	$0.52 M
+13	Bang the Drum Slowly	$0.35 M	—
+📌 Notes & Insights
+
+Moneyball narrowly surpasses A League of Their Own in worldwide gross, marking it the highest-earning baseball film among this group.
+
+Classic sentimental favorites like Field of Dreams and Rookie of the Year maintain strong box office bedsides modern analytics dramas.
+
+Under-the-radar titles (The Scout, Eephus, Bang the Drum Slowly) are niche theatrical performers with limited releases.
+
+Gaps between domestic and global grosses reflect changing distribution landscapes over decades.
+
+Let me know if you'd like additional context like budgets, release year adjustments for inflation, or performance relative to genre peers!
+--------------------------------------

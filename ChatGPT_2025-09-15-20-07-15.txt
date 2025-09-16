@@ -1,0 +1,149 @@
+--------------------------------------
+User:
+
+
+List all the chats I have currently, provide the essence of their content in a visibly-concise manner for me to refer between them for compare contrast purposes.
+--------------------------------------
+ChatGPT:
+
+
+vbnet
+Copy code
+1. 0717T18:08 Codex Functions Overview  
+Essence: Crafting precise one-sentence explanations of every OpenAI Codex function/setting’s purpose and possibilities, focusing on conciseness, rewording strategy, and error avoidance tips.
+
+2. 0716T15:07 Sandman Audio Drama Summary  
+Essence: Exhaustive, one-sentence-per-episode summaries of The Sandman audio drama, Netflix series, and comics, merging them into a single coherent novel-format narrative using Save the Cat! methodology.
+
+3. 0716T11:05 Upcoming Films Buzz  
+Essence: Finding and detailing upcoming low/mid-budget films within 12 months, emphasizing what specifically excites audiences about each, filtered for freshness and wide-release status.
+
+4. 0716T05:30 Story Bible Pitch  
+Essence: Structuring a modular, detailed series/screenplay pitch with A, B, C plotlines, character nuance for performance depth, allowing pivot between formats, rendered in plain-text story bible format.
+
+5. 0715T22:26 Glossary Term Addition  
+Essence: Compiling a comprehensive film terminology glossary from multiple online sources, ensuring no duplicate entries, formatted in clean plain-text bullet lists, expanding alphabetically.
+
+6. 0715T19 Glossary Synthesis Task  
+Essence: Synthesizing a shared creative language glossary for film, game design, and storytelling, focusing on structured storytelling methodologies like Hero's Journey and Save the Cat!, plus sourcing glossaries.
+
+7. 0715T18 Shared Creative Language  
+Essence: Compiling an exhaustive, organized glossary index across storytelling methodologies, filmmaking, game design, and narrative theory, including hyperlink/URL-only lists for reference.
+
+8. 0715T18 Glossaries for Film Game Design  
+Essence: Ranking and sorting glossary resources for film/game/storytelling terms by Google value, creating easy-to-paste plain-text and hyperlink lists.
+
+9. 0715T17 Film and Game Scares  
+Essence: Organizing a hyper-detailed bullet-point list of the scariest moments in film and games, structured broadly and granularly, exploiting patterns for narrative scare strategies.
+
+10. 0715T18 Heartwarming Moments in Media  
+Essence: Collecting 1st, 2nd, 3rd most heartwarming moments from individuals within the same franchise, maintaining pop-culture relevance, varied diction, and chronological order.
+
+11. 0715T03 Sandman Episode Summaries  
+Essence: One-sentence-per-episode exhaustive summaries for Netflix’s Sandman, combined into series-spanning loglines and Save the Cat! outlines, rendered in plain-text for clarity.
+
+12. 0715T04 TV Episode Summaries  
+Essence: Exhaustive one-sentence-per-episode summaries for multiple TV series (Rick and Morty, The Wonder Years), including season-wide narrative continuity breakdowns.
+
+13. 0715T04 TV Shows List Request  
+Essence: Simple list of TV series names from Films Fatale’s 100 best narrative TV shows article, formatted plainly for reference.
+
+14. 0715T02 Endless Siblings in Sandman  
+Essence: Detailed histories and associations of Sandman’s Endless siblings, focusing on character relationships and mythological positioning, plain-text formatted with sources at the end.
+
+15. 0714T23 Prediction Markets Overview  
+Essence: In-depth essay-format explanation of prediction markets’ accuracy, historical examples, competing methods, and available markets, emphasizing price-tracking strategies.
+
+16. 0714T05 Underwater Fortnite Salvage  
+Essence: Image prompt creation for Fortnite underwater salvage-themed island scenarios, focusing on rusted facility aesthetics, player teamwork visuals, and Fortnite cartoon-industrial props.
+
+17. 0714T05 Fortnite Storyboard Request  
+Essence: Generating sequential storyboard prompts capturing narrative, world-building, and gameplay loops for a Fortnite custom island with gritty, District 9-inspired tone.
+
+18. 0619T00 Bioshock Style UEFN Island  
+Essence: Designing a Bioshock-style Fortnite island with tragic NPCs, narrative depth, human antagonist structuring, and customized image prompts reflecting Fortnite’s art style and gameplay loops.
+
+19. 0714T05 UEFN Dynamic Island Design  
+Essence: Listing exhaustive items for building a narrative-driven, player-count-dynamic UEFN island, accounting for asset density, difficulty scaling, and customizable player experience options.
+
+20. 0622T19 UEFN Narrative Structures  
+Essence: Adapting cinematic storytelling methods to Fortnite Creative using Verse, laying out initial and alternative methods for immersive narrative techniques in a structured plain-text format.
+
+21. 0712T15 Ender’s Game Character Breakdown  
+Essence: Creating a reimagined Ender’s Game story bible (“Starship Enders”), including cast, crew, FX, soundtrack suggestions, plus a critique breakdown comparing the reimagining to the original film’s strengths and weaknesses.
+
+--------------------------------------
+User:
+
+
+Sort them chronologically.
+--------------------------------------
+ChatGPT:
+
+
+vbnet
+Copy code
+1. 0619T00 Bioshock Style UEFN Island  
+Essence: Designing a Bioshock-style Fortnite island with tragic NPCs, narrative depth, human antagonist structuring, and customized image prompts reflecting Fortnite’s art style and gameplay loops.
+
+2. 0622T19 UEFN Narrative Structures  
+Essence: Adapting cinematic storytelling methods to Fortnite Creative using Verse, laying out initial and alternative methods for immersive narrative techniques in a structured plain-text format.
+
+3. 0712T15 Ender’s Game Character Breakdown  
+Essence: Creating a reimagined Ender’s Game story bible (“Starship Enders”), including cast, crew, FX, soundtrack suggestions, plus a critique breakdown comparing the reimagining to the original film’s strengths and weaknesses.
+
+4. 0714T05 Underwater Fortnite Salvage  
+Essence: Image prompt creation for Fortnite underwater salvage-themed island scenarios, focusing on rusted facility aesthetics, player teamwork visuals, and Fortnite cartoon-industrial props.
+
+5. 0714T05 Fortnite Storyboard Request  
+Essence: Generating sequential storyboard prompts capturing narrative, world-building, and gameplay loops for a Fortnite custom island with gritty, District 9-inspired tone.
+
+6. 0714T05 UEFN Dynamic Island Design  
+Essence: Listing exhaustive items for building a narrative-driven, player-count-dynamic UEFN island, accounting for asset density, difficulty scaling, and customizable player experience options.
+
+7. 0714T23 Prediction Markets Overview  
+Essence: In-depth essay-format explanation of prediction markets’ accuracy, historical examples, competing methods, and available markets, emphasizing price-tracking strategies.
+
+8. 0715T02 Endless Siblings in Sandman  
+Essence: Detailed histories and associations of Sandman’s Endless siblings, focusing on character relationships and mythological positioning, plain-text formatted with sources at the end.
+
+9. 0715T03 Sandman Episode Summaries  
+Essence: One-sentence-per-episode exhaustive summaries for Netflix’s Sandman, combined into series-spanning loglines and Save the Cat! outlines, rendered in plain-text for clarity.
+
+10. 0715T04 TV Episode Summaries  
+Essence: Exhaustive one-sentence-per-episode summaries for multiple TV series (Rick and Morty, The Wonder Years), including season-wide narrative continuity breakdowns.
+
+11. 0715T04 TV Shows List Request  
+Essence: Simple list of TV series names from Films Fatale’s 100 best narrative TV shows article, formatted plainly for reference.
+
+12. 0715T18 Shared Creative Language  
+Essence: Compiling an exhaustive, organized glossary index across storytelling methodologies, filmmaking, game design, and narrative theory, including hyperlink/URL-only lists for reference.
+
+13. 0715T18 Glossaries for Film Game Design  
+Essence: Ranking and sorting glossary resources for film/game/storytelling terms by Google value, creating easy-to-paste plain-text and hyperlink lists.
+
+14. 0715T18 Heartwarming Moments in Media  
+Essence: Collecting 1st, 2nd, 3rd most heartwarming moments from individuals within the same franchise, maintaining pop-culture relevance, varied diction, and chronological order.
+
+15. 0715T19 Glossary Synthesis Task  
+Essence: Synthesizing a shared creative language glossary for film, game design, and storytelling, focusing on structured storytelling methodologies like Hero's Journey and Save the Cat!, plus sourcing glossaries.
+
+16. 0715T22:26 Glossary Term Addition  
+Essence: Compiling a comprehensive film terminology glossary from multiple online sources, ensuring no duplicate entries, formatted in clean plain-text bullet lists, expanding alphabetically.
+
+17. 0715T17 Film and Game Scares  
+Essence: Organizing a hyper-detailed bullet-point list of the scariest moments in film and games, structured broadly and granularly, exploiting patterns for narrative scare strategies.
+
+18. 0716T05:30 Story Bible Pitch  
+Essence: Structuring a modular, detailed series/screenplay pitch with A, B, C plotlines, character nuance for performance depth, allowing pivot between formats, rendered in plain-text story bible format.
+
+19. 0716T11:05 Upcoming Films Buzz  
+Essence: Finding and detailing upcoming low/mid-budget films within 12 months, emphasizing what specifically excites audiences about each, filtered for freshness and wide-release status.
+
+20. 0716T15:07 Sandman Audio Drama Summary  
+Essence: Exhaustive, one-sentence-per-episode summaries of The Sandman audio drama, Netflix series, and comics, merging them into a single coherent novel-format narrative using Save the Cat! methodology.
+
+21. 0717T18:08 Codex Functions Overview  
+Essence: Crafting precise one-sentence explanations of every OpenAI Codex function/setting’s purpose and possibilities, focusing on conciseness, rewording strategy, and error avoidance tips.
+
+--------------------------------------

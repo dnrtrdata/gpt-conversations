@@ -1,0 +1,33 @@
+--------------------------------------
+User:
+
+
+Fing every tag applied to games on the Steam platform.
+--------------------------------------
+ChatGPT:
+
+
+To access a comprehensive list of all tags applied to games on the Steam platform, visit the SteamDB Tags page:
+
+https://steamdb.info/tags/
+Cory A Shipp
++3
+SteamDB
++3
+Steam Community
++3
+
+This resource categorizes tags into various groups such as Themes & Moods, Top-Level Genres, Visuals & Viewpoint, Features, and more. Each tag entry includes the number of games associated with it, providing insight into its prevalence across the platform. SteamDB is a third-party site that offers detailed information about Steam's database, including tags, game statistics, and other metadata.
+SteamDB
++2
+Steamworks
++2
+
+Additionally, you can explore popular tags directly through Steam's official store:
+
+https://store.steampowered.com/tag/browse/
+Steam Store
+
+This page allows you to browse games by the most frequently applied tags, offering a user-friendly interface to discover games based on specific interests or themes.
+Steam Store
+--------------------------------------

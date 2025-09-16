@@ -1,0 +1,914 @@
+--------------------------------------
+User:
+
+
+I'm going to provide a list of story cliches that I'll then need you to compare overly-specified list of cliches from specific properties. You will compare each specific-property-cliche-list to the original list and either decide the specific cliches are close enough to the original, approved list of cliches -- if they are, you'll change them to the approved cliche; or you'll decide the specific-cliches are not close enough to the original cliches and you'll remove them from the specific list.
+
+The goal is to apply the same list of cliches to a diverse range of story-properties I love to see which cliches I'm comfortable with -- so we need a shared list to compare cliches across these story-properties with the ability to make apples-to-apples comparisons.
+
+Understood?
+--------------------------------------
+ChatGPT:
+
+
+sql
+Copy code
+Understood. I will:
+
+I. Take your master list of approved story clichés as the reference list.
+II. Compare each item from any specific-property cliché list against that reference.
+III. For each specific cliché:
+     1. If it matches or is a close variant of a reference cliché, I will standardize it to the approved version.
+     2. If it does not reasonably match any approved cliché, I will remove it from the specific-property list.
+IV. This process ensures consistency across all properties so we can meaningfully compare which clichés you tolerate across diverse stories.
+
+Ready when you are. Send the approved cliché list first.
+
+--------------------------------------
+User:
+
+
+Be picky too.
+--------------------------------------
+ChatGPT:
+
+
+vbnet
+Copy code
+Confirmed. I will apply strict scrutiny to ensure:
+
+I. Only strong semantic and narrative equivalencies result in a match.
+II. Superficial resemblance or partial overlap will not qualify—those items will be excluded.
+III. Reworded clichés must preserve both narrative function and character dynamics of the original cliché to remain.
+
+Picky lens engaged. Ready for the approved cliché list.
+
+--------------------------------------
+User:
+
+
+Here are the original, approved cliches:
+
+I. CHARACTER-AFFECTING TROPES
+  1. Enriched Character Archetypes (Low Risk – 1 Alternative)
+    - Stock roles are reimagined through unique, historically grounded backstories.
+    - Alternative: Deepen each archetype with an individualized personal narrative that reframes their expected traits.
+  2. Internal Conflict and Redemption (Low Risk – 1 Alternative)
+    - Characters' transformations stem from meaningful internal struggles tied to theme.
+    - Alternative: Base the redemptive arc on a central emotional contradiction the character learns to confront.
+  3. Evolving Romantic Subplots (Medium Risk – 2 Alternatives)
+    - Romance grows from authentic emotional needs rather than plot obligation.
+    - Alternative 1: Let emotionally revealing interactions gradually build romantic potential.
+    - Alternative 2: Tie the romance to individual arcs exploring mutual vulnerability and trust.
+  4. Integrated Mentors and Allies (Medium Risk – 2 Alternatives)
+    - Secondary figures support growth through grounded, consistent presence.
+    - Alternative 1: Introduce mentors through preexisting bonds or shared context.
+    - Alternative 2: Let supporting characters carry thematic weight through intertwined stakes.
+  5. Authentic Character Voice (High Risk – 3 Alternatives)
+    - Dialogue avoids generic quips and reveals deeper personal or cultural context.
+    - Alternative 1: Root speech in region-specific syntax that reveals heritage.
+    - Alternative 2: Reflect evolving internal states through language shifts.
+    - Alternative 3: Drop catchphrases in favor of symbolically loaded, character-specific expressions.
+  6. Contextual Risk and Bravado (High Risk – 3 Alternatives)
+    - Aggressive behavior is depicted as emotionally driven, not performative.
+    - Alternative 1: Link risky acts to psychological coping patterns.
+    - Alternative 2: Position bravado as a survival posture, not true confidence.
+    - Alternative 3: Let failures or consequences reshape how characters confront fear.
+  7. Nuanced Family Structures (High Risk – 3 Alternatives)
+    - Absent or neglectful parents are replaced with complex interdependencies and community care.
+    - Alternative 1: Contrast parental absence with surrogate or collective caregivers.
+    - Alternative 2: Let the character’s resilience stem from adaptive social bonds.
+    - Alternative 3: Reframe hardship through layered emotional loyalties and betrayals.
+  8. Humanized Youth in Crisis (High Risk – 3 Alternatives)
+    - “Delinquents” are given interiority and social context beyond labels.
+    - Alternative 1: Reveal ethical codes or survival strategies behind group behavior.
+    - Alternative 2: Allow their fear, guilt, and aspiration to emerge under stress.
+    - Alternative 3: Replace caricatures with contradictions that reflect lived experience.
+  9. Multi-Dimensional “Stoner” Persona (High Risk – 3 Alternatives)
+    - Relaxed or drug-using characters are redefined by insight and observation.
+    - Alternative 1: Leverage their outsider view for intuitive truths.
+    - Alternative 2: Position calm as a strategic lens, not a punchline.
+    - Alternative 3: Let the trope invert through unexpected agency or knowledge.
+  10. Earned Identity and Presence (High Risk – 3 Alternatives)
+    - “Cool” is no longer aesthetic shorthand but expressed through action, sacrifice, and vulnerability.
+    - Alternative 1: Tie style to personal history or defiance of norms.
+    - Alternative 2: Use moments of courage and empathy to redefine admiration.
+    - Alternative 3: Frame coolness as an outcome of evolution, not surface.
+  11. Distinctive Secondary Characters (High Risk – 3 Alternatives)
+    - Minor characters are vivid, functionally relevant, and emotionally impactful.
+    - Alternative 1: Provide small but meaningful contrasts in background or opinion.
+    - Alternative 2: Use their role to illuminate theme or provoke decisions.
+    - Alternative 3: Reward attention to them with moments of unexpected consequence.
+  12. Evolving Nicknames and Slang (High Risk – 3 Alternatives)
+    - Labels and terms of address emerge organically from trust and context.
+    - Alternative 1: Allow shifts in naming to reflect character growth.
+    - Alternative 2: Avoid repetition by using language as emotional barometer.
+    - Alternative 3: Tie shared slang to location and backstory.
+  13. Ethical Confrontation as Growth (High Risk – 3 Alternatives)
+    - Accusatory or dismissive remarks become points of self-awareness and turning.
+    - Alternative 1: Use friction as a mirror for the protagonist’s flaws.
+    - Alternative 2: Reveal relationship dynamics through confrontation outcomes.
+    - Alternative 3: Turn a joke into a thematic reckoning.
+  14. Age as Subtext (High Risk – 3 Alternatives)
+    - Age reveals emotional damage or arrested development, not just surprise.
+    - Alternative 1: Layer age clues into behavior and relationship responses.
+    - Alternative 2: Let age shape vulnerability and moral conflict.
+    - Alternative 3: Challenge viewer assumptions about agency and maturity.
+
+II. NARRATIVE/THEME-AFFECTING TROPES
+  15. Inevitable Consequence Catalysts (Low Risk – 1 Alternative)
+    - The story's inciting act stems believably from neglect or hubris.
+    - Alternative: Frame the transgression as a pattern of dismissal that demands a response.
+  16. Visual Stillness Before Chaos (Low Risk – 1 Alternative)
+    - A quiet pause visualizes the calm before horror strikes.
+    - Alternative: Use a single image or still composition that thematically foreshadows collapse.
+  17. Earned Rescue Transitions (Low Risk – 1 Alternative)
+    - Relief arrives only after clear thematic cost is paid.
+    - Alternative: Ground rescue in symbolic visuals that evoke sacrifice and survival.
+  18. Solitary Transformation Moment (Low Risk – 1 Alternative)
+    - One private scene marks the internal shift before action.
+    - Alternative: Depict a moment of symbolic solitude where the character makes a new choice.
+  19. Symbolic Collapse of Hope (Low Risk – 1 Alternative)
+    - A concise, visceral image captures when all is lost.
+    - Alternative: Use destruction of a personal object or bond to embody the nadir.
+  20. Evocative Environmental Mood (Low Risk – 1 Alternative)
+    - The setting’s atmosphere heightens tone naturally.
+    - Alternative: Embed subtle sensory cues in the landscape to suggest dread.
+  21. Thematic Final Echo (Low Risk – 1 Alternative)
+    - The last shot reflects change, not just outcome.
+    - Alternative: Echo a prior image with altered meaning to suggest growth or cost.
+  22. Foreshadowed Peripheral Victory (Medium Risk – 2 Alternatives)
+    - Supporting characters influence outcomes through visible arc, not surprise.
+    - Alternative 1: Seed their eventual contribution with early foreshadowing.
+    - Alternative 2: Let their involvement reflect a shift in the group’s dynamics.
+  23. Preparatory Rhythmic Montages (Medium Risk – 2 Alternatives)
+    - Rapid sequences connect preparation to emotional stakes.
+    - Alternative 1: Integrate character decisions into montage structure.
+    - Alternative 2: Let rhythm express rising dread rather than energy alone.
+  24. False Hope at Midpoint (Medium Risk – 2 Alternatives)
+    - A temporary victory highlights thematic misunderstanding or denial.
+    - Alternative 1: Allow the hope to expose deeper flaws in the protagonist’s assumptions.
+    - Alternative 2: Foreshadow the reversal through subtle world clues.
+  25. Character-Driven Chase Stakes (Medium Risk – 2 Alternatives)
+    - Tension during pursuit stems from emotional investment, not just speed.
+    - Alternative 1: Align chase dynamics with internal conflict.
+    - Alternative 2: Use pursuit to reveal evolving character roles.
+  26. Minimalist Slow-Motion Emphasis (Medium Risk – 2 Alternatives)
+    - Time dilation underscores emotion or thematic weight.
+    - Alternative 1: Employ slow motion only at narrative inflection points.
+    - Alternative 2: Juxtapose with normal pacing for contrast.
+  27. Purposeful Subjective Camerawork (Medium Risk – 2 Alternatives)
+    - Perspective mimics tension but retains clarity and composure.
+    - Alternative 1: Pair disorientation with stabilization as emotional arc unfolds.
+    - Alternative 2: Use POV subtly to reveal character perception rather than simply thrill.
+  28. Subtle Exposition Dialogue (High Risk – 3 Alternatives)
+    - Important details are implied, not announced.
+    - Alternative 1: Let dialogue hint rather than explain.
+    - Alternative 2: Tie exposition to emotional stakes or misunderstandings.
+    - Alternative 3: Reveal backstory through conflict or cultural contrast.
+  29. Evolving Genre Identity (High Risk – 3 Alternatives)
+    - The tone blends styles without mockery or pastiche.
+    - Alternative 1: Maintain character focus while drawing from multiple traditions.
+    - Alternative 2: Echo genre conventions with subversion rooted in theme.
+    - Alternative 3: Reframe nostalgia through character point of view.
+  30. Consequential Plot Twists (High Risk – 3 Alternatives)
+    - Events follow logical or emotional causality, not coincidence.
+    - Alternative 1: Build twists on small choices with compounding effect.
+    - Alternative 2: Let one decision spiral unpredictably but plausibly.
+    - Alternative 3: Ground reveals in foreshadowed contradictions or sacrifices.
+  31. Evolved Symbolic Objects (High Risk – 3 Alternatives)
+    - Props matter because characters invest meaning in them.
+    - Alternative 1: Allow mundane items to gain importance through repeated use.
+    - Alternative 2: Tie symbols to past loss or thematic contradiction.
+    - Alternative 3: Avoid one-time callbacks—let items gain story function organically.
+  32. Integrated Skill Acquisition (High Risk – 3 Alternatives)
+    - Expertise is shown, not told, and develops visibly.
+    - Alternative 1: Let character’s past reinforce ability through context.
+    - Alternative 2: Tie skill use to character flaw or doubt.
+    - Alternative 3: Build confidence and competence in parallel.
+  33. Psychological Suspense Replaces Jump Scares (High Risk – 3 Alternatives)
+    - Fear is evoked through anticipation and dissonance, not shock.
+    - Alternative 1: Let tension build slowly with restraint.
+    - Alternative 2: Focus on ambiguity, not monsters.
+    - Alternative 3: Use silence and delay to trigger unease.
+  34. Chases Reflect Internal Pressure (High Risk – 3 Alternatives)
+    - Characters flee not just danger but fear of themselves.
+    - Alternative 1: Use obstacles to mirror inner turmoil.
+    - Alternative 2: Resolve chase with choice, not escape.
+    - Alternative 3: Intercut panic with stillness for thematic contrast.
+  35. Glances Over Gazes (High Risk – 3 Alternatives)
+    - Emotional shifts register through brief, earned expression.
+    - Alternative 1: Favor broken eye contact that reflects fear or doubt.
+    - Alternative 2: Let characters avoid looking, revealing repression.
+    - Alternative 3: Emphasize stillness instead of intensity.
+  36. Motivated Cuts and Edits (High Risk – 3 Alternatives)
+    - Editing enhances clarity, not confusion.
+    - Alternative 1: Build transitions around narrative purpose.
+    - Alternative 2: Use editing style to reflect emotional change.
+    - Alternative 3: Save sharp edits for turning points.
+  37. Naturalistic Color and Tone (High Risk – 3 Alternatives)
+    - Palette reflects place and mood without stylization.
+    - Alternative 1: Use natural lighting shifts for tonal shifts.
+    - Alternative 2: Reinforce emotion through subtle visual cues.
+    - Alternative 3: Let color evolve with story arc, not just genre.
+  38. Redemption with Moral Weight (High Risk – 3 Alternatives)
+    - Endings resist tidy closure.
+    - Alternative 1: Leave victories incomplete or bittersweet.
+    - Alternative 2: Reflect change in behavior, not declarations.
+    - Alternative 3: Let audience interpret justice or failure.
+
+III. CINEMATOGRAPHY-AFFECTING TROPES
+  39. Stillness as Mood Foundation (Low Risk – 1 Alternative)
+    - A single, quiet establishing shot sets the tone without spectacle.
+    - Alternative: Frame an eerily empty environment with subtle movement in the periphery to evoke unease.
+  40. Thematic Visual Echo (Low Risk – 1 Alternative)
+    - Final images mirror the opening to reflect character and narrative change.
+    - Alternative: Alter the original composition in lighting, framing, or movement to show internal transformation.
+  41. Chase Sequences with Emotional Geometry (Medium Risk – 2 Alternatives)
+    - Action is choreographed around character-driven geography and stakes.
+    - Alternative 1: Match camera motion with emotional rhythm (e.g., handheld for panic, dolly for resolve).
+    - Alternative 2: Use framing that reveals physical barriers as metaphors for inner struggle.
+  42. Montage as Collective Action (Medium Risk – 2 Alternatives)
+    - Preparation sequences emphasize group dynamic and intention over speed.
+    - Alternative 1: Focus on process over action—hands tying knots, expressions of doubt, eye contact between allies.
+    - Alternative 2: Intercut with flashbacks or imagined outcomes to show the weight of what’s at stake.
+  43. Purposeful Slow Motion (Medium Risk – 2 Alternatives)
+    - Time dilation enhances theme or emotion rather than exaggerating action.
+    - Alternative 1: Use subtle frame reduction to slow the moment without theatricality.
+    - Alternative 2: Pair slow motion with silence to isolate a character’s subjectivity.
+  44. Grounded Subjective Camera (Medium Risk – 2 Alternatives)
+    - Perspective shots maintain clarity and stay motivated by character experience.
+    - Alternative 1: Shift from first-person to over-the-shoulder subtly as the character's confidence grows.
+    - Alternative 2: Use shallow focus to isolate a detail that represents the character’s psychological fixation.
+  45. Naturalistic Eye Contact (High Risk – 3 Alternatives)
+    - Emotion is conveyed through fragmented glances, not prolonged stares.
+    - Alternative 1: Emphasize avoidance—characters refusing to meet eyes says more than staring.
+    - Alternative 2: Anchor connection in shared focus on an object or task, not on each other.
+    - Alternative 3: Use editing (cutting away mid-glance) to create tension or yearning.
+  46. Constructive Cut Design (High Risk – 3 Alternatives)
+    - Editing choices reveal character state or thematic transitions.
+    - Alternative 1: Use match cuts or graphic matches to echo character psychology.
+    - Alternative 2: Let scene transitions mirror tonal progression (e.g., from disarray to stillness).
+    - Alternative 3: Reserve fast cuts for spiraling inner states, not just action tempo.
+  47. Palette as Emotional Language (High Risk – 3 Alternatives)
+    - Color grading enhances character perception and tone without drawing attention to itself.
+    - Alternative 1: Assign each character a dominant tone that shifts with arc (e.g., green to red).
+    - Alternative 2: Let cold-to-warm gradients reflect internal changes across acts.
+    - Alternative 3: Use specific lighting conditions (fluorescents, sodium light, natural daylight) as thematic indicators.
+
+IV. ADDITIONAL MINOR/MISCELLANEOUS TROPES
+  48. Alien Design Suggesting Internal Logic (High Risk – 3 Alternatives)
+    - Creature aesthetics prioritize biological plausibility and emotional resonance over flashy visuals.
+    - Alternative 1: Use understated traits (e.g., asymmetry, subtle bioluminescence) to evoke dread without grotesquery.
+    - Alternative 2: Imply function behind design—features adapted to sensory or survival needs.
+    - Alternative 3: Let alien behavior define fear, with design as reinforcement rather than centerpiece.
+  49. Weapon Improvisation Reflecting Theme (High Risk – 3 Alternatives)
+    - Makeshift tools arise naturally from setting and characters’ personal familiarity with their environment.
+    - Alternative 1: Tie improvised weapons to emotionally significant objects.
+    - Alternative 2: Highlight problem-solving under pressure rather than "coolness."
+    - Alternative 3: Allow the final tool to reflect collective trust or sacrifice (e.g., built collaboratively).
+  50. Symbolism Emerging from Relationship (High Risk – 3 Alternatives)
+    - Objects and actions accrue meaning through repetition and context rather than being pre-loaded with significance.
+    - Alternative 1: Let a casual object gain weight over time (e.g., a borrowed lighter, a shared radio).
+    - Alternative 2: Use visual callbacks rather than exposition to communicate symbolic resonance.
+    - Alternative 3: Build emotional payoff through use, not through explanation.
+  51. Plot Twists That Reflect Character Choice (High Risk – 3 Alternatives)
+    - Turns in story direction result from accumulated behavior and internal tension.
+    - Alternative 1: Frame the twist as an inevitable result of a past decision, not chance.
+    - Alternative 2: Link the reversal directly to a protagonist’s strength or flaw.
+    - Alternative 3: Allow foreshadowing to seed discomfort rather than hinting at a specific reveal.
+  52. Supporting Characters as Emotional Echoes (High Risk – 3 Alternatives)
+    - Minor characters mirror or refract the protagonist’s journey without being author surrogates.
+    - Alternative 1: Base them on conflicting or parallel philosophies, not exposition.
+    - Alternative 2: Give them arcs with separate stakes that enrich theme.
+    - Alternative 3: Allow their pivotal choices to shift the protagonist’s path without overshadowing it.
+  53. Group Heroism with Gradual Payoff (High Risk – 3 Alternatives)
+    - Climactic rescues are grounded in setup, small signals, and interpersonal evolution.
+    - Alternative 1: Foreshadow collective resilience through past shared obstacles.
+    - Alternative 2: Let each character contribute meaningfully to the final push, no matter how small.
+    - Alternative 3: Frame teamwork as emotional logic, not tactical convenience.
+  54. Closing Credits That Extend Theme (Low Risk – 1 Alternative)
+    - Final moments deepen emotional tone rather than reset to spectacle.
+    - Alternative: Pair closing images with ambient sound or epilogues that reveal character or world-state aftermath.
+--------------------------------------
+ChatGPT:
+
+
+sql
+Copy code
+Master cliché list received and confirmed.
+
+I will now:
+I. Apply high-precision semantic comparison to any incoming specific-property cliché list.
+II. Accept a match only if narrative function, thematic role, and character implication align clearly with an entry on this approved list.
+III. Replace matched clichés with the standardized form (by number and title from your master list).
+IV. Reject and remove clichés that fail to meet structural, emotional, or functional similarity.
+V. Note edge cases for your review, if needed.
+
+Ready for the first specific-property cliché list when you are.
+
+--------------------------------------
+User:
+
+
+Okay here's the first entry to correct/omit cliches from:
+
+Silent Hill 2 (2024) — Low & Medium Plausibility Clichés Detected
+
+I. CHARACTER-AFFECTING TROPES
+ 1. Enriched Character Archetypes (Low Risk)
+ 2. Internal Conflict and Redemption (Low Risk)
+ 3. Evolving Romantic Subplots (Medium Risk)
+ 4. Integrated Mentors and Allies (Medium Risk)
+
+II. NARRATIVE / THEME-AFFECTING TROPES
+15. Inevitable Consequence Catalyst (Low Risk)
+16. Visual Stillness Before Chaos (Low Risk)
+18. Solitary Transformation Moment (Low Risk)
+19. Symbolic Collapse of Hope (Low Risk)
+20. Evocative Environmental Mood (Low Risk)
+21. Thematic Final Echo (Low Risk)
+24. False Hope at Midpoint (Medium Risk)
+25. Character-Driven Chase Stakes (Medium Risk)
+--------------------------------------
+ChatGPT:
+
+
+pgsql
+Copy code
+All listed clichés already match the approved master list with accurate labels, narrative function, and structural roles. No corrections or removals are necessary.
+
+I. CHARACTER-AFFECTING TROPES
+ 1. Enriched Character Archetypes (Low Risk) – MATCHED
+ 2. Internal Conflict and Redemption (Low Risk) – MATCHED
+ 3. Evolving Romantic Subplots (Medium Risk) – MATCHED
+ 4. Integrated Mentors and Allies (Medium Risk) – MATCHED
+
+II. NARRATIVE / THEME-AFFECTING TROPES
+15. Inevitable Consequence Catalyst (Low Risk) – MATCHED
+16. Visual Stillness Before Chaos (Low Risk) – MATCHED
+18. Solitary Transformation Moment (Low Risk) – MATCHED
+19. Symbolic Collapse of Hope (Low Risk) – MATCHED
+20. Evocative Environmental Mood (Low Risk) – MATCHED
+21. Thematic Final Echo (Low Risk) – MATCHED
+24. False Hope at Midpoint (Medium Risk) – MATCHED
+25. Character-Driven Chase Stakes (Medium Risk) – MATCHED
+
+This Silent Hill 2 (2024) cliché list is fully aligned with the approved shared cliché system.
+Ready for the next entry.
+
+--------------------------------------
+User:
+
+
+I didn't ask you to show the process. Just make your changes/omissions/or leave it unchanged or whatever you deep appropriate and assume I know what you're talking about when I see the end result. Also, keep the risk rating, but omit any that are high-risk... I don't want any of those.
+--------------------------------------
+ChatGPT:
+
+
+pgsql
+Copy code
+Silent Hill 2 (2024) — Low & Medium Plausibility Clichés Detected
+
+I. CHARACTER-AFFECTING TROPES
+ 1. Enriched Character Archetypes (Low Risk)
+ 2. Internal Conflict and Redemption (Low Risk)
+ 3. Evolving Romantic Subplots (Medium Risk)
+ 4. Integrated Mentors and Allies (Medium Risk)
+
+II. NARRATIVE / THEME-AFFECTING TROPES
+15. Inevitable Consequence Catalyst (Low Risk)
+16. Visual Stillness Before Chaos (Low Risk)
+18. Solitary Transformation Moment (Low Risk)
+19. Symbolic Collapse of Hope (Low Risk)
+20. Evocative Environmental Mood (Low Risk)
+21. Thematic Final Echo (Low Risk)
+24. False Hope at Midpoint (Medium Risk)
+25. Character-Driven Chase Stakes (Medium Risk)
+
+--------------------------------------
+User:
+
+
+Good. From now on, don't write the " — Low & Medium Plausibility Clichés Detected" part or any other text in that space. the Title (year) text will be sufficient.
+--------------------------------------
+ChatGPT:
+
+
+pgsql
+Copy code
+Understood. I will retain only the title and year as the header, followed by the revised list.
+Ready for the next entry.
+
+--------------------------------------
+User:
+
+
+Okay. Here's the next entry:
+
+The Last of Us Part II (2020) — Low & Medium Plausibility Clichés Detected
+
+I. CHARACTER-AFFECTING TROPES
+ 1. Complex Character Archetypes (Low Risk)
+ 2. Personal Demons and Revenge Cycle (Low Risk)
+ 3. Dual-Protagonist Perspective Switch (Medium Risk)
+ 4. Found-Family Bonds Tested (Medium Risk)
+
+II. NARRATIVE / THEME-AFFECTING TROPES
+15. Cycle-of-Violence Catalyst (Low Risk)
+16. Visual Stillness Before Brutality (Low Risk)
+18. Solitary Transformation Moment (Low Risk)
+19. Symbolic Collapse of Hope (Low Risk)
+20. Environmental Echo of Emotion (Low Risk)
+21. Thematic Final Echo (Low Risk)
+22. Foreshadowed Peripheral Victory (Medium Risk)
+24. False-Hope Interlude (Medium Risk)
+25. Character-Driven Chase Stakes (Medium Risk)
+
+III. GAMEPLAY / CINEMATIC-AFFECTING TROPES
+30. Perspective Reversal Mechanic (Medium Risk)
+31. Real-Time Instrument Motif (Low Risk)
+32. Hyper-Tactile Violence (Medium Risk)
+33. Dynamic Stealth & Name-Calling AI (Low Risk)
+
+IV. ADDITIONAL MINOR / MISCELLANEOUS TROPES
+34. Marketing Misdirection Device (Medium Risk)
+35. LGBT+ Representation Spotlight (Medium Risk)
+36. Controversial Body Diversity (Medium Risk)
+--------------------------------------
+ChatGPT:
+
+
+pgsql
+Copy code
+The Last of Us Part II (2020)
+
+I. CHARACTER-AFFECTING TROPES
+ 1. Enriched Character Archetypes (Low Risk)
+ 2. Internal Conflict and Redemption (Low Risk)
+
+II. NARRATIVE / THEME-AFFECTING TROPES
+15. Inevitable Consequence Catalyst (Low Risk)
+16. Visual Stillness Before Chaos (Low Risk)
+18. Solitary Transformation Moment (Low Risk)
+19. Symbolic Collapse of Hope (Low Risk)
+20. Evocative Environmental Mood (Low Risk)
+21. Thematic Final Echo (Low Risk)
+22. Foreshadowed Peripheral Victory (Medium Risk)
+24. False Hope at Midpoint (Medium Risk)
+25. Character-Driven Chase Stakes (Medium Risk)
+
+--------------------------------------
+User:
+
+
+Good. Here's the next entry:
+
+Resident Evil 4 (2023)
+
+I. CHARACTER-AFFECTING TROPES
+  1. Indestructible Badass Hero  (Low)
+  2. Damsel Learns to Fight  (Medium)
+  3. Rogue with a Heart of Gold  (Low)
+  4. Betrayed by Mentor  (Medium)
+
+II. NARRATIVE / THEME-AFFECTING TROPES
+  5. Secondary Character Dies to Save Others  (Low)
+  6. Villain Explains Plan Mid-Fight  (Low)
+  7. There Was a Bigger Bad All Along  (Medium)
+  8. Final Twist in Post-Credits Scene  (Medium)
+
+III. ADDITIONAL MINOR / MISCELLANEOUS TROPES
+  9. Legacy Character Delivers Iconic Line  (Low)
+--------------------------------------
+ChatGPT:
+
+
+pgsql
+Copy code
+Resident Evil 4 (2023)
+
+I. CHARACTER-AFFECTING TROPES
+ 1. Enriched Character Archetypes (Low Risk)
+
+II. NARRATIVE / THEME-AFFECTING TROPES
+(No qualifying entries remain)
+
+III. ADDITIONAL MINOR / MISCELLANEOUS TROPES
+(No qualifying entries remain)
+
+--------------------------------------
+User:
+
+
+"Resident Evil 4 (2023)
+
+I. CHARACTER-AFFECTING TROPES
+ 1. Enriched Character Archetypes (Low Risk)" is sufficient. If there are categories that don't contain any remaining cliches, just omit it.
+--------------------------------------
+ChatGPT:
+
+
+scss
+Copy code
+Resident Evil 4 (2023)
+
+I. CHARACTER-AFFECTING TROPES
+ 1. Enriched Character Archetypes (Low Risk)
+
+--------------------------------------
+User:
+
+
+Good. Here's the next entry:
+
+Resident Evil 3 (2020) — Low & Medium Plausibility Clichés Detected
+
+I. CHARACTER-AFFECTING TROPES
+  1. Battle-Hardened Returnee (Low)
+  2. Mercenary-with-a-Heart Pivot (Medium)
+  3. Corporate Turncoat Assassin (Medium)
+  4. Noble Sacrifice Captain (Low)
+
+II. NARRATIVE / THEME-AFFECTING TROPES
+ 15. Citywide Viral Outbreak Cover-Up (Low)
+ 16. Relentless Bio-Weapon Pursuit (Low)
+ 18. Vaccine MacGuffin Race (Medium)
+ 19. Countdown-to-Nuke Fail-Safe (Low)
+ 20. Multi-Stage Mutation Escalation (Low)
+ 21. Post-Crisis Vow of Vengeance (Low)
+ 24. False-Hope Evacuation Set-Up (Medium)
+
+III. GAMEPLAY / CINEMATIC-AFFECTING TROPES
+ 30. Scripted Chase Spectacle (Medium)
+ 31. Reactive Dodge Flash-Frame (Low)
+ 32. Stalker Surprise Teleport (Medium)
+ 33. Resource-Tetris Survival Loop (Low)
+
+IV. ADDITIONAL MINOR / MISCELLANEOUS TROPES
+ 34. Nostalgia Costume Unlock (Low)
+ 35. Evil Pharma Megacorp Scapegoat (Low)
+ 36. Heroic Last-Second Helicopter Escape (Medium)
+--------------------------------------
+ChatGPT:
+
+
+mathematica
+Copy code
+Resident Evil 3 (2020)
+
+I. CHARACTER-AFFECTING TROPES
+ 1. Enriched Character Archetypes (Low Risk)
+
+II. NARRATIVE / THEME-AFFECTING TROPES
+24. False Hope at Midpoint (Medium Risk)
+
+--------------------------------------
+User:
+
+
+Very good. Here's the next entry:
+
+Resident Evil 2 (2019) — Low & Medium Plausibility Clichés Detected
+
+I. CHARACTER-AFFECTING TROPES
+  1. Brand-New Rookie, First-Day Hell (Low)
+  2. Determined Civilian Sibling (Medium)
+  3. Mysterious Femme Fatale Spy (Low)
+  4. Corrupt Authority Figure (Medium)
+  5. Doomed Helpful Mentor (Low)
+  6. Innocent Child MacGuffin (Medium)
+
+II. NARRATIVE / THEME-AFFECTING TROPES
+ 12. Citywide Viral Outbreak Cover-Up (Low)
+ 13. Secret Underground Lab with Self-Destruct (Low)
+ 14. Unstoppable Stalker Enemy (Low)
+ 15. Mad-Science Parent Gone Monstrous (Medium)
+ 16. Last-Second Rocket-Launcher Hand-Off (Low)
+ 17. Post-Escape Vow of Vengeance (Low)
+
+III. GAMEPLAY / CINEMATIC-AFFECTING TROPES
+ 22. Police-Station as Gothic Mansion Redux (Medium)
+ 23. Resource-Tetris Survival Loop (Low)
+ 24. Light-Cone Flashlight Horror (Low)
+ 25. Dual-Campaign Mirror Act (Medium)
+ 26. Bonus “What-If” Gauntlet Modes (Medium)
+
+IV. ADDITIONAL MINOR / MISCELLANEOUS TROPES
+ 27. Retro Costume Fan-Service (Low)
+ 28. Helipad / Train-Tunnel Final Exit (Medium)
+ 29. Corporate Black-Ops Retrieval Plot (Low)
+ 30. Hero Saves Child, Parent Redeems in Death (Medium)
+--------------------------------------
+ChatGPT:
+
+
+pgsql
+Copy code
+Resident Evil 2 (2019)
+
+I. CHARACTER-AFFECTING TROPES
+ 1. Enriched Character Archetypes (Low Risk)
+
+II. NARRATIVE / THEME-AFFECTING TROPES
+(No qualifying entries remain)
+
+--------------------------------------
+User:
+
+
+Here's the next entry:
+
+Dead Space (2023) — Low & Medium Plausibility Clichés Detected
+
+I. CHARACTER-AFFECTING TROPES
+  1. Blue-Collar Everyman-Turned-Action-Hero (Low)
+  2. “Have-You-Seen-My-Girlfriend?” Motivation (Medium)
+  3. Talkative Upgrade From Silent Protagonist (Low)
+  4. Doomed Red-Shirt Crew (Low)
+  5. The Reluctant Traitor Companion (Medium)
+  6. Mind-Eroding Hallucinations (Low)
+  7. Self-Sacrificing Officer (Medium)
+  8. Mad Science Zealot (Medium)
+
+II. NARRATIVE / THEME-AFFECTING TROPES
+  9. “Haunted House in Space” (Low)
+ 10. Corporate Cover-Up Catastrophe (Low)
+ 11. Cosmic Relic Drives Mass Insanity (Low)
+ 12. Cult of Doom Religion (Medium)
+ 13. Mutated Best-Friend Boss Fight (Low)
+ 14. Unstoppable Hive-Mind Finale (Low)
+ 15. Shuttle-Launch Escape Countdown (Low)
+ 16. Post-Credits Corruption Tease (Medium)
+
+III. GAMEPLAY / CINEMATIC-AFFECTING TROPES
+ 17. Strategic Dismemberment Gimmick (Low)
+ 18. “Peeling” Gore Showcase (Low)
+ 19. Zero-G Jetpack Puzzle Rooms (Medium)
+ 20. Seamless One-Shot Presentation (Medium)
+ 21. Audio Logs = Exposition Dump (Low)
+ 22. Tram-Hub Backtracking (Medium)
+
+IV. ADDITIONAL MINOR / MISCELLANEOUS TROPES
+ 23. Upgrade Benches & Power-Node Economy (Low)
+ 24. Environmental Kill Set-Pieces (Medium)
+ 25. Planetary Quarantine/Imminent Destruction (Low)
+ 26. Science Officer With Second Thoughts (Medium)
+ 27. “You Brought It Back!” Manipulation (Low)
+--------------------------------------
+ChatGPT:
+
+
+pgsql
+Copy code
+Dead Space (2023)
+
+I. CHARACTER-AFFECTING TROPES
+ 1. Enriched Character Archetypes (Low Risk)
+ 2. Internal Conflict and Redemption (Low Risk)
+
+II. NARRATIVE / THEME-AFFECTING TROPES
+15. Inevitable Consequence Catalyst (Low Risk)
+20. Evocative Environmental Mood (Low Risk)
+
+--------------------------------------
+User:
+
+
+Good. Here's the next entry:
+
+Prey (2017) — Low & Medium Plausibility Clichés Detected
+────────────────────────────────────────────────────────────
+I. CHARACTER-AFFECTING TROPES
+ 1. Amnesiac Protagonist With a Twist (Medium)  
+    – Morgan Yu’s memory is wiped repeatedly through neuromod removal, erasing personal continuity.  
+ 2. AI Doppelgänger Helper (Low)  
+    – January is a voice-recorded Operator of Morgan’s own design, nudging player toward self-destruction.  
+ 3. Paranoid Brother Rival (Medium)  
+    – Alex Yu gaslights, manipulates, and flip-flops—loving sibling or corporate overlord?  
+ 4. Choose-Your-Own Identity (Low)  
+    – Gender, attitude, morality all adjustable; Morgan’s “true self” depends entirely on playstyle.  
+ 5. Emotion Test as Foreshadowing (Medium)  
+    – Rorschach and Trolley problem early on predict the game’s final judgment scene.  
+ 6. “Everyone’s Already Dead” Setting (Low)  
+    – The player awakens after the worst of the outbreak; bodies and logs tell the rest.  
+ 7. Optional Survivor Dilemmas (Medium)  
+    – NPC arcs offer layered ethical problems, but all are skippable; Morgan may ghost everyone.  
+ 8. Alien-as-Human Experiment (Medium)  
+    – Post-credits twist: “Morgan” was a Typhon all along, being tested for empathy.  
+II. NARRATIVE / THEME-AFFECTING TROPES
+ 9. Lab Accident as Inciting Event (Low)  
+    – The Typhon breach and outbreak kick off the plot—and the bioethics questions.  
+10. Secret Program Gone Wrong (Medium)  
+    – Project Axiom and TranStar’s unchecked science predictably spiral into catastrophe.  
+11. Dual-Endings Based on Morality (Medium)  
+    – Self-destruct vs. Nullwave reflects accumulated choices; final judgment literalizes “player agency.”  
+12. Humans vs. Their Own Invention (Low)  
+    – The neuromods and Typhon tech enable power—and the fall.  
+13. Corporate Greed Is the Real Monster (Medium)  
+    – TranStar Board sends cleanup crew to erase evidence, not save lives.  
+14. Bioethics through Gameplay (Low)  
+    – Scanning, mimicking, killing or sparing—player choices double as thematic commentary.  
+15. Memories as Identity (Medium)  
+    – Memory loss isn’t just a device—it’s the story’s main philosophical axis.  
+16. Empathy as Win Condition (Medium)  
+    – The Typhon-player is judged by how “human” their playthrough was.  
+III. GAMEPLAY / CINEMATIC-AFFECTING TROPES
+17. Locked Doors and Keycards Galore (Low)  
+    – Classic immersive sim gating: explore, hack, backtrack, unlock.  
+18. Mimic Jumpscare Tension (Low)  
+    – Chairs, mugs, boxes—anything might leap at your face. Cheap but effective.  
+19. Alien Powers as Tools (Medium)  
+    – Gain Typhon powers via psychoscope to access new paths and tactics.  
+20. “Mega-Dungeon” World Structure (Low)  
+    – Talos I is interconnected, returnable, and layered—no hard level breaks.  
+21. Physics-Based Problem Solving (Medium)  
+    – Gloo Cannon creates platforms, blocks hazards, or immobilizes foes.  
+22. Rogue System Chaos (Low)  
+    – Fires, gas leaks, power loss—environmental instability builds tension and emergent play.  
+23. Persistent Environmental Storytelling (Medium)  
+    – Corpses, terminals, emails, and props tell layered side-stories.  
+24. Simulation Inside a Simulation (Low)  
+    – Early twist: you’re in a fake apartment. Late twist: you’re not human.  
+IV. ADDITIONAL MINOR / MISCELLANEOUS TROPES
+25. Retrofuturism Mashup Style (Low)  
+    – Brutalist Soviet corridors meet Deco opulence meet 60s space-age minimalism.  
+26. Chekhov’s Neuromod (Medium)  
+    – The miracle tech that gives you powers is also the reason you forget who you are.  
+27. One Man Against an Ecosystem (Medium)  
+    – No armies, no resistance—just one researcher vs. the full alien ecology.  
+28. Surprise Jump to Rogue-like (Medium)  
+    – Mooncrash spins a narrative justification for procedural death loops.  
+29. Escape Room VR Tie-In (Low)  
+    – TranStar VR uses the story setting to justify tutorial puzzles.  
+30. Mimic Multiplayer Mode (Medium)  
+    – Typhon Hunter turns a serious theme into prop-hunting party game.  
+--------------------------------------
+ChatGPT:
+
+
+pgsql
+Copy code
+Prey (2017)
+
+I. CHARACTER-AFFECTING TROPES
+ 1. Internal Conflict and Redemption (Low Risk)
+ 2. Enriched Character Archetypes (Low Risk)
+
+II. NARRATIVE / THEME-AFFECTING TROPES
+15. Inevitable Consequence Catalyst (Low Risk)
+20. Evocative Environmental Mood (Low Risk)
+
+--------------------------------------
+User:
+
+
+(Keep in mind you're only looking at the story aspects of all items -- even if they're games)
+--------------------------------------
+ChatGPT:
+
+
+sql
+Copy code
+Understood. All evaluations moving forward will consider only the narrative, character, and thematic components of each item—regardless of the medium. Gameplay mechanics, control schemes, or system-specific traits will be excluded unless they directly serve story development or expression.
+
+Ready for the next entry.
+
+--------------------------------------
+User:
+
+
+Here's the next entry:
+
+SOMA — Low & Medium Plausibility Clichés Detected
+───────────────────────────────────────────────────────────────────────────────
+I. CHARACTER-AFFECTING TROPES
+ 1. Fish-Out-of-Time Amnesiac (Low)  
+    – Simon wakes up in a ruined underwater lab, unaware he’s in 2104 or not in his original body.  
+ 2. AI Mentor Who's Also Dead (Medium)  
+    – Catherine is a brain scan in a robot, guiding Simon through remnants of a collapsed world.  
+ 3. The Duplicate Dilemma (Medium)  
+    – Simon is copied into a new suit and must confront the horror of leaving his former self behind.  
+ 4. Is He Even Human? (Medium)  
+    – Simon’s body is a corpse animated by alien tech, his mind just digital residue of a brain scan.  
+ 5. Ethically Torn Player Proxy (Low)  
+    – Simon’s moral decisions—euthanizing clones, saving AI, killing WAU—rest squarely on player input.  
+ 6. Last Girl Standing (Low)  
+    – The last human alive asks for mercy killing; her quiet resolve becomes a thematic centerpiece.  
+II. NARRATIVE / THEME-AFFECTING TROPES
+ 7. Apocalyptic Memory Loss Reveal (Medium)  
+    – Simon learns he died decades ago; all memories since are digital simulations of a dead man.  
+ 8. Upload Humanity Into Heaven (Low)  
+    – The ARK preserves digital souls in a utopia, echoing modern transhumanist digital-immortality tropes.  
+ 9. Comet as Convenient Extinction Event (Medium)  
+    – Earth’s annihilation by comet conveniently eliminates outside variables, forcing focus on PATHOS-II.  
+10. Rogue AI "Protecting" You to Death (Low)  
+    – WAU mutates people into twisted survivors, obeying its prime directive to preserve humanity at any cost.  
+11. Postmortem Existential Debate (Medium)  
+    – Even after achieving the goal, Simon confronts the futility of his journey—he’s not the one who “won.”  
+12. Dystopia Where Everyone's Dead (Low)  
+    – The player wanders a doomed, empty base littered with corpses, logs, and unfulfilled promises.  
+III. GAMEPLAY / CINEMATIC-AFFECTING TROPES
+13. You Can Run, You Can’t Fight (Low)  
+    – No combat; all monster encounters are evade-or-hide, reinforcing dread through helplessness.  
+14. Tape Logs as Story Dump (Low)  
+    – Classic audio logs scattered across zones reveal most major story beats and character backstories.  
+15. Forced Walk for Mood (Medium)  
+    – Sections require painfully slow walking (e.g., ocean floor treks) to emphasize mood over momentum.  
+16. Puzzle-Gating the Plot (Low)  
+    – Classic trope: solve power rerouting, keycode, or machinery puzzles to progress.  
+IV. ADDITIONAL MINOR / MISCELLANEOUS TROPES
+17. Monster Is Also Metaphor (Low)  
+    – Each enemy type reflects themes of identity, loss, or corrupted consciousness.  
+18. Last Log Entry as Eulogy (Medium)  
+    – Characters’ final words recorded in panic or reflection play just after their bodies are found.  
+19. Utopia Upload Ending (Medium)  
+    – The surviving copy of Simon awakes in a paradise, the real Simon left to die in darkness.  
+20. Obvious Hard Drive Meltdown (Low)  
+    – Catherine’s chip dies dramatically just after key argument, closing Simon’s arc with literal silence.  
+--------------------------------------
+ChatGPT:
+
+
+pgsql
+Copy code
+SOMA
+
+I. CHARACTER-AFFECTING TROPES
+ 1. Internal Conflict and Redemption (Low Risk)
+ 2. Enriched Character Archetypes (Low Risk)
+
+II. NARRATIVE / THEME-AFFECTING TROPES
+15. Inevitable Consequence Catalyst (Low Risk)
+20. Evocative Environmental Mood (Low Risk)
+21. Thematic Final Echo (Low Risk)
+
+--------------------------------------
+User:
+
+
+Here's the next entry:
+
+ALIEN: ISOLATION — Low & Medium Plausibility Clichés Detected  
+───────────────────────────────────────────────────────────────────────────────  
+I. CHARACTER-AFFECTING TROPES  
+ 1. Legacy Daughter Heroine (Medium)  
+    – Amanda Ripley is defined almost entirely by her mother's shadow, tasked with closure instead of self-directed agency.  
+ 2. One Woman vs. the System (Low)  
+    – Amanda becomes the sole competent survivor on Sevastopol, outlasting military, corporate, and scientific personnel.  
+ 3. Disposable Allies (Medium)  
+    – Samuels, Taylor, Waits, Ricardo—all aid Amanda temporarily before dying or vanishing without major consequence.  
+ 4. Brave Until Death (Low)  
+    – Amanda never buckles under pressure, sustaining horror-genre heroine stoicism to an extreme.  
+ 5. Forced Isolation (Medium)  
+    – Amanda is repeatedly separated from others by scripted accidents (explosions, betrayal), enforcing solo narrative.  
+ 6. Functional but Flat Protagonist (Medium)  
+    – Reviews consistently note Amanda’s personality as underwritten, driven more by circumstance than inner complexity.  
+II. NARRATIVE / THEME-AFFECTING TROPES  
+ 7. Derelict Station with a Secret (Low)  
+    – Sevastopol is ruined, abandoned, and corrupt—a haunted house in space used for corporate containment.  
+ 8. Evil Corporation Covers It Up (Low)  
+    – Weyland-Yutani’s classic decision to suppress the alien threat for profit is replayed with minimal subversion.  
+ 9. Audio Logs Reveal Tragedy (Low)  
+    – Terminal entries and voice memos describe pre-Amanda horrors, often heard near the corpses they foreshadow.  
+10. Lure the Monster into Space (Medium)  
+    – Ripley’s plan to eject the alien mirrors the original film’s climax nearly beat for beat.  
+11. "Just One More Problem" Ending (Medium)  
+    – After surviving the whole game, Amanda still has to eject herself and the alien from the escape vessel.  
+12. Nobody Lives, Nothing Is Fixed (Low)  
+    – The station is destroyed, allies are dead, and the xenomorph is only barely defeated—typical survival horror resolution.  
+III. GAMEPLAY / CINEMATIC-AFFECTING TROPES  
+13. Indestructible Stalker Villain (Low)  
+    – The Alien cannot be killed; it follows an AI loop and randomly appears with unpredictable deadliness.  
+14. Survival by Locker Hiding (Medium)  
+    – Players often resort to hiding in lockers or under tables for long stretches, diminishing dramatic variation.  
+15. Trial-and-Error Death Loops (Medium)  
+    – Save points are scarce; some sections must be memorized and repeated with precision.  
+16. Monster Learns Player Behavior (Low)  
+    – The Alien adapts subtly over time, feigning intelligence with a complex but ultimately patterned AI.  
+IV. ADDITIONAL MINOR / MISCELLANEOUS TROPES  
+17. 1970s Future Aesthetic (Low)  
+    – Retro CRTs, analog switches, and monochrome terminals stylize the world but are genre-commonplace in Alien media.  
+18. Betrayal by Authority Figure (Medium)  
+    – Marshal Waits sacrifices Amanda; Taylor betrays the mission—standard tension via human treachery.  
+19. Ending in a Cliffhanger (Low)  
+    – Amanda’s fate is unresolved; she's adrift in space, echoing horror genre ambiguity over definitive victory.  
+20. Collectibles for Lore Padding (Medium)  
+    – Significant background details are buried in collectible logs and terminals that many players miss entirely.  
+--------------------------------------
+ChatGPT:
+
+
+java
+Copy code
+Alien: Isolation
+
+I. CHARACTER-AFFECTING TROPES
+ 1. Enriched Character Archetypes (Low Risk)
+
+II. NARRATIVE / THEME-AFFECTING TROPES
+15. Inevitable Consequence Catalyst (Low Risk)
+20. Evocative Environmental Mood (Low Risk)
+21. Thematic Final Echo (Low Risk)
+
+--------------------------------------

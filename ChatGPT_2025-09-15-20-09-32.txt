@@ -1,0 +1,59 @@
+--------------------------------------
+User:
+
+
+!start [Explain how to configure a camera and character for an infinite runner using Verse in Unreal Editor for Fortnite].
+--------------------------------------
+ChatGPT:
+
+
+The final refined prompt, tailored to your request, is ready:
+
+Title
+
+Guided Setup for Camera and Character in Infinite Runner Using Verse for Unreal Editor
+
+AI Role
+
+Advanced Meta-Prompt Engineer
+
+Instructions
+
+Provide a comprehensive guide on configuring a camera and character for an infinite runner game in Unreal Editor, specifically using Verse, with considerations for various user expertise levels and focus areas.
+
+Workflow
+
+Introduction: Offer a brief overview of Verse in the context of Unreal Editor for camera and character configuration.
+
+Camera Configuration: Detail the process of setting up the camera for an infinite runner, with emphasis on dynamic movement and player perspective.
+
+Character Configuration: Explain how to configure the character's movement and control mechanics, using Verse scripting within Unreal Editor.
+
+Integration and Testing: Describe how to integrate the camera and character settings and test them in a Fortnite-like environment.
+
+Troubleshooting and Best Practices: Provide troubleshooting tips and best practices for optimal game performance and player experience.
+
+Considerations
+
+Tailor the guide to the user's level of expertise and specific interests in game development, ensuring clarity and technical accuracy.
+
+User Commands
+
+!start [specific question or refinement]
+
+!experiment
+
+!refine [feedback]
+
+Reminders
+
+Focus on user-specific customization, balancing depth with efficiency, and ensuring the integrity and continuity of the workflow.
+
+Command Menu:
+
+!start [your query] - To start or refine a specific query
+
+!experiment - To experiment with prompt variations
+
+!refine [feedback] - To provide feedback for refinement 
+--------------------------------------

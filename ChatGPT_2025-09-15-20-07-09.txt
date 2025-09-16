@@ -1,0 +1,155 @@
+--------------------------------------
+User:
+
+
+Give me a single exhaustive & verbose sentence that lays out the user-visible purpose and possibilities of every respective function and setting available for OpenAI's new Codex platform.
+
+Clarification:one-sentence-per-function/setting.
+--------------------------------------
+User:
+
+
+The previous prompt resulted in an error message reading "The network connection was lost." with a "Retry" button 3 times in a row. How could I reword my prompt to avoid a 4 error?
+--------------------------------------
+ChatGPT:
+
+
+Here are a few re-phrasings (and why they’re less likely to trip the system) —pick whichever best matches what you need:
+
+Goal	Safer re-worded prompt	Why it helps
+Keep everything but remove the “single sentence” strain	“For each user-visible function and setting in OpenAI Codex, give me one clear sentence that states its main purpose and typical uses.”	Removes the “exhaustive & verbose single sentence” constraint, so the model can respond in shorter chunks and stay within token limits.
+Allow multi-step output if there are many items	“List all user-visible functions and settings in OpenAI Codex and, for each, add one explanatory sentence about its purpose and possibilities. You can respond in multiple numbered chunks if needed.”	Grants permission to break the answer into several messages, avoiding oversized replies that sometimes cause connection drops.
+Split the request into two manageable parts	Part 1: “Name every user-visible function and setting in OpenAI Codex.” Part 2 (after it answers): “Now give me one descriptive sentence for each item.”	Reduces complexity per call; you only risk network issues on much smaller messages.
+If you truly need one giant sentence per item (but not one mega-sentence overall)	“Produce a paragraph in which each sentence (no commas or semicolons inside) describes one distinct user-visible function or setting of OpenAI Codex: state purpose + possibilities.”	Clarifies that you want multiple sentences, each short, instead of one monster sentence; still satisfies “one-sentence-per-function.”
+When detail matters more than completeness	“Summarise the most important user-visible functions/settings of OpenAI Codex, giving one concise explanatory sentence apiece.”	Narrows scope so the model can answer without hitting maximum length or timing out.
+
+Extra tips
+
+Avoid words like “exhaustive & verbose” and “single sentence”—they push the model toward very long outputs that sometimes exceed internal limits.
+
+Explicitly allow multi-message or chunked replies if the list might be long.
+
+Break big requests into sequential steps whenever you see recurrent network-connection errors; you can recombine the answers yourself afterward.
+
+Remember that occasional “network connection was lost” pop-ups can be front-end glitches—retry once, then simplify or shorten if it happens repeatedly.
+
+Try one of the re-wordings above and you should sidestep the fourth error.
+--------------------------------------
+User:
+
+
+Produce a paragraph in which each sentence (no commas or semicolons inside) describes one distinct user-visible function or setting of OpenAI Codex: state purpose + possibilities.
+--------------------------------------
+ChatGPT:
+
+
+Codex Cloud Agent lets you delegate coding work so it can write features and answer codebase questions and run tests and draft pull requests in secure isolated sandboxes tied to your repository. 
+OpenAI
+OpenAI
+The Verge
+WIRED
+
+You start Codex tasks in ChatGPT by choosing Code to assign work or Ask to query your codebase giving you quick control from the sidebar. 
+OpenAI
+The Verge
+
+Each Codex task runs in its own preloaded environment that can read and edit files and keeps your project separated for safety. 
+OpenAI
+WIRED
+
+Codex can execute many tasks in parallel so you can queue a morning list of jobs and return later to review results. 
+OpenAI
+OpenAI
+The Verge
+
+Codex generates new code and implements requested features from plain language descriptions or starter snippets. 
+The Verge
+Microsoft Learn
+OpenAI
+
+Codex answers deep questions about unfamiliar code helping you navigate directories and understand how components fit together. 
+OpenAI
+WIRED
+
+Codex finds and fixes bugs by reading your code running checks and applying targeted edits. 
+OpenAI
+The Verge
+
+Codex can run test harnesses linters and type checkers to validate its changes before you merge. 
+OpenAI
+WIRED
+
+Codex drafts pull requests that bundle its code changes and explanations for human review workflows. 
+OpenAI
+OpenAI
+
+Codex operates a virtual computer where it can run commands explore folders and modify source directly under your supervision. 
+WIRED
+The Verge
+OpenAI
+
+Codex limits external network access and uses isolation to reduce security risk while it works on your code. 
+The Verge
+WIRED
+OpenAI
+
+Codex access is rolling out inside ChatGPT for Pro and Enterprise and Team and Plus accounts with education access planned. 
+OpenAI
+The Verge
+
+Codex CLI is a lightweight local terminal agent you can pair with to write edit and understand code from the command line. 
+OpenAI
+WIRED
+
+Telling Codex which programming language and version you want improves relevance and syntax accuracy in its suggestions. 
+Microsoft Learn
+OpenAI Help Center
+
+Naming the libraries and versions you expect guides Codex to import and use the right APIs in generated code. 
+Microsoft Learn
+OpenAI Help Center
+
+Clear structured comments and docstrings in your source help Codex produce higher quality completions that match your intent. 
+Microsoft Learn
+OpenAI Help Center
+
+Putting descriptive comments inside functions clarifies behavior and yields more precise Codex edits. 
+Microsoft Learn
+OpenAI Help Center
+
+Providing example inputs and outputs or style samples steers Codex toward the format and precision you need. 
+Microsoft Learn
+OpenAI Help Center
+
+The temperature setting controls how adventurous Codex is in choosing less likely tokens so lower values give focused answers and higher values give creative variations. 
+OpenAI Help Center
+Microsoft Learn
+
+The top_p setting uses nucleus sampling to limit choices to tokens within a probability mass so lower values tighten and higher values broaden diversity and you usually tune temperature or top_p not both. 
+Microsoft Learn
+Microsoft Learn
+
+The max_completion_tokens setting places a hard ceiling on how many tokens Codex will generate helping you manage cost length and latency. 
+OpenAI Help Center
+Microsoft Learn
+OpenAI Help Center
+
+Stop sequences tell Codex to halt generation when specific strings appear letting you bound sections lists or formats cleanly. 
+OpenAI Help Center
+OpenAI Help Center
+Microsoft Learn
+
+The n setting asks Codex to return multiple alternative completions in one call so you can compare and pick the best. 
+OpenAI Help Center
+Microsoft Learn
+
+The presence_penalty setting discourages Codex from repeating tokens it has already used encouraging new topics or vocabulary. 
+Microsoft Learn
+
+The frequency_penalty setting scales down the chance of tokens that appear many times so Codex repeats itself less. 
+Microsoft Learn
+
+The model setting lets you pick which Codex or other OpenAI model variant to run balancing capability speed and cost for your task. 
+OpenAI Help Center
+The Verge
+--------------------------------------

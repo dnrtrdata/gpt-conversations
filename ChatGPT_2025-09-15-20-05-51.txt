@@ -1,0 +1,672 @@
+--------------------------------------
+User:
+
+
+Prediction markets. Use the following as a basis, then research what makes prediction markets so accurate -- include historical examples well known in American pop-culture. Then provide any/all available competing methods of predicting an outcome:
+Robin Hanson: in-depth interview on prediction markets - Sintetia
+Pioneer, evangelist and solid defensor of prediction markets. He is the benchmark for any topic regarding prediction markets, and he is the one able to discuss even with Nassim Taleb explaining which are the weaknesses, and which are not of this technology. Robin is the right choice to explain the potential benefits for the society of using prediction markets.
+
+I was honoured to do a couple of interviews on Skype with Robin (yep! I said two, as I’m not a techie and my first try to record it wasn’t successful). We talked about the inception of prediction markets, his own expirience using them in coporations, and of course, about the potential future of this technology.
+
+Robin_Hanson
+There is no doubt that Robin is one the most influential ecnomist nowadays. He shares recognition with Tyler Coewn when anybody want a delibarated thought on how the future may be in our economy, Robin is the man to ask. You will find him participating in everything related to forecasting based on the wisdom of crowds. His prejects have been funded by the government (a couple of his «markets» have been funded by IARPA, both PAM late in the 90’s and SciCast these days), or they’ve developed into a private company (he is Chief Economist of Consensus Point).
+
+By the way, did I tell you that Robin gave a speech on «Prediction Engines» during the last Microsoft Summit 2013, talking just after the inaugural conference of Bill Gates. Actually, Microsoft Research is one of the very first entities to invest in this new technology (we should mention here David Pennock and David Rotschild  as  key economists too), together with companies like Google, Yahoo!, Intel or HP. No doubt we are talking about a promosing new way to forecast any kind of event. We will explote its stregnths and weaknesses.
+
+If you fully go through this in-depth interview, you’ll be completing succesfully a serious introduction to this field. Next thing you may do is just start predicting the future, today! Join Scicast.org and learn what will be new trends in sciencie and techonology.
+
+Robin_Hanson_Microsoft
+– Should we say «wisdom of crowds» or «wisdom of markets»? Where is it the predictive power, if any?
+
+Prediction markets are a mechanism, an institution, to be used by a pool of participants and a set of questions. And, in order to get this pool of participants to answer you need to give them incentives. Holding constant the participants, the incentives and the questions, we can vary the institution. We can imagine different sets of institutions in that place. It could be a political committee, a voting pool, or a prediction market. So the claim about prediction markets is that, holding constant these other things, the prediction market would be a better institution, giving you more accurate answers to your questions.
+
+Prediction markets are not about a particular kinds of persons or questions, or even a particular kind of incentives: they are about how to combine those things to get good answers.
+
+When people talk about the wisdom of crowds, they say that ordinary people know more than what they are being given credit for, or that there are some self appointed experts who aren’t really the best experts, and that it would be good for society to listen more to the crowd of ordinary people than to the experts. There is maybe some truth to that, but prediction markets aren’t about that question, because prediction markets can be used by a small number of people who know a lot as well as by a large number of people who know a little.
+
+More fundamentally, prediction markets are a way the community selects and decides who are the real experts. So with a prediction market you are less sensitive to who you include. If you include a bunch of ordinary people and a group of experts, they will choose how much to participate based on their own expectation of how well they will do. On a topic where real experts have deep knowledge, ordinary people will back off, letting them answer because they really know more. There will also be topics where experts realize they cannot know anything better than anybody else, and when it comes down to betting, they will back off, shut up, and find excuses to do something else. In that case, the ordinary crowd will speak up, because they are the relevant experts.
+
+– Do prediction markets collide with the (in)efficiency of financial markets?
+
+Prediction markets are much more specific than markets in general. This is not about all potential markets, it’s about speculative markets. And speculative for a particular purpose. Most financial markets function to trade or hedge risks, and they have a side effect of aggregating information, but they are not purely created for that. And that’s not the main reason why their customers and participants are there.
+
+So prediction markets are speculative and their purpose is aggregating information. There is some set of customers who want to know something, and are willing to pay for it. And that’s what creates a prediction market. So it’s a similar mechanism with a different purpose.
+
+Nevertheless, the experience of financial markets says that sometimes they are inaccurate. It’s clearly true that speculative markets are not always accurate about everything. But the right comparison is about speculative markets in reality compared to another institution in reality. There is a large literature in financial markets that tries to compare real financial markets with ideal financial markets, or a theoretical idea about them that doesn’t make mistakes nearly as often. But the practical question is: which other actual practical institutions can we use instead? And when we compare the performance of speculative markets with that of polls and committees, the speculative market approach seems to do very well in comparison.
+
+https://www.consensuspoint.com/
+– Does money really matter in Prediction Markets? Justin Wolfers says no.
+
+Everyone would agree that you need incentives that the participants care about, and money is often an effective way to motivate people to do things. When people are not motivated at all, they don’t do much of anything, and in prediction markets you need people to be motivated to join and to constantly pay attention. They need to care about winning or losing, so there needs to be something at stake. It could be reputation among a group they care about, it could be a status, it could be t-shirts, meeting with the CEO or extra free time. There are lots of things people could care about, but you need something that motivates all the group.
+
+But if you include a lot of people in the group that do not know each other, it’s hard to find something they care about together besides money. So money is a very flexible and convenient incentive to get people motivated, but it’s not the only thing they care about.
+
+– Do we need «another» Intrade?
+
+I would really approve of having more public prediction markets with real money, but there are still a lot of regulatory barriers. Intrade was a prediction market in the sense that it aggregated information for the topics they were offering, but it not was not a prediction market in the sense that it did not offer to pay people primarily to answer those questions. It was more like a traditional betting market, stock market or other financial market, in that prices were side effect of people trading for other reasons. So I’d say it’d be good to have more financial markets in general on different topics, but that’s not the same as having more prediction markets. In order to have more prediction markets we need markets where there is a particular customer who wants the answer to a question and is willing to pay for that, and that entices the other participants of the market.
+
+– So, would you say that there are different kinds of prediction markets?
+
+Yes. There are two basic kinds of prediction markets. The first one are the markets that are open to the public, where everybody in the world can contribute to a question. The second kind exists within an organization, a corporate or a firm. This second type of market is focused on the topics that are of interest of the specific organization, and the often function just with inner participants from the organization.
+
+These regulatory laws refer to the first kind of prediction market, but the second kind of prediction markets are actually legal. So many firms have and continue to develop prediction markets within themselves, and those markets are the ones I have the most hope for demonstrating their predictive power; once we demonstrate this, we could move towards more public markets.
+
+– Why do we have prejudices against bets? Is the world nowadays more prepared to understand the information aggregation power of betting?
+
+We’ve known about bets and gambling for many centuries. For a very long time, gambling was a common activity among many people, something that could be done for entertainment. But since it was not considered very productive, laws and rules began to be put  in place preventing people from gambling, so that people wouldn’t lose time and resources on it.
+
+Most of the financial markets we have today were at one time prohibited, also accused of being unproductive gambling. So stock markets, insurance markets, commodity futures markets and options were once illegal and their advocates had to show that, even though they might look like gambling, they had a useful purpose and they deserved a separate legal protection and a regulatory coverage.
+
+And this is the hope of prediction markets: to carve space in people’s mind for not being considered useless gambling, since they are useful in a new way and have a purpose.
+
+– You have mentioned that trying to sell internal prediction markets is tough. Which are the barriers of entry you may have noticed with your company Consensus Point?
+
+Prediction markets inside firms have consistently given more accurate forecasts than the previous forecasting systems that the companies had in place before their arrival. They have a very consistent accuracy trackrecord. Lots of major organization make a lot of decisions that depend on forecasts, so forecast accuracy is an important contribution to be efficient in those decisions. In that sense, firm-specific predictions markets should be very useful in a wide range of purposes.
+
+shutterstock_152033192
+However, starting prediction markets inside companies is not easy. First, it’s difficult to convince organizations that prediction markets can improve their forecasts. Then, when companies decide that they are interested, they usually do so because they want to do something new and cool, something sexy so as to come up in the news. But when we go and start to set up the market and try to put the questions that are central to the organization, they usually shy away. They say things like “That looks a little too sensitive and political”, or “We don’t want predictions markets on questions that are that sensitive, at least at first”; “We want questions on something else that people would feel more comfortable with”, and they choose questions that are far away from their key activities. And it sometimes happens that when they get the right answers from the market they realize that they didn’t care that much about the things they asked, lose interest and go away.
+
+Other times, they realize they do care about them but they care too much. Some of the most dramatic successes in prediction markets within organizations are about deadlines and project completion dates. And very often prediction markets have very accurately predicted that a deadline would not be matched even though everybody was internally saying the contrary. And, paradoxically, those successes do not encourage corporations to use prediction markets more. When this happens, someone has been embarrassed, and it’s usually the person in charge of the project to miss the deadline. After the failure, the responsible person usually tries to argue that “no one could have known or foreseen that”, that “it came out of the blue and therefore I shouldn’t be blame for the failure”. That’s a hard story to tell when there is a track record warning “this is going to fail, this is going to fail, this is going to fail”. As one would expect, these people don’t want prediction markets to be in place, and are usually capable of convincing their manager to get rid of prediction markets so that they not embarrassed again in the future.
+
+–  Tetlock and Gardner tell us a similar story: “people have aversion to acknowledging their ignorance”. Do you agree with this statement?
+
+Organizations seem surprisingly disinterested in the real accuracy of their own predictions, and there are a lot of explanations we can offer.
+
+One possible reason is jsut that organizations don’t want to admit that they don’t know, and that’s also one of the reasons why randomized trials are not well seen. When you do a randomized trial your must admit that you do not know the answer, and some organizations cannot just admit this.
+
+Moreover, when you want to be able to say “no one could have known what happened”, you have a problem if you have a prediction market where other peopke did indeed know.
+
+There are also other explanations: managers in charge of a project are trying to obtain the maximum effort out of it, and one way to do it is to put people right on its edge. “Only if we all work hard and together we may get to this deadline”. And to pretend you are really on that edge line, the probability of making the deadline should be close to 50%, but if the estimated probability from the market was in 90% or 10%, the workers would be less motivated to work hard in order to make it. So, in order to get the maximum out of employees, the managers sometimes have to mislead them, telling them is more likely they are in the 50% range. When a prediction market contradicts them, that can be an obstacle for the manager trying to get the best effort from their team.
+
+– Tell us a little bit about the project Policy Analysis Markets (PAM), in which you also suffered some obstacles…
+
+In 2003, I was part of a research project that was going to go live with a prediction market about geopolitical events in the Middle East. Two senators held a press conference where they declared to everybody that the government was trying to set up a prediction market about a terrorist attack and that this was a terribly immoral thing that we should stop immediately. In fact, it was stopped within a day without the people who stopped it talking to us about the project, maybe because it seemed to be just an obviously immoral thing to do.
+
+Thus, the problem was not a concern about the information, but about violating a moral principal that I’d phrase like “no one of us should intend to benefit when one of them hurt some of us”. The truth was that this was not a market on terrorist attacks, which was an incorrect accusation, but the politicians decided nevertheless they would get bad press if they waited too long to take the decision.
+
+– What about life insurance policies? We are betting about death and life expectancy. Why don’t we have these moral barriers here?         
+
+We had a similar barrier before the existence of this insurance market, but the life insurance industry managed to portray itself as something different and useful: “You are a responsible father who cares about your family, and you will ensure they can continue comfortable after your death; therefore, you should let them bet on your death”. And this is what life insurance is: letting your family betting on your death. Because it seems to serve this important function, it seems to be acceptable.
+
+Once prediction markets start to be more a common practice and people see the positive information benefits that they produce we could reinforce the fact that this is not a generic bet, but we are not yet at the moment.
+
+–  People may have difficulties relying on an ordinary crowd when looking for wisdon. What do we need in a crowd in order to expect a good forecast from them?
+
+When you have a question, somebody among the participant should know something about it. That is the key constraint. If nobody knows anything, you’re in trouble. Prediction markets cannot include information that none of your participants know. However, if only a few of your participants know something and the rest of them don’t, that could work out fine, as long as the other people who don’t know much are aware that they don’t know. So, more than the average quality of your audience, the importance lies in the extreme qualities. You should be much less concerned about excluding people that may do harm than about including people who might help. Prediction markets are more robust to “bozos”. If you are holding a political committee with 12 people and 7 of them are bozos, your committee is gonna do badly. In markets, the bozos who know they are a bozo, shut up, and let the other people speak, In a prediction market you can have 90% bozos and it can still work fine because people who do know can dominate the prediction market more effectively.
+
+– This brings us again to Tetlock and Gardner. Is “being a fox” a dominant strategy over “being a hedgehog”? Should we aim to be foxes, learning a little bit of a broad range of things, or should we focus on mastering a single field? Tetlock says foxes predict better, but Adam Smith says specialization is the rule to follow.
+
+If you create a prediction market about questions you care about and you give sufficient incentives to the participants, you just need to get as many participants as you can of whatever sort you can. It shouldn’t be up to you to tell them how to invest, or when to invest or where to invest, or which strategies they should you use. You might give some advice, but you don’t need to be very insistent about it. The whole point of a prediction market is that they will self-select. Strategies that do not work will be punished, and those who do work well will be rewarded; this second group of people will dominate and the rest of people may come to copy their strategy.
+
+
+So, if the hedgehog strategy is worse, as it seems to be from Tetlock’s analysis, which I perfectly believe, then prediction markets participants will tend not to use the hedgehogs strategy, because they would lose that way. But the big advantage of the prediction market is that you don’t have to decide which strategy they use, you don’t have to decide whether you need more PhDs or or psychology graduates, or if you need only adults or only men. You don’t have to decide what is an and expert: they self-select.
+
+–  Forecasts of prediction markets are model-free. We do not impose a model to estimate the outcomes. Are they reliable?
+
+The most straight forward answer is to take a look at their track record and their accuracy, especially if you can compare it to the track record of some other method. If you want to convince people that prediction markets are reliable that track record is by far the strongest evidence you can use.
+
+So there is an interesting question, why are people still are reluctant to use the prediction markets after seeing their succesful track record? One of the reasons is the complex use of credentialism or treatment of experts. On most organizations, we use degrees and positions as a way to decide who is important and who gets to speak, and prediction markets are violating that by speaking without degrees or positions of authority.
+
+In many organizations, people pretend to be trying to collect information in order to make the best decisions overall for the organization. But what they are actually doing is a lot of politics deciding who is in which side and who has the majority of influence, so there is not an actual passion for information within the organization. That’s why there are not that much interested on new real information.
+
+– Tell us something about the very new project SciCast. How is it going so far?
+
+I’m part of a project named SciCast, funded by IARPA, which is an intelligence research part of the US defense agency. You can see how it works on scicast.org. It has hundreds of participants and hundreds of questions about science and technology and it’s a proof of concept of a new technology for doing prediction markets which is called combinatorial prediction markets.
+
+The key difference is that here there is not just a hundreds of questions on which you can express your opinion on, and disagree with other people and change the price.
+
+https://scicast.org
+This means the system gives not just marginal probabilities on each particular answer, the market gives a joint probability distribution on all combinations of answers, which has much more information and much more detail about the relationships between answers. For example, think of this question: “If technology A is achieved, what is the probability of other technologies being achieved as a result?”. This way, we can go and browse those dependencies and get what the market thinks  of how technologies depend on each other, after which you can go contribute your opinion about those dependancies.
+
+– Automated market-making algorithms or pure inventory-based marke-making? Which method is better for information aggregation in markets?
+
+A human market maker can be inventory based, or a human market market could base his trades on something else, similarly for automated market makers. Being inventory-based is just a robust way to keep yourself from been cheated in the worst case. So an inventory-based market maker’s main advantage is that they only lose so much, and you can prove that the organizer can limit its losses. So if you expect your market maker to be really stupid compared to the traders that he’s playing against, you can expect they’ll try to outsmart him and take advantage of him whenever they can find it. If you expect to be taken advantage in that way you want to be simple and robust. So an inventory-based market maker is a simple way to avoid losing.
+
+But if you know that you have traders that try to be clever and take advantage of you in any possible way, you can create a market maker that tries to be more ambitious, tries to do more things and might not be taken advantage, you might instead help the market and allow more trades between other parties and provide more liquidity.
+
+– «Crowdsourcing Economy»: a bubble or the future? Any particular field where you are more optimistic? Healthcare (CrowdMed), credit ratings (Cdling), market research (Infosurv, Indingo), corporates (Consensus Point, QMarkets) gambling (Predictious, SMarkets), scientfic purposes (PredictWise, SciCast) …
+
+I’m not very optimistic about the crowdsourcing economy. I dislike the connection made in people’s mind between crowdsourcing and prediction markets. They are separate approaches for separate problems. Prediction markets are a way to buy information if you are willing to pay for it and there area people out there who might have access to the information you want. Crowdsourcing, in contrast, is the idea that instead of paying employees to do things for you, you might get people on the internet to do those things for free if only you manage to make the job fun enough.
+
+Some people have managed to make jobs fun enough to get random people to do it for free rather than having to pay employees to do it. I’m not very optimistic about that as a general way of where the economy is going to go. Most things that need to be done in the world simply cannot be made fun enough so as to be able to fire employees and get other people to do it for free. And these include most of the things you may want prediction markets for.
+
+Prediction markets are a new and powerful technology for paying less to get more accurate information from people, but they do require people get paid in some way.
+
+The long term path is having some big organizations using prediction markets consistently and getting added value. That way, neighboring organizations would start to pick up in similar industries and similar circumstances and the mechanism would slowly spread until lots of organizations used it and wouldn’t think about not using it.
+
+So, generally, my hope is that it becomes like cost accounting is today. Imagine a world where nobody did cost accounting and you proposed that your company do cost accounting. That would look bad. You’d be basically accusing somebody around that he is stealing. And now imagine a world like ours where everybody does cost accounting, and you propose that your company do not do cost accounting. You’d be basically saying, “I wanna steal, so please, look the other way”. That would also look bad.
+
+Similarly we can hope that eventually prediction markets will become a standard that everybody uses, and that it would look bad not to use it  In a world where nobody is using prediction markets suggesting that we use them is saying that we have a problem with people not telling the truth, even though we should all want the truth. That looks kind of bad. So I have a hope that eventually prediction markets just become the standard thing you do as a responsible manager on a project, just like cost accounting is the standard way a manager makes its finances. It’s not because it’s a Nobel grand thing that excites everybody; it’s because its looks bad not to do it.
+
+Robin Hanson
+
+Associate professor of economics, George Mason University
+
+Chief scientist, Consensus Point.
+--------------------------------------
+ChatGPT:
+
+
+To expand on your request, could you clarify a few points?
+
+Are you primarily interested in how prediction markets have outperformed other forecasting methods in specific historical cases (e.g., elections, sports, etc.)?
+
+Should I include statistical comparisons with alternative methods such as expert panels, polls, machine learning models, or Delphi techniques?
+
+Do you want this to be presented in a particular format (e.g., report, summary with bullet points, table comparisons)?
+
+Let me know so I can tailor the research accordingly.
+--------------------------------------
+User:
+
+
+1. Yes
+2. also yes.
+3. In-depth essay format. Place all the listed sources after the material, not embedded in each paragraph.
+--------------------------------------
+ChatGPT:
+
+
+Great. I’ll compile an in-depth essay on what makes prediction markets so accurate, highlighting historical examples especially known in American pop culture (like political elections or sports), and compare them to competing methods such as polling, expert panels, machine learning, and Delphi techniques. I’ll also include a detailed source list at the end of the essay instead of citing them inline.
+
+I’ll let you know once the research is complete and the essay is ready for your review.
+--------------------------------------
+ChatGPT:
+
+
+Prediction Markets: Mechanism and Accuracy
+
+Prediction markets are speculative exchanges where participants buy and sell contracts tied to future events (e.g. election outcomes, movie box-office, sports results). Each contract pays off (usually $1) if a specified event occurs, and otherwise $0. Market prices (often in cents on the dollar) can be interpreted as the market’s collective probability of the event. For example, if the contract “Candidate A wins” trades at 70 cents, that implies a 70% implied probability. This price dynamics forces anyone who disagrees with the odds to put real (or virtual) stakes on the line, incentivizing them to reveal information they have. Over time, all available information and analysis tends to be “priced in” as traders buy underpriced outcomes and sell overpriced ones. As Investopedia notes, “the market prices generated… can be understood as a kind of collective prediction among market participants,” and prices generally indicate what the crowd thinks the probability is
+investopedia.com
+investopedia.com
+. In effect, prediction markets harness the wisdom of crowds and financial incentives: experts and informed individuals are rewarded for putting their money on correct forecasts, while uninformed or wrong opinions are driven out by losses.
+
+ 
+
+Empirical evidence shows that prediction markets can be remarkably accurate. For instance, the Iowa Electronic Markets (IEM) – one of the oldest real-money political futures markets (started in 1988) – consistently produced election forecasts very close to actual vote shares. A Harvard Law Review analysis found that in each U.S. presidential election from 1988 through 2000, the IEM prediction was within about 1.5 percentage points of the final vote
+daily.jstor.org
+. This was slightly better than contemporary opinion polls, which had error rates over 1.9 points. Similarly, in the recent 2024 U.S. presidential election, a blockchain-based prediction market (Polymarket) outperformed traditional polls: it assigned higher winning odds to the eventual winner and was closer to the Electoral College results
+uc.edu
+. As a University of Cincinnati economist observed, “the polls are just people’s opinions; the pundits had their opinions, but there really are no consequences if they got it wrong… If you got it wrong in the prediction market side, then you lost significant amounts of money”
+uc.edu
+. In other words, because prediction markets impose real financial consequences for incorrect predictions, they tend to aggregate private information and incentives in a way polls do not.
+
+ 
+
+Several factors contribute to this accuracy. First, incentives matter: traders stand to gain or lose money on their forecasts, so they are motivated to use all relevant information. Michael Jones of UC Digital Futures notes that prediction markets “democratize information collection” by letting individuals bet using their secret knowledge and experiences, aggregating all these private signals into market prices
+uc.edu
+. By contrast, polling merely captures self-reported intentions at a moment in time, without any stake. Second, markets allow continuous updating. As new news comes out (e.g. campaign developments, natural events), traders immediately adjust prices. This real-time feedback loop is far more dynamic than static forecasts or polls taken infrequently. Third, prediction markets automatically weight experts versus novices. As economist Robin Hanson explains, people with relevant expertise will bet confidently and move the market when they have information; laypersons or “bozos” who lack real insight will either stay out or quickly lose money and drop out
+investopedia.com
+. In practice, if experts dominate a subject, their bets will set the probabilities; if no one has special insight, the broader crowd of modestly informed people carries the forecast. This self-selection ensures the “wisdom of markets” in using the right participants, rather than relying solely on pre-selected analysts or committees.
+
+ 
+
+Moreover, research from IARPA’s forecasting tournaments confirms markets’ strength. Besides the Iowa example, many corporate and government prediction markets have shown accuracy gains. Companies like Google, Microsoft, Intel and Eli Lilly have run internal markets on project deadlines and product launches; as Hanson notes, these markets “have consistently given more accurate forecasts than the previous forecasting systems” those companies used
+daily.jstor.org
+. In forecasting competitions, researchers even combine markets with other techniques (see below) and find that well-designed markets or hybrid markets outperform naïve polling or expert consensus. In short, prediction markets leverage incentives, information, and statistical aggregation to often outperform other methods
+daily.jstor.org
+investopedia.com
+.
+
+Historical & Pop-Culture Examples
+
+The idea of crowdsourced forecasting predates modern markets, but prediction markets have notable origins in American popular culture and business. A famous pre-history is Sir Francis Galton’s 1907 livestock-judging contest: hundreds of fairgoers guessed an ox’s weight, and the average guess was within 1 pound of the true weight
+daily.jstor.org
+. This “wisdom of the crowd” insight foreshadows prediction markets. In the modern era, one of the first organized prediction markets was Robin Hanson’s internal market at the Project Xanadu tech startup in 1990 (with futuristic hypertext pioneers)
+daily.jstor.org
+.
+
+ 
+
+Another early and well-known example is the Hollywood Stock Exchange (HSX), launched in 1996 as an online game where participants traded “MovieStocks” and “StarBonds” predicting box-office performance and film awards. HSX proved not only popular (a dot-com buzz item) but surprisingly predictive. Modern variations of HSX-inspired markets still exist: for example, Cantor Fitzgerald has used HSX movie prices to set real-money gambling odds on film grosses in the UK
+investopedia.com
+investopedia.com
+. Indeed, prediction markets have been applied broadly to entertainment. For instance, betting markets and polling have reliably forecast Oscar winners and Emmy results. One analysis noted that a particular Oscar-focused market correctly picked about 79% of winners at the 2015 Academy Awards
+investopedia.com
+. In the realm of music and culture, sites like Covers.com highlight “pop culture markets” – for example, questions about whether a popular Broadway movie (“Wicked”) will earn a certain amount or whether TikTok will be banned by a deadline
+covers.com
+covers.com
+. Such markets, while niche, show how fans and bettors crowdsourced predictions on American cultural events.
+
+ 
+
+Political forecasting is another arena where prediction markets entered pop awareness. Intrade (Ireland-based, late 2000s) became famous among U.S. observers by offering contracts on U.S. elections (pre-2012) and policy events – effectively a stock market for political outcomes. Although U.S. federal law limited domestic real-money markets, people would follow Intrade prices to gauge the chances of presidents or senators. When PredictIt (a New Zealand-run site) began US-legal election markets, it quickly gained media attention: its prices during the 2020 election were widely discussed. In the 2024 U.S. election, for example, Polymarket (a blockchain market) gave higher odds to the winner than polls did
+uc.edu
+, showing how the public has learned to treat market predictions seriously. Sports fans likewise tacitly use prediction markets in daily betting exchanges, though mainstream sportsbooks often prohibit novelty bets. As noted by Covers.com, standard U.S. betting outlets cannot offer wagers on things like the Presidential election or the Oscars due to regulations
+covers.com
+, but prediction-market platforms (often online and partly crypto-based) do allow such bets. Thus, in American pop culture, prediction markets lurk behind the scenes of fandom and media: they are “the stock market for politics” or “the game for predicting pop culture,” as enthusiasts sometimes call them.
+
+Why Are Prediction Markets Accurate?
+
+Prediction markets succeed by converting disparate information into a single price. Several key reasons explain this:
+
+Incentives and Skin in the Game: Money (or valuable rewards) on the line ensure participants do their best forecasting. As Michael Jones put it, participants “started to realize there’s information contained in these prediction markets, so we should take them seriously” because losses mean real consequences
+uc.edu
+.
+
+Aggregation of Private Information: Each trader may have bits of unique knowledge (insider info, specialist analysis, personal data). Markets pool this private information. When one trader “knows” something others don’t, they bet accordingly, shifting the price. Over many trades, all signals combine. This process is akin to Friedrich Hayek’s idea of markets aggregating dispersed knowledge.
+
+Self-selection of Expertise: As noted, experts naturally commit more often when they can contribute, and uninterested or uninformed traders bow out. Robin Hanson emphasizes that in a prediction market, “the community selects who are the real experts.” Experts dominate on their subjects, while casual participants win out when no real experts exist
+investopedia.com
+. Thus accuracy doesn’t depend on managers hand-picking forecasters; the market does it organically.
+
+Continuous Updating: Unlike one-time forecasts, markets update continuously. When new data appears (e.g. poll results, financial earnings, expert statements), traders can instantaneously adjust their bets. This real-time quality is especially valuable for fast-moving events.
+
+Statistical Learning: Large markets with many trades effectively perform a statistical weighting of opinions. Weights shift toward successful forecasters (their capital grows) and away from losers. Over time this mirrors optimal weighting schemes. Forecasting tournaments have even shown that weighting experts by track record (similar to how markets reward winners with money) improves accuracy
+almanac.upenn.edu
+.
+
+In summary, prediction markets excel because they literally bet on the truth. Everyone who participates risks something, so only well-founded beliefs survive in the price. As one review notes, prediction markets “can be thought of as a general concept of crowdsourcing… pulling information from every available source” to improve estimates
+investopedia.com
+.
+
+Examples of Forecast Accuracy
+
+Historical results back this up. We mentioned the Iowa markets’ presidential forecasts
+daily.jstor.org
+ and the recent Polymarket 2024 result
+uc.edu
+. More broadly, many studies have found that prediction markets often beat opinion polls or expert surveys. For example, Iowa’s markets in the 2000s generally nailed elections better than polling averages. Hollywood’s markets often get award winners right at high rates. In corporate tests, markets predicted project completion dates and product sales more accurately than managers did. (One dramatic case: a firm’s internal market predicted a project deadline would be missed even when managers insisted it would meet it.) These successes reinforce why proponents like Hanson say markets “tend to be quite accurate”
+investopedia.com
+.
+
+ 
+
+Of course, markets are not infallible. They can be thrown off by extreme noise or if few participants have information. Notable misses include wrong odds on the 2016 U.S. election or Brexit (polls missed those too)
+daily.jstor.org
+. But even failures often contain lessons: they may signal hidden information or reflect genuine uncertainty. Importantly, when markets and polls disagree, it flags an information gap worth investigating. Overall, the consensus from research and practice is that markets regularly deliver high-quality forecasts, especially relative to alternatives.
+
+Competing Forecasting Methods
+
+Prediction markets are one forecasting tool; others include:
+
+Opinion Polls and Surveys: Polls sample public opinion at a moment in time and estimate probabilities (e.g. share of voters). They are direct but can be biased (e.g. sampling error, shy voter phenomena). Polls measure stated intentions without stakes, so respondents may misstate or change mind. Historically, polls can lag or be off due to these biases. However, large, well-run polls with weighting can be very good for stable demographics. Recent research finds that forecasting polls (where many skilled forecasters answer questions) combined with statistical aggregation can rival markets
+almanac.upenn.edu
+. In one IARPA-sponsored study, team-based polls with algorithmic weighting produced extremely accurate forecasts, sometimes outperforming raw market prices.
+
+Expert Panels / Committees: Organizations often convene experts or managers for consensus forecasts (e.g. sales committees, editorial boards, intelligence assessments). Methods range from open discussion to nominal group technique. These rely on expertise, but can suffer from groupthink or social pressure. Philip Tetlock famously found that experts (especially “hedgehogs” with one big theory) often do no better than chance
+daily.jstor.org
+. Structured variants like the Delphi method attempt to mitigate bias by anonymous rounds of questions. Delphi involves multiple iterations of forecasts by experts who see summarized group responses and revise anonymously
+daily.jstor.org
+. It was widely used in mid-20th-century planning (e.g. RAND Corp) and can improve group estimates. Delphi can be effective, but it’s time-consuming and still relies on expert selection. In practice, many organizations avoid admitting ignorance, and Delphi efforts sometimes falter if participants don’t take it seriously. As one Delphi panelist admitted, participants sometimes “succumbed to [the] temptation to take the easy way out” in long surveys
+daily.jstor.org
+.
+
+Forecasting Tournaments (Crowdsourcing without money): These are organized prediction competitions where many volunteers submit probability estimates on questions. The IARPA-sponsored Good Judgment Project (led by Tetlock) is a prime example. Forecasters are often “superforecasters” trained to refine beliefs. Instead of money, participants get points or reputation (leaderboards, Brier scores). This method aggregates crowd wisdom and often uses statistical models to weight better forecasters. Forecasting tournaments have achieved excellent accuracy, sometimes equaling or surpassing markets
+daily.jstor.org
+almanac.upenn.edu
+. Their success suggests that skilled, incentivized forecasters (even without real bets) can perform very well. The trade-off is that tournaments require active participation and perhaps training, whereas markets automatically reward accurate forecasting with cash.
+
+Statistical and Algorithmic Models: These include econometric models, machine learning algorithms, or simulation (e.g. Monte Carlo models) that forecast outcomes. For elections, models like FiveThirtyEight’s or The Economist’s combine polls with fundamentals (e.g. economic data, demographics) and simulate millions of election-day outcomes. In sports, analytics teams build predictive ratings for teams/players. Such models can be very good when ample historical data exist. However, they may fail to incorporate real-time news or unmeasurable factors (e.g. candidate charisma). They also depend on model assumptions. In some cases, hybrid approaches even feed market prices into models as an input, recognizing markets have information. Models are powerful, but they typically perform best on events similar to the past; for novel or geopolitical events, crowds can sometimes adapt faster.
+
+Wisdom-of-Crowds Polling (Non-Monetary Crowdsourcing): Beyond markets and tournaments, simpler “wisdom of crowds” methods ask many people their guesses or beliefs and then aggregate (e.g. averaging). For instance, websites like Metaculus or ensemble surveys pool many forecasters (often on science/tech questions) and use weighted averages. The Delphi method is one form, but other projects just publish aggregated probabilities. Research indicates that unweighted crowd averages can be quite accurate (Galton’s ox story), though less so than structured approaches. Non-monetary crowdsourcing works best when participants are somewhat informed and independent. Without stakes, motivation and quality control can suffer, but large crowds often still produce reasonable forecasts.
+
+Other Methods: There are many niche forecasting tools: expert polls (where experts alone are surveyed), brute-force algorithms, even more speculative approaches like prediction tournaments (e.g. Netflix Prize style contests). Some companies use internal bookies to hedge risk (like betting on outcomes, then covering with finance teams). Social media analysis and “big data” sentiment mining have been tried (e.g. analyzing Tweets to predict elections or box-office), but these often underperform simpler methods. Ultimately, every forecasting method is a way to aggregate pieces of information; prediction markets do so via price, but other methods use human or computational aggregation.
+
+In summary, prediction markets stand out because they unify the crowd’s beliefs with real incentives, continuously updating as events unfold. Other methods (polls, experts, models, tournaments) each have merits – for example, polls directly measure opinion, tournaments can score and train forecasters, and models exploit data patterns. But each also has drawbacks in bias, rigidity, or lack of feedback. In practice, forecasters often use multiple approaches in parallel. Prediction markets complement these by providing a transparent, dynamic probability estimate that reflects what a diverse crowd is willing to bet. When properly designed and open to a broad participant pool, prediction markets have repeatedly shown themselves to be a powerful predictive tool in American public life.
+
+ 
+
+Sources: Investopedia (Peters and Hayes)
+investopedia.com
+investopedia.com
+investopedia.com
+investopedia.com
+; How Accurate Are Prediction Markets? (JSTOR Daily, 2020)
+daily.jstor.org
+; University of Cincinnati News (Kyle Shaner, 2024)
+uc.edu
+uc.edu
+; Covers.com (Matt Burke, 2025)
+covers.com
+covers.com
+; Penn Almanac (2017)
+almanac.upenn.edu
+; additional analysis and economic literature.
+--------------------------------------
+User:
+
+
+Now let's find the available markets to get an idea of what prediction markets are available.
+--------------------------------------
+ChatGPT:
+
+
+Here are some of the most prominent prediction market platforms available as of July 2025, offering a range of topics, legal structures, and incentive models:
+
+🏛️ Regulated/U.S.-Accessible Markets
+
+Kalshi
+U.S.-regulated exchange under CFTC oversight. Offers binary markets on politics, economics, sports, pop culture, weather, and more. Thousands of markets daily. Widely available across most U.S. states 
+U.S. News Money
++15
+NerdWallet
++15
+Covers.com
++15
+.
+
+PredictIt
+Operated by Victoria University under an academic “no-action” letter from the CFTC. Focused on political and financial events. U.S. citizen–only platform, dynamically maintained 
+Wikipedia
++1
+.
+
+Iowa Electronic Markets (IEM)
+University-run academic market, primarily for U.S. elections and economics. Participants are limited to investing around $500 per contract 
+MarketWatch
++12
+Wikipedia
++12
+Investopedia
++12
+.
+
+🌐 Decentralized / Crypto-Enabled Markets
+
+Polymarket
+Polygon-based DApp offering prediction contracts on politics, crypto, pop culture, sports, science, and more. U.S. citizens are generally prohibited, but it's open to most others 
+Gate.com
++2
+NerdWallet
++2
+.
+
+Augur, Omen.eth, PlotX, Qoalap, Moonopol, Duel Duck, Oriole Insights
+Ethereum– or Solana–based decentralized platforms that allow users to create or participate in wide-ranging prediction markets 
+Business Insider
++14
+Alchemy
++14
+defiprime.com
++14
+.
+
+🧠 Reputation & Play-Money Forecasting Platforms
+
+Manifold, Metaculus, Good Judgment Open
+Operate on a reputation system (points, leaderboards), often with play-money or token incentives. Cover topics like global politics, science, technology, and finance 
+Wikipedia
+.
+
+SciCast
+(Retired) IARPA-funded combinatorial forecast platform focused on science & technology, offering probability distributions on multiple interrelated outcomes .
+
+📊 At-a-Glance Summary
+Platform Type	Money Used	Primary Topics	U.S. Availability
+Regulated exchange (Kalshi)	Real $	Politics, economics, pop culture, weather	Most U.S. states
+Academic/Regulated (PredictIt, IEM)	Real $ / fiat	Primarily elections & financial events	U.S. only
+Decentralized (Polymarket, Augur, Omen.eth)	Crypto	Wide-ranging (politics, sports, culture, crypto)	U.S. typically not allowed or restricted
+Reputation-based (Metaculus, Manifold, GJO)	Play $/reputation	Science, tech, geopolitics	Global, including U.S.
+🔍 Key Considerations
+
+Legality:
+Kalshi is the only federally regulated U.S. exchange. PredictIt and IEM operate under special exemptions. Polymarket and decentralized platforms are crypto-native and often restrict U.S. users 
+Financial Times
++10
+NerdWallet
++10
+Covers.com
++10
+Vanity Fair
++11
+Wikipedia
++11
+Business Insider
++11
+Keyrock
++3
+Covers.com
++3
+Alchemy
++3
+.
+
+Market Liquidity & Manipulation Risk:
+
+Polymarket is large and global but may be more susceptible to manipulative trades by whales 
+Investopedia
++13
+Yale Insights
++13
+TIME
++13
+.
+
+Smaller markets like IEM or PredictIt may struggle with low liquidity, affecting price reliability 
+Cointelegraph
++7
+Investopedia
++7
+Wikipedia
++7
+.
+
+Coverage:
+
+Kalshi and Polymarket: wide topic variety daily – from "Will it snow in NYC" to "Will Trump impose tariffs by 2026?" 
+MarketWatch
++5
+Covers.com
++5
+Axios
++5
+.
+
+Reputation sites emphasize long-term forecast quality over real-money incentives.
+
+User Access:
+
+Kalshi & PredictIt: require KYC and are available per-state (Covers.com lists 45+ states as of July 2025) 
+Covers.com
++2
+Wikipedia
++2
+.
+
+Crypto platforms: require crypto wallets, no FIAT, and usually global (excluding U.S. users).
+
+🧭 What's Available to You?
+
+If you want real-money prediction markets in the U.S., your best options are:
+
+Kalshi – the broadest choice with deep market diversity and regulated framework.
+
+PredictIt – focused political markets, but smaller and legally uncertain.
+
+IEM – niche, low-stakes academic election betting.
+
+If you're comfortable with crypto:
+
+Polymarket – global politics, pop culture, sports.
+
+Augur, Omen.eth, PlotX – for decentralized, blockchain-native markets.
+
+If you're interested in forecasting without gambling:
+
+Metaculus, Manifold, Good Judgment Open offer reputation-based scoring and host hundreds of future-focused questions.
+
+Let me know if you'd like a deep dive into one of these platforms—how to join, risk profiles, performance histories, or comparative reviews!
+
+Key recent news on prediction markets
+Business Insider
+Polymarket traders doubt there will be a recession. We asked prediction gurus if you should listen.
+Jul 9, 2025
+Financial Times
+Transcript: US election betting is on a roll
+Oct 29, 2024
+Business Insider
+Prediction markets like Polymarket could upend US gambling. Industry insiders think it's a threat and an opportunity.
+Mar 21, 2025
+TIME
+Don't Bet on the Financial Scam of Easily Manipulated Political Prediction Markets
+Oct 22, 2024
+--------------------------------------
+User:
+
+
+[English (auto-generated)] The Stock Market Always Wins [DownSub.com].txt
+Document
+Now use the attached to start looking for an edge in the markets.
+--------------------------------------
+ChatGPT:
+
+
+The provided video transcript describes several key trading and market strategies that can give insight into how to gain an edge in prediction markets. Here are the key insights and strategies you can use when looking for an advantage:
+
+Insights from the Transcript:
+1. Arbitrage Opportunities:
+
+Arbitrage trading profits from temporary price differences between markets.
+
+This method works best when markets are fragmented or less efficient (as shown in crypto markets in the video).
+
+Strategy to consider:
+
+Check multiple prediction markets (e.g., Polymarket, Kalshi, PredictIt) regularly for mispriced events, especially those with lower liquidity or awareness.
+
+Quickly enter trades where a probability difference between two markets provides arbitrage potential.
+
+2. Market Depth and Order Books:
+
+The transcript emphasized the importance of market depth, which is essential to avoid price slippage.
+
+Prediction markets can be shallow (low liquidity), and large orders can drastically shift odds.
+
+Strategy to consider:
+
+Identify low-liquidity markets where your informed trades can significantly shift odds.
+
+Enter early positions before major liquidity arrives, enabling favorable price-setting as described in the crypto example.
+
+3. Information Scarcity:
+
+Traders who uncover information first can exploit mispriced events, like the Pope selection scenario described, where biases and misconceptions led to huge odds on an unlikely candidate.
+
+Strategy to consider:
+
+Specialize in markets/events that are under-covered or misunderstood by the public.
+
+Conduct deep, targeted research to uncover hidden biases and misinformation the public may believe, and position accordingly.
+
+4. Statistical Arbitrage and Relative Pricing:
+
+The transcript discusses pairs trading (e.g., Coke vs. Pepsi), relying on relationships between correlated assets.
+
+When relationships deviate from historical norms, traders anticipate regression to the mean.
+
+Strategy to consider:
+
+Look for prediction markets covering correlated or related events (e.g., elections in similar states, interrelated legislative outcomes).
+
+Identify anomalies where probabilities of connected events don't align logically or historically, betting on reversion to rational odds.
+
+5. Computerized and Algorithmic Trading:
+
+Algorithms spot subtle, short-term patterns and execute trades instantaneously. Such tools dominate markets, reducing easy opportunities.
+
+Humans generally can't compete directly in microsecond markets.
+
+Strategy to consider:
+
+Rather than compete directly against algorithmic traders, utilize longer time horizons and fundamental or narrative insights.
+
+Algorithms focus on short-term trades; human traders may find edges in nuanced interpretations of events with longer timelines.
+
+6. Buffett’s Index Fund Lesson:
+
+The video concludes that index investing (holding the market) beats active trading due to lower costs and cumulative advantage.
+
+Prediction markets differ somewhat because every prediction is discrete and independent, but the lesson holds: unnecessary trading reduces returns.
+
+Strategy to consider:
+
+Be selective and precise with your bets; fewer, high-conviction trades based on well-researched information yield higher returns than frequent, speculative trades.
+
+Avoid constant reallocation without clear informational advantage.
+
+Applying these Strategies to Prediction Markets:
+
+Identify arbitrage opportunities across different prediction markets for identical events.
+
+Monitor liquidity and depth, especially in smaller niche markets, for outsized potential profits.
+
+Invest in deep research of misunderstood events (elections, geopolitical issues, niche sporting events) to uncover mispriced odds.
+
+Apply pairs and correlation logic to related prediction market contracts, identifying pricing anomalies.
+
+Maintain discipline, emphasizing fewer but deeply informed positions, avoiding frequent trading without clear advantage.
+
+By leveraging the lessons and strategies above, you can systematically approach prediction markets, looking to exploit structural weaknesses, temporary inefficiencies, and information asymmetries—essentially applying sophisticated trading techniques from financial markets to gain an advantage in prediction markets.
+--------------------------------------
+User:
+
+
+Find me info sources to track prices rapidly against multiple markets to get the best chance to spotting value before it evens back out.
+--------------------------------------
+ChatGPT:
+
+
+Here are some top-tier resources and tools to help you quickly track and compare prices across multiple prediction markets in real time—ideal for spotting value mismatches before they're arbitraged away:
+
+🚀 Multi-Market Tracking Tools
+Polymarket Analytics
+
+A powerful web-based dashboard that brings together markets from both Polymarket and Kalshi into a unified, real-time interface. Features include live bid/ask spreads, volume data, top traders, and detailed order book insights—perfect for identifying arbitrage or momentum opportunities across platforms quickly. 
+Effective Altruism Forum
++13
+Polymarket Analytics
++13
+Polymarket Analytics
++13
+
+Reddit-Shared Spread-Watching Scripts
+
+On r/Kalshi, traders shared scripts that monitor bid/ask spreads across exchanges like Polymarket, Kalshi, and PredictIt. These scripts watch for discrepancies where one platform’s bid exceeds another's ask—or vice versa—signaling micro-arbitrage windows. They integrate API/WebSocket feeds for real-time alerts. 
+Reddit
+
+GitHub: “Prediction-Markets-Data” Toolkit
+
+An open-source Python project that scrapes or taps into APIs for Kalshi, Polymarket, PredictIt, and Limitless. It aggregates real-time and historical market data, enabling side-by-side comparisons, arbitrage detection, and stateful analytics. Ideal if you're building a custom monitoring or alert system. 
+Reddit
++5
+GitHub
++5
+U.S. News Money
++5
+
+Kalshi WebSocket and FIX APIs
+
+Kalshi offers a low-latency WebSocket feed for live market updates—order books, price moves, and trade executions. They also support institutional-grade FIX protocol integration for professional-grade systems. These APIs are vital for high-frequency tracking and real-time signal detection. 
+Zuplo
+
+🛠️ How to Combine for Real-Time Edge
+
+Centralize Data Feeds: Connect to Kalshi via WebSocket, scrape Polymarket using analytics dashboards, then pull PredictIt data (via API or scraper).
+
+Automate Spread Monitoring: Use scripts (like the Reddit-shared ones) to continuously compare bids/asks across platforms.
+
+Set Alert Triggers: Flag when bid-ask spreads exceed expected thresholds (accounting for fees/slippage).
+
+Visualize & Backtest: Use the GitHub toolkit to log historical data, backtest arbitrage strategies, and refine parameters.
+
+Deploy Strategically: Act when opportunities align—particularly in low‑liquidity or newly launched markets.
+
+✅ Summary Table
+Tool / Resource	Coverage	Update Frequency	Use Case
+Polymarket Analytics	Polymarket + Kalshi markets	Real-time updates	Side-by-side market comparison, top traders analysis
+Reddit Spread Python Scripts	Multiple platforms	Near real-time	Micro-arbitrage via spread alerting
+Prediction-Markets-Data (GitHub)	Kalshi, Polymarket, PredictIt	Live + Historical	Data aggregation, backtesting, analytics
+Kalshi WebSocket / FIX API	Kalshi exclusive	Millisecond-level	Low-latency feeds, institutional usage
+📍 Next Steps
+
+Start with Polymarket Analytics: Sign up and explore to understand UI and data flows.
+
+Clone the GitHub repo: Explore its data structures and build simple alerts.
+
+Subscribe to Kalshi’s WebSocket: Use Node.js or Python to stream live market data.
+
+Integrate and Test: Merge feeds into one unified workspace for spread alerting with Slack/email notifications.
+
+Combining these tools gives you a robust, multi-market monitoring setup—one designed to detect early value discrepancies and turn them into actionable trades ahead of the crowd.
+--------------------------------------
