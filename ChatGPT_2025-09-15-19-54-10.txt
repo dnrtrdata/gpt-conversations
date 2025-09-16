@@ -1,0 +1,2867 @@
+--------------------------------------
+User:
+
+
+You're going to help me understand the pc-and-game-console-business starting today. I'm going to use this thread to add info from news as it comes out from sources like Tom's hardware, wccftech, and pcmag. Over time we're going to get a grip on this business. Sound good?
+--------------------------------------
+ChatGPT:
+
+
+Understood. Ready to track, break down, and synthesize the business of PCs and game consoles with you. What’s the first piece of info you want to log or analyze?
+--------------------------------------
+User:
+
+
+TSMC’s 2nm Process Said to Witness ‘Unprecedented’ Demand, Exceeding 3nm Due to Interest from Apple, NVIDIA, AMD, & Many Others
+Muhammad Zuhair
+•
+May 5, 2025 at 11:01am EDT
+
+
+
+
+￼
+45Comments
+￼
+It is claimed that TSMC's 2nm process could very well spark the company's next "gold rush," as the process is expected to deliver significant generational performance gains.
+TSMC 2nm Node Is Expected To Outpace All Other Generations in Terms of Demand; Production To Move Strongly By End-2025
+The Taiwan chip giant has seen demand for its cutting-edge node with almost every generation, and it seems like there is a trend where "demand records" are being broken with each process iteration. TSMC's 3nm process is regarded as one of the company's most successful in terms of clientele adoption, but it seems like a contender is emerging. According to Ctee, it is reported that TSMC's N2 node has seen demand much stronger than previous processes, and this comes before mass production, which indicates that TSMC will have the crown of the industry this time as well.
+RELATED STORY Intel Reportedly Places 2nm Orders For Nova Lake At TSMC; Foundry Division Likely To Be Left Out For Now
+TSMC's 2nm process is said to have achieved defect density rates comparable to both 3nm and 5nm, which means that the process has achieved maturity quickly. The main reasons why TSMC's N2 node is standing out in the market right now are that the firm has now switched towards GAAFETs in the form of nanosheet transistors, which allow the node to be optimized for either higher performance or lower power consumption, giving integrators a significant advantage. Apart from this, we are looking at a 10–15% increase in speed compared to the N3E node as well, which is a decent amount to offer.
+￼
+In terms of market demand, Apple is said to be the largest customer of the node, likely utilizing it for the iPhone 18 lineup, and the Cupertino giant will be followed by the likes of NVIDIA, which will integrate 2nm with Vera Rubin. Interestingly, AMD is the first firm to announce the utilization of TSMC N2 with their Zen 6 Venice CPUs, so Team Red is also in the lead in becoming a primary customer. With all tech giants lined up, TSMC won't have trouble with adoption at all; in fact, the demand is expected to exceed supply during the initial phase.
+TSMC is said to have achieved a 2nm output of around 50,000 wafers by the end of this year, and this figure could triple by 2027 since the firm is expanding its capacities in Taiwan facilities. TSMC also plans to produce N2 nodes at the Arizona facility by 2028, so it is likely that production numbers would sustain the demand over time.
+
+
+--------------------------------------
+ChatGPT:
+
+
+markdown
+Copy code
+I. TSMC 2nm Node Demand Report (May 5, 2025)
+
+  A. Demand Overview
+    1. Described as “unprecedented,” exceeding even 3nm demand
+    2. Compared favorably to previous node launches (3nm, 5nm)
+    3. High volume of pre-mass-production interest
+
+  B. Technical Highlights
+    1. Node Name: N2 (2nm)
+    2. Transition from FinFET to GAAFET (nanosheet-based)
+    3. Performance Boost: 10–15% speed increase vs. N3E
+    4. Efficiency: Optimizable for either higher performance or lower power
+    5. Defect Density: Comparable to 3nm and 5nm—suggests maturity
+
+  C. Key Customers
+    i. Apple
+      - Likely to use N2 in iPhone 18 series
+      - Largest customer by volume
+    ii. NVIDIA
+      - N2 process planned for Vera Rubin architecture
+    iii. AMD
+      - First public adopter via Zen 6 Venice CPUs
+
+  D. Supply & Production Forecast
+    I. 2025 Output: ~50,000 wafers
+    II. 2027 Projection: Tripling output (~150,000 wafers)
+    III. Geographic Expansion:
+      - Taiwan: Core production through 2027
+      - Arizona: N2 node production expected by 2028
+
+  E. Strategic Implications
+    1. TSMC solidifies lead over Samsung, Intel in leading-edge node scaling
+    2. Industry shifts further toward GAAFET adoption
+    3. Likely supply constraints during launch window
+    4. Strengthens vertical stack integration prospects for Apple, NVIDIA, AMD
+
+  F. Related Developments
+    1. Intel reported to order 2nm from TSMC for Nova Lake, bypassing own foundry (for now)
+
+--------------------------------------
+User:
+
+
+Intel’s 18A Process Reportedly Comes With SRAM Density On-Par With TSMC’s N2; Team Blue Gearing Up For A Phenomenal Comeback
+Feb 20, 2025 at 11:04am EST
+￼
+Intel's 18A is said to report an SRAM density equal to that of TSMC's N2 process, signaling a massive breakthrough for the IFS and its semiconductor ambitions.
+Intel's 18A Process Is a "Special" One, Credits To Implementations Such As BSPDN Along With Years of R&D Behind It
+Well, it seems like now might be the time to be bullish on the future of Intel's chip plans, since the latest reports are clearly indicating that the momentum is shifting towards Team Blue. Following the political backing of the Trump administration, it is now disclosed via ISSCC sessions (via Ian Cutress) that both TSMC and Intel's cutting-edge processes are rivaling each other in SRAM densities, showing that the gap has been narrowed down significantly, at least in one of the important aspects.
+We have discussed Intel's 18A in the past several times, but now might be one of the best times for an in-depth overview, given the hype around it. One of the more monumental achievements with Intel's 18A is the utilization of BSPDN (Backside Power Delivery), which is said to move the power delivery process to the backside of the wafer. This marks one of the industry's first implementations, and this mainly leads to improved power efficiency along with signal integrity, marking a massive breakthrough for the process in general.
+￼
+An Intel factory employee holds a wafer with 3D stacked Foveros technology at an Intel fab in Hillsboro, Oregon, in December 2023. In February 2024, Intel Corporation launched Intel Foundry as the world’s first systems foundry for the AI era, delivering leadership in technology, resiliency and sustainability. (Credit: Intel Corporation)
+Intel's 18A "high-density" versions are now said to report a macro bit density of 38.1 Mb/mm², that too with the large array configuration. Different arrangements of SRAM cells will bring in varied densities, but overall, things are looking pretty optimistic for the 18A process. However, we certainly shouldn't conclude sentiments towards Intel's process right now, given that the actual test lies in chip production, and how yield rates turn out for Team Blue, since that would most likely be decisive.
+TSMC too has detailed its N2 process, revealing a 12% improvement in SRAM density due to integration of GAA technology, with high-performance SRAM seeing a phenomenal 18% improvement. The main improvement with N2 is the transition from traditional FinFET technology to a dedicated N2 "nanosheet," which has brought in a lot more process customization, along with a more precise control compared to FinFET implementation.
+TSMC-Intel semiconductor race is pretty much on, and it looks like the competition is going to get a lot more fiercer, but yet again, the important factor is how the processes will turn out once they enter the supply chain.
+--------------------------------------
+ChatGPT:
+
+
+mathematica
+Copy code
+II. Intel 18A vs. TSMC N2 Report (Feb 20, 2025)
+
+  A. Headline Comparison
+    1. Intel 18A SRAM macro density: 38.1 Mb/mm² (high-density variant, large array)
+    2. TSMC N2 SRAM: 12–18% denser vs. previous-gen, bolstered by nanosheet (GAAFET) tech
+    3. Conclusion: Near-parity in SRAM density, historically a TSMC advantage
+
+  B. Intel 18A Technical Highlights
+    i. BSPDN (Backside Power Delivery Network)
+      - Power routed beneath transistor layer, not above
+      - Boosts power efficiency and signal integrity
+      - Industry-first implementation—key architectural shift
+    ii. R&D Foundation
+      - Multi-year development cycle
+      - Political and financial support (e.g., Trump-era CHIPS Act funding)
+    iii. Additional Innovations
+      - 3D stacking via Foveros packaging
+      - Part of Intel Foundry’s long-term strategy
+
+  C. Market Context
+    I. Intel Foundry repositioned as "systems foundry for the AI era"
+      - Focus: tech leadership, sustainability, resiliency
+      - Competitive with TSMC on leading-edge process goals
+    II. Industry analysts emphasize:
+      - SRAM density != yield or volume success
+      - Critical test = high-yield chip production at scale
+
+  D. Strategic Implications
+    1. Intel aims to reenter leadership race in advanced nodes
+    2. 18A likely used in CPUs, accelerators, and foundry clients (e.g., MediaTek, U.S. government contracts)
+    3. If successful, could shift foundry customer dependence away from Asia
+
+  E. Semiconductor Node Race Outlook
+    i. TSMC N2
+      - Mass production starts late 2025
+      - GAAFET (nanosheet) with custom process tuning
+    ii. Intel 18A
+      - Targeted for risk production late 2024–2025
+      - Success hinges on yield scaling and time-to-market reliability
+
+--------------------------------------
+User:
+
+
+Let's keep track of mentions of BSPDN. I've seen Intel lean pretty hard into this feature, I'm curious if it makes much difference when the new line of silicon hits pcs.
+--------------------------------------
+ChatGPT:
+
+
+Noted. BSPDN will be a tracked feature going forward. I’ll flag and log every future mention along with context and projected/observed impact. Want to create a sub-index just for packaging and power-delivery innovations like this?
+--------------------------------------
+User:
+
+
+Yeah. Create the sub index.
+--------------------------------------
+ChatGPT:
+
+
+Sub-index created. All future entries on packaging and power-delivery innovations like BSPDN will be catalogued separately for focused analysis. Ready for the next item when you are.
+--------------------------------------
+User:
+
+
+News
+Hardware
+Gaming
+Mobile
+Finance
+Deals
+Reviews
+How To
+My Wccftech
+HARDWARE
+INDUSTRY
+RUMOR
+NVIDIA Is Now Rumored To Switch Towards Samsung Foundry For 2nm Process, Ditching TSMC Due To High Costs
+Muhammad Zuhair
+•
+Jan 3, 2025 at 03:25pm EST
+
+177
+Comments
+
+NVIDIA is rumored to ditch TSMC's 2nm process, and instead turn towards Samsung Foundry, given the high costs associated and the Taiwan giant's growing influence in controlling prices.
+NVIDIA & Other Tech Giants Now Focused On Diversifying 2nm Supply China, Including Partners Other Than TSMC
+Well, TSMC's 2nm superiority might be jeopardized here, as mainstream industry clients are now looking towards alternatives. In a report by Ctee citing South Korean media, NVIDIA and others are already in discussion to move away 2nm orders from the Taiwan giant, and shifting it to the likes of Samsung Foundry, given that the parties involved believe that 2nm costs are way too higher for adoption right now. With TSMC being the sole "credible" supplier, the firm is using this stance to control the prices.
+RELATED STORY TSMC’s 2nm Process Said to Witness ‘Unprecedented’ Demand, Exceeding 3nm Due to Interest from Apple, NVIDIA, AMD, & Many Others
+Before we dive into the report, it is essential to take this rumor with a grain of salt. Right now, mainstream 2nm suppliers include TSMC, Samsung, and the Japanese firm Rapidus, with the latter two companies "apparently" being behind the Taiwan giant in terms of yield rates. While this trend has been consistent with previous nodes as well, it seems like TSMC will experience a greater rivalry this time, given that its key clients are now focused on diversifying the 2nm supply, adding in new partners.
+
+In particular, it is claimed that NVIDIA is exploring the option of getting 2nm from Samsung Foundry; however, the firm is reluctant for now, given Samsung's past track record with clients like Qualcomm. Apart from Team Green, we recently reported on how Qualcomm plans to adopt a "dual-source" strategy, including both TSMC and Samsung in its 2nm supply chain, so it won't be wrong to say that the next  "big process" will likely have more competitors, rather than TSMC alone.
+The adoption of 2nm looks slowed for now, given that Apple has shifted its plans to 2026, and with NVIDIA and Qualcomm exploring other options, it seems like integration in consumer products will take time. However, given that Samsung's 2nm process fails to impress the markets, companies will have no other option and will ultimately revert to TSMC.
+Further Reading
+
+Intel Reportedly Places 2nm Orders For Nova Lake At TSMC; Foundry Division Likely To Be Left Out For Now
+Muhammad Zuhair
+
+AMD Confirms Next-Gen EPYC Venice “Zen 6” CPUs Are The First HPC Product Made Using TSMC’s 2nm “N2” Process, 5th Gen EPYC Validated At TSMC Arizona
+Hassan Mujtaba
+
+Samsung Has Achieved Massive Progress With Its 2nm Yield Rates; Apple, AMD & NVIDIA Are In The Line To Adopt 2nm From The Korean Giant
+Muhammad Zuhair
+
+TSMC To Scale Up Investments On Its Arizona Facility, Likely To Drive Up Production Figures & Align With Trump’s Ambitions
+Muhammad Zuhair
+
+Subscribe to get an everyday digest of the latest technology news in your inbox
+ 
+ 
+About
+Advertise with Us
+Contact
+Tip Us
+Careers
+Terms of Use
+Privacy & Cookies Policy
+Ethics Statements
+Appeal Moderation
+Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+
+© 2025 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
+
+
+--------------------------------------
+ChatGPT:
+
+
+vbnet
+Copy code
+III. NVIDIA Rumored Shift from TSMC to Samsung for 2nm (Jan 3, 2025)
+
+  A. Summary of Rumor
+    1. NVIDIA reportedly reconsidering TSMC for 2nm due to high costs
+    2. Exploring Samsung Foundry as alternative
+    3. Triggered by pricing power TSMC holds as dominant supplier
+
+  B. Broader Industry Movement
+    i. Rising interest in supply chain diversification among:
+      - NVIDIA
+      - Qualcomm (confirmed dual-source strategy: TSMC + Samsung)
+    ii. Japanese firm Rapidus also listed among 2nm aspirants, but lagging in yields
+
+  C. Market Dynamics
+    1. TSMC maintains technical lead (especially in yield maturity)
+    2. Samsung has mixed track record (e.g., prior issues with Qualcomm chips)
+    3. Apple reportedly postponing 2nm adoption to 2026
+    4. General 2nm adoption timeline appears slower than initial forecasts
+
+  D. Strategic Implications
+    I. Supply Chain Considerations
+      - Risk mitigation: geopolitical, pricing, and logistical concerns
+      - Samsung gaining attention, but confidence remains fragile
+    II. TSMC Pricing Strategy
+      - Using leadership to leverage aggressive cost structures
+      - May backfire if clients pivot due to economics
+
+  E. Competitive Outlook
+    i. Samsung’s potential 2nm rebound hinges on:
+      - Yield improvement (early signs noted)
+      - Market trust (historically weak with major clients)
+    ii. TSMC still most credible supplier short-term, but:
+      - May face long-term erosion of dominance if others catch up
+
+  F. Sub-Index Tags
+    - Node Competition (TSMC vs Samsung)
+    - 2nm Market Share Strategy
+    - Supply Chain Diversification
+    - Client Migration (NVIDIA/Qualcomm)
+
+--------------------------------------
+User:
+
+
+News
+Hardware
+Gaming
+Mobile
+Finance
+Deals
+Reviews
+How To
+My Wccftech
+HARDWARE
+INDUSTRY
+AMD Reportedly Ditches Samsung Foundry as Its Partner; Rumored to Shift 4nm Orders To TSMC Arizona For EPYC Server CPUs
+Muhammad Zuhair
+•
+May 5, 2025 at 10:06am EDT
+
+12
+Comments
+
+A Samsung 3nm GAA wafer
+Samsung Foundry's troubles continue, as it is now reported that AMD has abandoned its 4nm orders with the firm, likely switching towards TSMC.
+AMD Appears To Be Massively Inclined Towards TSMC's US Operations, Which Played a Role In Canceling the Deal With Samsung Foundry
+Samsung has found it challenging to see adoption from the industry when it comes to process nodes, and despite offering a wide range of products with decent production capacities, the Korean giant hasn't managed to grab the market spotlight like its Taiwan counterpart. It is reported via @Jukanlosreve that AMD has reportedly decided to take 4nm orders away from Samsung Foundry, and instead switch towards TSMC's production in the US. While the reasons for this move haven't been disclosed yet, it is likely an aftermath of the sluggish performance of Samsung Foundry and the attractiveness of TSMC's US operations to firms like AMD.
+RELATED STORY Samsung’s HBM4 Memory Reportedly Attracts Interest From NVIDIA, Google & Broadcom; Korean Giant Hopes to Turn Around HBM Business
+
+AMD was said to be extensively collaborating with Samsung on the SF4X process, not just limited to EPYC server CPUs, but on Ryzen APUs and Radeon GPUs, since Team Red adopted a dual-sourcing strategy. The move, initially seen as a massive breakthrough, is now reportedly falling out, and while it is uncertain whether the deal is abandoned just for the EPYC server CPUs, but it seems like the interest towards Samsung Foundry is falling. This isn't good, especially considering that the Korean giant needs to build up its reputation in the chip industry, and a major partner moving out does not signal positivity.
+
+TSMC's Arizona facility is currently mass-producing the 4nm process, and it seems like that is likely where AMD will be after the Samsung deal. Team Red has already placed orders for its "Venice" server CPUs, which utilize the high-end 2nm process, and is also working on producing the Ryzen 9000 series consumer CPUs. And given that Team Red was one of the first firms to see "exclusive access" to 2nm nodes, it is likely that the AMD-TSMC partnership has evolved tremendously in recent days.
+The momentum certainly isn't in favour of Samsung Foundry for now, but things do look optimistic towards the future, considering that the firm has said to see interest in its 2nm process from the likes of NVIDIA. Yield rates are also claimed to be rapidly improving, so we cannot put the firm out of the equation for now.
+Further Reading
+
+TSMC’s Arizona Facility Sees Massive Interest After Trump Tariffs; 4nm Pricing To Be Raised By 30% To Meet Demand
+Muhammad Zuhair
+
+AMD Confirms Next-Gen EPYC Venice “Zen 6” CPUs Are The First HPC Product Made Using TSMC’s 2nm “N2” Process, 5th Gen EPYC Validated At TSMC Arizona
+Hassan Mujtaba
+
+Samsung Has Achieved Massive Progress With Its 2nm Yield Rates; Apple, AMD & NVIDIA Are In The Line To Adopt 2nm From The Korean Giant
+Muhammad Zuhair
+
+TSMC Is No Longer Reluctant To Produce Advanced Chips In The US; Reveals Plans To Build A Cutting-Edge A16 (1.6nm) Facility In Arizona By 2030
+Muhammad Zuhair
+Subscribe to get an everyday digest of the latest technology news in your inbox
+ 
+ 
+About
+Advertise with Us
+Contact
+Tip Us
+Careers
+Terms of Use
+Privacy & Cookies Policy
+Ethics Statements
+Appeal Moderation
+Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+
+© 2025 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
+
+
+--------------------------------------
+ChatGPT:
+
+
+vbnet
+Copy code
+IV. AMD Reportedly Drops Samsung Foundry, Moves 4nm Orders to TSMC Arizona (May 5, 2025)
+
+  A. Key Event
+    1. AMD cancels planned 4nm orders with Samsung Foundry
+    2. Orders now expected to shift to TSMC’s Arizona fab
+
+  B. Strategic Context
+    i. Previous Collaboration:
+      - Samsung SF4X node targeted for EPYC server CPUs, Ryzen APUs, Radeon GPUs
+      - Part of AMD’s earlier dual-sourcing strategy
+    ii. Reported Reasons for Change:
+      - Samsung’s slow yield and industry reputation issues
+      - TSMC’s U.S. production seen as more favorable
+      - TSMC-AMD relationship deepening (e.g., Zen 6 Venice at 2nm)
+
+  C. Implications for Samsung Foundry
+    1. Market perception worsening despite capacity improvements
+    2. Reputation damaged by key client exit
+    3. Ongoing interest from NVIDIA, Google, Broadcom in HBM/2nm remains a positive offset
+
+  D. TSMC Arizona Operations
+    I. Producing 4nm in volume
+    II. Seeing increased interest post-tariff policies
+    III. Hosting:
+      - AMD EPYC Venice (2nm)
+      - Likely Ryzen 9000 series (consumer CPU lineup)
+
+  E. Strategic Implications for AMD
+    i. Increasing alignment with TSMC across both HPC and consumer segments
+    ii. Strengthening U.S.-based semiconductor pipeline (risk mitigation, policy alignment)
+    iii. Long-term positioning for early access to leading-edge nodes (e.g., 2nm, 1.6nm A16)
+
+  F. Sub-Index Tags
+    - Foundry Supplier Migration
+    - TSMC Arizona Expansion
+    - Packaging & Node Strategy (4nm, 2nm)
+    - AMD Foundry Dependency Shift
+
+--------------------------------------
+User:
+
+
+News
+Hardware
+Gaming
+Mobile
+Finance
+Deals
+Reviews
+How To
+My Wccftech
+GAMING
+Xbox Games Dominate PS5’s Download Charts For April 2025, Oblivion Remastered Already The US’s Third Best-Selling Game Of 2025
+David Carcasole
+•
+May 5, 2025 at 12:16pm EDT
+
+8
+Comments
+
+April was a strong month for Xbox and Microsoft, with Xbox Game Studios published and developed games dominating the monthly download charts for PlayStation 5 players in the United States, Canada and the EU, and according to Circana sales data, its recently released The Elder Scrolls IV: Oblivion Remastered has skyrocketed to becoming the third best-selling game for 2025 so far in the United States.
+In the PlayStation Blog's monthly download charts post, the same three games take either first, second or third place in the US/Canada and the EU, with The Elder Scrolls IV: Oblivion Remastered, Minecraft, and Forza Horizon 5 at the top of the charts. In the EU, Clair Obscur: Expedition 33 is also in the top five, while it falls just outside the top five in the US/Canada in sixth place.
+RELATED STORY Oblivion Remastered Unofficial Patch Packs Massive Number of Fixes and Improvements
+Today on BlueSky, Circana's executive director and video game industry analyst Mat Piscatella reported that in just one week on the market, The Elder Scrolls IV: Oblivion Remastered sold so well that it's already the third best-selling game in the US behind Monter Hunter Wilds in first place and Assassin's Creed Shadows in second.
+Xbox's change in strategy to publish its games on all platforms instead of trying to pull more players to its own devices and services with exclusive first-party titles might not be popular among diehard Xbox fans, but it's a strategy that seems to be working, and it doesn't look like it'll be going away anytime soon.
+And there's no better time for its software sales to pick up, since Xbox recently announced significant price increases for its hardware, accessories, and future software releases, starting later this year.
+Products mentioned
+
+The Elder Scrolls IV: Oblivion Remastered
+USD 34.99
+Buy from Amazon
+Further Reading
+
+The Elder Scrolls IV: Oblivion Remastered’s Shadow-Drop Actually Helped Clair Obscur: Expedition 33
+David Carcasole
+
+The Elder Scrolls VI Unlikely to Use Unreal Engine 5 For Rendering, as It Wouldn’t Solve Core Creation Engine Issues
+Francesco De Meo
+
+Oblivion Remastered Is an Impressive Remaster with Dire Performance Problems, Says Digital Foundry
+Alessio Palumbo
+
+The Elder Scrolls IV: Oblivion Remastered Review – Back in Cyrodiil, 19 Years Later
+Francesco De Meo
+Subscribe to get an everyday digest of the latest technology news in your inbox
+ 
+ 
+About
+Advertise with Us
+Contact
+Tip Us
+Careers
+Terms of Use
+Privacy & Cookies Policy
+Ethics Statements
+Appeal Moderation
+Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+
+© 2025 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
+
+
+--------------------------------------
+ChatGPT:
+
+
+markdown
+Copy code
+V. Xbox Games Top PS5 Charts in April 2025; Oblivion Remastered Becomes #3 Game of the Year in U.S. (May 5, 2025)
+
+  A. Performance Summary
+    1. Xbox Game Studios titles dominate April 2025 PS5 download charts
+    2. Top 3 charted games in U.S./Canada & EU:
+      - The Elder Scrolls IV: Oblivion Remastered
+      - Minecraft
+      - Forza Horizon 5
+    3. Clair Obscur: Expedition 33 ranks:
+      - #6 in US/Canada
+      - Top 5 in EU
+
+  B. Circana Sales Ranking (Year-to-Date, U.S.)
+    1. Monster Hunter Wilds – #1
+    2. Assassin’s Creed Shadows – #2
+    3. Oblivion Remastered – #3 (after just 1 week)
+
+  C. Strategic Implications for Microsoft/Xbox
+    i. Cross-Platform Publishing Strategy:
+      - Xbox first-party titles on PS5 now a key growth engine
+      - Prior exclusivity model replaced by software monetization across ecosystems
+      - Despite fan backlash, early sales data suggests success
+    ii. Context:
+      - Xbox announced upcoming price hikes for:
+        • Hardware
+        • Accessories
+        • Future software titles
+      - Increased software success may offset hardware unit softness
+
+  D. Sub-Index Tags
+    - Platform Strategy Shift (Xbox to multiplatform)
+    - Game Sales Performance (Oblivion Remastered)
+    - Market Penetration of Cross-Platform Titles
+    - Price Strategy Adjustment (Xbox ecosystem)
+
+--------------------------------------
+User:
+
+
+News
+Hardware
+Gaming
+Mobile
+Finance
+Deals
+Reviews
+How To
+My Wccftech
+GAMING
+PS5 Pro Digital Foundry Hands-on Delivers First Impression on PSSR, Ray Tracing Improvements and More
+Alessio Palumbo
+•
+Sep 25, 2024 at 03:15pm EDT
+
+179
+Comments
+
+Digital Foundry checked out the upcoming PS5 Pro console at a recent preview event and came back with an hour-long video to discuss their first impressions (with some excerpts of game developer interviews sprinkled in) and show off some new footage from various games.
+F1 24: Besides DDGI (Dynamic Diffuse Global Illumination), Codemasters has added three ray-traced effects for ambient occlusion, transparency, and opaque reflections. Moreover, anisotropic filtering has improved. According to DF's Oliver Mackenzie, these additions translate almost into a generational leap in visuals in some instances. However, image stability in this RT mode isn't as stable as in the base PS5 Quality mode, probably due to a combination of PSSR and the noise caused by the ray-traced effects. PSSR will be added to other modes in the future.
+RELATED STORY Indiana Jones and the Great Circle on PlayStation 5 Pro Features Global Illumination, Ambient Occlusion and Contact Shadows Improvements
+Gran Turismo 7: Polyphony Digital's latest game offers two PS5 Pro modes. One, as mentioned in the other report posted earlier today, adds real-time ray-traced reflections during races. However, GT7 has a more limited ray tracing implementation than F1 24, with off-track elements and even some on-track elements not being factored in the reflections. Image quality and stability also suffer a bit in this RT mode compared to the base PS5. For those players who aren't interested in the ray-traced reflections, there is an image quality priority mode that uses PSSR and looks very clean in comparison.
+Horizon Forbidden West: This one is interesting. Guerrilla Games confirmed that it uses a new anti-aliasing reconstruction technique originally developed for future games but was then ported back to the second installment in the Horizon series. It's not PSSR or checkerboard, but Digital Foundry was very impressed as it looked way more detailed and stable than the previous solution included with the game. There will be a Quality mode that renders more often at 4K or near-4K resolution, but the developers really believe PS5 Pro players should rather use the new Performance mode since it looks extremely good already.
+Hogwarts Legacy: The Fidelity RT mode will offer vastly improved ray-traced shadows and reflections on PS5 Pro compared to the base PS5, with reflections using doubled resolution. The developers credited this to the console's BVH management, which is much faster than the PlayStation 5's and allows them to 'collect' objects from much further out. Avalanche Software also confirmed to have switched to PSSR for all modes (they were previously using Unreal Engine 4's TAA).
+Marvel's Spider-Man 2 and Ratchet & Clank: Rift Apart: According to Digital Foundry, in Marvel's Spider-Man 2, PSSR in the Performance Pro mode looks 'different' compared to the Quality mode from the PS5 version, resolving some details better and others not as well. Of course, that's while running at twice the frame rate. Insomniac said they plan to further improve the Quality Pro mode, hinting at potentially adding some ray tracing techniques that would take advantage of the PS5 Pro's much-improved ray tracing capabilities. They also confirmed to have removed a sharpening filter that was previously applied to their anti-aliasing reconstruction technique, since it is not needed with PSSR anymore. As for Ratchet & Clank: Rift Apart, image quality and PSSR hold better than Marvel's Spider-Man 2, possibly due to the less intensive load.
+The Last of Us Part II Remastered: PSSR once again appears to resolve a lot more details than the blurry TAA used in the base PS5. However, it also has worse image stability, and the depth of field isn't working correctly in some cases.
+Final Fantasy VII Rebirth: In many ways, this is the poster child for the PS5 Pro since the PlayStation 5 console delivered profoundly disappointing image quality in the Performance mode. The details are much higher on the PlayStation 5 Pro. However, DF again noted some stability issues, and the Level of Detail (LOD) drawbacks haven't been improved. 
+The Crew Motorfest: This is another game where the Performance mode sees a big detail improvement thanks to PSSR. The developers are also porting some of the higher settings from the PS5's Quality mode. 
+Demon's Souls: While still an incredible-looking game despite being a PS5 launch title, the PS5 Pro makes it even better by allowing a higher resolution and introducing contact shadows. 
+Dragon's Dogma 2: PSSR looks a lot better than the old checkerboard solution, but it does seem to have some issues in this game with RTGI. Overall, though, the game ran much faster on PS5 Pro, reaching around 50 frames per second in the notoriously troublesome city scenarios.
+
+To round up the preview, Digital Foundry said that multiple developers hinted at PSSR having improved over time, and they expect the same will occur in the future. It makes sense, being a machine learning technique. As for the elephant in the room (whether the PS5 Pro is worth the $699 price Sony is asking), they said its improvements will matter more to users interested in playing games at 60 or higher frames per second.
+Further Reading
+
+Indiana Jones and the Great Circle Runs at Native 4K Resolution With Advanced Ray Tracing on PlayStation 5 Pro
+Francesco De Meo
+
+Stuttering Issue Registered in Several PS5 and PS5 Pro Games with VRR Enabled
+Alessio Palumbo
+
+Assassin’s Creed Shadows PS5 Pro Upgrade Is the Largest to Date, According to New Analysis; Performance Mode Hits 60 FPS Complete With Ray-Traced Global Illumination
+Francesco De Meo
+
+AMD FSR 4 Will Be Used in PS5 Pro Games Next Year, Reveals Sony’s Mark Cerny
+Alessio Palumbo
+Subscribe to get an everyday digest of the latest technology news in your inbox
+ 
+ 
+About
+Advertise with Us
+Contact
+Tip Us
+Careers
+Terms of Use
+Privacy & Cookies Policy
+Ethics Statements
+Appeal Moderation
+Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+
+© 2025 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
+
+
+--------------------------------------
+ChatGPT:
+
+
+markdown
+Copy code
+VI. PS5 Pro First Hands-On by Digital Foundry: PSSR, Ray Tracing, and Performance Insights (Sept 25, 2024)
+
+  A. Core Hardware Feature: PSSR (PlayStation Spectral Super Resolution)
+    1. Machine-learning-based upscaling solution replacing checkerboard rendering and TAA
+    2. Shows significantly sharper image quality across titles
+    3. Trade-offs:
+      - Increased detail resolution
+      - Occasional image instability and visual noise
+      - Still evolving (expected iterative improvement by devs)
+
+  B. Game-by-Game Analysis Highlights
+    i. F1 24
+      - New RT effects: ambient occlusion, transparency, opaque reflections
+      - PSSR + ray tracing causes some instability
+    ii. Gran Turismo 7
+      - Two modes: RT reflections vs. PSSR quality
+      - RT mode shows less stability vs. base PS5
+    iii. Horizon Forbidden West
+      - New proprietary AA method (not PSSR or checkerboard)
+      - Very stable visuals, especially in Performance mode
+    iv. Hogwarts Legacy
+      - Major visual upgrade via improved BVH for RT shadows/reflections
+      - All modes now use PSSR
+    v. Marvel's Spider-Man 2 / Ratchet & Clank: Rift Apart
+      - PSSR improves detail in Pro Performance mode
+      - Insomniac removed sharpening filter—PSSR no longer needs it
+    vi. The Last of Us Part II Remastered
+      - More detail vs. TAA; minor image stability and DoF issues
+    vii. Final Fantasy VII Rebirth
+      - PSSR resolves major complaints from base PS5
+      - LOD issues persist
+    viii. The Crew Motorfest
+      - Major improvement in Performance mode with ported Quality-mode settings
+    ix. Demon's Souls
+      - Boosted resolution and contact shadows
+    x. Dragon’s Dogma 2
+      - PSSR looks better than checkerboard; minor RTGI issues
+      - Notably improved frame rate in dense city zones (~50 FPS)
+
+  C. Developer Commentary & Trends
+    1. PSSR will expand to additional modes in future updates
+    2. Performance headroom from PS5 Pro enables:
+      - RT integration during active gameplay
+      - Higher fidelity in Performance modes (60+ FPS targets)
+
+  D. Market Implications
+    i. PS5 Pro’s $699 price likely targeted at:
+      - Enthusiasts prioritizing 60+ FPS and high-fidelity visuals
+      - Users expecting futureproofing via PSSR and RT scalability
+    ii. PSSR positioned as scalable software-side advantage for Sony’s dev ecosystem
+
+  E. Sub-Index Tags
+    - Hardware Performance Tiers (PS5 vs. PS5 Pro)
+    - Super Resolution Technologies (PSSR)
+    - Real-Time Ray Tracing Integration
+    - Upscaling & Reconstruction Methodologies
+    - Developer Adaptation (ML-enhanced graphics pipelines)
+
+--------------------------------------
+User:
+
+
+News
+Hardware
+Gaming
+Mobile
+Finance
+Deals
+Reviews
+How To
+My Wccftech
+GAMING
+Oblivion Remastered Is an Impressive Remaster with Dire Performance Problems, Says Digital Foundry
+Alessio Palumbo
+•
+Apr 28, 2025 at 06:00am EDT
+
+42
+Comments
+
+In our review of The Elder Scrolls IV: Oblivion Remastered, after largely praising the visuals and gameplay changes made by Virtuos, reviewer Francesco De Meo also noted that the performance was highly problematic:
+The game runs pretty well in closed-off environments, but the performance leaves a lot to be desired in the open world. In two different benchmarking sessions, held in the sewers during The Path of Dawn quest to meet with the Sponsor to obtain the Mythic Dawn Commentaries 4 book, at 4K resolution, NVIDIA DLSS in Quality Mode, Frame Generation Hardware Lumen and every setting at high, the game ran at an average of 141 FPS, 24 1% low, with minimal stuttering that did not impact the experience a lot.
+RELATED STORY The Elder Scrolls VI Unlikely to Use Unreal Engine 5 For Rendering, as It Wouldn’t Solve Core Creation Engine Issues
+In the open world, however, things are quite different, as the game ran at an average of 107 FPS, 15 1% low with frequent stuttering. My system (i7-13700F, RTX 4080, 32 GB RAM) should be more than capable of handling Oblivion Remastered well, at least based on the system requirements, so it's clear that more work is needed on the optimization front.
+I experienced the same even on my more powerful rig (Ryzen 7 9800X3D, RTX 5090). While the game runs smoothly in closed off areas, open areas and especially the open world are close to a stutter-fest.
+The folks at Digital Foundry agree, too. Their PC video report, published over the weekend, praised the remaster's visuals but cited 'dire performance problems'.
+
+Digital Foundry's Alex Battaglia noted that history repeats itself, as constant hitches in the open world also plagued the original Oblivion. Even a lower frame rate cap to 60 FPS cannot really fix the issue. While hitches are very bad on the most powerful CPU available on the market, they're much worse on lower end CPUs. For example, the Ryzen 5 3600 exhibits 2 to 2 and a half longer hitches compared to the Ryzen 7 9800X3D in DF's testing.
+The only real way to slightly improve the stuttering/hitching issue is to disable hardware-accelerated Lumen ray-traced global illumination. Unfortunately, this also brings a noticeable reduction in visual quality, especially when it comes to water reflections, ambient shadowing and lighting. Needless to say, the only real fixes can come with an official patch from Virtuos. We'll keep you updated on any such enhancements, of course.
+Meanwhile, the game has already surpassed four million players.
+Products mentioned
+
+The Elder Scrolls IV: Oblivion Remastered
+USD 34.99
+Buy from Amazon
+Further Reading
+
+The Elder Scrolls IV: Oblivion Remastered Review – Back in Cyrodiil, 19 Years Later
+Francesco De Meo
+
+Oblivion Remastered Breaks 4 Million Players in 4 Days
+Alessio Palumbo
+
+Original Oblivion Designer Says The Word Remaster Doesn’t Do Justice to the New Release
+Alessio Palumbo
+
+Oblivion Remastered Seems to Be Rather Well-Suited to Mods, and One of Them Adds Ray Reconstruction
+Alessio Palumbo
+Subscribe to get an everyday digest of the latest technology news in your inbox
+ 
+ 
+About
+Advertise with Us
+Contact
+Tip Us
+Careers
+Terms of Use
+Privacy & Cookies Policy
+Ethics Statements
+Appeal Moderation
+Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+
+© 2025 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
+
+
+--------------------------------------
+ChatGPT:
+
+
+markdown
+Copy code
+VII. Oblivion Remastered: Strong Visuals Undermined by Severe Performance Issues (Apr 28, 2025)
+
+  A. General Overview
+    1. Developed by Virtuos; praised for visual upgrades and fidelity
+    2. Performance problems widely reported—especially in open-world environments
+    3. Game has surpassed 4 million players despite technical flaws
+
+  B. Performance Benchmarks
+    i. Closed Areas (e.g., sewers during “Path of Dawn” quest):
+      - Avg: 141 FPS
+      - 1% low: 24 FPS
+      - Settings: 4K, DLSS Quality, Frame Generation, Lumen RTGI enabled, high settings
+      - System: i7-13700F, RTX 4080, 32GB RAM
+    ii. Open World:
+      - Avg: 107 FPS
+      - 1% low: 15 FPS
+      - Frequent stutters reported even on high-end rigs (e.g., Ryzen 7 9800X3D + RTX 5090)
+      - Severe frame hitching across CPU tiers
+
+  C. Digital Foundry Analysis
+    1. Agrees with user reports—calls issues “dire”
+    2. Performance stuttering in open world mirrors issues from original Oblivion
+    3. Frame cap to 60 FPS ineffective
+    4. Lower-end CPUs (e.g., Ryzen 5 3600) experience 2x longer hitches vs. top-tier CPUs
+
+  D. RTGI as Culprit
+    i. Hardware Lumen GI causes significant stutter
+    ii. Disabling RTGI improves stability, but:
+      - Reduces water reflections, ambient shadowing, overall lighting fidelity
+      - Diminishes core visual appeal of remaster
+
+  E. Optimization Needs
+    1. Current state: requires urgent patching from Virtuos
+    2. No software-side fixes (e.g., settings tweaks) fully resolve the problem
+    3. Performance bottlenecks point to engine-level or CPU-threading issues
+
+  F. Sub-Index Tags
+    - Remaster Performance Trends
+    - CPU Bottlenecking in Open World
+    - Lumen Ray Tracing Overhead
+    - Upscaling + Frame Gen Synergy Limits
+    - Player Adoption vs. Technical Quality
+
+--------------------------------------
+User:
+
+
+News
+Hardware
+Gaming
+Mobile
+Finance
+Deals
+Reviews
+How To
+My Wccftech
+GAMING
+DOOM: The Dark Ages Just Got Its Second Official Trailer
+Alessio Palumbo
+•
+Apr 21, 2025 at 06:00am EDT
+
+32
+Comments
+
+Bethesda Softworks and id Software have published the second official DOOM: The Dark Ages trailer at a rather unusual time and date, late on Sunday night (at Easter, no less). Still, it was a nice surprise for fans, to be sure, and the official YouTube channel already shows half a million views in the span of mere hours.
+By the way, this is a cinematic trailer, not a gameplay trailer. It's entirely focused on story bits, which reflects what id Software told the press when they first discussed the game a couple of months ago: the plot will be more important than ever in a DOOM game. Of course, there's a lot more to DOOM: The Dark Ages, which they described as the most expansive franchise installment yet:
+RELATED STORY DOOM: The Dark Ages GeForce RTX 50 Series Bundle Available Now
+Marty Stratton: It's definitely not an open world game, but it is the most expansive world we've ever built. You really feel like you're on a battlefield. It goes from the typical linear DOOM to these large sandboxes where the exploration opens up, and you get multiple objectives that can be tackled in any order. Exploration is also tied to power in that you can find and unlock several upgrades for your character.
+Hugo Martin: There's a much greater focus on progression items. We've really streamlined the economy and the currencies. I think that's another thing we learned from DOOM Eternal. If you have too many currencies and skill trees, you confuse the player. But speaking of the level design, we're very proud of it. It's some of the best work we've ever done.
+
+Last month, Wccftech's Chris Wray went hands-on with the game at a press event, and his take was very positive:
+This massive battlefield was far more open than what you generally get in a DOOM title. Some trappings remained, in that you have arenas to encounter and loads of secrets to find via some exploration, but it never felt constrained by the usual corridors you come to expect. While still somewhat driven, it offered a bit of an open feel, where you could maybe find yourself at odds in one area, decide to tackle somewhere else and rearm before coming back.
+Combine this more open approach with the excellent fast-paced combat from DOOM Eternal, where you will be finishing off enemies to have extra life and ammo fall out of their bodies, combos and well-timed attacks being rewarded with more to keep you going, and you have a recipe for greatness.
+DOOM: The Dark Ages will launch on May 15 for PC, PlayStation 5, and Xbox Series S|X. The PC version will support NVIDIA DLSS 4 Frame Generation and path tracing. There are also rumors of a Nintendo Switch 2 version, which wouldn't be at all surprising considering that both previous games were released for the original Switch console.
+Products mentioned
+
+DOOM: The Dark Ages
+USD 69.99
+Buy from Amazon
+Further Reading
+
+Doom: The Dark Ages Preview – DOOM Unlike any Other
+Chris Wray
+
+DOOM: The Dark Ages Rumored for Nintendo Switch 2 as Phil Spencer Teases More Multiplatform Support
+Alessio Palumbo
+
+DOOM: The Dark Ages Is The Biggest and Best Game We’ve Ever Made, Says id; Story Is ‘Out of the Codex’
+Alessio Palumbo
+
+DOOM: The Dark Ages Is Out on May 15, Gets PC Specs; $80 Price, No Multiplayer
+Alessio Palumbo
+
+Subscribe to get an everyday digest of the latest technology news in your inbox
+ 
+ 
+About
+Advertise with Us
+Contact
+Tip Us
+Careers
+Terms of Use
+Privacy & Cookies Policy
+Ethics Statements
+Appeal Moderation
+Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+
+© 2025 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
+
+
+--------------------------------------
+ChatGPT:
+
+
+vbnet
+Copy code
+VIII. DOOM: The Dark Ages – Story-Focused, Semi-Open Evolution of the Franchise (Apr 21, 2025)
+
+  A. Announcement Overview
+    1. Second official trailer released on Easter Sunday
+    2. Cinematic trailer emphasizing narrative elements—unusual for DOOM
+    3. Over 500K views within hours of release
+
+  B. Narrative & Design Direction
+    i. id Software emphasizes plot as central to the experience
+    ii. World Design:
+      - Not fully open world
+      - Largest DOOM environments to date
+      - Features "large sandboxes" with multiple objectives
+      - Exploration linked to character upgrades
+    iii. Level/Economy Design:
+      - Streamlined currency and progression system
+      - Reduced skill tree complexity vs. DOOM Eternal
+      - Focus on clarity and accessible systems
+
+  C. Gameplay Features
+    1. Retains core arena combat DNA from DOOM Eternal
+    2. New structure allows route flexibility and strategic retreat
+    3. Exploration rewarded with secrets, power-ups, and upgrade paths
+    4. Fast-paced kill chains return:
+      - Finishers yield ammo/life
+      - Momentum-based resource loop intact
+
+  D. Technical Highlights (PC Version)
+    i. Supports:
+      - NVIDIA DLSS 4 with Frame Generation
+      - Path tracing (RTX 50 Series bundle confirmed)
+    ii. Platform Availability:
+      - PC, PS5, Xbox Series X|S
+      - Rumored Switch 2 port in development
+
+  E. Strategic Notes
+    1. Increased narrative focus aligns with modern single-player expectations
+    2. Launching as a $69.99 premium title (no multiplayer)
+    3. Multiplatform strategy consistent with broader Microsoft/Bethesda shifts
+
+  F. Sub-Index Tags
+    - Franchise Expansion Strategy (DOOM)
+    - Sandbox-Level Integration in FPS
+    - Story Integration in Action Titles
+    - DLSS 4 + Path Tracing Deployment
+    - Xbox-Owned IP Multiplatform Rollout
+
+--------------------------------------
+User:
+
+
+News
+Hardware
+Gaming
+Mobile
+Finance
+Deals
+Reviews
+How To
+My Wccftech
+HARDWARE
+REPORT
+Thermal Gel Slippage Problem Continues On Gigabyte RTX 50 Series GPUs, Two More Incidents Emerged In A Single Day
+Sarfraz Khan
+•
+May 5, 2025 at 02:39pm EDT
+
+154
+Comments
+
+Some Gigabyte RTX 50 GPUs continue to suffer from displacement of thermal gel. Two more forum users have reported such findings.
+RTX 5080 Owners Reports Oozing Out of Thermal Gel on Gigabyte Cards; Gigabyte's Response Remains Unhelpful
+One of the first incidents of the oozing of thermal gel on a Gigabyte card was hardly reported less than ten days ago. The incident involved a GIGABYTE GeForce RTX 5080 GPU, in which the thermal gel started leaking from its original position to other components. Gigabyte released its statement soon, indicating that there might be more such GPUs being affected by the issue.
+RELATED STORY GeForce RTX 5060 Gets Listed For $299 On Best Buy Ahead Of Launch: PNY RTX 5060 OC With A Dual Fan Design
+Apparently, this was due to applying more than sufficient thermal gel, which affected some Gigabyte RTX 50 series GPUs in some early product batches. Gigabyte assured its customers that there is nothing to worry about as this won't affect the card's "...performance, reliability, or lifespan...".
+
+Image Credit: Techpowerup.com
+Two days ago, another such incident emerged on the Techpowerup forums, where a user "remekra" reported that the thermal gel slipped towards the I/O on his RTX 50 GPU, since his case, the Lian Li SUP01, uses vertical mounting. Soon after, two more users on the Techpowerup forums reported such cases, both having Gigabyte RTX 50 series GPUs.
+
+Image Credit: Techpowerup.com
+One user who goes by the name "TaLL" reports that he has been using his Gigabyte RTX 5080 for roughly one week, and he is already seeing the slippage of the thermal gel. The user appears quite worried, and for valid reasons, because the GPU is quite expensive, and it isn't normal at all. Another user, "vermie22," reported a similar incident, which clearly shows a thermal gel coming out of its original position to the PCI-E interface.
+
+Image Credit: Techpowerup.com
+Gigabyte did confirm in their original press release that their cards undergo rigorous testing for both performance and stability. This also includes multi-axis drops and verification in both vertical and horizontal installation orientations. Fortunately, none of the users have reported any GPU failures or damage till now, but some might panic seeing this on their GPUs. However, fixing this on your own is not recommended as removing the cooler may void the warranty.
+We await Gigabyte's response on this once again, but considering how Gigabyte responded to the first case, it's unlikely that Gigabyte can offer a solution that could fix this issue while the GPUs are in the consumers' hands.
+News Source: Techpowerup
+Products mentioned
+
+PNY GeForce RTX 5080
+USD 1444
+Buy from Amazon
+Further Reading
+
+NVIDIA RTX 50 Series Graphics Cards Are Way Above MSRP Even After Months Of Launch; RTX 5090 Remains Close To $3000
+Sarfraz Khan
+
+ASUS Prepares The First White Edition RTX 5070 Ti And RTX 5070 Graphics Cards: Introducing New TUF And PRIME Series 70-Class GPUs
+Sarfraz Khan
+
+NVIDIA GeForce RTX 50 Series Finally Makes It To The Steam Hardware Survey But Total Share Remains Less Than One Percent
+Sarfraz Khan
+
+NVIDIA Is Reportedly Preparing For RTX 50 SUPER Lineup; GeForce RTX 5080 SUPER 24 GB & 5070 SUPER 18 GB Surface Online
+Muhammad Zuhair
+Subscribe to get an everyday digest of the latest technology news in your inbox
+ 
+ 
+About
+Advertise with Us
+Contact
+Tip Us
+Careers
+Terms of Use
+Privacy & Cookies Policy
+Ethics Statements
+Appeal Moderation
+Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+
+© 2025 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
+
+
+--------------------------------------
+ChatGPT:
+
+
+To support your sub-index on packaging and power-delivery innovations, do you want to track physical manufacturing and assembly flaws like thermal gel slippage (e.g. Gigabyte’s RTX 50 series issue)? Or should we limit it strictly to advanced power delivery and interconnect tech like BSPDN, Foveros, or EMIB?
+--------------------------------------
+User:
+
+
+Track flaws as well.
+--------------------------------------
+ChatGPT:
+
+
+Got it. I’ll add thermal interface and assembly flaws to the sub-index as part of packaging-related concerns. This includes anomalies like gel slippage, pad misalignment, solder issues, or mechanical mounting defects across GPU and CPU vendors.
+Future cases like this will be logged and tracked under the same sub-index.
+--------------------------------------
+ChatGPT:
+
+
+Packaging and Power Delivery Issues (Index)
+Back-Side Power Delivery Network (BSPDN)
+
+Back-side power delivery (also called BSPDN) is an emerging chip fabrication innovation that routes power through the silicon wafer’s backside rather than the front. This separates power vias from signal interconnects, improving power efficiency and allowing higher transistor density
+anandtech.com
+. Intel’s upcoming “PowerVia” technology on its 20A/18A nodes will be one of the first implementations, aiming to deliver ~15% power/transistor density improvements. As a pathfinder of BSPDN, Intel faces significant manufacturing challenges and risks – similar to its early adoption of FinFET – but stands to gain a major edge if successful
+anandtech.com
+. All major chip fabs are expected to adopt backside power in coming years as it becomes essential for continued scaling
+anandtech.com
+. (No known defect incidents yet; focus is on monitoring integration and yield as this technology rolls out in 2024–2025.)
+
+Intel Foveros 3D Chip Stacking
+
+Foveros is Intel’s 3D die-stacking packaging technology that vertically integrates multiple silicon dies (chiplets) within a package. By stacking a compute die atop a base die (which contains power delivery, I/O, or cache), Foveros enables much shorter inter-die connections, improving bandwidth and latency while reducing footprint
+anandtech.com
+. The trade-offs are thermal density and power delivery challenges: a stacked design traps more heat and requires through-silicon vias (TSVs) to deliver power up to the top die
+anandtech.com
+. Early Foveros implementations (e.g. 2019’s Lakefield hybrid CPU) faced these limitations – the base die had to be a low-power design to avoid overheating, and large TSVs for power could interfere with signals
+anandtech.com
+. Intel’s second-generation Foveros in 2023 (Meteor Lake) reduces bump pitch (to 36 µm) to improve interconnect density and introduces Foveros Omni/Direct to alleviate power TSV interference by routing power on the package periphery
+anandtech.com
+anandtech.com
+. As 3D stacking becomes more advanced, yield is also a concern – combining multiple dies can compound the chances of defect, requiring highly mature processes to achieve good yields
+anandtech.com
+. Intel and the industry are steadily iterating on Foveros/3D packaging to balance these thermal and power delivery issues while scaling up integration.
+
+Mechanical Integrity Issues in GPU/CPU Packaging
+
+Aside from electrical innovations, mechanical aspects of packaging (coolers, thermal interface materials, etc.) have increasingly become points of failure in modern high-performance GPUs and CPUs. Below is a running catalog of notable incidents where packaging or thermal interface flaws led to defects:
+
+Gigabyte RTX 50-Series Thermal Gel Slippage (2025):
+Thermal interface gel leaking from a Gigabyte AORUS RTX 5080 MASTER graphics card, visible as a gray putty-like residue near the PCIe connector. This occurred after about one month of use with the card mounted vertically, causing the gel to slowly ooze downward under gravity
+techpowerup.com
+. Gigabyte’s RTX 50-series cards use a “server-grade” thermal gel instead of pads for cooling VRAM and MOSFETs, intended to improve heat transfer and longevity, but early units experienced gel migration.
+
+Description: A pliable thermal conductive gel applied inside the cooler began seeping out of the heatsink assembly, accumulating as a silvery-gray blob along the PCB edge (toward the I/O bracket and PCIe fingers)
+techpowerup.com
+. In affected cards, users observed the gel crawling out of its intended area and moving toward the PCIe slot region, creating an alarming visual of leakage.
+
+Confirmed Reports: The issue first came to light via a Korean forum post (QuasarZone) in April 2025, where a RTX 5080 owner shared photos of gel leakage after ~30 days of light use (2 hours/day of gaming)
+techpowerup.com
+notebookcheck.net
+. Notably, the card was installed vertically on a riser, which likely exacerbated the gel migration. Subsequent comments suggested this was not an isolated case – other Gigabyte RTX 50-series models (including Gaming OC, WindForce, and AORUS Master variants) showed similar gel oozing behavior
+tomshardware.com
+. Gigabyte later confirmed the problem potentially affected nearly the entire RTX 50 lineup across their GeForce 50-series cards
+tomshardware.com
+, as well as some AMD Radeon RX 9000-series cards that used the same gel.
+
+Gigabyte’s Response: Initially, Gigabyte’s regional distributor acknowledged the issue and apologized for “unclear customer service regulations” in handling early complaints
+techpowerup.com
+. By late April 2025, Gigabyte issued an official public statement explaining the situation
+tomshardware.com
+. The company admitted that early production batches had an excess amount of thermal gel applied (to ensure full coverage), which led to some overflow in use
+gigabyte.com
+. Gigabyte emphasized that the gel is non-conductive and the leakage is a cosmetic irregularity only, not impacting performance or stability
+gigabyte.com
+. They reported adjusting the application volume in later production so that future cards “will not exhibit similar leakage”
+tomshardware.com
+. No recall was announced; instead Gigabyte advised that affected customers could contact customer support for assistance
+tomshardware.com
+.
+
+Likely Root Causes: The primary cause was over-application of the thermal gel at the factory, as Gigabyte confirmed
+gigabyte.com
+. The surplus gel had nowhere to go once the card heated up, so over time it was pressed out from under the heatsink. The material’s properties also played a role: the gel is described as “highly deformable, putty-like”
+techpowerup.com
+. While it doesn’t truly melt until ~150 °C
+gigabyte.com
+, it can slowly flow under sustained pressure or heat. In a vertical GPU orientation, gravity worsened the situation – the gel was pulled downward off the VRAM/MOSFET components, whereas horizontally it might have stayed in place
+techpowerup.com
+. (Thermal cycling may have contributed a pump-out effect as well: each heat-up could squeeze a bit of gel out, which then didn’t retract on cooldown.) The combination of too much material and orientation sensitivity thus led to the gel “bleeding” out of its designated area.
+
+Warranty/Repair Limitations: Gigabyte has not offered any proactive fix or recall for this issue. The official stance is that it does not affect functionality, so the company is treating it as a support case rather than a defect requiring product recall. Customers who find leaking gel are instructed to reach out to Gigabyte’s service centers for help
+tomshardware.com
+. (In practice, this might result in the card being cleaned or serviced, or possibly replaced at Gigabyte’s discretion if deemed severe.) Initially, some users reported inconsistent answers from support (with some being told the leakage was “normal” or not covered), prompting the distributor to apologize for the confusion and promise clearer RMA guidelines
+techpowerup.com
+. Importantly, attempting to fix it oneself by disassembling the card could risk voiding the warranty, so users are encouraged to let Gigabyte handle it.
+
+Risks and Impact: Gigabyte asserts that the leaking gel is only an aesthetic issue – they stated explicitly that performance, reliability and lifespan are unaffected
+gigabyte.com
+. Indeed, the gel’s purpose is to aid cooling, and even with some gel displaced, most of the component should still be covered and temperatures should remain within spec. The gel is electrically insulating, so it typically won’t short any circuitry if it contacts the PCB
+notebookcheck.net
+. However, there are still practical concerns: if the gel continues to spread, it could reach connectors (e.g. the PCIe slot or video outputs) or attract dust and debris, potentially causing physical interference or long-term grime buildup. From a user standpoint, seeing a pricey new GPU “leaking” any substance is disconcerting. This kind of defect – even if benign – can erode consumer confidence. Enthusiasts expect a premium product to be well-built; discovering oozing material raises fears of poor quality control and can hurt the card’s resale value (buyers might suspect overheating or damage)
+tomshardware.com
+. Thus, while the immediate performance risk is low, the reputational and customer satisfaction risk for Gigabyte is significant.
+
+Community & Media Updates: The thermal gel saga gained rapid attention in hardware communities. After the initial QuasarZone post went viral, international tech media picked up the story within days (Tom’s Hardware, Notebookcheck, TechPowerUp, etc.)
+tomshardware.com
+tomshardware.com
+. This public pressure likely hastened Gigabyte’s official response. Discussions on forums have been lively – many users voiced frustration that such a basic oversight (thermal material application) slipped through QA
+techpowerup.com
+. Some have pointed out that similar issues have occurred in the past with other GPUs, e.g. certain RTX 30-series cards had thermal pad “oil” leakage due to pad material bleeding at high temperatures
+techpowerup.com
+. The RTX 50-series gel incident has thus been a wake-up call, with community members urging manufacturers to account for real-world orientation and usage in their thermal designs. As of this catalog entry, Gigabyte is monitoring the situation but insists current owners will not be negatively affected beyond the mess. We will track any further developments – such as if a large number of cards exhibit the issue, or if Gigabyte initiates a more concrete repair program – as this unfolds.
+
+AMD Radeon RX 7900 XTX Vapor Chamber Defect (2022):
+
+Description/Impact: In late 2022, owners of AMD’s flagship Radeon RX 7900 XTX (reference design) began reporting overheating and throttling: the GPU would hit 110 °C junction temperature and clock down, especially in systems where the card was mounted horizontally. Investigation by enthusiasts (der8auer) pointed to a manufacturing flaw in the card’s vapor chamber cooler
+techpowerup.com
+. The vapor chamber, which should evenly spread heat, was not working correctly in a subset of cards – likely due to insufficient coolant or internal pressure. This meant heat wasn’t being dissipated fast enough, causing the extreme hotspot temps
+techpowerup.com
+. Notably, mounting orientation appeared to affect the severity (upright vertical mounting alleviated it somewhat), indicating the defect in the chamber’s liquid circulation.
+
+Resolution: AMD acknowledged the issue after a few weeks and confirmed that a “small batch” of the made-by-AMD reference boards had defective vapor chambers (with not enough liquid inside)
+tomshardware.com
+tomshardware.com
+. Only the reference MBA (Made By AMD) units were affected – custom cards from board partners had different coolers and did not show the problem
+tomshardware.com
+. AMD responded by offering full replacements for all affected cards under warranty
+tomshardware.com
+tomshardware.com
+. Users experiencing the 110 °C overheating were advised to contact AMD or their board partner for an RMA, and AMD would ship out fixed units (with properly filled vapor chambers). This proactive recall/replacement program successfully addressed the issue for consumers, though it attracted negative press for AMD at the launch of a new GPU generation. The incident underscored the importance of quality control in advanced cooling solutions – even a small manufacturing variance (a few milliliters of missing coolant) can lead to outsize failures in high-end GPU packages.
+--------------------------------------
+User:
+
+
+Search to see what creative directions upcoming games or remasters or rereleases on existing properties are taking. I'd like to understand any trends on the creative side that are emerging to maintain Xbox and Nintendo as they hike prices in their games.
+--------------------------------------
+ChatGPT:
+
+
+In 2025, both Xbox and Nintendo are navigating rising game prices by adopting innovative creative strategies to maintain player engagement. Here's an overview of the emerging trends:
+
+🎮 Xbox: Embracing Bold Reimaginings and Cross-Platform Expansions
+
+1. Reinventing Established Franchises
+
+Doom: The Dark Ages transports the iconic Doom series into a medieval setting, introducing sandbox levels, kaiju battles, and Panzer Dragoon-style mechanics, signaling a significant shift in gameplay dynamics .
+Diario AS
+
+Shadow Labyrinth reimagines the classic Pac-Man franchise as a dark, metroidvania-style action-adventure, aiming to attract a more mature audience while retaining core thematic elements .
+Wikipedia
+
+2. Cross-Platform Releases and Remasters
+
+Gears of War: Reloaded marks a strategic move by Xbox to release its traditionally exclusive titles on PlayStation 5, offering enhanced visuals and performance, and reflecting a broader approach to platform inclusivity .
+Polygon
+
+Ninja Gaiden 2: Black receives a remaster with updated graphics, showcasing Xbox's commitment to revitalizing classic titles for modern audiences .
+
+3. Diversifying Game Pass Offerings
+
+Titles like South of Midnight and Clair Obscur: Expedition 33 are expanding the Game Pass library with unique narratives and gameplay styles, emphasizing Xbox's dedication to variety and innovation .
+Diario AS
++3
+Polygon
++3
+The Verge
++3
+
+🎮 Nintendo: Blending Nostalgia with Innovative Mechanics
+
+1. Revitalizing Classic Titles
+
+Xenoblade Chronicles X: Definitive Edition brings enhanced visuals and new story content to the Switch, demonstrating Nintendo's strategy of updating beloved titles for current platforms .
+The Verge
+
+Tomb Raider IV–VI Remastered compiles and updates classic entries in the series, preserving their darker atmospheres while modernizing gameplay elements .
+Wikipedia
+
+2. Introducing Fresh Gameplay Dynamics
+
+Metroid Prime 4: Beyond introduces new psychic abilities for protagonist Samus Aran, indicating a willingness to evolve core gameplay mechanics within established franchises .
+Wikipedia
+
+Pokémon Legends: Z-A focuses on urban redevelopment themes within Lumiose City, suggesting a shift towards more narrative-driven experiences in the Pokémon series .
+GamesRadar+
+
+3. Expanding to New Platforms
+
+The upcoming Nintendo Switch 2 is set to launch with titles like Mario Kart World and enhanced editions of The Legend of Zelda: Breath of the Wild and Tears of the Kingdom, indicating Nintendo's commitment to leveraging new hardware capabilities while honoring its legacy .
+GamesRadar+
+
+These strategies reflect a broader industry trend of balancing innovation with nostalgia, aiming to offer players fresh experiences while honoring the essence of beloved franchises.
+
+Recent Developments in Game Remasters and Releases
+Polygon
+Ecco the Dolphin is getting two remasters and one new title from its original creators
+May 5, 2025
+Polygon
+Gears of War coming to PS5 with 4K remaster
+May 5, 2025
+The Verge
+Nintendo's open-world RPG Xenoblade Chronicles X is getting remastered for the Switch
+Oct 29, 2024
+--------------------------------------
+User:
+
+
+Give me an overview of what we've covered thus far.
+--------------------------------------
+ChatGPT:
+
+
+mathematica
+Copy code
+PC & Console Business Tracker — Overview (as of May 5, 2025)
+
+I. TSMC 2nm Process
+  A. Record-breaking demand prior to mass production
+  B. Transition to GAAFET (nanosheet) architecture for better power/performance
+  C. Apple, NVIDIA, AMD leading early adopters
+  D. 2025 output ~50K wafers, tripling by 2027
+  E. Arizona N2 production expected by 2028
+
+II. Intel 18A Node
+  A. SRAM density on par with TSMC’s N2 (38.1 Mb/mm²)
+  B. First to implement BSPDN (Backside Power Delivery Network)
+  C. Part of Intel Foundry Systems strategy with PowerVia + Foveros
+  D. Focused on regaining node leadership and geopolitical reshoring
+  E. Yield and volume scalability remain key unknowns
+
+III. NVIDIA 2nm Foundry Rumor
+  A. Reports suggest NVIDIA may shift away from TSMC due to high costs
+  B. Samsung Foundry considered despite past issues
+  C. Trend toward dual-sourcing (e.g. Qualcomm)
+  D. 2nm integration timeline slowing (Apple delays to 2026)
+
+IV. AMD Drops Samsung for 4nm
+  A. EPYC orders reportedly shifted from Samsung SF4X to TSMC Arizona
+  B. Reflects growing TSMC-AMD alignment, especially for Zen 6 Venice
+  C. Samsung's yield/reputation remains a barrier to high-end trust
+  D. Emphasizes U.S. fab expansion relevance post-tariffs
+
+V. Xbox Game Performance (April 2025)
+  A. Oblivion Remastered, Minecraft, and Forza Horizon 5 top PS5 downloads
+  B. Oblivion becomes #3 best-selling U.S. game YTD
+  C. Xbox multiplatform publishing strategy gains traction
+  D. Aligns with announced hardware/software price hikes
+
+VI. PS5 Pro Hands-On (Digital Foundry)
+  A. PSSR (machine learning upscaling) introduced as core visual feature
+  B. Enhanced ray tracing in multiple titles (F1 24, GT7, Hogwarts Legacy)
+  C. Mixed results: improved resolution/detail but occasional instability
+  D. Performance modes on PS5 Pro now more visually competitive
+
+VII. Oblivion Remastered Technical Review
+  A. Visual upgrade praised, but plagued by severe open-world stutter
+  B. Even high-end CPUs (Ryzen 9800X3D) can't smooth out hitches
+  C. RTGI (Lumen) blamed; disabling it reduces fidelity
+  D. Digital Foundry corroborates: “dire” performance issues need patches
+
+VIII. DOOM: The Dark Ages
+  A. Stronger narrative emphasis—cinematic trailers, story-focused design
+  B. Semi-open structure replaces corridor linearity
+  C. Maintains Eternal’s momentum-driven combat loop
+  D. PC version supports DLSS 4 Frame Gen + path tracing
+
+IX. Gigabyte RTX 50-Series Thermal Gel Issue
+  A. Early RTX 5080 units show thermal gel slippage (vertical mount worsens)
+  B. Root cause: over-application + gel creep under heat/gravity
+  C. Gigabyte confirms issue but denies performance impact
+  D. Added to packaging sub-index under mechanical integrity concerns
+
+X. Creative Trends Supporting Premium Game Pricing
+  A. Xbox:
+    1. Franchise reinvention (DOOM: The Dark Ages, Shadow Labyrinth)
+    2. Cross-platform publishing (Gears Reloaded, Game Pass expansion)
+    3. Bold remasters (Ninja Gaiden 2 Black)
+  B. Nintendo:
+    1. Classic revivals (Xenoblade Chronicles X, Tomb Raider IV–VI)
+    2. Mechanics innovation (Metroid Prime 4 psychic powers, Pokémon Z-A)
+    3. Switch 2 hybrid strategy with launch-day enhanced editions
+  C. General Trend:
+    - Balancing nostalgia with fresh mechanics to justify rising MSRP
+    - Strategic remasters and narrative-forward redesigns signal price-value shift
+
+Sub-Indices:
+  1. Packaging & Power Delivery:
+     - BSPDN (Intel 18A)
+     - Thermal Gel Defect (Gigabyte RTX 50)
+     - Intel Foveros integration
+  2. Foundry Competition:
+     - TSMC N2 vs Intel 18A vs Samsung SF4X/SF2
+  3. Game Publishing Strategy:
+     - Xbox multiplatform pivot
+     - Nintendo hardware-software synergy (Switch 2 roadmap)
+
+--------------------------------------
+User:
+
+
+News
+Hardware
+Gaming
+Mobile
+Finance
+Deals
+Reviews
+How To
+My Wccftech
+MOBILE
+Analyst Speculates That Apple’s Foldable iPhone Will Outclass Rivals With A Crease-Free Display, Premium Hinge, High Durability, And Seamless User Experience
+Ali Salman
+•
+May 5, 2025 at 12:15pm EDT
+
+7
+Comments
+
+A prominent analyst recently reported that Apple will release the second generation of its foldable iPhone in 2027, possibly with some upgrades in terms of display technology and the hinge. However, the first foldable iPhone is also slated to feature a few advantages in terms of design over the competition, which will allow users to have a better user experience.
+Apple reportedly focusing on eliminating display crease and enhancing hinge quality to deliver a class-leading foldable iPhone experience
+In his latest Power On newsletter, Mark Gurman states that the foldable iPhone will offer two distinct and key advantages over the competition. Apple's foldable iPhone is currently in the developmental phase, and like any other foldable, Apple is worried about the display screen and the hinge bolstering the entire mechanism. We have previously reported that Apple's quality standards are causing the device to be delayed, as the company wants the crease on the screen to be non-existent. This key element of the foldable iPhone is crucial for Apple, and the latest suggests that the company is getting closer to its goals.
+RELATED STORY Apple Lays Bare How Tariffs Could Harm Its Business & Force It To Raise Prices
+Gurman claims that the foldable iPhone will have a "nearly invisible" crease when the device is unfolded. What this means is that the rumored 7.8-inch to 8-inch display will be seamless without any indentation. This will also allow for an uninterrupted viewing experience, as the current iterations refract light at different angles. "Apple looks to stand out from the competition by making the crease less noticeable when the phone is in the open position," says Gurman.
+Secondly, the hinge on the foldable iPhone will be "much higher quality" than the competition, which includes Samsung, Oppo, Xiaomi, Huawei, and more. The analyst did not share details on the material Apple will use for the hinge or any specific metal parts that would make up the system. On the flip side, we do know that the hinge will be made up of a combination of stainless steel and titanium. There is no doubt that the hinge will be strong and durable, but it remains to be seen if the device can withstand the test of time and the tests that are yet to be carried out in the real world.
+Kuo also stated that the external display of the foldable iPhone would be 5.5 inches, and the internal display would be 7.8 inches, making it as big as the iPad mini but with a different aspect ratio. It will also feature Touch ID in the power button instead of Face ID and a high-density battery. As for the thickness, the foldable iPhone is reported to be 4.5mm when unfolded and 9 to 9.5mm when folded. We will keep you posted with additional details, so be sure to stick around.
+Further Reading
+
+iPhone Fold 2 Slated For 2027 Launch Alongside 20th Anniversary iPhone, Possibly Addressing Concerns And Issues Found In The First-Gen Product
+Ali Salman
+
+Apple Predicted To Maintain A Consistent Launch Cycle For iPhone 17e And iPhone 18e For Two Consecutive Years, But Analyst Gives No Clear Indication About iPhone 19e
+Omar Sohail
+
+Apple’s 2027 iPhone 19 Air To Feature Larger Display, Analyst Says, As Company Expands iPhone Lineup With Slim Models, Foldables, And Staggered Launch Strategy
+Ali Salman
+
+Apple’s Redesigned Mac mini Cannot Be Powered Through A USB-C Port, But One Person Shows That It Is Possible, Provided You Possess Some Skill
+Omar Sohail
+Subscribe to get an everyday digest of the latest technology news in your inbox
+ 
+ 
+About
+Advertise with Us
+Contact
+Tip Us
+Careers
+Terms of Use
+Privacy & Cookies Policy
+Ethics Statements
+Appeal Moderation
+Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+
+© 2025 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
+
+
+--------------------------------------
+ChatGPT:
+
+
+markdown
+Copy code
+XI. Apple Foldable iPhone Development Update (May 5, 2025)
+
+  A. Release Timeline & Generational Plan
+    1. First-gen foldable iPhone expected prior to 2027
+    2. Second-gen "iPhone Fold 2" reportedly scheduled for 2027 launch
+    3. Foldables part of a staggered multi-format iPhone strategy (slim, foldable, standard)
+
+  B. Key Design Advantages (per analyst Mark Gurman)
+    i. Seamless, Crease-Free Display
+      - Target: “nearly invisible” crease
+      - Uninterrupted viewing surface (7.8"–8" internal display)
+      - Focused on eliminating light refraction and indentation
+    ii. Premium Hinge Construction
+      - Materials: stainless steel + titanium
+      - Goals: superior durability and mechanical integrity
+      - Competes directly against Samsung, Oppo, Xiaomi, Huawei
+
+  C. Other Reported Specs
+    1. External display: 5.5"
+    2. Internal display: 7.8" (iPad Mini-like scale, altered aspect ratio)
+    3. Biometrics: Touch ID in power button (no Face ID)
+    4. Battery: high-density variant
+    5. Dimensions:
+      - 4.5 mm thick (unfolded)
+      - 9–9.5 mm thick (folded)
+
+  D. Strategic Implications
+    i. Apple aiming for “class-leading” premium foldable tier
+    ii. Trade-off: Delayed release to meet industrial and visual standards
+    iii. Emphasizes long-term R&D investment over speed-to-market
+    iv. Could reshape expectations for foldables (build quality, crease minimization)
+
+  E. Sub-Index Tags
+    - Foldable Display Innovation
+    - Mechanical Hinge Durability (vs. competitors)
+    - Apple Material & Design Differentiation
+    - Premium Mobile Device Pricing Strategy
+    - Emerging Form Factor Integration in iOS Ecosystem
+
+--------------------------------------
+User:
+
+
+News
+Hardware
+Gaming
+Mobile
+Finance
+Deals
+Reviews
+How To
+My Wccftech
+MOBILE
+An Entire T-Mobile Third Party Store Operated By Arch Telecom Was Laid Off Over One Employee’s Actions—Despite The Rest Having No Part In It
+Ezza Ijaz
+•
+May 5, 2025 at 11:05am EDT
+
+8
+Comments
+
+T-Mobile has been undergoing several changes and aggressively working towards achieving its goals and standing above the competition. With the competition in the telecom sector intensifying, carriers seem to be engaging in practices that are unfair and questionable in order to make sales. Earlier, T-Mobile was under hot waters for pressurizing consumers and employees to use its T-Life app even when physically in stores. Many users were frustrated and considered switching to other telecommunication service providers. Now, T-Mobile TRP stores operated by Arch Telecom are said to be engaging in shady practices, leading to an increasing number of employees feeling insecure at these TPR stores.
+A T-Mobile TPR store recently punished all employees for the actions of a single employee
+This is not the first a T-Mobile TPR store operated by Arch Telecom has been involved in some questionable practices especially when it comes to its staff handling. Many users cannot tell the difference between a corporate-owned store and a TPR, as both carry T-Mobile's branding, leading to confusion among consumers. T-Mobile has been actively looking into addressing this problem and ensuring that there is more transparency regarding the official stores and third-party retailers. While the company is actively working on this, Arch Telecom is said to have engaged in shady behavior yet again.
+RELATED STORY T-Mobile CEO Signals More Price Hikes Ahead, Citing Tariffs Despite Strong Quarterly Profits
+Previously, the pressure was on Arch Telecom representatives to meet the aggressive sales targets, who would then feel under pressure and be involved in practices that did not sit well with customers. While the company publicly claimed that it is working on bringing back integrity to the wireless network, that does not seem to be the case, as per a recent post on Reddit. An Arch Telecom representative took it to Reddit to share his disheartening experience at the third-party retailer where the employee was about to celebrate his first work anniversary at the store when his worst nightmare became a reality.
+An entire team was said to be laid off due to the actions of one employee. As per the post, the management decided to clean slate the entire store after getting to know about a representative being involved in a fraudulent act where 300 new lines were activated. Still, instead of handing the SIM card to the customers, the rep held onto them and even went on to using all the cards on a single phone they owned.
+By using the SIM cards in this manner, the representative was able to show the lines active and prevent them from being shut down in T-Mobile's system due to inactivity. The employee also kept the commissions, and it is safe to assume that most of the lines were added to customer accounts without their knowledge. While this kind of planned scam does require immediate action, removing the entire team based on the actions of one employee does not seem fair.
+T-Mobile is yet to comment on the issue, but it seems to be that Arch employees have faced this issue previously, and another similar action makes the staff increasingly worried about the unfair practices these stores may engage in. T-Mobile needs to stay more vigilant about these business actions that tend to bring a bad name to the overall branding.
+Further Reading
+
+T-Mobile Is Increasingly Moving Toward A Self-Service Model, Fueling Concerns Over A Potential Decline In Customer Service And The Risk Of Significant Staffing Cuts
+Ezza Ijaz
+
+T-Mobile Rep Offers Credit To Keep Line Instead Of Canceling, Silently Downgrades Customer’s Plan And Sparks Billing Chaos
+Ezza Ijaz
+
+Some Users Are Slamming T-Mobile For Stealth Price Hikes, Claiming They Received No Texts Or Emails—Just Higher Bills
+Ezza Ijaz
+
+Users Are Frustrated As T-Mobile and Starlink’s Satellite Messaging Fails To Deliver, Falling Short Of Expectations And Leaving Many Disappointed With Its Performance
+Ezza Ijaz
+Subscribe to get an everyday digest of the latest technology news in your inbox
+ 
+ 
+About
+Advertise with Us
+Contact
+Tip Us
+Careers
+Terms of Use
+Privacy & Cookies Policy
+Ethics Statements
+Appeal Moderation
+Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+
+© 2025 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
+
+
+--------------------------------------
+ChatGPT:
+
+
+vbnet
+Copy code
+XII. T-Mobile Third-Party Retailer Scandal: Entire Store Staff Laid Off Due to Single Employee’s Fraud (May 5, 2025)
+
+  A. Incident Summary
+    1. Location: T-Mobile TPR (third-party retailer) store operated by Arch Telecom
+    2. Trigger Event:
+      - One employee fraudulently activated 300 lines
+      - Withheld SIM cards and installed them all in a single phone
+      - Used activation to falsely maintain line activity and collect commissions
+    3. Result: Entire store team laid off despite no involvement from other employees
+
+  B. Broader Context
+    i. Industry Pressure:
+      - T-Mobile pursuing aggressive growth and app usage metrics (e.g., T-Life)
+      - Arch Telecom employees previously pressured to meet unrealistic sales targets
+    ii. Consumer Confusion:
+      - TPR stores are visually indistinguishable from corporate T-Mobile stores
+      - Customers unaware they are dealing with a third-party entity
+    iii. Historical Pattern:
+      - Prior reports of questionable practices and staff insecurity at Arch-operated stores
+
+  C. Corporate Response & Reputation Risk
+    1. T-Mobile has not issued an official statement on the layoffs
+    2. Increasing criticism over:
+      - Lack of transparency between TPR and corporate stores
+      - Unfair group punishment for isolated actions
+    3. Reddit and other forums show growing employee unrest and public distrust
+
+  D. Strategic Implications
+    i. Branding Risk:
+      - Incidents like this undermine public confidence in the T-Mobile name
+      - Corporate vs. TPR boundary confusion harms customer experience
+    ii. Structural Risk:
+      - Mass layoffs for one infraction may lead to retention/recruitment challenges
+      - Fueling labor instability across TPR footprint
+    iii. Operational Shift:
+      - T-Mobile has been pushing toward a self-service model, further shrinking retail staff headcount
+      - Could accelerate customer frustration if not properly managed
+
+  E. Sub-Index Tags
+    - Telecom Retail Strategy (TPR vs. Corporate)
+    - Labor Policy and Staff Retention
+    - Consumer Trust and Brand Oversight
+    - Internal Fraud Detection and Oversight Failures
+
+--------------------------------------
+User:
+
+
+News
+Hardware
+Gaming
+Mobile
+Finance
+Deals
+Reviews
+How To
+My Wccftech
+MOBILE
+RUMOR
+Apple Predicted To Maintain A Consistent Launch Cycle For iPhone 17e And iPhone 18e For Two Consecutive Years, But Analyst Gives No Clear Indication About iPhone 19e
+Omar Sohail
+•
+May 5, 2025 at 07:22am EDT
+
+Comments
+
+The arrival of the iPhone 16e enables Apple to target various markets that it previously missed out on, thanks to the starting price alone, giving the company sufficient encouragement to make the launches of succeeding models a regular affair. The Cupertino firm was previously reported to be unsure about introducing a new device next year, but according to an analyst’s prediction, Apple is not just going to unveil an iPhone 17e in 2026, but it will follow it up with the iPhone 18e in 2027. However, the interesting part of these predictions is that there is no mention of an iPhone 19e.
+Intense competition will force Apple to continue releasing devices like the iPhone 17e and iPhone 18e, but to avoid a sales slump, the launch cycle will be altered
+Perhaps the biggest benefit to launching the iPhone 17e and iPhone 18e the next year and the year after is that Apple can pocket more from their sales, as these will likely ship with more in-house parts. According to TF International Securities analyst Ming-Chi Kuo, the iPhone 17e is expected to be announced in the first half of 2026, with the iPhone 18e predicted to arrive alongside the base iPhone 18 in the first half of 2027. Kuo did not mention why the iPhone 19e will not succeed the lineup in 2028, but there is a possibility that the analyst will revise his predictions in the near future.
+RELATED STORY Analyst Speculates That Apple’s Foldable iPhone Will Outclass Rivals With A Crease-Free Display, Premium Hinge, High Durability, And Seamless User Experience
+Apple appears to adopt Samsung’s strategy, where the latter launches different smartphones targeting a multitude of price ranges. Previously, the California-based giant could nearly match its rival’s annual shipment tally with a lineup that comprises only three to four models, but things have drastically changed. Intense competition means that consumers have a myriad of options at their disposal, and according to Kuo, they typically stick with the first half of the year to unveil their offerings.
+Apple could close the ‘marketing gap’ by choosing to launch the iPhone 17e and iPhone 18e during the same period and announcing the more premium models in the second half. Kuo states that if the technology titan decides to showcase all devices in the second half, it risks diluting its marketing efforts and could potentially cannibalize the sales of the more expensive versions.
+It is important to remember that Kuo has been incorrect in the past, and even though Apple has been previously reported to have commenced trial production of the iPhone 17e, we should still treat these predictions with a truckload of salt and await future updates.
+News Source: Ming-Chi Kuo
+Products mentioned
+
+iPhone 16E
+USD 599
+Buy from Amazon
+Further Reading
+
+Apple Lays Bare How Tariffs Could Harm Its Business & Force It To Raise Prices
+Ramish Zafar
+
+iPhone Fold 2 Slated For 2027 Launch Alongside 20th Anniversary iPhone, Possibly Addressing Concerns And Issues Found In The First-Gen Product
+Ali Salman
+
+Apple’s 2027 iPhone 19 Air To Feature Larger Display, Analyst Says, As Company Expands iPhone Lineup With Slim Models, Foldables, And Staggered Launch Strategy
+Ali Salman
+
+Apple’s Redesigned Mac mini Cannot Be Powered Through A USB-C Port, But One Person Shows That It Is Possible, Provided You Possess Some Skill
+Omar Sohail
+Subscribe to get an everyday digest of the latest technology news in your inbox
+ 
+ 
+About
+Advertise with Us
+Contact
+Tip Us
+Careers
+Terms of Use
+Privacy & Cookies Policy
+Ethics Statements
+Appeal Moderation
+Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+
+© 2025 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
+
+
+--------------------------------------
+ChatGPT:
+
+
+markdown
+Copy code
+XIII. Apple’s iPhone “e” Series Strategy: iPhone 17e and 18e to Continue, iPhone 19e Uncertain (May 5, 2025)
+
+  A. Launch Cycle Update (per Ming-Chi Kuo)
+    1. iPhone 17e expected H1 2026
+    2. iPhone 18e expected H1 2027
+    3. No current projection for iPhone 19e in 2028
+
+  B. Purpose of “e” Series
+    i. Targets price-sensitive markets Apple previously under-served
+    ii. Competes with Samsung-style portfolio diversification (multiple tiers)
+    iii. Supports higher margins via more in-house components
+    iv. Positioned as first-half-year releases to:
+      - Avoid marketing overlap with flagship iPhones
+      - Maintain sales momentum year-round
+
+  C. Strategic Implications
+    1. Apple adjusting to intense global midrange competition
+    2. “e” series allows segmentation without diluting premium tier branding
+    3. Staggered annual release strategy helps maintain constant market presence
+    4. Potential reasons for lack of 19e mention:
+      - Uncertain market trajectory by 2028
+      - Strategic pause to reassess lineup
+      - Possibility of folding “e” into new naming convention (e.g., Air, SE variants)
+
+  D. Price Point and Feature Set (inferred)
+    1. iPhone 16e launched at $599
+    2. Expect continued use of recycled chassis/panels
+    3. Optimized for durability, performance, and affordability
+    4. May ship with Touch ID over Face ID, older SoCs
+
+  E. Sub-Index Tags
+    - Apple Tiered Launch Strategy
+    - Midrange Smartphone Expansion
+    - Staggered Marketing Cycles
+    - Competitive Response to Samsung Diversification
+    - Product Line Rationalization
+
+--------------------------------------
+User:
+
+
+News
+Hardware
+Gaming
+Mobile
+Finance
+Deals
+Reviews
+How To
+My Wccftech
+MOBILE
+RUMOR
+Apple Rumored To Be Developing Battery Case For The iPhone 17 Air As Internal Testing Shows The Slim Flagship Will Not Be Able To Hold A Charge For The Entire Day
+Omar Sohail
+•
+May 4, 2025 at 02:31am EDT
+
+28
+Comments
+
+The iPhone 17 Air was also going to be labelled as a questionable release from Apple because its ultra-thin chassis means that the company has to make a large degree of compromises in the battery department. According to the latest report, the Cupertino giant might announce a separate battery case for the upcoming model, as the internal testing has revealed that the iPhone 17 Air actually delivers worse battery life compared to the company’s other models.
+During the internal testing, Apple determined that only 60-70 percent of users could keep the iPhone 17 Air powered through the entire day
+The exact capacity of the iPhone 17 Air has not been mentioned in the latest paywalled report published by The Information, but MacRumors managed to get a hold of other details, stating that the sleek flagship will not be able to compete in battery life compared to the rest of the models. As mentioned above, Apple’s internal testing phase revealed that around 60-70 percent of users can get through a 24-hour period without completely depleting the battery.
+RELATED STORY Analyst Speculates That Apple’s Foldable iPhone Will Outclass Rivals With A Crease-Free Display, Premium Hinge, High Durability, And Seamless User Experience
+Apple did not mention what specific activities had to be carried out on the iPhone 17 Air to prevent its charge from touching 0 percent before the day ends, but, in comparison, other iPhone models’ metric was between 80 percent and 90 percent. Keep in mind that Apple’s internal testing estimations and real-world use cases will vary, not to mention that continuous charging will reduce battery health. To alleviate these problems, the report states that a battery case will be developed separately for the iPhone 17 Air.
+Given that the device’s thickness will measure just 5.5mm, strapping a battery case should not encumber the user’s daily habits, and it will deliver a massive boost to the overall runtime. Pricing details are not available at this time, nor is it mentioned if Apple’s third-party accessory manufacturers will proceed to make more affordable alternatives. The iPhone 17 Air is expected to launch in September, and we will have more information for our readers then, so stay tuned for more updates.
+News Source: The Information
+Further Reading
+
+Apple Lays Bare How Tariffs Could Harm Its Business & Force It To Raise Prices
+Ramish Zafar
+
+iPhone Fold 2 Slated For 2027 Launch Alongside 20th Anniversary iPhone, Possibly Addressing Concerns And Issues Found In The First-Gen Product
+Ali Salman
+
+Apple Predicted To Maintain A Consistent Launch Cycle For iPhone 17e And iPhone 18e For Two Consecutive Years, But Analyst Gives No Clear Indication About iPhone 19e
+Omar Sohail
+
+Apple’s 2027 iPhone 19 Air To Feature Larger Display, Analyst Says, As Company Expands iPhone Lineup With Slim Models, Foldables, And Staggered Launch Strategy
+Ali Salman
+Subscribe to get an everyday digest of the latest technology news in your inbox
+ 
+ 
+About
+Advertise with Us
+Contact
+Tip Us
+Careers
+Terms of Use
+Privacy & Cookies Policy
+Ethics Statements
+Appeal Moderation
+Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+
+© 2025 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
+
+
+--------------------------------------
+ChatGPT:
+
+
+sql
+Copy code
+XIV. iPhone 17 Air Battery Case Rumor: Ultra-Thin Design Compromises Runtime (May 4, 2025)
+
+  A. Device Overview
+    1. iPhone 17 Air expected to feature an ultra-thin 5.5mm chassis
+    2. Prioritized minimalism and weight reduction over internal battery capacity
+    3. Positioned as Apple’s premium slim-tier iPhone for 2025
+
+  B. Battery Life Concerns (Internal Testing)
+    i. Results:
+      - Only 60–70% of test users could get through a full 24-hour cycle on one charge
+      - In contrast, other iPhones achieve 80–90% pass rate
+    ii. Conditions:
+      - Apple did not disclose usage scenarios during testing
+      - Variability expected in real-world conditions
+
+  C. Apple’s Planned Mitigation
+    1. Developing a proprietary battery case as an official accessory
+    2. Case intended to extend daily runtime significantly
+    3. Designed to maintain aesthetic compatibility with ultra-thin frame
+    4. No confirmed price or third-party accessory partnerships yet
+
+  D. Strategic Implications
+    i. Product Design Trade-off:
+      - Prioritizing industrial design limits internal cell size
+      - Slim phones may now rely on modular add-ons to meet modern usage demands
+    ii. Market Messaging Risk:
+      - Launching a flagship that can’t last a full day may clash with user expectations
+      - Reliance on external battery accessories may create perception of compromised functionality
+    iii. Accessory Revenue Opportunity:
+      - New proprietary case opens revenue channel akin to MagSafe
+      - Potential for ecosystem lock-in, provided accessory integration is seamless
+
+  E. Related Product Positioning
+    - Pairs with broader Apple segmentation:
+      • Foldable iPhone (2026–2027) targeting flexible form factor category
+      • “e” models (17e/18e) targeting mid-range affordability
+      • Air model fills thin/light luxury-tier niche
+
+  F. Sub-Index Tags
+    - Battery Runtime Optimization
+    - Modular Hardware Strategy
+    - Ultra-Thin Form Factor Constraints
+    - Accessory-Driven Functionality Extensions
+    - User Experience vs. Industrial Design Trade-offs
+
+--------------------------------------
+User:
+
+
+News
+Hardware
+Gaming
+Mobile
+Finance
+Deals
+Reviews
+How To
+My Wccftech
+MOBILE
+Apple Intentially Kept Its C1 Modem’s Capabilities Under Wraps Because It Was Found In A Less Premium iPhone; CEO Tim Cook Says That The Company ‘Can Produce Better Products’
+Omar Sohail
+•
+May 3, 2025 at 01:06am EDT
+
+19
+Comments
+
+The C1 powering the iPhone 16e is only a stepping stone in Apple’s quest to develop high-performance and power-efficient custom 5G modems. However, the fact that the baseband chip made its debut in a less expensive device meant that the company had to watch what it said because it did not want sales of its more premium handsets to suffer, as they continued to ship with Qualcomm modems. Now, when asked about these in-house solutions, Chief Executive Tim Cook admitted that the technology giant can produce better products in this area, and we should likely bear witness to these claims when the newer lineup arrives in the future.
+The iPhone 17 family will continue to ship with Qualcomm’s 5G modems, hinting that Apple will still be careful on how it markets the C1
+Despite not supporting mmWave networks, the C1 can outmatch the Snapdragon X71 present in Apple’s iPhone 16 models, while also flaunting low power consumption, giving the iPhone 16e one of the best battery life metrics for any of Apple’s 6.1-inch iPhones. During the official announcement, the only noteworthy statement made about the C1 was that it delivers impressive power efficiency, but these words do not translate into better performance.
+RELATED STORY Analyst Speculates That Apple’s Foldable iPhone Will Outclass Rivals With A Crease-Free Display, Premium Hinge, High Durability, And Seamless User Experience
+Thankfully, 9to5Mac reports that, during Apple’s Q2 2025 earnings call, CEO Tim Cook made the following remarks about the C1, while also admitting that its chips are better than the competition, or in other words, Qualcomm’s.
+“We’re super excited to ship the first one and get it out there, and it’s gone well. We love that we can produce better products from a point of view of really focusing on battery life and other things that customers want. And so, we have started on a journey, is the way I would put it.”
+It is important to note that because the iPhone 17 lineup arriving later this year will not feature Apple’s C1 5G modem or any other custom solution for that matter, except for an in-house Wi-Fi chip, the Cupertino firm will probably keep its marketing team from going overboard when talking about the iPhone 16e’s wireless capabilities. Fortunately, the company will not have to keep mum about its products for long, as shortly after the C1’s announcement, it was revealed that Apple had already started work on the C2, which should support mmWave networks and will likely be found in the iPhone 18 series.
+Further Reading
+
+Apple Lays Bare How Tariffs Could Harm Its Business & Force It To Raise Prices
+Ramish Zafar
+
+iPhone Fold 2 Slated For 2027 Launch Alongside 20th Anniversary iPhone, Possibly Addressing Concerns And Issues Found In The First-Gen Product
+Ali Salman
+
+Apple Predicted To Maintain A Consistent Launch Cycle For iPhone 17e And iPhone 18e For Two Consecutive Years, But Analyst Gives No Clear Indication About iPhone 19e
+Omar Sohail
+
+Apple’s 2027 iPhone 19 Air To Feature Larger Display, Analyst Says, As Company Expands iPhone Lineup With Slim Models, Foldables, And Staggered Launch Strategy
+Ali Salman
+Subscribe to get an everyday digest of the latest technology news in your inbox
+ 
+ 
+About
+Advertise with Us
+Contact
+Tip Us
+Careers
+Terms of Use
+Privacy & Cookies Policy
+Ethics Statements
+Appeal Moderation
+Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+
+© 2025 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
+
+
+--------------------------------------
+ChatGPT:
+
+
+markdown
+Copy code
+XV. Apple C1 Modem Strategy: Silent Debut in Budget Model, Future Focus on mmWave-Ready C2 (May 3, 2025)
+
+  A. Product Placement & Strategic Suppression
+    1. C1 custom 5G modem debuted in iPhone 16e (midrange tier)
+    2. Did not appear in premium iPhone 16 models, which retained Qualcomm Snapdragon X71
+    3. Apple minimized marketing around C1 to avoid cannibalizing premium model perception
+
+  B. Technical Merits of C1
+    i. Performance Comparison:
+      - Beats Snapdragon X71 in sub-6GHz performance and power efficiency
+      - Lacks mmWave support, limiting market in select 5G-heavy regions
+    ii. Efficiency Outcomes:
+      - Contributes to class-leading battery life in the 16e (best 6.1" battery performer in Apple’s lineup)
+      - Reinforces Apple’s focus on low-power silicon design for differentiated UX
+
+  C. Public Acknowledgment & Roadmap
+    1. CEO Tim Cook (Q2 2025 earnings call) admitted:
+       - C1 marks the start of Apple’s custom modem journey
+       - Confident in surpassing Qualcomm in core design objectives like battery and integration
+    2. Apple confirmed it is already working on a next-gen modem:
+       - C2 will support mmWave 5G
+       - Likely to launch in iPhone 18 (2026)
+
+  D. Marketing Sensitivity
+    1. Apple downplayed C1 to prevent undermining flagship iPhone sales
+    2. Intentional restraint reflects challenge of integrating tiered custom silicon without eroding flagship margins
+    3. Strategy may shift once C2 reaches feature parity with Qualcomm’s best
+
+  E. Strategic Implications
+    i. Vertical Integration Goal:
+      - Long-term aim is to own the full wireless stack (5G modem, Wi-Fi, Bluetooth)
+    ii. Near-Term Trade-off:
+      - Continue reliance on Qualcomm for mmWave and global carrier compliance (iPhone 17 series)
+      - Gradual rollout strategy reflects Apple’s conservative risk management in cellular tech
+    iii. Product Line Fragmentation:
+      - Unique modem SKUs across iPhone tiers could lead to confusing differences in network support
+      - May become a marketing liability without clearer messaging
+
+  F. Sub-Index Tags
+    - Custom Modem Development (Apple Silicon)
+    - Sub-6GHz vs. mmWave 5G Integration
+    - Competitive Response to Qualcomm
+    - Component Tier Segmentation Strategy
+    - Modem-Battery Efficiency Optimization
+
+--------------------------------------
+User:
+
+
+News
+Hardware
+Gaming
+Mobile
+Finance
+Deals
+Reviews
+How To
+My Wccftech
+GAMING
+Destiny 2: Edge Of Fate Revealed, Launches In July, Next Three Expansions, Including The Star Wars-Inspired Renegades Expansion Also Announced
+David Carcasole
+•
+May 6, 2025 at 01:15pm EDT
+
+4
+Comments
+
+Bungie hosted a showcase for Destiny 2's next expansion, Edge of Fate, which will launch July 15, 2025. The showcase focused mostly on Edge of Fate, but also announced that the next major expansion to the game, the Star Wars-inspired Renegades, will arrive sometime in December 2025, and that there will be another two expansions coming in 2026, called Shattered Cycle and The Alchemist.
+The showcase featured global communications lead Dyland Gafner, assistant game director Robbie Stevens, narrative director Alison Lurhs, art director Dave Samuel and Ben Wommack, the core creative director on the day-to-day experience of Destiny.
+RELATED STORY Bungie Showcases Marathon Gameplay, Release Date Announced For September 2025
+There was a lot discussed over the course of the panel, with some major changes coming to Destiny 2 with the Edge of Fate. A key one that players will appreciate, is that Bungie will no longer charge for seasonal content, meaning that when you buy the latest expansion for Destiny 2, you won't have to fork out more when the season kicks off in order to get every bit of narrative content.
+
+Edge of Fate will kick off what Bungie calls The Fate Saga, which will unfold over "several years" according to Bungie, with new and old characters at the core of the story like fan-favorite Ikora. It'll center around a group called The Nine, described as celestial bodies that have been around longer than the Traveller, and represented in each of the planets (minus Pluto) and the Sun. Edge of Fate will take players to the edge of the Sol galaxy, to a planetoid called Kepler, where players will find new dark matter abilities to take advantage of.
+Bungie is also introducing what it calls a Metroidvania style of play with abilities like Matterspark, which allows you to transform into a rolling ball of electricity and resembles the ball that Samus herself rolls into when she's cutting through tight spaces.
+
+We also got to see some environmental puzzle gameplay that'll take advantage of Matterspark and Mattermorph, an ability that lets you manipulate the environment around you.
+As a narrative prologue to the Edge of Fate in July, three dungeons called Explorer, Eternity and Ultimatum have been made available today, for free, for all Destiny 2 players to check out and get their first glimpse at the larger story that'll kick off in Edge of Fate.
+
+It's clear from the showcase that Bungie is doing what it can to continue evolving Destiny 2, specifically regarding its reputation of being too obtuse and difficult to get into if you haven't already been playing for 1,000 hours. "Play your way" and "player agency" were phrases that came up consistently throughout the showcase, and are the driving force behind changes like removing paywalls to seasonal content, gear changes, and the permanent addition of a Shooting Range.
+The Shooting Range is a new addition to the Tower, and as the name suggests, it'll be a place where players can test out their new weapons and abilities, with damage trackers and everything you might want to really test out your new loot.
+Ending the presentation was our first look at the December 2025 expansion, Renegades, which Bungie confirmed is directly inspired by Star Wars, and will feature lightsabers. It was described as taking the space western vibe of Star Wars and putting it through a Destiny lens, which, at least by the look of the teaser trailer, feels like an apt description.
+
+Pre-orders for the Edge of Fate expansion are available now for players who are keen to jump into what admittedly does look like a new beginning for Destiny, now that the Light and Dark Saga has come to an end.
+Products mentioned
+
+Destiny 2
+USD 10.94
+Buy from Amazon
+Further Reading
+
+Destiny 3 Was Never in Development; Bungie Will Now Be Run by PlayStation Studios Head, Say Insiders
+Alessio Palumbo
+
+Bungie Lays Off 220 Employees, Will Work with PlayStation Studios on a New Franchise
+Amy Eastland
+
+Why Disney Games Won’t Build or Acquire Studios, Even with Publishers Slowly Moving Away from Licensed IPs
+Alessio Palumbo
+
+Destiny 2: The Final Shape Delayed Until June, Additional Content to Tide Fans Over Coming
+Nathan Birch
+Subscribe to get an everyday digest of the latest technology news in your inbox
+ 
+ 
+About
+Advertise with Us
+Contact
+Tip Us
+Careers
+Terms of Use
+Privacy & Cookies Policy
+Ethics Statements
+Appeal Moderation
+Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+
+© 2025 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
+
+
+--------------------------------------
+ChatGPT:
+
+
+markdown
+Copy code
+XVI. Destiny 2: Edge of Fate & Long-Term Expansion Strategy Announced (May 6, 2025)
+
+  A. Expansion Rollout Timeline
+    1. Edge of Fate – Launch: July 15, 2025
+    2. Renegades (Star Wars-inspired) – Launch: December 2025
+    3. Shattered Cycle – 2026
+    4. The Alchemist – 2026
+    5. Collectively titled: “The Fate Saga” (multi-year narrative arc)
+
+  B. Key Gameplay & Structural Changes
+    i. No More Seasonal Charges:
+      - Expansion purchase grants full seasonal narrative content
+      - Designed to address Destiny’s accessibility and value criticisms
+    ii. New Systems:
+      - Metroidvania-inspired traversal mechanics
+        • Matterspark: electric rolling ball form
+        • Mattermorph: environmental manipulation
+      - Environmental puzzles built around new powers
+      - Permanent “Shooting Range” in Tower for weapon testing (damage stats, tuning)
+
+  C. Edge of Fate Narrative & Setting
+    1. Story focuses on “The Nine” – ancient celestial entities linked to planets and the Sun
+    2. Locations include Kepler, an edge-of-galaxy planetoid
+    3. Core characters: Ikora and other returning favorites
+    4. Emphasis on exploration, mystery, and cosmic mythology
+
+  D. Renegades Expansion (Dec 2025)
+    1. Explicitly Star Wars-inspired: space western tone
+    2. Features include:
+      - Lightsaber-style melee weapons
+      - Frontier-style narrative and design motifs
+    3. Represents thematic shift away from Light vs. Dark framing
+
+  E. Accessibility & Player Retention Strategy
+    i. Prologue content (three dungeons) released free today:
+      - Explorer, Eternity, Ultimatum
+      - Provides narrative lead-in to Edge of Fate
+    ii. Core design goals:
+      - Lower barriers for new/returning players
+      - Increase “player agency” and flexible playstyles
+      - Shift Destiny from gated FOMO model to evergreen engagement
+
+  F. Strategic Implications
+    i. Live Service Evolution:
+      - Post-Light/Dark model designed for scalability and creative reinvention
+    ii. Monetization Rework:
+      - Unified expansion pricing vs. piecemeal seasonal charges
+      - Aims to rebuild goodwill after Bungie layoffs and backlash
+    iii. Cultural Alignment:
+      - Direct thematic borrowing from Star Wars (Renegades) shows IP blending for audience growth
+      - Bungie using licensed-feeling tone without actual licensing
+
+  G. Sub-Index Tags
+    - Live Service Design Evolution
+    - Monetization Strategy Reform
+    - Franchise World-Building Expansion
+    - IP Fusion Trends (e.g., Star Wars influence)
+    - Accessibility & Onboarding Improvements
+
+--------------------------------------
+User:
+
+
+News
+Hardware
+Gaming
+Mobile
+Finance
+Deals
+Reviews
+How To
+My Wccftech
+MOBILE
+Warren Buffett Embarrassed To Admit Tim Cook Made More Money For Berkshire Than He Ever Could, Praises His Genius, Saying Nobody But Tim Could Have Developed Apple As He Has
+Ali Salman
+•
+May 6, 2025 at 12:34pm EDT
+
+11
+Comments
+
+Berkshire Hathaway CEO Warren Buffett is all praise for Tim Cook for his business mindset and the way he took Apple forward after Steve Jobs. Buffett publicly highlighted Cook at the company's annual shareholder meeting, where he also confirmed that he was stepping down. After Steve Jobs, Tim Cook took it upon himself to straighten up the supply chain and overlooked a handful of new products that were not launched in Jobs' era.
+Warren Buffett acknowledges Tim Cook’s genius for generating more profit for Berkshire than he ever could
+Warren Buffett told the audience, "I'm somewhat embarrassed to say that Tim Cook has made Berkshire a lot more money than I've ever made," highlighting that Apple's stock went up by 680 percent since he first started accumulating shares in 2016. While Steve Jobs was the one who founded Apple and built it from the ground up, Tim Cook took it to new heights and cashed unexplored domains. Buffett states:
+RELATED STORY Download: Apple Has Released iOS 18.5 And macOS 15.5 RC Versions To Developers For Final Testing And Major Changes
+"Nobody but Steve could have created Apple, but nobody but Tim could have developed it as he has."
+Warren Buffett has always been cautious about investments in the tech sector, but based on the results, Apple has made him billions of dollars. Tim Cook convinced investors of the higher returns, which allured them into getting in on the business. In 2024, there also came a point when Buffett was the biggest investor in Apple outside the Exchange-Traded Funds.
+In 2024, Berkshire Hathaway's investments in Apple reached a staggering value of $174 billion, which stemmed from a total acquisition cost of just $40 billion accumulated over the course of several years. However, the conglomerate has significantly reduced its position by offloading nearly 70 percent of the 905 million shares that it once had at its peak.
+Tim Cook is the one to praise, who helped Apple reach new heights by growing company stocks at an extraordinary pace, rising from just under $15 to $205. The 14x surge makes Apple's market value at more than $3 trillion. With Warren Buffett stepping down from his position as company CEO, regarded as one of the greatest investors of all time, the leadership responsibilities will be passed on to Vice Chairman Greg Abel.
+In response to Buffett's departure, Tim Cook tweeted, "There’s never been someone like Warren, and countless people, myself included, have been inspired by his wisdom. It’s been one of the great privileges of my life to know him. And there’s no question that Warren is leaving Berkshire in great hands with Greg." We will share more details on the matter, so be sure to stick around for more updates.
+Further Reading
+
+Samsung To Reportedly Make Up 70 Percent Of Apple’s 12GB RAM Orders For The iPhone 17 Series, But The Report Claims That The Upgrade Will Be Exclusive To The ‘Pro’ Models
+Omar Sohail
+
+Analyst Speculates That Apple’s Foldable iPhone Will Outclass Rivals With A Crease-Free Display, Premium Hinge, High Durability, And Seamless User Experience
+Ali Salman
+
+Apple Lays Bare How Tariffs Could Harm Its Business & Force It To Raise Prices
+Ramish Zafar
+
+iPhone Fold 2 Slated For 2027 Launch Alongside 20th Anniversary iPhone, Possibly Addressing Concerns And Issues Found In The First-Gen Product
+Ali Salman
+Subscribe to get an everyday digest of the latest technology news in your inbox
+ 
+ 
+About
+Advertise with Us
+Contact
+Tip Us
+Careers
+Terms of Use
+Privacy & Cookies Policy
+Ethics Statements
+Appeal Moderation
+Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+
+© 2025 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
+
+
+--------------------------------------
+ChatGPT:
+
+
+vbnet
+Copy code
+XVII. Warren Buffett Praises Tim Cook’s Business Genius as Berkshire Shifts from Apple Stake (May 6, 2025)
+
+  A. Buffett’s Remarks at Shareholder Meeting
+    1. Publicly acknowledged Tim Cook's financial impact:
+       - “Tim Cook has made Berkshire a lot more money than I’ve ever made.”
+    2. Framed Cook as Steve Jobs’ necessary successor:
+       - “Nobody but Steve could have created Apple, but nobody but Tim could have developed it as he has.”
+    3. Praised Cook’s operational mastery and investor relations
+
+  B. Apple’s Financial Contribution to Berkshire Hathaway
+    1. Initial investment in 2016: ~$40 billion
+    2. Peak valuation in 2024: $174 billion
+    3. Total gain on investment: ~335% return
+    4. Apple stock increased from <$15 to $205 during Cook’s tenure
+    5. Apple became Berkshire’s largest holding outside of ETFs
+
+  C. Stake Reduction & Leadership Transition
+    i. Berkshire has sold ~70% of its original 905 million Apple shares
+    ii. Reflects strategic rebalancing under new leadership (Greg Abel replacing Buffett as CEO)
+    iii. Tim Cook responded publicly:
+      - “There’s never been someone like Warren… a great privilege to know him… Berkshire is in great hands with Greg.”
+
+  D. Strategic Implications for Apple
+    i. Cook recognized not for innovation origin, but for:
+      - Supply chain refinement
+      - Market expansion
+      - Stock value maximization
+    ii. Buffett’s praise reinforces investor confidence in Cook’s stewardship
+    iii. Apple now transitions into post-growth maturity with diversified hardware (foldables, Air, SE, e series) and silicon (modems, SoCs)
+
+  E. Broader Business Implications
+    - Reflects Cook’s role as a value-maximizing operator over a visionary innovator
+    - Marks Buffett’s rare public endorsement of a tech executive
+    - Underscores the alignment of long-term industrial leadership with financial compounding performance
+
+  F. Sub-Index Tags
+    - Executive Leadership & Legacy (Tim Cook)
+    - Institutional Investment in Tech (Berkshire Hathaway)
+    - Strategic Divestment & Portfolio Rotation
+    - Public Financial Endorsements
+    - Tech Market Value Generation (2010s–2020s)
+
+--------------------------------------
+User:
+
+
+News
+Hardware
+Gaming
+Mobile
+Finance
+Deals
+Reviews
+How To
+My Wccftech
+GAMING
+Getting Cyberpunk 2077 to Run on Nintendo Switch 2 Did Not Require a Gigantic Effort, but Making It to Play Well Was a Challenge
+Francesco De Meo
+•
+May 6, 2025 at 11:02am EDT
+
+8
+Comments
+
+Getting Cyberpunk 2077 to run on Nintendo Switch 2 did not require a gigantic effort, although getting it to play well was among the challenges CD Projekt Red had to face during the port's development.
+Speaking with The Game Business, CD Projekt Red SVP of Business Jan Rosner revealed that the team managed to get the game running on Nintendo Switch 2 fairly quickly and without a gigantic effort. However, bigger challenges were to ensure the game would play well, use some of the Nintendo Switch 2's unique features, and that it suited the handheld format. With the game's disastrous launch on previous generation consoles in mind, CDPR wanted to ensure the game played well on the system, even with some visual compromises that, according to Rosner, don't impact the game's artistic vision. In this regard, the CDPR SVP of Business feels the team achieved their goal of having a big AAA RPG on the go playable from start to finish without making any significant compromises.
+RELATED STORY Cyberpunk 2077 Nintendo Switch 2 New Footage Shows How the System Can Surpass PS4-Level Graphics
+The attention CD Projekt Red placed on the Nintendo Switch 2 release of Cyberpunk 2077 and the console's audience is well highlighted by the fact that the retail edition will include the full game on the cartridge and won't require any additional download. The team made this decision based on their experience with The Witcher 3 on the original Switch, which proved how important physical editions are for the Nintendo audience, and, as such, putting the entire game on the cartridge to offer a plug-and-play experience was the right thing to do.
+Cyberpunk 2077 launches on Nintendo Switch 2 on June 5th, the same day the console debuts worldwide, with a few exceptions. The game is also available on PC, PlayStation 5, PlayStation 4, Xbox Series X, and Xbox One.
+Products mentioned
+
+Cyberpunk 2077
+USD 26.47
+Buy from Amazon
+Further Reading
+
+The Witcher IV Biggest Challenge Will Be Convincing Ciri Is Just as Important as Geralt, if Not Even More; Cyberpunk 2077 Is a Reference Point for the Narrative Elements
+Francesco De Meo
+
+Cyberpunk 2077 Is the First Nintendo Switch 2 Game Confirmed to Use NVIDIA DLSS
+Francesco De Meo
+
+Cyberpunk 2077 Looks and Runs Much Better on Nintendo Switch 2 Than Steam Deck, New Footage Confirms
+Francesco De Meo
+
+Unreal Engine 5.5.4 Cyberpunk Tech Demo Pushes an RTX 4090 Hard With Lumen Global Illumination and Reflections and Hardware Ray Tracing
+Francesco De Meo
+
+Subscribe to get an everyday digest of the latest technology news in your inbox
+ 
+ 
+About
+Advertise with Us
+Contact
+Tip Us
+Careers
+Terms of Use
+Privacy & Cookies Policy
+Ethics Statements
+Appeal Moderation
+Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+
+© 2025 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
+
+
+--------------------------------------
+ChatGPT:
+
+
+markdown
+Copy code
+XVIII. Cyberpunk 2077 on Nintendo Switch 2: Smooth Porting, Focused Optimization, Physical Edition Confirmed (May 6, 2025)
+
+  A. Development Insights from CD Projekt Red
+    1. Porting Effort:
+      - Jan Rosner (SVP of Business) confirms it did not require “gigantic effort”
+      - Core technical hurdles minimal for initial boot-up and functionality
+    2. Optimization Challenge:
+      - Major task was refining performance and UX for handheld experience
+      - Visual compromises were necessary but did not undermine artistic intent
+      - Key goal: “play well” > “look best”
+
+  B. Feature Implementation
+    i. Switch 2-Specific Enhancements:
+      - Tailored for hybrid handheld/docked format
+      - Likely supports DLSS (first confirmed NS2 title to do so in prior reporting)
+      - Adjustments made to leverage Nintendo-specific user expectations
+    ii. Physical Media Strategy:
+      - Full game included on cartridge
+      - No additional download required
+      - Based on prior lessons from The Witcher 3’s successful Switch release
+
+  C. Broader Market Implications
+    1. Demonstrates Switch 2’s capacity to handle late-gen AAA titles
+    2. Reinforces importance of physical media for Nintendo audiences
+    3. Launch timing (June 5) positions Cyberpunk 2077 as a flagship SKU for the console’s debut
+
+  D. Technical Context & Comparisons
+    - Runs better than Steam Deck version per early video reports
+    - Suggests tighter driver integration and platform optimization
+    - DLSS presence enables fluid framerate with scalable fidelity
+
+  E. Strategic Implications
+    i. CDPR Reputation Repair:
+      - Clean launch on Switch 2 could help distance from last-gen console fiasco
+    ii. Nintendo Platform Maturity:
+      - Encourages more third-party AAA ports at launch (beyond typical first-party focus)
+      - Aligns Switch 2 with broader console parity ambitions
+    iii. Physical-First UX Design:
+      - Contrasts with digital-focused models (e.g., Xbox Game Pass)
+      - Emphasizes “plug-and-play” ethos unique to Nintendo user base
+
+  F. Sub-Index Tags
+    - Switch 2 Technical Capabilities
+    - AAA Port Viability on Handheld Hardware
+    - DLSS Deployment in Mobile Form Factor
+    - CDPR Cross-Platform Optimization Strategy
+    - Physical Media and Cartridge-Centric Publishing
+
+--------------------------------------
+User:
+
+
+Let's make a couple more sub-indexes: one for market info and one for mobile specific info.
+--------------------------------------
+ChatGPT:
+
+
+markdown
+Copy code
+Two new sub-indexes added:
+
+1. Market Dynamics & Financials:
+   - Executive commentary and investment shifts (e.g., Buffett on Cook)
+   - Price hikes and tariff reactions (Xbox, T-Mobile, Apple)
+   - Corporate divestment and stakeholder transitions (Berkshire Hathaway, Arch Telecom)
+
+2. Mobile Technology & Strategy:
+   - Apple modem development (C1/C2 roadmap)
+   - Foldable and ultra-thin device engineering (iPhone Fold, iPhone 17 Air)
+   - Launch cycle segmentation and product tiering (e.g., iPhone “e” series)
+   - Nintendo Switch 2 as a mobile-capable platform for AAA
+
+--------------------------------------
+User:
+
+
+News
+Hardware
+Gaming
+Mobile
+Finance
+Deals
+Reviews
+How To
+My Wccftech
+GAMING
+Grand Theft Auto VI Gets Surprise Second Trailer as Rockstar Shares First Info and Many Gorgeous Images
+Alessio Palumbo
+•
+May 6, 2025 at 10:00am EDT
+
+132
+Comments
+
+Rockstar Games has just dropped the second Grand Theft Auto VI trailer. This one is heavily centered on Jason Duval, whereas the first trailer from December 2023 was arguably focused more on Lucia Caminos. We see her again, too, and it's clear the two are very much meant to be GTA's version of Bonnie and Clyde - two robbers very much in love. As for the rest, it's classic GTA to its finest - car chases, explosions, and larger-than-life characters briefly introduced to the fans.
+The brief YouTube description of the video says:
+RELATED STORY Grand Theft Auto VI Launches On May 26 2026, Rockstar Games Confirms
+Vice City, USA.
+Jason and Lucia have always known the deck is stacked against them. But when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a conspiracy stretching across the state of Leonida — forced to rely on each other more than ever if they want to make it out alive.
+
+Rockstar Games has also launched the official Grand Theft Auto VI website, which has already crashed due to excessive load. Thankfully, the developer also sent the press a copy of the first details on the game's characters and locations, as well as a boatload of new images.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 / 34
+Jason wants an easy life, but things just keep getting harder. Jason grew up around grifters and crooks. After a stint in the Army trying to shake off his troubled teens, he found himself in the Keys doing what he knows best, working for local drug runners. It might be time to try something new. Meeting Lucia could be the best or worst thing to ever happen to him. Jason knows how he'd like it to turn out, but right now, it's hard to tell.
+Lucia’s father taught her to fight as soon as she could walk. Life has been coming at her swinging ever since. Fighting for her family landed her in the Leonida Penitentiary. Sheer luck got her out. Lucia’s learned her lesson — only smart moves from here.
+More than anything, Lucia wants the good life her mom has dreamed of since their days in Liberty City — but instead of half-baked fantasies, Lucia is prepared to take matters into her own hands. A life with Jason could be her way out. Fresh out of prison and ready to change the odds in her favor, Lucia’s committed to her plan — no matter what it takes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12 / 36
+Vice City is described as offering something different in each neighborhood: Ocean Beach, Little Cuba, Tisha-Wocka, and VC Port. There's also the tropical archipelago of Leonida Keys, the 'primordial expanse' of the Grassrivers, the forgotten coast of Port Gellhorn, the industrial area of Ambrosia, and the wild country of Mount Kalaga.
+As a reminder, the game was just delayed to May 26, 2026. We still have a year and 20 days of wait left.
+Products mentioned
+
+Grand Theft Auto V
+USD 25.75
+Buy from Amazon
+Further Reading
+
+Grand Theft Auto V Enhanced Edition Is Likely a Preview of GTA VI Features; RTGI Load on the CPU Suggests It Won’t Push Beyond 30 FPS on Base Consoles
+Francesco De Meo
+
+Grand Theft Auto V Enhanced is Now Available on PC; First Comparisons Highlight Visual Improvements Introduced By Ray-traced Global Illumination
+Francesco De Meo
+
+Rockstar Games Acquires Australian Studio Video Games Deluxe
+Alessio Palumbo
+
+Grand Theft Auto V PC March 4th Free Upgrade Will Introduce Ray-Traced Global Illumination & Ambient Occlusion, NVIDIA DLSS 3, AMD FSR 1/3 Support and More
+Francesco De Meo
+
+Subscribe to get an everyday digest of the latest technology news in your inbox
+ 
+ 
+About
+Advertise with Us
+Contact
+Tip Us
+Careers
+Terms of Use
+Privacy & Cookies Policy
+Ethics Statements
+Appeal Moderation
+Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+
+© 2025 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
+
+
+--------------------------------------
+ChatGPT:
+
+
+sql
+Copy code
+XIX. Grand Theft Auto VI: Second Trailer, Character Profiles, World Details, and Launch Date (May 6, 2025)
+
+  A. Second Trailer Focus & Narrative Setup
+    1. Centered on Jason Duval; complements first trailer focused on Lucia Caminos
+    2. Dual protagonist model inspired by “Bonnie and Clyde”
+    3. Narrative premise:
+      - Jason and Lucia are lovers caught in a criminal conspiracy
+      - Setting: Vice City and the broader state of Leonida
+      - Themes: desperation, trust, reinvention, betrayal
+
+  B. Character Backgrounds
+    i. Jason Duval
+      - Former Army, ex-drug runner from the Keys
+      - Struggling between crime and stability
+      - Sees Lucia as a possible turning point
+    ii. Lucia Caminos
+      - Raised to fight, ex-con from Leonida Penitentiary
+      - Wants a better life rooted in family dreams from Liberty City
+      - Ruthless, determined, prepared to manipulate her way out
+
+  C. World and Setting Overview
+    1. Core City: Vice City
+      - Ocean Beach, Little Cuba, Tisha-Wocka, VC Port
+    2. Expanded Regions:
+      - Leonida Keys (archipelago)
+      - Grassrivers (swamps/wildlands)
+      - Port Gellhorn (decay/forgotten coast)
+      - Ambrosia (industrial zone)
+      - Mount Kalaga (wilderness/highlands)
+    3. Described as a geographically and culturally segmented open world
+
+  D. Technical and Distribution Notes
+    i. Website launched with detailed art assets and lore teasers
+    ii. Official launch date: May 26, 2026 (confirmed delay)
+    iii. Over 30 new images released highlighting character models, neighborhoods, and environmental variety
+
+  E. Strategic Implications
+    i. Rockstar Positioning:
+      - Strengthening GTA’s signature cinematic narrative with dual-character drama
+      - Targeting emotional depth to match evolving audience expectations
+    ii. Visual World-Building:
+      - Leveraging modern hardware to deliver cultural density, visual fidelity, and biome diversity
+    iii. Delayed Launch Window:
+      - Pushes release outside 2025 holiday cycle, possibly allowing more hardware ramp (Switch 2, PS5 Pro)
+      - Potential overlap with key mobile SoC refreshes and PC GPU launches
+
+  F. Sub-Index Tags
+    - Flagship AAA Release Strategy
+    - Narrative Structure in Open-World Games
+    - City and Biome Environmental Diversity
+    - Platform Timing and Delay Strategy
+    - Rockstar Brand and Franchise Positioning
+
+--------------------------------------
+User:
+
+
+The GTA 6 trailer makes Rockstar’s changed politics very clear
+Lucia is a true hero — of a very different kind
+
+vlcsnap-2025-05-06-13h45m59s409
+Image: Rockstar Games
+Maddy Myers
+Maddy Myers has run Polygon’s games section since 2020 as deputy editor. She has worked in games journalism since 2007, at Kotaku, The Mary Sue, and the Boston Phoenix.
+Back in 2022, Bloomberg reported that “Rockstar Games cleaned up its frat-boy culture – and Grand Theft Auto, too.” The changes took shape in different ways, from less crunch to a narrowing of the gender pay gap for workers at the studio, and to the introduction of the game’s first playable female character, a Latina named Lucia. And now, in the second trailer for Grand Theft Auto 6, we’re seeing that the game’s marketing has changed a bit from previous entries, too.
+
+To illustrate the difference, let’s go back in time to the marketing of smash hit GTA 5, which was released in 2013. The game’s first trailer came out in 2011, its second in 2012. There were three protagonists, and both of the trailers feature a lot of voiceover from Michael de Santa (Ned Luke), a career criminal who’s now seeing a therapist as part of a Tony Soprano-esque midlife crisis. The trailers mostly focus on action; there are exciting car chases and a big crime spree involving collaboration between the three main characters, although the other two don’t get as much screen time as Michael in these first two trailers.
+
+The series’ sense of humor — which arguably does skew towards making fun of right-wing targets, despite the series’ notorious depiction of sex workers and women in general — isn’t really on display. But it is clear from GTA 5’s early marketing that the three protagonists are very much antiheroes. You might be playing as them, but you aren’t necessarily going to agree with what they’re doing. That’s fine. You’re here to do crimes and embrace your id, after all, so playing as somebody unlikable makes sense, right?
+
+GTA 6’s early marketing has a different vibe. These first two trailers are much more focused on character drama rather than pure action. Also, while Jason and Lucia are clearly antiheroes as well, clearly resorting to a life of crime, these trailers also make them seem … well, likable. Especially Lucia.
+
+The first GTA 6 trailer puts Lucia front and center first thing, giving her a quick character-building conversation with somebody who appears to be a prison social worker. (It’s pretty easy to contrast this with the opening of the second GTA 5 trailer, which features two unnamed women screaming at each other in the background, right before Michael’s voiceover begins.) This focus makes sense given that Lucia is one of our two lead characters. But in addition to being our first playable female protagonist in GTA, she’s also depicted in this trailer as sympathetic. Partway through, Lucia tells the social worker that “bad luck” must have been what got her into prison, and she doesn’t seem like she’s cracking a joke there.
+
+The second GTA 6 trailer has even more character-building for Jason and Lucia. Jason seems like the less likable of the pair, given that he has a moment of punching a Black cashier before opening up the register (this appears to be part of the duties he performs for a landlord friend who lets Jason live rent-free in exchange for this type of “rent collection”). But through a series of small, intimate moments, from Jason picking Lucia up from her prison stint to the pair of them palling around an apartment together, cuddling after Lucia gets home from her community service hours still wearing her orange vest, you can’t help but kinda root for these two.
+
+Another striking part of the latest GTA 6 trailer is its depiction of police violence. By contrast, here’s how GTA 5’s first trailer depicted the police: There’s a quick shot of a Black police officer throwing a white guy out of a building, and then a separate scene of Black protagonist Franklin running away from a trio of cops. The police don’t have much presence in the second GTA 5 trailer, outside of some background siren noises during a car chase. They’re villains, yes, but that villainy isn’t the focus of those trailers — and certainly not in a “here’s some prescient commentary on systemic racism” type of way.
+
+GTA 6’s second trailer devotes more precious seconds to a very different type of scene. As Jason drives slowly down a city street, we can see a huge arrest going down in the background, with multiple Black suspects being detained and several police cars pulled over at the site. We see a white police officer shoving one of these men; another officer has a Black man pushed up against a brick wall. In a later scene, we see a police officer character announcing to a bullpen, “Us cops, we’ve gotta protect each other.” The implication is clear — the cops are like just another gang on the streets, protecting their own. But more specifically, they’re a gang that’s implied to have a racist bent. Put that together with the imprisonment of Lucia and it all fits.
+
+A screenshot from the second GTA 6 trailer depicting a TV in an apartment. The TV is playing an ad for a store called Phil’s Ammu-Nation. A man in the ad is standing on the roof of the store and shooting a rifle into the air
+Image: Rockstar Games
+The latest GTA 6 trailer also includes a quick commercial for “Phil’s Ammu-Nation,” a gun shop whose owner boasts, “We got more guns than the law allows!” He picks up a rifle while two women in American flag bikinis pose behind him, also holding rifles. The commercial then cuts to this guy standing on the roof of his store, blindly firing bullets into the air and shooting, “Woo-hooooo!” It’s pretty clear from the editing here that we are supposed to hate this dude and everything he represents. And what he represents is “American patriotism.” Fair enough.
+
+Now, we don’t know what GTA 6 is actually going to be like when we have access to the full game, and we’ve got a long while to wait for it still — a year, to be exact. But it’s already clear from the short scenes we have here that Rockstar’s marketing department has some specific conclusions it wants to hammer home in these trailers.
+
+And they are as follows: The police can’t be trusted. America-first gun nuts are weird losers. Last but not least, Lucia is our hero, and she’s the one you’re going to be able to relate to the most in this story — while also being a Latina woman whose “bad luck” put her in prison, which is something you should feel sympathetic rather than judgmental about, and whose life of crime might just be the only way she can survive.
+
+That sounds like a very different kind of GTA story. And it also sounds like a fascinating one.
+--------------------------------------
+ChatGPT:
+
+
+markdown
+Copy code
+XX. GTA VI’s Second Trailer Highlights Rockstar’s New Political Tone and Narrative Direction (May 6, 2025)
+
+  A. Shift in Tone & Character Framing
+    1. Lucia as Sympathetic Lead:
+       - First playable female protagonist in the franchise
+       - Portrayed as emotionally grounded and wronged by the system (“bad luck” line in prison intro)
+       - Central to both trailers with clear emotional arcs and relationship stakes
+       - Marketing frames her as a *relatable survivor*, not just an antihero
+
+    2. Jason as Grittier, Less Likable Counterpart:
+       - Depicted committing violence (e.g., punching Black cashier)
+       - Still humanized via scenes of intimacy, caretaking, and trauma
+       - Represents a rough, situational morality rather than outright evil
+
+  B. Thematic Emphasis on Systemic Corruption
+    i. Police as Antagonists:
+      - Visible racialized police violence during street arrests
+      - “Cops protect their own” line portrays police as a self-preserving, corrupt gang
+      - Far more direct than earlier GTA games, where cops were obstacles, not thematic figures
+
+    ii. Parody of American Gun Culture:
+      - “Phil’s Ammu-Nation” TV ad mocks hyper-patriotism and irresponsible gun ownership
+      - Visual satire includes flag-bikini models and rooftop rifle celebration
+      - Clear signal of disdain toward “America-first” ideology via exaggerated caricature
+
+  C. Comparison to GTA V’s Early Marketing
+    1. GTA V:
+       - Emphasized chaos, action, and satirical excess
+       - Michael’s voiceover dominated; protagonists portrayed as selfish, comedic criminals
+       - Minimal political framing in trailers; mostly tone-neutral presentation of crime
+
+    2. GTA VI:
+       - Heavily character-driven with emphasis on social struggle
+       - Protagonists shown navigating injustice, intimacy, economic hardship
+       - Clear political signals: racial injustice, economic desperation, gender representation
+
+  D. Narrative & Cultural Implications
+    i. Redefining the “Antihero”:
+       - Lucia’s framing is closer to “survivor-hero” than traditional GTA provocateur
+       - Aims to generate player empathy and investment beyond power fantasy
+    ii. Rockstar’s Internal Cultural Evolution:
+       - Reflects studio’s post-2022 shift: less crunch, narrowed gender pay gap, cultural reformation
+       - Creative direction aligns with modern storytelling expectations, including progressive themes
+
+  E. Strategic Positioning
+    1. Expands GTA audience with emotionally mature protagonists
+    2. Signals break from nihilistic satire in favor of grounded, issue-conscious narrative framing
+    3. Establishes Lucia as both brand differentiator and thematic centerpiece
+
+  F. Sub-Index Tags
+    - Narrative Evolution in Open-World Games
+    - Sociopolitical Commentary in AAA Franchises
+    - Character-Centric Marketing Strategy
+    - Gender & Race Representation in Interactive Media
+    - Rockstar’s Post-Crunch Cultural Realignment
+
+--------------------------------------
+User:
+
+
+Create a games business sub-index if we don't have one already. Within that, create a sub-index specific to games with a focus on how the business prices it's products.
+--------------------------------------
+ChatGPT:
+
+
+markdown
+Copy code
+New sub-index added:
+
+1. Games Business
+   - Covers game development models, publishing strategies, and platform alignment
+
+   A. Game Pricing Strategy
+     - Tracks how games are priced, including premium increases (e.g., Xbox, PS5 Pro)
+     - Examines bundling (DLC, expansion models), free-to-play shifts, and monetization reform
+     - Example: Destiny 2 removing seasonal paywalls with Edge of Fate expansion
+
+--------------------------------------
+User:
+
+
+Do a deep dive into game prices for all known consoles and pc. I don't understand how companies and the industry at large. go get me some research to bring logic, trends, and price info to light. Help me understand so I can see the direction this topic is going.
+--------------------------------------
+ChatGPT:
+
+
+To tailor the research on game pricing strategy effectively, could you clarify a few points:
+
+Are you interested in current (2024–2025) retail prices only, or should the research also include historical trends (e.g., pricing shifts over the last decade)?
+
+Should I focus strictly on first-party titles (e.g., Nintendo, PlayStation Studios) or also include third-party releases across all platforms?
+
+Do you want breakdowns by region (e.g., US vs EU vs Japan), or just global averages?
+
+Are you also interested in subscription services (e.g., Game Pass, PS Plus, Apple Arcade) as part of pricing models?
+
+Let me know so I can get started on a thorough and structured analysis.
+--------------------------------------
+User:
+
+
+1. Go back to the 1970s for your info.
+2. Focus on first-party primarily, but don't exclude any info that can illuminate the why and how of this topic at large and on a granular level.
+3. Breakdown by region.
+4. Not for this purpose. I want to understand pricing-per-game. We'll look at subscriptions later.
+--------------------------------------
+ChatGPT:
+
+
+Understood. I’ll compile a deep dive into game pricing from the 1970s to 2025, with a focus on first-party titles across all major platforms (Nintendo, Xbox, PlayStation, PC), while also incorporating broader industry pricing data that helps explain how and why prices have changed over time. The research will include regional breakdowns (US, EU, Japan) and track pricing strategies, manufacturing costs, inflation-adjusted trends, and platform-specific strategies.
+
+I’ll let you know when the report is ready for review.
+--------------------------------------
+ChatGPT:
+
+
+Video Game Pricing Trends (1970s–2025)
+Introduction
+
+Video games have undergone a dramatic pricing evolution since the 1970s. This report provides a comprehensive analysis of how game prices have changed from the early cartridge-based consoles to modern digital distribution on consoles and PC. It examines pricing norms across generations, with a focus on first-party (platform-holder) titles and notable third-party variations, and it breaks down differences in the United States, European Union, and Japan. Inflation-adjusted comparisons are included to show the real cost of games over time, alongside discussions of physical vs. digital pricing, manufacturing cost impacts (cartridges vs. discs), and platform-specific pricing strategies. The goal is to clarify how pricing logic has evolved across console generations while highlighting regional patterns and the effect of changing technology on game prices.
+
+Historical Price Trends Over Time
+Early Home Console Era (1970s–1980s)
+
+In the late 1970s and early 1980s, home console games were a new market and were relatively expensive, especially after adjusting for inflation. On the Atari 2600 (launched 1977), the average game cost was about $40 in 1977
+techraptor.net
+. In today’s terms, that $40 was equivalent to roughly $170 by 2020
+techraptor.net
+ (and even more by 2025). In other words, early video games were extremely costly relative to incomes – truly a luxury hobby. By the mid-1980s, with the Nintendo Entertainment System (NES) and Sega Master System, game prices in the U.S. typically ranged from about $30 to $50. For example, the average NES game price around its 1985 launch was $45
+techraptor.net
+. That is over $100 in 2020 dollars
+techraptor.net
+, showing that gamers in the ’80s paid as much or more (in real terms) for new games as they do today.
+
+ 
+
+Regional differences were already evident. In Japan, console games were often priced individually rather than at a uniform MSRP, and popular Famicom (NES) titles could cost around ¥5,000–¥6,000 (yen) in the mid-1980s, roughly corresponding to $30–$40 at 1980s exchange rates (though Japan’s higher inflation means those yen prices equated to much more in today’s dollars). Meanwhile, European gamers often paid a similar numeric price but in local currency – for example, a £30–£40 price tag in the UK for an NES game, which with exchange rates and VAT could exceed the U.S. equivalent. These early years established the notion of premium pricing for cartridges, as the cost of manufacturing ROM cartridges was high, putting a floor under how low game prices could go. Notably, inflation-adjusted costs of games have generally trended downward since this era – a game priced at $50 in 1990 would be about $100 in today’s money
+infographicsite.com
+, illustrating that the real cost to consumers has not risen significantly despite nominal prices appearing steady.
+
+16-bit Era and Cartridge Price Peaks (late 1980s–mid 1990s)
+
+The late ’80s through mid ’90s – the era of 16-bit consoles like the Super Nintendo Entertainment System (SNES) and Sega Genesis/Mega Drive – saw game prices reach high nominal levels, largely due to the expense of cartridge production and increasingly ambitious game content. In the U.S., new SNES and Genesis games typically launched at $49.99 to $59.99
+techraptor.net
+techraptor.net
+. Many first-party titles, such as Nintendo’s The Legend of Zelda: A Link to the Past or Sega’s Sonic the Hedgehog, were around the lower end ($50), but certain high-end games were higher. Late-generation SNES RPGs, for example, had larger memory chips and special enhancement chips that drove up costs – titles like Final Fantasy III (VI) and Chrono Trigger retailed for around $70–$80 in 1994–95 (anecdotal reports place Chrono Trigger’s launch price at $79.99
+brightslap.com
+). These prices were considerable even then, and when adjusted for inflation they approach $140–$160 in today’s dollars
+infographicsite.com
+. In fact, an SNES game priced at $60 in 1990 is roughly $120 in 2020 terms
+infographicsite.com
+, highlighting how expensive games were for that era’s consumers.
+
+ 
+
+Some of the highest cartridge prices on record came from this period. Sega’s first-party Virtua Racing cartridge for Genesis (which included a 3D graphics co-processor) launched at $100 MSRP in 1994 – about the cost of the console itself
+timeextension.com
+. Similarly, Phantasy Star IV (an RPG with a large memory save battery) was another Genesis title with a $99.99 launch price
+timeextension.com
+. These were outliers, but they illustrate that cartridge-based pricing could vary widely based on production cost. On the Neo Geo AES – an elite console of the early ’90s – prices were astronomical: the average Neo Geo game cost $200 in 1990
+techraptor.net
+ (which is nearly $400 in today’s money). Thus, during the cartridge era, first-party and marquee third-party games often carried premium price tags if they pushed technical limits.
+
+ 
+
+Regional price differences became very pronounced in this era. Japanese Super Famicom games were routinely priced between ¥7,000 and ¥11,000 for top titles. For example, Square’s Final Fantasy VI (1994) retailed at ¥11,400 (excluding tax) in Japan
+automaton-media.com
+ – over $100 USD when converted, and even Japanese gamers considered that expensive. Street Fighter II’s various editions are a famous case: Super Street Fighter II on Mega Drive in 1994 cost ¥11,445 in Japan (about $141), whereas the same game’s suggested price in the U.K. was £55.99 (about $112) and in Canada CA$99.99 (about US$89)
+vgsales.fandom.com
+. In the U.S., a typical new Street Fighter II cartridge was around $70–$80 at the time, illustrating how Japan saw the highest nominal prices while North America and Europe were slightly lower. It’s important to note Europe’s prices included VAT – a UK price of £50 in the early ’90s could equate to over $80 once converted, partly due to taxes. In summary, the 16-bit era pushed cartridge prices to their peak, with the U.S. upper end around $60–$70 (nominal), and even higher peaks in Japan and Europe for certain games.
+
+ 
+
+Inflation-adjusted, this era remains one of the most expensive for gamers. A nominal $50–$60 game in the mid-1990s equated to $90–$100 in 2020 dollars
+infographicsite.com
+. Despite these high costs, demand grew, but the industry was poised for a shift that would stabilize and lower prices: the transition to optical discs.
+
+Transition to CD-ROM and Price Stabilization (mid/late 1990s)
+
+The mid-to-late 1990s brought a major change with CD-based consoles (Sony PlayStation, Sega Saturn) and later DVD-based consoles (PS2, etc.), which dramatically reduced manufacturing costs for games. Unlike ROM cartridges, which were expensive to produce (especially as game data size grew), CDs cost only a few cents each to press. This lowered the cost floor and enabled more uniform pricing. On the original Sony PlayStation (1995), new release games typically cost $49.99 in the U.S.
+techraptor.net
+. This represented a slight nominal drop from the $60 highs of the cartridge era. Meanwhile, Nintendo 64 (1996) stuck with cartridges and initially maintained about $59.99 for major titles in the U.S.
+techraptor.net
+, but some N64 games with larger cart sizes (e.g. The Legend of Zelda: Ocarina of Time or Conker’s Bad Fur Day) were priced around $59.99–$69.99. Overall, the late ’90s established $50 as a standard price point on disc-based platforms – for instance, many popular PlayStation titles like Final Fantasy VII (1997) or Gran Turismo (1998) launched at $49.99. By contrast, the same era’s big cartridge games often had to charge more or sacrifice profit due to higher production costs.
+
+ 
+
+The impact of moving to discs is exemplified by Square’s decision to release Final Fantasy VII on the PlayStation rather than the N64. Series creator Hironobu Sakaguchi noted that if FF7 had used N64 cartridges, the retail price would have exceeded ¥10,000 (which was seen as untenable) – the previous game FFVI had cost ¥11,400 on SNES
+automaton-media.com
+. By using CD-ROM, Square was able to sell Final Fantasy VII on three discs for ¥6,800 in Japan
+automaton-media.com
+ (around $50–60), roughly half of what a cartridge version might have cost. This was a huge price reduction for consumers in Japan and made clear that optical media could keep prices down. A similar trend occurred worldwide: CD-based games leveled the playing field, so first-party and third-party titles alike clustered around the same prices instead of some being dramatically more expensive due to manufacturing.
+
+ 
+
+In the U.S., $49.99 became the common price for new big-budget games from the late ’90s through about 2004. For example, the Sega Dreamcast (1999) launched with games at $49.99 MSRP
+techraptor.net
+. The best-selling PlayStation 2 (2000) likewise had a standard $49.99 launch price for games
+techraptor.net
+, which remained typical through the early 2000s. In Japan, disc-based games also settled into a pattern—most PlayStation and Saturn games in the late ’90s were around ¥5,800 to ¥7,800. (Notably, some high-profile games in Japan still carried premium tags if extra content justified it – e.g. Dragon Quest VII in 2000 was about ¥7,800). Europe in the disc era adopted prices roughly equivalent to the U.S. after currency conversion and VAT. A new PS1 game might be around £39.99 in the UK (roughly $65 in 1997 after VAT), and by the early 2000s, around €59.99 became a common price in Eurozone countries for PS2 games.
+
+ 
+
+It’s important that during this time, PC game pricing aligned closely with console pricing for perhaps the first time. In the 1990s, PC games (which transitioned from floppy disks to CD-ROMs early in the decade) were often priced $40–50 as well. For instance, The Sims (PC, 2000) launched at $49.99
+medium.com
+. The elimination of cartridge manufacturing meant PCs and consoles faced similar cost structures for producing games. However, PC games sometimes undercut consoles slightly because they didn’t carry platform royalty fees – in the late 90s and early 2000s, it was common to see a PC version of a game at $49.99 while the console version was $59.99, especially once console game prices crept up in the HD era (as discussed next). Still, through the early 2000s, $50 remained a near-universal AAA price point on PC and console in the U.S., marking a period of stability in nominal pricing even as inflation slowly made games cheaper in real terms
+infographicsite.com
+.
+
+HD Era and the $60 Standard (mid-2000s–2010s)
+
+Around the mid-2000s, coinciding with the Xbox 360 (2005) and PlayStation 3 (2006) generation, major publishers raised the standard price for a new AAA title to $59.99 in the U.S.
+techraptor.net
+techraptor.net
+. This 20% hike (from the long-standing $50) was justified by significantly higher development costs for HD games and the continuation of relatively stable optical disc production costs. From roughly 2005 onward, $59.99 became the de facto MSRP for big console games in the U.S., a level that would persist for about 15 years. For example, early Xbox 360 hits like Elder Scrolls IV: Oblivion or Gears of War were $59.99 at launch, as were PS3 titles like Uncharted or Metal Gear Solid 4. Nintendo interestingly did not join this jump for the Wii (2006) – most first-party Wii games launched at $49.99
+techraptor.net
+, in line with the previous gen (Nintendo positioned the Wii and its games at a slightly more budget-friendly level, given its lower hardware specs). Third-party Wii titles varied, but many also debuted at $50. Handheld games were cheaper as well: Nintendo DS and Sony PSP games in the mid-2000s were often $29.99–$39.99 new, reflecting their lower budgets and market expectations.
+
+ 
+
+In Japan during the late 2000s, console game prices in yen did not increase as sharply as the U.S. did – partly because they had already been higher. A typical PS3 title in Japan might retail around ¥6,800 to ¥7,800, roughly similar to late PS2-era pricing. For instance, Final Fantasy XIII on PS3 (2009) was about ¥8,800. European markets saw a rise from roughly € fifty-something to €59.99 or €69.99 for top titles by the late 2000s. The U.K. went from ~£40 for a new PS2 game to £49.99–£54.99 for many PS3/Xbox 360 games. It’s worth noting these regional prices include sales tax/VAT, so the base pre-tax price was closer to the U.S. $60 equivalent. Still, Europeans were paying on the order of £50 (about $90 at mid-2000s exchange rates) for a new game, a hefty sum.
+
+ 
+
+On the PC side in the 2000s, prices initially held at $49.99, but by the late 2000s they too crept up. A notable milestone was Call of Duty: Modern Warfare 2 (2009), which launched at $59.99 on PC, breaking the unwritten rule that PC versions were $10 cheaper
+reddit.com
+. After this, $59.99 became common for AAA PC games as well in the 2010s (especially as physical PC distribution waned and digital storefronts like Steam became dominant).
+
+ 
+
+Despite the nominal $60 price point holding steady in the 2005–2019 period, inflation was relatively low during the 2010s, meaning the real cost of a $60 game gradually fell. In fact, a $60 game in 2006 would need to cost about $95 in 2025 to match inflation
+in2013dollars.com
+. Put another way, today’s $60–$70 games are cheaper in real terms than the $50–$60 games of decades past. This stability was enabled in part by huge growth in the gaming audience (selling more units per game) and new revenue streams beyond the base purchase. By the 2010s, publishers often recouped additional income through DLC, season passes, and microtransactions, which helped keep the $59.99 tag viable
+infographicsite.com
+. First-party titles from Sony and Microsoft also saw more frequent discounts after launch (and “Greatest Hits” re-releases at lower prices), softening the impact of the static MSRP.
+
+ 
+
+To summarize the HD era: $60 became the standard across most consoles globally (with Nintendo’s platforms sometimes a bit lower), and it remained remarkably unchanged for about a generation and a half. This meant that by 2019, gamers were paying roughly the same $59.99 they paid in 2006 for a new title, even though that 2006 dollar was worth significantly more. As one analysis noted, console game prices in the 2010s ($60) were equivalent to only $60–$70 in 2020 dollars
+infographicsite.com
+ – barely higher than their face value, indicating almost no real growth. This was a stark contrast to earlier decades, and it set the stage for the price increase that would come with the next console generation.
+
+Modern Generation and the $70 Benchmark (2020–2025)
+
+The arrival of the PlayStation 5 and Xbox Series X|S in 2020 prompted the first broad MSRP increase in about 15 years. Many publishers announced that select next-gen titles would be priced at $69.99 in the U.S., raising the standard $10 higher. Sony’s first-party PS5 games like Demon’s Souls, Returnal, and God of War Ragnarök have launched at $69.99. Microsoft was a bit slower to adopt the increase for its own titles but by 2023 had also moved flagship releases to $70. Third-party giants (2K, Activision, etc.) likewise shifted many of their big releases to $70 on the new consoles. This marked a new baseline for AAA games.
+
+ 
+
+In other regions, this meant notably higher prices: €79.99 became common in the Eurozone for a new PS5 game, and £69.99 in the UK. European players quickly noticed they were effectively paying ~$90 (USD) after currency conversion for titles like Demon’s Souls, versus $70 in the U.S.
+reddit.com
+resetera.com
+. Part of this discrepancy is due to VAT (Europe’s ~$80 price often includes ~20% tax, which in the U.S. would be added separately), but even accounting for that, the non-U.S. pricing felt steep. Japan, interestingly, did not jump as clearly to a new round number. Japanese suggested retail prices for PS5 games vary by publisher and title, but a big-budget game might be around ¥8,800 to ¥9,900. For example, Square Enix’s Final Fantasy XVI (2023) was ¥9,900 (~$70) at launch, and Nintendo’s The Legend of Zelda: Tears of the Kingdom (2023) was priced at ¥7,900 in Japan (and $69.99 in the U.S.). So Japan’s prices, which were already often in the ¥7k–8k range for PS4 titles, edged up slightly for certain games but didn’t undergo a uniform jump – they were already equivalent or higher than $60. In the West, however, the psychological barrier moved from $60 to $70.
+
+ 
+
+It’s worth noting that Nintendo largely kept a $59.99 price point on Switch through the 2010s, but in 2023 even Nintendo experimented with $70: Tears of the Kingdom became the first mainstream Switch title at $69.99, reflecting its massive scope. Nintendo stated this would be a case-by-case decision, not an across-the-board change
+famiboards.com
+. Going forward, it suggests that $70 may become standard on Nintendo’s next-gen platform as well, aligning with the industry trend.
+
+ 
+
+Even at $69.99, the inflation-adjusted cost is lower than many past periods. For context, $70 in 2023 is equivalent to about $60 in 2006 (so we’re essentially back to mid-2000s real pricing). Looking back further: a $60 SNES game in 1993 would be roughly $120 today, so modern $70 games are roughly half the real cost of those 1990s titles. This perspective is often cited by industry executives – for example, former PlayStation head Shuhei Yoshida has noted that games becoming $70 (or even $80) “sooner or later” was inevitable due to inflation and rising development costs
+techradar.com
+.
+
+ 
+
+Finally, the modern era has an extremely diverse pricing landscape beyond just AAA sticker prices. Many new releases on PC and console are indie or mid-budget titles launching at $20–$40. The prevalence of digital storefronts means sales and discounts are very common a few months after release. And while this report does not delve into subscription models, it’s notable that services like Game Pass or PlayStation Plus provide alternate pricing models (access to many games for a flat fee), indirectly pressuring the standard $70 model. Still, for first-party marquee games and top third-party blockbusters, $69.99 in the U.S. (and its regional equivalents) has become the new standard as of the early 2020s, ending a long period of nominal price stability.
+
+ 
+
+Below is a summary table of typical new game prices by era in the U.S., with inflation-adjusted values:
+
+Era / Console Generation	Typical New Game MSRP (USA)	Approx. Value in 2025 USD
+Late 1970s (Atari VCS)	$39.99 (1977)	~$180
+techraptor.net
+ (2020: $170)
+Mid 1980s (NES, Master System)	$30–$50 (1985)	~$70–$120
+techraptor.net
+ (2020: ~$108)
+Early 1990s (SNES, Genesis)	$50–$60 (1990)	~$100–$120
+techraptor.net
+ (2020: ~$119)
+Late 1990s (PlayStation, N64)	$50 (1996 CD) / $60 (cartridge)	~$80–$90
+techraptor.net
+techraptor.net
+
+Early 2000s (PS2, Xbox, GameCube)	$49.99 (2001)	~$80
+techraptor.net
+infographicsite.com
+
+Late 2000s (Xbox 360, PS3, Wii)	$59.99 (2006)	~$95
+techraptor.net
+in2013dollars.com
+
+2010s (PS4, Xbox One, Switch)	$59.99 (2013)	~$70
+techraptor.net
+infographicsite.com
+
+Early 2020s (PS5, Xbox Series X	S)	$69.99 (2021)
+
+(Inflation estimates are based on U.S. CPI conversions; sources as of 2020
+infographicsite.com
+ and extended to 2025.)
+
+ 
+
+As the table shows, the nominal U.S. launch price for a top-tier game stayed around $50–$60 for decades, even as the real value of that money changed. The jump to $70 in the 2020s is the first nominal increase in a long time, though even $70 today is cheaper in real terms than $50–$60 was in the past. Next, we examine how these pricing trends varied by region and format, and how physical vs. digital distribution influences game pricing.
+
+Regional Pricing Differences (US, Europe, Japan)
+
+Regional markets have seen distinct pricing conventions for video games, influenced by currency values, taxation, and local market strategies. Below, we break down key differences and trends in the United States, European Union/UK, and Japan from past to present.
+
+United States: The U.S. has historically served as a baseline for game pricing. U.S. publishers typically set a uniform MSRP (manufacturer’s suggested retail price) for games nationwide, and this has tended to cluster around certain price points each generation (e.g. $50 in the 8-bit/16-bit era, $50 again in the 32-bit era, $60 in the HD era, $70 in the latest era). Notably, in the cartridge era, not all titles were the same price – more memory or special chips could lead to higher MSRPs – but even then, prices were usually within a range. For example, in 1992 Street Fighter II for SNES was about $60 in the U.S., whereas a more memory-intensive game like Chrono Trigger in 1995 was closer to $80. By the disc era, U.S. pricing became highly standardized (almost every PlayStation game was $49.99, every Xbox 360 game $59.99, etc., barring collector’s editions). The U.S. does not include sales tax in sticker prices (sales tax varies by state), so $59.99 means $59.99 to the consumer at purchase (plus tax added at checkout). This exclusive-of-tax pricing sometimes makes U.S. nominal prices look lower than Europe’s, but the difference narrows once tax is accounted for. Overall, the U.S. enjoys the lowest nominal game prices among the major regions – for instance, the PS5’s $69.99 MSRP translates to roughly £55 or €65 at exchange rates, yet UK/EU MSRPs are set higher than that (as we’ll see). Because of the large market and competition, U.S. retailers also frequently discount games or offer promotions, which has historically kept effective prices lower.
+
+European Union (and UK): Europe has generally faced higher game prices in nominal terms. Several factors contribute: currency exchange rates, VAT taxes (often 15–25% included in the price), and historically smaller or fragmented markets increasing distribution costs. In the 1990s, Europe used local currencies – a new SNES game might be £50 in the UK, or 150 Deutsche Marks in Germany, etc. These prices were often higher after conversion than the U.S. price. For example, one source notes Super Street Fighter II on Mega Drive with a UK price of £55.99, which was about $112 in 1994
+vgsales.fandom.com
+. (Meanwhile the same game was ~$89 in North America and ¥11,445 (~$141) in Japan, showing Europe was in the middle of the pack
+vgsales.fandom.com
+.) After the Euro currency was adopted, pricing in Europe often settled around nice round figures: e.g. €59.99 became common for a €60 game in the 2000s. But because €1 was worth more than $1, this meant Europeans were paying the equivalent of $70+ for the same game priced $60 in the U.S. The difference became even more pronounced with the move to €69.99 or €79.99 standard for some PS5 games. Demon’s Souls (2020) was €79.99 in much of Europe, which is about $95 when converted
+reddit.com
+. The United Kingdom, now outside the EU, has similarly seen high prices: traditionally £39.99 for PS2, then £49.99 for PS3, and now £69.99 for some PS5 titles, which is over $90 USD
+pushsquare.com
+. Part of the reason companies set, say, €79.99 instead of a direct conversion of $69.99 (~€63) is to absorb VAT and account for regional operating costs, and possibly because European consumers have been conditioned to those higher tags. That said, European retailers often discount games early or bundle them with consoles, and different countries sometimes have different street prices. But as a rule, Europe has paid the highest game prices among the big three regions in recent generations, with UK not far behind (especially as £1 was historically around $1.5, £60 meant ~$90).
+
+Japan: Japan’s game pricing has been traditionally variable and often higher on a per-title basis. During the Famicom/Super Famicom era, there was no uniform “set price” for all games – each title’s price was determined by its manufacturing cost and publisher strategy. It was common for Super Famicom games to range from around ¥5,000 up to ¥11,000 or more. For instance, RPGs and imports could be very pricey: Final Fantasy VI cost ¥11,400 in 1994
+automaton-media.com
+, Street Fighter II on SFC was ¥10,290 in 1992
+vgsales.fandom.com
+, and some N64 titles like Paper Mario were around ¥7,500 in the late ’90s. One reason Japanese prices were higher is that the distribution model allowed it – Japanese consumers were accustomed to paying a premium for quality titles, and the absence of rental markets meant if you wanted to play, you had to buy at full price. When the switch to CDs happened, Japanese prices moderated somewhat: many PlayStation titles launched in the ¥5,800–¥7,800 range, which was a noticeable drop from late-SFC highs. Final Fantasy VII as noted was ¥6,800, a huge value compared to what it might have been on cartridge
+automaton-media.com
+. Throughout the 2000s, Japanese new game prices hovered in that band – ¥6,800 (about $60) was a common sticker price for a PS2/PS3 era game, although some big names still launched at ¥8,800 or higher (often before tax). By the late 2010s, standard prices crept up a bit: ¥7,800 or ¥8,800 became more normal for AAA PS4 titles as development costs rose. Now in the 2020s, Japan hasn’t universally adopted a “¥8800 = new standard” in the way the U.S. has $70; however, many PS5 titles do fall in roughly the ¥7,500–¥9,500 range. It’s also worth noting that Japan’s market has a lot of portable and mobile titles traditionally priced lower (e.g. Switch games often ¥5,980 or ¥6,480, handheld 3DS games were ~¥4,800). So the average spending per title can be lower if we account for those. In summary, Japanese gamers historically paid the highest nominal prices for console games during the cartridge era, but the shift to disks brought Japan more in line with global pricing (still, a bit higher on average). Today, a Japanese gamer paying ¥8,800 for a PS5 game is spending roughly $65–$70, comparable to the U.S. $69.99 once currency fluctuations are considered. The big difference is that Japan’s prices aren’t as standardized; you might see one new release at ¥7,000 and another at ¥9,500 if one is perceived as more valuable or costly to make.
+
+To illustrate regional differences, consider Super Street Fighter II (1994) as a case study of prices in each region: in Japan it was ¥11,445 (about $141), in the U.S. it was roughly $70 (the SNES version) to $80 (Genesis) at retail, and in the UK it was £55.99 (about $112)
+vgsales.fandom.com
+. All three regions had very different numbers on the price tag for the same game. Fast forward to 2020: Demon’s Souls (PS5, 2020) launched at $69.99 in the U.S., ¥7,900 in Japan (about $75), €79.99 in much of Europe (~$95), and £69.99 in the UK (~$95). Once again, a single title carries substantially different nominal prices across regions, even if the gap has somewhat narrowed in real terms (and some of it is tax).
+
+ 
+
+In conclusion, regional pricing differences have been a constant in the industry. The U.S. tends to have the lowest game prices (pre-tax) and the greatest propensity for quick discounts. Europe often pays a premium due to currency and tax, and Japan’s pricing follows its own logic of perceived game value and production costs, historically leading to higher prices for top titles. However, globalization and simultaneous worldwide releases have enforced some convergence – it’s rare now to see a game cost twice as much in one region as another, as sometimes happened in the ’90s. Still, differences of 20–30% persist due to the factors described.
+
+Physical vs. Digital: Media and Distribution Impact on Pricing
+
+One of the most important influences on video game pricing has been the format of game distribution – cartridges vs. optical discs vs. digital downloads. This affects the manufacturing cost per unit, which in turn has shaped pricing strategies.
+
+Cartridge Manufacturing Costs: In the cartridge era, the cost to produce each game was relatively high. Cartridges contained ROM chips (and sometimes co-processors or battery-backed memory), and larger or more complex games had significantly higher production costs. For example, an SNES or Genesis cartridge with extra memory or specialty chips might cost the publisher $20 or more per unit to manufacture, whereas a simpler cartridge might cost under $10. By the mid-1990s with the N64, some of the largest capacity cartridges (64-megabyte carts) were extremely expensive – one estimate is that about $30–$40 of the price of each N64 game went purely to cartridge manufacturing and Nintendo’s cartridge licensing fees
+gamefaqs.gamespot.com
+. In other words, if a game retailed for $70 on N64, nearly half that money was eaten by physical production costs. This dynamic forced cartridge-based games to be priced higher to maintain profit margins, especially for third-party publishers who had to pay the console maker for the cartridges. It also explains the wide price variance in the cartridge era: a game on a small 2 Mbit NES cart might be sold at a lower price than an RPG on a 16 Mbit cart with a save battery, simply because of manufacturing cost differences. In summary, the high unit cost of cartridges put upward pressure on game prices. Gamers essentially paid not just for the game content but for the silicon it was stored on.
+
+Optical Discs (CD, DVD, Blu-ray): The transition to disc-based media in the late 1990s slashed the manufacturing and distribution cost per game. A CD or DVD could be produced for mere cents on the dollar, and even including packaging, manuals, and shipping, the cost per unit for a disc-based game might be around $1–$2 (significantly less when produced in huge batches). This was a tiny fraction of what a cartridge cost to make
+infographicsite.com
+. Consequently, when consoles moved to CD-ROM (PlayStation, Saturn) and later DVD (PS2, Xbox), the previous justification for $70-$80 games largely disappeared. Publishers could standardize prices (often to the lower end of previous ranges) because the margin on each unit was much higher. For example, Sony could charge $49.99 for a PlayStation game and still make a good profit per unit, whereas a $49.99 N64 game would have been nearly break-even for a third-party publisher paying $30 in cart costs. Technological advancement lowered production costs and eventually consumer prices
+infographicsite.com
+ – the average nominal price of a console game actually dropped from the early ’90s to late ’90s as we moved to discs
+infographicsite.com
+. This is a rare instance of a tech product getting cheaper in nominal dollars over time. The disc era also enabled practices like budget re-releases (since pressing another batch of discs at a lower price was still profitable). However, it’s important to note that while disc manufacturing is cheap, platform holders introduced licensing fees for third-parties (often around $7–$10 per game) to replace the lost revenue from selling cartridges. Even with those license fees, the cost structure was much improved.
+
+Digital Distribution: In the 2000s and especially 2010s, digital downloads became an increasingly popular (and now dominant) way to distribute games on both PC and consoles. Intuitively, one might expect removing the physical production and retail costs to make games cheaper for consumers – after all, distributing a game over the internet avoids printing discs, packaging, and retailer markups. In practice, however, digital versions of major console games are priced the same as physical copies at launch. For example, a new game might be $59.99 whether you buy it on the PlayStation Store or as a boxed disc at GameStop. The reason is partly to avoid undercutting physical retail (console makers need to keep retailers happy) and partly because the publishers simply capture a greater margin on digital sales rather than passing savings to consumers. A breakdown of a $70 game’s economics shows why: On a digital sale, a third-party publisher keeps about 70% of the price (the platform store takes a 30% cut)
+serkantoto.com
+serkantoto.com
+. That means for a $70 digital download, a third-party publisher gets ~$49. On a physical sale, the retailer takes perhaps 30% and the platform owner might take 15% in licensing, plus manufacturing ~5%
+serkantoto.com
+serkantoto.com
+. In the end, the third-party publisher might net only ~$35 on a $70 physical sale
+serkantoto.com
+. For first-party games, the platform holder keeps essentially 100% digital or ~65% physical (accounting for manufacturing and retailer)
+serkantoto.com
+serkantoto.com
+. In short, publishers (especially first-party like Nintendo, Sony, Microsoft) make higher profit per unit on digital sales, so there is little incentive for them to lower the price. Instead, they price digital at the same $60–$70 MSRP and enjoy the extra margin
+serkantoto.com
+.
+
+ 
+
+However, digital distribution has influenced pricing in other ways. Without physical inventory, digital storefronts can run deep discounts on older titles with no concern of clearing stock – leading to frequent sales. PC gaming saw this early on with Steam sales, and now console digital stores do the same. For example, a game might still be $60 new on disc a year later (due to retail inertia), but the digital version might go on sale for $30 during an online promotion. This has somewhat trained consumers to expect price drops and sales, effectively lowering the average price paid for games over their lifecycle. Additionally, digital distribution allowed new pricing models: episodic games, free-to-play games (with in-game purchases), and a thriving indie game market at lower price points. So while the MSRP for digital and physical is identical at launch, digital has introduced more flexibility over time (e.g. dynamic pricing, regional pricing adjustments, etc.). It’s also eroded the secondary used game market – when you buy digitally, you cannot resell or trade in the game, which arguably means a digital $60 game is “worth” more to the publisher (since they’ll sell more new copies instead of people trading used discs). This dynamic indirectly supports higher launch prices, since the publisher knows each sale is final. Console makers even released cheaper hardware variants (like the PS5 Digital Edition) to encourage the shift to digital, which, as noted, gives them higher revenue per game
+serkantoto.com
+.
+
+In summary, physical vs. digital has a complex effect on pricing. Manufacturing costs went from a significant portion of the game’s price (in the cartridge days) to negligible (in the disc era)
+infographicsite.com
+, allowing prices to stabilize or drop. Digital distribution further removed costs like retailer cuts and physical media, but rather than reducing the sticker price, it increased margins for publishers and platform holders. Consumers benefit through frequent digital sales and convenience, but not usually through lower launch MSRPs. The history shows that cost savings from technology do not always pass directly to consumers – after discs eliminated most production cost issues, base prices stayed around $50-$60, and after digital eliminated retail costs, base prices actually rose to $70 (reflecting other cost pressures). Publishers have used those savings to offset ballooning development budgets rather than cut shelf prices. The net effect is that today’s $70 digital game is far more profitable per unit for a first-party publisher than a $60 cartridge was in the 90s, yet the value proposition to the consumer (in terms of content) has also grown, arguably making it a fair trade in the long run.
+
+Platform-Specific Pricing Strategies (First-Party vs Third-Party)
+
+While industry-wide trends set the baseline, individual platform holders and publishers have their own pricing strategies that can influence how prices are presented and maintained:
+
+Nintendo’s Premium Pricing and Value Retention: Among first-party manufacturers, Nintendo is famous for the resilience of its game prices. Nintendo’s first-party titles (Mario, Zelda, Pokémon, etc.) rarely drop in price for years after release. It’s not uncommon to see a Nintendo game stay at $59.99 from launch until the end of the console generation, barring perhaps a small temporary sale. For example, The Legend of Zelda: Breath of the Wild (2017) was still $59.99 several years after release, and only in 2023 with the sequel’s launch did it see a modest price cut at some retailers. Nintendo has explicitly said they keep prices high because their games continue to sell well at full price – they see little reason to discount titles that have evergreen demand
+cgmagonline.com
+. Indeed, Nintendo’s approach is that their first-party games are system-sellers and have long tails, so they maintain the value akin to collectibles
+cgmagonline.com
+cgmagonline.com
+. The result is that consumers associate Nintendo with rarely-on-sale games. This strategy also props up a robust secondhand market (since a used Nintendo game holds value if the new price never falls). When Nintendo does eventually lower prices, it’s usually via formal programs like “Nintendo Selects” (e.g. offering older hits for $19.99 or $29.99) late in a console’s life. But during the prime years, expect to pay full price for Nintendo titles. This is quite different from Sony or Microsoft’s approach.
+
+Sony and Microsoft First-Party: Sony and Microsoft typically follow a more traditional retail model: launch at full price, then gradually reduce the price over time or offer frequent discounts, especially once initial sales slow. They also have instituted budget re-release lines for first-party and popular third-party games – Sony’s “Greatest Hits / PlayStation Hits” and Microsoft’s “Platinum Hits” – which reissue bestsellers at a lower fixed price (often $19.99 or $29.99) after a year or two. For instance, on PS4, titles like Uncharted 4 and Bloodborne eventually joined the “PlayStation Hits” lineup at $19.99
+blog.playstation.com
+. This signals a philosophy of capturing early adopters at high price and then opening the game up to more price-sensitive customers later. Microsoft has done similarly with its Halo, Forza, etc., usually seeing price drops or inclusion in bundle deals. In the current generation, Sony and Microsoft first-party titles launch at $70 (for PS5/XSX) but often go on sale for $50 or $40 within a year or so. Thus, first-party games on PlayStation/Xbox tend to depreciate faster in price than Nintendo’s. Sony’s former CEO Shawn Layden once observed that a huge portion of a game’s sales come in the first few months, and after that it makes sense to lower the price to net the rest of the audience. This approach maximizes revenue from different segments over a title’s lifespan. It also helps fill the library with accessible price points – something Nintendo addresses via a steady trickle of new evergreen titles instead.
+
+Third-Party Publishers: Third-party games historically have to compete on price more aggressively, since they often exist on multiple platforms and don’t have the platform-holder marketing push over the long term. Typically, major third-party releases will launch at the same $59.99 or $69.99 as first-party games (platform holders wouldn’t allow them to undercut standard pricing at launch). However, third-party titles tend to see price promotions sooner. It’s not unusual for, say, a Ubisoft or EA title to be marked down $10-$20 within a few months if sales cool off. These publishers also embrace seasonal sales (Black Friday deals, etc.) widely. In earlier eras, third parties had some notable pricing experiments – for example, in 1997 Capcom released Resident Evil 2 on PlayStation at $49.99 while many N64 games were $59.99; later they ported it to N64 and, due to high cart cost, that version launched at $79.99. Such differences highlighted third-parties navigating manufacturing costs and perceived value. Another example: some third-party Nintendo 64 games came with higher prices (Midway famously charged more for San Francisco Rush on N64 than the PlayStation version). Nowadays, most third-party AAA games hit the same $69.99 mark if they’re considered “premium” experiences. But third-parties also produce a range of AA or niche titles that might launch at $30–$50, a flexibility first-party titles rarely have (Nintendo’s first-party lineup, for instance, almost all hits the full price point, whereas a third-party might price a shorter remake or collection a bit lower). In essence, third-party pricing is about matching market expectations on each platform and then adjusting quickly based on sales performance.
+
+Licensing and Royalties: One reason console games have generally been $10 more than their PC counterparts (until recently) is that third-party publishers must pay console manufacturers a licensing fee for every game sold. This is a holdover from the cartridge days when the fee was baked into cart production. On modern consoles, that fee is usually around $7 or so per $60 game (roughly 12–15%)
+serkantoto.com
+serkantoto.com
+. It’s often cited that console games carry a “royalty” that PC games do not, which historically explained a ~$10 price gap. In the late 2000s and 2010s, many PC editions were $49.99 versus $59.99 on console. Now, with $69.99 becoming the norm, some publishers are releasing PC versions at $59.99 while console is $69.99 (for example, in 2023 Star Wars Jedi: Survivor launched at $70 on PS5/XSX but $60 on PC). This isn’t a universal rule, but it shows that platform fees and market norms can still lead to PC being a bit cheaper. Platform holders (first-party) don’t pay such fees to themselves, so a Sony-published game has a higher margin at the same price than a third-party game. First-parties could price lower because of that, but they generally do not; they take the extra profit or reinvest it in big development and leave pricing at parity.
+
+Special Editions and Monetization: In the last 10-15 years, publishers (both first and third-party) have introduced multiple editions of games at higher price tiers – Deluxe Editions, Collector’s Editions, etc. These often include extras like DLC access, figurines, or digital bonuses, and can range from $80 up to hundreds of dollars. This strategy captures extra revenue from hardcore fans without raising the base sticker price for everyone. Additionally, the rise of in-game purchases (microtransactions) and post-launch DLC means the “true” price a dedicated player pays can be well above the base $60 or $70
+infographicsite.com
+. First-party titles on Nintendo/Sony/Microsoft increasingly have DLC expansions or season passes (e.g. Mario Kart 8 Deluxe’s Booster Course Pass, Spider-Man on PS5 had DLC chapters, etc.), which effectively spreads the cost. These trends have somewhat eased the need to increase base prices until recently. It’s notable that when the industry finally went to $70, it coincided with a generation shift and considerable inflation – an $10 increase after 15+ years was arguably overdue purely from an inflation standpoint.
+
+Subscription Services (excluded from scope): While this report does not include subscription models per the instructions, it’s worth briefly noting that services like Xbox Game Pass or PlayStation Plus Extra provide many games at a fixed monthly rate. This doesn’t directly change a game’s list price, but it does alter consumer perception of value. Microsoft, for example, has kept its first-party games at $60 for a long time (only recently moving to $70) possibly because many of its users access those games via Game Pass. The pricing logic for individual titles might have been even more complex if subscriptions were considered; however, since we exclude that, we focus on retail and digital single-copy pricing in isolation.
+
+In conclusion, first-party vs. third-party pricing practices differ mainly in price maintenance over time and discount cadence. Nintendo stands out for keeping first-party prices high and steady (leveraging their unique content). Sony and Microsoft use a more traditional model of initial high price followed by eventual discounts or budget re-releases, treating their games somewhat like third-party publishers do – an initial premium followed by tapping the broader market later. Third-party publishers generally follow the platform norms at launch but will react quickly with price drops to maximize sales, as they don’t have the platform holder’s luxury of hardware ecosystems or must-have exclusives to keep prices high. All parties have, however, converged on similar launch MSRPs for AAA games in any given generation; e.g., in 2022 a big new game is $59.99 or $69.99 across the board, whether it’s published by Nintendo, Sony, or EA. The differences emerge after launch day.
+
+Inflation-Adjusted Perspective and Closing Thoughts
+
+Over the span of roughly five decades, the nominal price of video games has risen only modestly, from around $40-$50 in the late 1970s–1980s to about $60 in the 2000s and $70 by 2020s. However, this simple view masks the effect of inflation and the vastly increased scope of modern games. When adjusting for inflation, it becomes clear that games in the past were often more expensive than today. For example, that $50 copy of Super Mario Bros. 3 in 1990 might be about $100 in 2025 dollars. By contrast, a premium $70 game in 2025 is, in real purchasing power, cheaper than what we paid back then. In fact, an analysis of console game prices by decade shows that while the 1990s had nominal prices of $50–$60, in today’s money that was roughly $90–$100; the 2010s’ $60 was effectively $60–$70 in today’s money (almost flat due to low inflation)
+infographicsite.com
+. Today’s $70 might be around $70–$75 in 2025 dollars, depending on recent inflation. So the “real” cost to gamers has plateaued or even decreased compared to the early days
+infographicsite.com
+. This is a notable outcome given that development budgets for blockbuster games have exploded (often tens or hundreds of millions of dollars). Game companies have managed to keep base prices relatively stable by reaching larger audiences (the global gaming population is orders of magnitude bigger now), finding new revenue streams (DLC, microtransactions, special editions), and benefiting from cheaper distribution (discs, then digital).
+
+ 
+
+Regionally, pricing disparities have narrowed somewhat in real terms as well. Japanese launch prices in yen that used to equate to $100+ are less common now, and Europe’s high VAT-inclusive prices are partly mitigated by a stronger dollar in recent years (for instance, €70 was nearly $95 a few years ago, but as of 2025, €70 is closer to $77 due to exchange shifts). It’s still true that Americans generally pay the least for games and Europeans the most, with Japanese in between, but the gap isn’t as extreme as in the 90s when Japanese players might pay double what Americans did for a hot title.
+
+ 
+
+Physical vs. digital considerations continue to evolve. As of 2025, physical copies are still sold for consoles, but digital sales dominate on PC and are a major share on console. We might wonder if digital will eventually lead to regional price harmonization or more flexible pricing (since digital storefronts can adjust per local purchasing power). Already on PC, platforms like Steam do regional pricing – a game might be cheaper in emerging markets. Console makers do this to a lesser extent (some regions like South America have adjusted digital prices). These trends point to a future where the list price might not be as rigid globally as it was when everything was a physical box with a sticker.
+
+ 
+
+When it comes to platform-specific futures, Nintendo is an interesting watch: they held $60 for Switch games throughout the 2010s, but with Zelda: Tears of the Kingdom going $70, it suggests even Nintendo recognizes the need to inch prices up after so long. If Nintendo’s next console matches the power of PS5/Xbox, one could expect $69.99 to be the norm for its games too (with perhaps a few at $59.99). Sony has indicated it foresees $70 remaining the cap for the near future
+playstationlifestyle.net
+, and a widespread move to $80 would likely meet resistance (though some analysts have speculated if high inflation continued, $80 could eventually happen). For now, $70 is still somewhat of a premium price – not every new game is priced that high (many titles, especially on PC or cross-gen releases, launch at $59.99), but all the top-end first-party console exclusives are embracing it.
+
+ 
+
+In conclusion, the evolution of video game pricing from the 1970s to 2025 has been a story of balancing act: balancing manufacturing costs, consumer willingness, regional economics, and the exploding content value of games. We’ve moved from an era where the medium (cartridge) itself justified high prices to an era where the medium (digital) is practically free, and the price is instead justified by the content and experience. First-party console makers have often led the way in setting standard prices (e.g. Sony pushing to $59.99, then $69.99), while third-parties and PC have followed or adjusted accordingly. Regionally, historical gaps persist, but globalization and digital distribution have exerted pressure towards uniformity (with notable exceptions due to tax and currency). The inflation-adjusted cost of gaming has arguably never been lower than it is today for the amount of entertainment provided, even though $70 stickers are the highest nominal we’ve seen. Consumers today also have far more options at various price points – from free-to-play games to $20 indie gems to $100 collector’s editions – whereas decades ago the choice was often pay the asking price or miss out entirely.
+
+ 
+
+Going forward, it will be interesting to see if the $70 price holds for another long stretch or if more frequent, smaller adjustments become the norm. Regardless, understanding the history – from $50 Atari cartridges (worth a small fortune today)
+techraptor.net
+ to multi-format $70 blockbusters – gives valuable context. It shows that game pricing has been relatively conservative in raising nominal prices, leveraging technology improvements to actually deliver more for the same price over time. And when prices did jump, it was usually alongside a leap in technology or costs (cartridges to discs, SD to HD, etc.). Thus, the trends suggest pricing logic evolves hand-in-hand with console generations and economic conditions: it’s a careful calibration to keep gaming profitable for creators yet as accessible as possible for players.
+
+ 
+
+Sources: Historical pricing data and inflation conversions were drawn from a variety of sources, including TechRaptor’s analysis of console launch prices and game costs
+techraptor.net
+techraptor.net
+, retrospective features on game prices
+infographicsite.com
+infographicsite.com
+, and statements from industry figures. Regional price examples were referenced from contemporary reports and archives (e.g. Street Fighter II regional prices from Capcom’s records
+vgsales.fandom.com
+, and modern PS5 regional pricing news
+reddit.com
+). Manufacturing and format cost impacts were discussed with supporting data (e.g. cartridge vs. CD cost differences
+gamefaqs.gamespot.com
+ and digital vs. physical revenue breakdowns
+serkantoto.com
+). These illustrate the factual basis behind each trend described. Overall, the convergence of these data points paints the picture of video game pricing’s past and present that we have summarized in this report.
+--------------------------------------
+User:
+
+
+Add this to our game price sub index.
+--------------------------------------
+ChatGPT:
+
+
+Done. The pricing sub-index now includes detailed historical and regional analysis from the 1970s to present across major platforms. Ready to expand it further whenever you are. Want to investigate physical vs. digital margins next?
+--------------------------------------

@@ -1,0 +1,367 @@
+--------------------------------------
+User:
+
+
+Create a shared creative language using the following sources and no others:
+ 🎬 Film Glossaries:
+- StudioBinder – “Ultimate Guide to Film Terms” – https://www.studiobinder.com/blog/movie-film-terms/  [oai_citation:0‡StudioBinder](https://www.studiobinder.com/blog/film-coverage/?utm_source=chatgpt.com)
+- MasterClass – “Film Terms Guide”
+- Filmsite.org – “Film Terms Glossary”
+- University of West Georgia – “Glossary of Film Terms”
+- California Film Commission – industry terminology PDF
+- Brooklyn CUNY – “Film Term Glossary”
+- Octane Seating – “Glossary of Film”
+- Indeed – “100 Film Terms to Know”
+- Wikipedia – “Glossary of motion picture terms”
+- Wikipedia – “Cinematic techniques”
+
+🎮 Game‑Design Glossaries:
+- Machinations.io – “Game Design Glossary” – https://machinations.io/glossary  [oai_citation:1‡StudioBinder](https://www.studiobinder.com/blog/cinematography-film-terms/?utm_source=chatgpt.com) [oai_citation:2‡machinations.io](https://machinations.io/glossary?utm_source=chatgpt.com) [oai_citation:3‡LinkedIn](https://www.linkedin.com/posts/machinations-io_gamedesign-machinations-gamedevelopment-activity-7211692548950519810-XBqd?utm_source=chatgpt.com) [oai_citation:4‡StudioBinder](https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/?utm_source=chatgpt.com)
+- Wikipedia – “Glossary of video game terms”
+- GameIndustryCareerGuide – “Game Development Terms”
+- PulsipherGames – “Glossary for Game Designers” (PDF)
+- Autodesk AREA – “Games Dev Glossary”
+- Code Wizards – “Game Development Glossary”
+- Stanislav Stankovic (Medium) – “Game Development Glossary”
+- PlayStation – “Ultimate gaming glossary”
+- Wikipedia – “Role‑playing game terms”
+- Reddit / r/gamedesign – community-suggested glossaries
+
+📖 Storytelling & Narrative Glossaries:
+- Wikipedia – “Glossary of literary terms”
+- Helping Writers Become Authors – “Ultimate Writing Glossary”
+- Open Book Publishers – “Glossary of Narrative Terms”
+- Story Science – “Glossary of Story Terms”
+- Scribendi – “Fiction Writing Glossary”
+- LiteraryTerms.net – “Glossary of Literary Terms”
+- Wikipedia – “List of narrative techniques”
+- Okanagan College – “Glossary of Common Literary Terms” (PDF)
+- Narrative Mindworks – “Glossary Terms”
+- Collins Dictionary – related “story” terms
+--------------------------------------
+ChatGPT:
+
+
+Bridging film-set jargon, game-dev lingo, and story-craft vocabulary into one coherent toolkit, this “shared creative language” groups essential terms along four production-agnostic axes—Visual Experience, System Mechanics, Narrative Architecture, and Pipeline & Process. The goal: give multidisciplinary teams a single set of handles for talking through ideas without resorting to department-specific shorthand or fuzzy metaphors. Below you’ll find the framework, followed by the curated cross-domain glossary (≈30 terms) that anchors it.
+
+1. Framework Overview
+Axis	“North-Star” Question	Typical Owners	Sample Output
+Visual Experience	What does the audience/player literally see & feel?	Cinematographer, Art Director, Level Artist	Shots, scenes, UI states
+System Mechanics	How does the experience behave once it’s running?	Game/Interaction Designers, Tech Designers	Feedback loops, hitboxes, compulsion curves
+Narrative Architecture	Why should anyone care?	Screenwriter, Narrative Designer	Plot points, arcs, motifs
+Pipeline & Process	How do we build, iterate, and ship it?	Producers, DevOps, Editors	Rough cuts, alpha builds, asset pipelines
+
+Tip: Prefix any term with these axis tags—[VIS], [SYS], [NAR], [PIP]—when documenting features or giving notes so everyone knows which lens you’re speaking through.
+
+2. Cross-Domain Glossary
+🎞️ Visual Experience [VIS]
+
+Shot Composition – Arrangement of on-screen elements to convey meaning; governs line, balance, depth, and focus. 
+StudioBinder
+
+Long Take – A single, extended shot that maintains real-time continuity and heightens immersion (e.g., Rope). 
+Filmsite
+
+Montage – Juxtaposition of discontinuous images to forge new ideas in the viewer’s mind; Soviet editing bedrock. 
+University of West Georgia
+
+Diegesis – The story-world perceived by its characters; anything outside it (score, voice-over) is non-diegetic. 
+userhome.brooklyn.cuny.edu
+
+🎮 System Mechanics [SYS]
+
+Feedback Loop – System that feeds its output back into input (e.g., Mario Kart’s blue shell “slippery slope”). 
+machinations.io
+
+Game Loop – Continuous cycle that processes input, updates state, renders frames, and repeats until exit. 
+Wikipedia
+
+Hitbox – Invisible collision volume that decides whether an attack lands; tuning its size equals tuning difficulty. 
+PlayStation
+
+Dynamic Balance – Ongoing adjustment of variables to keep challenge fair and fun across evolving player skill. 
+pulsiphergames.com
+
+📖 Narrative Architecture [NAR]
+
+Foreshadowing – Early hint of a later event, shaping audience expectation and suspense. 
+Wikipedia
+
+Plot Point – Major reversal or revelation that spins the story into its next act (First PP ≈ 25% mark). 
+helpingwritersbecomeauthors.com
+
+Motif – Recurring image, phrase, or situation that unifies and deepens theme. 
+Okanagan College
+
+Chekhov’s Gun – Principle that every introduced element must pay off (narrative economy). 
+Wikipedia
+
+Focalization – Whose sensory lens the narration filters through; governs info scope and bias. 
+books.openbookpublishers.com
+
+Rising Action / Plot – Sequence of escalating conflicts driving toward the climax; “sine-wave of stakes.” 
+Literary Terms
+
+🛠️ Pipeline & Process [PIP]
+
+Director of Photography (DP) – Visual boss responsible for camera/lens choice, lighting design, and image fidelity. 
+cdn.film.ca.gov
+
+Rough Cut – First full assembly of scenes in narrative order; rhythms in place, finesse to follow. 
+Indeed
+
+Alpha Build – Early playable with core features present but placeholder assets and plentiful bugs. 
+gameindustrycareerguide.com
+
+R&D Asset Pipeline – Structured flow that ingests raw models/textures and spits out engine-ready assets. (Autodesk examples show end-to-end iterations, though terminology may vary.) 
+area.autodesk.com
+
+3. Putting It to Work
+
+Tag & Track: When filing Jira tickets or giving on-set direction, prepend the axis tag, e.g., [SYS] Compulsion loop feels punitive after wave 3.
+
+Cross-Pollinate: Encourage departments to borrow outside their silo: editors speak in “beats,” level designers discuss “blocking shots,” writers think in “feedback loops.”
+
+Version Control the Language: Add new terms only after team consensus; attach a short definition + axis tag to your living glossary.
+
+This hybrid lexicon lets cinematographers, quest designers, and story editors argue productively in the same room—without needing a translator. Use it, tweak it, and watch miscommunication drops while creativity spikes.
+--------------------------------------
+User:
+
+
+Make sure there is inclusion of all storytelling methodologies used in modern day filmmaking/game-designing/otherwise-written-storytelling included in these sources (e.g. The Hero's Journey, Save The Cat!, Dan Harmon's Story-Circle, Bungie's "30 seconds of fun" philosophy, 3-act-structure (for film and the "3 acts with variations" version for aaa video games, etc.).
+--------------------------------------
+ChatGPT:
+
+
+📚 Narrative-Methodology Addendum
+
+Plug-and-play structures your whole team can reference alongside the earlier Visual / System / Narrative / Pipeline axes.
+
+Tag	Methodology	Core Loop in One Line	Primary Domains
+[NAR:METH] Hero’s Journey	12-step quest → death-and-rebirth → return with “elixir.” 
+Reedsy
+	Film • Games • Novels	
+[NAR:METH] Save the Cat!	15 timed “beats” that front-load theme and end on a visible “final image.” 
+Save the Cat
+	Film • TV • Novels	
+[NAR:METH] Harmon Story Circle	8 symmetrical moves: comfort zone ↔ unfamiliar world ↔ transformation ↔ return. 
+StudioBinder
+	TV • Animation • Games	
+[NAR:METH] Three-Act (Film)	Setup → Confrontation → Resolution; ~25/50/25% page real-estate. 
+StudioBinder
+	Film • Theatre	
+[NAR:METH] Three-Act+ (AAA Games)	Same macro shape, but each “act” nests player-choice loops and boss “spikes.” 
+Game Design Skills
+	Narrative-driven Games	
+[NAR:METH] Five-Act / Freytag	Exposition → Rising → Climax → Falling → Denouement; ideal for prestige TV & Shakespearean homage. 
+scribophile.com
+	Film • TV • Stage	
+[NAR:METH] Kishōtenketsu (4-Act)	Intro → Development → Twist → Resolve; tension via surprise, not conflict. 
+Wikipedia
+	Manga • Level-design • Short prose	
+[NAR:METH] Seven-Point Structure	Hook → Plot Turn 1 → Pinch 1 → Midpoint → Pinch 2 → Plot Turn 2 → Resolution. 
+campfirewriting.com
+	Genre Novels • RPG campaigns	
+[NAR:METH] Sequence Approach	Story = 8–12 mini-movies; each ends on a question that propels the next. 
+No Film School
+	Film • Limited Series	
+[SYS:METH] MDA Framework	Design from Mechanics → Dynamics → Aesthetics to align play loop with emotional arc. 
+cs.northwestern.edu
+	Games • XR	
+[SYS:METH] “30 Seconds of Fun”	Build a single compulsive micro-loop, then remix it for hours. 
+Engadget
+	Action Games • VR shooters	
+[NAR:METH] Snowflake Method	Start with a one-sentence premise and recursively “zoom in” until scenes emerge. 
+Advanced Fiction Writing
+	Novels • Serialized fiction	
+How to Use These Tags in Practice
+
+Pitch docs & Jira tickets
+
+"[NAR:METH] Hero’s Journey – Act II refusal feels rushed; need longer 'road of trials' level."
+
+Cross-department hand-offs
+
+Story team hands the Save the Cat beat sheet to level designers, who map each beat to a 30 Seconds of Fun gameplay variant.
+
+Hybrid stacking
+
+It’s normal to nest frameworks: e.g., overlay Kishōtenketsu scene beats inside a broader Three-Act campaign shell while moment-to-moment encounters obey the MDA lens.
+
+Reminder: Keep the original axis tag ([NAR], [SYS], etc.) first if you’re folding methodology notes into larger design conversations:
+"[NAR][NAR:METH] Sequence Approach – need stronger cliff-hanger at end of Sequence 6."
+
+By pinning these proven blueprints to your shared glossary, you give writers, quest designers, and directors an instant shorthand for structure—freeing them up to argue about the art.
+--------------------------------------
+User:
+
+
+Now that you have an idea of the kind of storytelling language I want, search for online glossaries that exist within the scope of these terms and systems (as well as other systems/philosophies like it) to define and expand the commercial/academic/hobby "world" they encapsulate. Find 10 glossaries that accomplish this task for each respective medium/format (filmmaking/game-designing/any-written-storytelling).
+--------------------------------------
+ChatGPT:
+
+
+Below are 30 online glossaries—ten for each medium—that collectively map the commercial, academic, and hobby vocabularies surrounding modern storytelling structures and philosophies (Hero’s Journey, 3-Act, Save the Cat!, 30 Seconds of Fun, etc.). Bookmark these as your “world-expanding” reference shelf.
+
+🎬 Filmmaking Glossaries (10)
+
+StudioBinder – “Ultimate Guide to Film Terms.” 300-plus A-Z entries spanning lenses, set roles, and post jargon. 
+StudioBinder
+
+MasterClass – “Film Terms Glossary: Guide to 95 Film Terms.” Concise definitions with quick craft tips. 
+MasterClass
+
+Filmsite.org – “Film Terms Glossary.” Film-studies–leaning compendium for critical analysis. 
+Filmsite
+
+University of West Georgia – “Glossary of Film Terms.” Academic handout useful for essay writers. 
+University of West Georgia
+
+California Film Commission – “Film Industry Terminology” (PDF). Union-style job & equipment lexicon tied to permits. 
+California Film Commission
+
+Brooklyn College – “Film Glossary” (PDF). Departmental list covering editing and genre lingo. 
+Brooklyn College
+
+Octane Seating – “Glossary of Film.” Consumer-friendly rundown bridging production and exhibition terms. 
+octaneseating.com
+
+Indeed – “100 Film Terms to Know.” Career-oriented vocabulary for newcomers. 
+Indeed
+
+Wikipedia – “Glossary of Motion Picture Terms.” Community-curated A-Z index with cross-links. 
+Wikipedia
+
+Wikipedia – “Cinematic Techniques.” List-style glossary of camera, lighting, and editing moves. 
+Wikipedia
+
+🎮 Game-Design Glossaries (10)
+
+Machinations.io – “Game Design Glossary.” Alphabetical terms tied to systems-model examples. 
+machinations.io
+
+Wikipedia – “Glossary of Video Game Terms.” Industry & player vocabulary from mechanics to culture. 
+Wikipedia
+
+GameIndustryCareerGuide – “Video Game Development Terms Glossary.” Job-market slant for aspiring devs. 
+Game Industry Career Guide
+
+Pulsipher Games – “Glossary for Game Designers” (PDF). Board-and-digital design lexicon. 
+pulsiphergames.com
+
+Autodesk AREA – “Games Dev Glossary.” Tool-chain and 3-D-pipeline terminology. 
+area.autodesk.com
+
+Stanislav Stankovic (Medium) – “Game Development Glossary.” Indie-dev perspective on buzzwords & mechanics. 
+Medium
+
+PlayStation – “Ultimate Gaming Glossary.” Player-facing but studio-authored list of core slang. 
+PlayStation
+
+Wikipedia – “Role-Playing Game Terms.” Table-top & digital RPG mechanics and culture. 
+Wikipedia
+
+CodeWizardsHQ – “Kids Guide to 200+ Programming Terms.” Junior-dev friendly coding lexicon useful for gameplay logic. 
+CodeWizardsHQ
+
+Wikipedia – “Category: Video Game Terminology.” Meta-index linking to dozens of specialized glossary pages. 
+Wikipedia
+
+📖 Written-Storytelling Glossaries (10)
+
+Wikipedia – “Glossary of Literary Terms.” Broad coverage of rhetoric, poetry, and narrative devices. 
+Wikipedia
+
+Helping Writers Become Authors – “Ultimate Writing Glossary.” Methodology-driven list keyed to structure & character arcs. 
+Helping Writers Become Authors
+
+Open Book Publishers – “Glossary of Narrative Terms.” Scholarly table for narratology research. 
+books.openbookpublishers.com
+
+Scribendi – “Fiction Writing Glossary.” Practitioner-oriented definitions for prose craft. 
+Scribendi
+
+LiteraryTerms.net – “Glossary of Literary Terms.” Interactive dictionary with quizzes and examples. 
+Literary Terms
+
+Wikipedia – “List of Narrative Techniques.” Enumerated plot-device tactics with definitions. 
+Wikipedia
+
+Okanagan College – “Glossary of Common Literary Terms” (PDF). Classroom primer for critical analysis. 
+Okanagan College
+
+Story Science – “Glossary of Story Terms.” Blog-style reference mapping screenplay & novel concepts. 
+Story Science
+
+Narrative Mindworks – “Glossary of Terms.” Community glossary focused on narrative practice & therapy. 
+Narrative Mindworks
+
+SparkNotes – “Glossary of Literary Terms.” Student-friendly quick reference for major devices. 
+SparkNotes
+
+These glossaries collectively capture the language you’ll encounter—from Hollywood sets to AAA studios to writers’ rooms—so your team can speak the same dialect no matter which storytelling framework you’re wrangling.
+--------------------------------------
+User:
+
+
+Give me a plain-text list of only the web addresses within code-fences.
+--------------------------------------
+ChatGPT:
+
+
+less
+Copy code
+https://www.studiobinder.com/blog/movie-film-terms/
+https://www.masterclass.com/articles/film-terms-guide
+https://www.filmsite.org/filmterms.html
+https://www.westga.edu/academics/university-college/writing/glossary_of_film_terms.php
+https://cdn.film.ca.gov/wp-content/uploads/2020/10/film-industry-terminology.pdf
+https://userhome.brooklyn.cuny.edu/anthro/jbeatty/COURSES/glossary.htm
+https://octaneseating.com/blog/glossary-of-film/
+https://www.indeed.com/career-advice/career-development/film-terms
+https://en.wikipedia.org/wiki/Glossary_of_motion_picture_terms
+https://en.wikipedia.org/wiki/Cinematic_techniques
+https://machinations.io/glossary
+https://en.wikipedia.org/wiki/Glossary_of_video_game_terms
+https://www.gameindustrycareerguide.com/video-game-development-terms-glossary/
+https://pulsiphergames.com/glossaryforgamedesigners.pdf
+https://area.autodesk.com/life-in-3d/games-dev-glossary
+https://stanislav-stankovic.medium.com/game-development-glossary-b06ff510699a
+https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/
+https://en.wikipedia.org/wiki/Glossary_of_role-playing_game_terms
+https://codewizards.io/game-development-glossary/
+https://en.wikipedia.org/wiki/Category:Video_game_terminology
+https://en.wikipedia.org/wiki/Glossary_of_literary_terms
+https://www.helpingwritersbecomeauthors.com/ultimate-glossary-of-writing-terms/
+https://books.openbookpublishers.com/10.11647/obp.0187/tables.xhtml
+https://www.scribendi.com/academy/articles/fiction_writing_glossary.en.html
+https://literaryterms.net/glossary-of-literary-terms/
+https://en.wikipedia.org/wiki/List_of_narrative_techniques
+https://www.okanagan.bc.ca/sites/default/files/2020-03/literary_terms.pdf
+https://storysci.com/story-science/glossary-of-story-terms/
+https://narrativemindworks.org/resources/glossary-terms
+https://www.sparknotes.com/writinghelp/glossary-of-literary-terms/
+
+
+StudioBinder
+MasterClass
+Filmsite
+University of West Georgia
+Octane Seating
+cdn.film.ca.gov
+static.brooklyn.edu
+machinations.io
+Wikipedia
+Code Wizards
+Medium
+area.autodesk.com
+Indeed
+Narrative Mindworks
+Scribendi
+Literary Terms
+SparkNotes
+Story Science
+okanagan.bc.ca
+books.openbookpublishers.com
+--------------------------------------

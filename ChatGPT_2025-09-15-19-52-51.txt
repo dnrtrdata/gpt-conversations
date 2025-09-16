@@ -1,0 +1,38 @@
+--------------------------------------
+User:
+
+
+I'm trying to factory reset a cricket prepaid android phone.
+--------------------------------------
+ChatGPT:
+
+
+vbnet
+Copy code
+I. Soft Reset via Settings (if phone is operational):
+   1. Open Settings.
+   2. Navigate to System > Reset options.
+   3. Tap 'Erase all data (factory reset)'.
+   4. Confirm and enter your PIN/password if prompted.
+   5. Tap 'Erase all data' again to initiate the reset.
+
+II. Hard Reset via Recovery Mode (if phone is unresponsive or locked):
+   1. Power off the device.
+   2. Press and hold the appropriate button combination for your device model:
+      - Common combinations include:
+        a. Volume Up + Power
+        b. Volume Down + Power
+        c. Volume Up + Home + Power
+        d. Volume Down + Home + Power
+   3. Release buttons when the device logo appears.
+   4. Use volume buttons to navigate to 'Wipe data/factory reset'.
+   5. Press the Power button to select.
+   6. Confirm by selecting 'Yes' and press Power to initiate the reset.
+   7. After completion, select 'Reboot system now'.
+
+III. Additional Notes:
+   - Ensure the device is charged above 50% before initiating a reset.
+   - Removing the SIM and SD cards before resetting is recommended to prevent data loss.
+   - If the device is linked to a Google account, ensure you have the credentials to avoid Factory Reset Protection (FRP) lock.
+
+--------------------------------------

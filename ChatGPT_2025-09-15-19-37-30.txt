@@ -1,0 +1,40 @@
+--------------------------------------
+User:
+
+
+How many infinite-runner games are available on Steam?
+--------------------------------------
+ChatGPT:
+
+
+It appears that there are no games explicitly categorized as "infinite runner" in the provided Steam dataset. It's possible that infinite runner games are categorized under a broader or different genre, or the specific labeling may not be present. Would you like to search for games with similar mechanics under different terms? 
+--------------------------------------
+User:
+
+
+What is genre is Alto’s Odyssey classified as?
+--------------------------------------
+ChatGPT:
+
+
+It seems that "Alto's Odyssey" is not present in the provided Steam dataset. This could be because the game might not be available on Steam or may be categorized under a different name. Would you like to explore similar games or genres? 
+--------------------------------------
+User:
+
+
+Are there any games that move left-to-right or are constantly forward-scrolling infinitely?
+--------------------------------------
+ChatGPT:
+
+
+In the Steam dataset, games that move left-to-right or feature constant forward-scrolling (often found in genres like platformers, endless runners, or action games) might not be explicitly labeled as such. However, genres such as "platformer," "action," or "endless" could include games with these mechanics.
+
+I'll search for games under these broader categories, particularly focusing on platformers or games with "endless" or "runner" in their description. Let's see if there are any matches.
+--------------------------------------
+ChatGPT:
+
+
+I found several games under broad genres like "Action," "Platform," and "Endless," but none of these explicitly indicate the specific left-to-right movement or infinite scrolling characteristic you're looking for.
+
+Some popular genres like "Action" or "Platform" might include those mechanics, but they aren't always clearly defined in the genre labels. Would you like to explore more specific titles or narrow down the search by other keywords? 
+--------------------------------------

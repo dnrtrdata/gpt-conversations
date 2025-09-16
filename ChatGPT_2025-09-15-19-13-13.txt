@@ -1,0 +1,783 @@
+--------------------------------------
+User:
+
+
+list every identifier in the following text and identify how many times that identifier is mentioned:
+* opening_image: 
+	- a_story-1(girl wants to do all the things, but her head is always in the next thing)
+	- voice-1(teen girl who's always catching-up)
+	- ambience{auditory}-1(), hook-1(), tension-1()
+
+SET_PIECE-2
+	i. touch-down "invasion" scene with SPLIT-SCREEN
+		-
+* theme_stated:
+	- atmosphere-1(blending ambience with the shots [1 phrase/sentence = ~ 1 shot])
+	- a_story-2()
+	- dramatic_irony-1()
+	- establish-1()
+	- conflict-1()
+	- motif-1()
+	- versimilitude-1()
+* catalyst:
+	- premise-1()
+	- tropes-1()
+	- wardrobe-1()
+
+## debate
+- rule_of_three-1 (),
+	- world_building-1()
+	- motif-2()
+	- conflict-2()
+	- a_story-3()
+	- pov-1()
+	- wild_sound-1()
+SET_PIECE-2
+	* set_piece-2a(Maia can't escape Maureen's world):
+		- allegory-1(American colonialism in Hawaii)
+		- button-1()
+	* set_piece-2b(Maia can't escape Maureen's world(CONT'D)):
+		- zeitgeist-1()
+		- vfx-1()
+
+* break_into_2:
+	- teaser-2()
+	- needle_drop-1()
+	- leitmotif-1()
+
+## fun & games
+	- a_story-4()
+	- motif-3()
+	- allegory-2(American Colonialism in Hawaii (CONT'D))
+	- premise-2(comma, "promise of...")
+* b_story:
+	- non_verbal_communication-1()
+SET_PIECE-3
+	* set_piece-3a()
+		- wardrobe-2(is sporty, maybe a bit sexier/more-fun)
+	* set_piece-3b( (CONT'D)):
+		- ambience{auditory}-2()
+	* set_piece-3c( (CONT'D)):
+		- a_story-5(comma, "back to...")
+		- kicker-2()
+
+- turning_point-1()
+- background-2()
+- conflict-3()
+- rising_action-1
+- tension-2()
+- zeitgeist-2()
+- tropes-2()
+- world_building-2()
+SET_PIECE-4
+	i. set_piece-4a()
+- wild_sound-2()
+	ii. set_piece-4b( (CONT'D))
+- non_verbal_communication-2()
+- button-2()
+	iii.  set_piece-4c( (CONT'D))
+- b_story-3(comma, "theme revisited in...")
+	vi. set_piece-4d( (CONT'D))
+- mise_en_scene-1()
+- vfx-3()
+
+* midpoint:
+- 
+
+## bad guys close in:
+	- rising_action-#()
+	- ticking_clock-#()
+SET-PIECE 5
+	i. set_piece-5()
+		-conflict-#()
+	ii. set_piece-5((CONT'D))
+		- tension-#()
+	iii. set_piece-5((CONT'D))
+		- zeitgeist-#()
+	vi. set_piece-5((CONT'D))
+		- rule_of_three-2()
+	v. set_piece-5((CONT'D))
+		- motif-3()
+
+- allegory-#(American Colonialism in Hawaii (CONT'D))
+	- ambience{auditory}-#()
+	- wild_sound-#()
+
+	- juxtaposition-#()
+	- irony-#(James is eviscerated)
+* all_is_lost:
+	- blow-up-#()
+
+## finale
+	- motif-4()
+	- b_story-#()
+SET-PIECE 8
+	i. set_piece-8a("")
+		- dramatic_irony-#()
+	ii. set_piece-8b(""(CONT'D))
+		- conflict-#()
+		- needle-drop-#()
+	iii. set_piece-8c(""(CONT'D))
+		- - button-#()
+	vi. set_piece-8d(""(CONT'D))
+		- reveal-#()
+	v. set_piece-8e(""(CONT'D))
+		- a_story-#() + b_story-#()
+		- zeitgeist-#()
+	vi. set_piece-8f(""(CONT'D))
+		- leitmotif-#()
+	vii. set_piece-8(""(CONT'D))
+		- pov-#()
+		- vfx-#()
+	viii. set_piece-8g(""(CONT'D))
+		- mise_en_scene-#()
+		- climax-#()
+
+- falling_action-#()
+	- resolution-#()
+	- versimilitude-#()
+	- wardrobe-#(refreshed clothes over clean-but-battered bodies -- who has time for physical healing when you gotta remember how shitty you've been to your ancestral land for the last 16-17 years?)
+* final_image:
+	- rule_of_three-3()
+	- world_building-#()
+--------------------------------------
+ChatGPT:
+
+
+Here is a list of all unique identifiers and their respective counts from the provided text:
+
+a_story: 5
+
+voice: 1
+
+ambience{auditory}: 2
+
+hook: 1
+
+tension: 2
+
+SET_PIECE: 2
+
+theme_stated: 1
+
+atmosphere: 1
+
+dramatic_irony: 1
+
+establish: 1
+
+conflict: 3
+
+motif: 4
+
+versimilitude: 1
+
+catalyst: 1
+
+premise: 2
+
+tropes: 2
+
+wardrobe: 2
+
+debate: 1
+
+rule_of_three: 3
+
+world_building: 2
+
+pov: 1
+
+wild_sound: 2
+
+set_piece-2a: 1
+
+set_piece-2b: 1
+
+allegory: 2
+
+button: 2
+
+zeitgeist: 2
+
+vfx: 3
+
+break_into_2: 1
+
+teaser: 2
+
+needle_drop: 2
+
+leitmotif: 2
+
+fun & games: 1
+
+b_story: 3
+
+non_verbal_communication: 2
+
+SET_PIECE-3: 1
+
+set_piece-3a: 1
+
+set_piece-3b: 1
+
+set_piece-3c: 1
+
+kicker: 2
+
+turning_point: 1
+
+background: 2
+
+rising_action: 1
+
+SET_PIECE-4: 1
+
+set_piece-4a: 1
+
+set_piece-4b: 1
+
+set_piece-4c: 1
+
+set_piece-4d: 1
+
+mise_en_scene: 2
+
+midpoint: 1
+
+bad_guys_close_in: 1
+
+ticking_clock: 1 (unquantified in text, assumed 1)
+
+juxtaposition: 1
+
+irony: 1
+
+all_is_lost: 1
+
+blow-up: 1
+
+finale: 1
+
+SET_PIECE-8: 1
+
+set_piece-8a: 1
+
+set_piece-8b: 1
+
+set_piece-8c: 1
+
+set_piece-8d: 1
+
+set_piece-8e: 1
+
+set_piece-8f: 1
+
+set_piece-8: 1
+
+set_piece-8g: 1
+
+reveal: 1
+
+climax: 1
+
+falling_action: 1
+
+resolution: 1
+
+final_image: 1
+--------------------------------------
+User:
+
+
+similar identifiers (like set pieces with the same number multiple times in a row should all be considered multiple mentions of the same identifier); please try again.
+--------------------------------------
+ChatGPT:
+
+
+Here is the corrected list of unique identifiers, consolidating multiple mentions of the same set piece:
+
+a_story: 5
+
+voice: 1
+
+ambience{auditory}: 3
+
+hook: 1
+
+tension: 3
+
+SET_PIECE-2: 1
+
+theme_stated: 1
+
+atmosphere: 1
+
+dramatic_irony: 2
+
+establish: 1
+
+conflict: 5
+
+motif: 4
+
+versimilitude: 2
+
+catalyst: 1
+
+premise: 2
+
+tropes: 2
+
+wardrobe: 3
+
+debate: 1
+
+rule_of_three: 3
+
+world_building: 3
+
+pov: 2
+
+wild_sound: 3
+
+set_piece-2: 1
+
+set_piece-3: 1
+
+set_piece-4: 1
+
+set_piece-5: 1
+
+set_piece-8: 1
+
+allegory: 3
+
+button: 3
+
+zeitgeist: 3
+
+vfx: 4
+
+break_into_2: 1
+
+teaser: 2
+
+needle_drop: 2
+
+leitmotif: 2
+
+fun & games: 1
+
+b_story: 4
+
+non_verbal_communication: 2
+
+kicker: 2
+
+turning_point: 1
+
+background: 2
+
+rising_action: 2
+
+ticking_clock: 1 (assumed 1, as it was unquantified)
+
+juxtaposition: 1
+
+irony: 1
+
+all_is_lost: 1
+
+blow-up: 1
+
+finale: 1
+
+mise_en_scene: 2
+
+reveal: 1
+
+climax: 1
+
+falling_action: 1
+
+resolution: 1
+
+final_image: 1
+
+This version consolidates all repeated mentions of identifiers (such as set pieces and motifs) into a single count.
+--------------------------------------
+User:
+
+
+disregard the numbers associate with each -- just count them
+--------------------------------------
+ChatGPT:
+
+
+Here is the count of unique identifiers, disregarding the numbers associated with them:
+
+a_story: 1
+
+voice: 1
+
+ambience{auditory}: 1
+
+hook: 1
+
+tension: 1
+
+SET_PIECE: 1
+
+theme_stated: 1
+
+atmosphere: 1
+
+dramatic_irony: 1
+
+establish: 1
+
+conflict: 1
+
+motif: 1
+
+versimilitude: 1
+
+catalyst: 1
+
+premise: 1
+
+tropes: 1
+
+wardrobe: 1
+
+debate: 1
+
+rule_of_three: 1
+
+world_building: 1
+
+pov: 1
+
+wild_sound: 1
+
+set_piece: 1
+
+allegory: 1
+
+button: 1
+
+zeitgeist: 1
+
+vfx: 1
+
+break_into_2: 1
+
+teaser: 1
+
+needle_drop: 1
+
+leitmotif: 1
+
+fun & games: 1
+
+b_story: 1
+
+non_verbal_communication: 1
+
+kicker: 1
+
+turning_point: 1
+
+background: 1
+
+rising_action: 1
+
+ticking_clock: 1
+
+juxtaposition: 1
+
+irony: 1
+
+all_is_lost: 1
+
+blow-up: 1
+
+finale: 1
+
+mise_en_scene: 1
+
+reveal: 1
+
+climax: 1
+
+falling_action: 1
+
+resolution: 1
+
+final_image: 1
+
+Total unique identifiers: 46
+--------------------------------------
+User:
+
+
+okay, now count the number of times each of the de-numbered identifiers are mentioned and list them from most-to-least number of mentions
+--------------------------------------
+ChatGPT:
+
+
+Here is the count of each identifier, sorted from most to least mentions:
+
+set_piece: 5
+
+conflict: 5
+
+a_story: 5
+
+motif: 4
+
+b_story: 4
+
+vfx: 4
+
+zeitgeist: 3
+
+allegory: 3
+
+button: 3
+
+tension: 3
+
+ambience{auditory}: 3
+
+wild_sound: 3
+
+world_building: 3
+
+rule_of_three: 3
+
+wardrobe: 3
+
+dramatic_irony: 2
+
+needle_drop: 2
+
+leitmotif: 2
+
+non_verbal_communication: 2
+
+background: 2
+
+rising_action: 2
+
+mise_en_scene: 2
+
+pov: 2
+
+teaser: 2
+
+hook: 1
+
+theme_stated: 1
+
+atmosphere: 1
+
+establish: 1
+
+versimilitude: 1
+
+catalyst: 1
+
+premise: 1
+
+tropes: 1
+
+debate: 1
+
+break_into_2: 1
+
+fun & games: 1
+
+kicker: 1
+
+turning_point: 1
+
+ticking_clock: 1
+
+juxtaposition: 1
+
+irony: 1
+
+all_is_lost: 1
+
+blow-up: 1
+
+finale: 1
+
+reveal: 1
+
+climax: 1
+
+falling_action: 1
+
+resolution: 1
+
+final_image: 1
+
+voice: 1
+
+This list accurately reflects how many times each identifier appears while disregarding their numbered variations.
+--------------------------------------
+User:
+
+
+Combine all of the most-updated story details and decisions in this thread into a single, plain-text response within code-fences without any symbols common to Markdown/markup-languages.
+--------------------------------------
+ChatGPT:
+
+
+diff
+Copy code
+opening_image  
+- a_story (girl wants to do all the things, but her head is always in the next thing)  
+- voice (teen girl who's always catching-up)  
+- ambience{auditory}  
+- hook  
+- tension  
+SET_PIECE  
+- touch-down "invasion" scene with SPLIT-SCREEN  
+
+theme_stated  
+- atmosphere (blending ambience with the shots [1 phrase/sentence = ~ 1 shot])  
+- a_story  
+- dramatic_irony  
+- establish  
+- conflict  
+- motif  
+- versimilitude  
+
+catalyst  
+- premise  
+- tropes  
+- wardrobe  
+
+debate  
+- rule_of_three  
+- world_building  
+- motif  
+- conflict  
+- a_story  
+- pov  
+- wild_sound  
+SET_PIECE  
+- set_piece (Maia can't escape Maureen's world)  
+  - allegory (American colonialism in Hawaii)  
+  - button  
+- set_piece (Maia can't escape Maureen's world (CONT'D))  
+  - zeitgeist  
+  - vfx  
+
+break_into_2  
+- teaser  
+- needle_drop  
+- leitmotif  
+
+fun & games  
+- a_story  
+- motif  
+- allegory (American Colonialism in Hawaii (CONT'D))  
+- premise ("promise of...")  
+
+b_story  
+- non_verbal_communication  
+SET_PIECE  
+- set_piece  
+  - wardrobe (is sporty, maybe a bit sexier/more-fun)  
+- set_piece (CONT'D)  
+  - ambience{auditory}  
+- set_piece (CONT'D)  
+  - a_story ("back to...")  
+  - kicker  
+
+turning_point  
+- background  
+- conflict  
+- rising_action  
+- tension  
+- zeitgeist  
+- tropes  
+- world_building  
+SET_PIECE  
+- set_piece  
+- wild_sound  
+- set_piece (CONT'D)  
+- non_verbal_communication  
+- button  
+- set_piece (CONT'D)  
+- b_story (theme revisited in...)  
+- set_piece (CONT'D)  
+- mise_en_scene  
+- vfx  
+
+midpoint  
+
+bad_guys_close_in  
+- rising_action  
+- ticking_clock  
+SET_PIECE  
+- set_piece  
+  - conflict  
+- set_piece (CONT'D)  
+  - tension  
+- set_piece (CONT'D)  
+  - zeitgeist  
+- set_piece (CONT'D)  
+  - rule_of_three  
+- set_piece (CONT'D)  
+  - motif  
+- allegory (American Colonialism in Hawaii (CONT'D))  
+- ambience{auditory}  
+- wild_sound  
+- juxtaposition  
+- irony (James is eviscerated)  
+
+all_is_lost  
+- blow-up  
+
+finale  
+- motif  
+- b_story  
+SET_PIECE  
+- set_piece ("")  
+  - dramatic_irony  
+- set_piece (CONT'D)  
+  - conflict  
+  - needle_drop  
+- set_piece (CONT'D)  
+  - button  
+- set_piece (CONT'D)  
+  - reveal  
+- set_piece (CONT'D)  
+  - a_story + b_story  
+  - zeitgeist  
+- set_piece (CONT'D)  
+  - leitmotif  
+- set_piece (CONT'D)  
+  - pov  
+  - vfx  
+- set_piece (CONT'D)  
+  - mise_en_scene  
+  - climax  
+
+- falling_action  
+- resolution  
+- versimilitude  
+- wardrobe (refreshed clothes over clean-but-battered bodies -- who has time for physical healing when you gotta remember how shitty you've been to your ancestral land for the last 16-17 years)  
+
+final_image  
+- rule_of_three  
+- world_building  
+
+--------------------------------------

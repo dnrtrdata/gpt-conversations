@@ -1,0 +1,1169 @@
+--------------------------------------
+User:
+
+
+Find as many precise, rigorous, and absolutely clear game mechanics for each respective game listed in the following text. As much as possible, I'd like you to try to find/define every single intended mechanic to the point where we don't miss a single mechanic for each separate respective games -- be a completionist on the highest level you are capable of. Also, respond exclusively in plain-text within code fences without symbols used in Markdown/markup-lqnguagea.
+
+Here's the source text with the games:
+
+Many great horror games feature a linear, character-driven story that emphasizes atmosphere and tension over non-linear exploration. Here are some of the best titles in this category. 
+Psychological horror
+	•	Silent Hill 2: Widely regarded as a masterpiece of psychological horror, this game follows a widower who receives a mysterious letter from his deceased wife, leading him to the foggy town of Silent Hill. The story is a deep, character-driven exploration of guilt, loss, and trauma.
+	•	SOMA: From the creators of Amnesia: The Dark Descent, this sci-fi horror game places you in an underwater research facility with no memory of how you arrived. The story is a deeply unsettling and linear experience, raising profound questions about consciousness and identity.
+	•	Layers of Fear: You play as a tormented painter exploring a constantly shifting Victorian mansion to create your magnum opus. The game's story unravels slowly through environmental storytelling, with the house itself changing to reflect the protagonist's descent into madness.
+	•	Alan Wake series: This action-thriller series follows a writer battling a supernatural darkness that has brought his horror story to life. Both the original and its sequel are praised for their strong, linear narrative inspired by TV shows and Stephen King novels. 
+Cinematic and choice-based horror
+	•	Until Dawn: In this interactive drama, a group of friends is trapped in a remote mountain lodge and hunted by a killer. Your choices and quick-time events directly impact the fate of the characters, creating a linear but personalized story with a high-stakes, cinematic feel.
+	•	The Quarry: Another interactive horror experience from the creators of Until Dawn, this game follows teenage camp counselors on their last night at Hackett's Quarry. Your decisions alter the plot and lead to various outcomes, involving a cast of well-developed characters.
+	•	The Last of Us series: Set in a post-pandemic America, this franchise follows hardened survivors Joel and Ellie. The games are renowned for their emotional, linear storytelling and memorable character dynamics. 
+Survival horror
+	•	Resident Evil 7: Biohazard: A return to the series' survival horror roots, this entry puts players in the shoes of a man searching for his missing wife at a dilapidated plantation. The first-person perspective and terrifying Baker family make for a tense and memorable character-driven journey.
+	•	Dead Space (remake or original): As engineer Isaac Clarke, you investigate a distress signal from a mining ship, only to find it infested with grotesque alien creatures. The game is a masterclass in linear, story-driven terror, maintaining constant tension from start to finish.
+	•	Alien: Isolation: Playing as Amanda Ripley, you must survive a claustrophobic space station while being relentlessly hunted by a single, intelligent Xenomorph. The game's linear progression is defined by your struggle to outwit an unpredictable AI, making it a highly personal and terrifying ordeal.
+	•	Amnesia: The Dark Descent: You awaken in a deserted castle with no memory, holding only a letter you wrote to yourself. With no means to fight back, your only option is to run and hide from the monstrosities within. The story slowly unravels as you piece together the mystery of your past. 
+Unique and indie adventures
+	•	Visage: Inspired by the infamous P.T. demo, this game has you explore a haunted house where malevolent presences reflect the home's tragic history. The game is divided into chapters, each focusing on a specific entity and character backstory.
+	•	Little Nightmares series: This 2.5D puzzle-platformer follows a young girl named Six in a nightmarish, side-scrolling world. The games use environmental storytelling and character-specific gameplay to convey a sense of dread and vulnerability.
+	•	Stasis: Bone Totem: A linear, point-and-click horror adventure set on an abandoned oil rig. The game's narrative-focused experience is filled with rich lore and character development as you uncover a dark secret
+
+--------------------------------------
+ChatGPT:
+
+
+To ensure I capture every single intended mechanic with maximum precision, could you please confirm the following:
+
+Are you interested only in core gameplay mechanics (e.g. movement, combat, puzzles, stealth), or should I also include narrative delivery mechanics (e.g. environmental storytelling, dialogue systems, chapter structures)?
+
+Should I cover mechanics across all platforms (PC, console versions, VR where applicable)?
+
+Are you looking for differences in mechanics between original and remade versions of games like Dead Space or Resident Evil 7?
+
+Is your goal to gather mechanics for design study purposes, modding, or some other use?
+
+Let me know so I can proceed with a comprehensive research task.
+--------------------------------------
+User:
+
+
+1. All of the above, but make your response a hierarchical list while structuring the list using core mechanics to create clear sections (level 1); then sort all other mechanics should be nested under their respective core-mechanics-based-sections (level 2. All except VR.
+3. I'm not comparing any remakes to their originals; if there's any question about what version to use, use the remake.
+4. I'm going to used the gathered mechanics with the intent of translating them into solutions I can reference for options to overcome story problem obstacles and accomplish narrative goals in a screenplay I'm writing (so the way game mechanics allow for diverse choice of solutions that a player can use to overcome challenging levels/bosses/etc., I will be using them to achieve a diverse pallet of choices to solve every conceivable story problem, overcome obstacles in the narrative, and allow characters to choose paths that fit them via translated mechanic -- I'm not asking you to implement anything to translate/apply game mechanics to screenwriting mechanics, that's in a future step; I just want the largest quantity of game mechanics possible).
+--------------------------------------
+ChatGPT:
+
+
+Great. I will compile the most precise and exhaustive list of game mechanics for each title mentioned, organized hierarchically by core mechanic categories. These will include all relevant gameplay, system, and narrative mechanics (excluding VR-only features), using the most definitive version of each game (e.g., remakes when applicable). I’ll structure the output as a hierarchical list with top-level groupings by core mechanics and all other mechanics nested appropriately.
+
+I’ll let you know once everything is ready for your review.
+--------------------------------------
+ChatGPT:
+
+
+java
+Copy code
+- Exploration & Environmental Interaction:
+    - **Silent Hill 2:** Players navigate the fog-shrouded town in third-person, exploring eerie streets and buildings while solving environmental obstacles. A dense fog limits visibility and creates tension during exploration:contentReference[oaicite:0]{index=0}. The level design is linear but encourages thorough searching for keys, clues, and supplies in the desolate town.
+    - **SOMA:** A first-person exploration of an underwater research facility where interaction with the environment is highly physical. Players can grab, rotate, and drag objects (using Frictional’s HPL engine physics) to solve problems:contentReference[oaicite:1]{index=1}. There are no cut-scenes – the game maintains immersion by keeping all narrative events interactive, requiring the player to explore terminals and logs in real-time.
+    - **Layers of Fear:** Emphasizes exploration of a constantly changing Victorian mansion. The first-person perspective and “impossible” house layout are key mechanics – rooms transform behind the player, so no door leads to the same place twice:contentReference[oaicite:2]{index=2}. Progression is linear but unpredictable; the player finds notes and mementos that gradually reveal story as the environment itself shifts to reflect the painter-protagonist’s madness.
+    - **Alan Wake (series):** A third-person action-adventure with guided exploration through spooky forests, town streets, and other locales in a linear chapter-based structure. The game occasionally allows driving vehicles to traverse areas:contentReference[oaicite:3]{index=3}:contentReference[oaicite:4]{index=4}, but generally it funnels the player along set paths. Exploration is rewarded by collectible manuscript pages and supply caches, enhancing story and providing ammunition or batteries.
+    - **Until Dawn / The Quarry:** These cinematic games have limited free-roaming; exploration is constrained to setpiece areas between story beats. Players can walk characters around small environments to find clues or tools, but there’s no open-world traversal. The focus is on atmosphere and discovery of clues that may inform decisions, rather than on extensive navigation.
+    - **The Last of Us (series):** A linear third-person adventure with semi-open segments that encourage exploration for supplies. Levels often feature branching paths or optional rooms where players scavenge for ammo, crafting materials, and story collectibles. Light environmental platforming/puzzle elements (placing ladders, moving dumpsters, rafting pallets) are integrated into exploration:contentReference[oaicite:5]{index=5}, requiring the player to navigate ruined buildings and terrain realistically.
+    - **Resident Evil 7: Biohazard:** Exploration follows a semi-open, metroidvania-like design within the Baker family estate. Players backtrack through the plantation house and surrounding areas as new keys and tools unlock previously inaccessible rooms:contentReference[oaicite:6]{index=6}. Tension is enhanced by needing to manually check corners and open doors; a map tracks explored areas. Some segments require hiding or running within the environment (especially early on) to avoid a stalking enemy.
+    - **Dead Space (remake):** The game is set on the interlinked decks of the USG Ishimura spacecraft. It encourages backtracking – a tram system lets the player revisit earlier sections once new security clearances are obtained:contentReference[oaicite:7]{index=7}:contentReference[oaicite:8]{index=8}. Zero-gravity traversal is a core exploration mechanic: in the remake, players have full 360° movement in zero-G sections, using a suit thruster to float and maneuver through space:contentReference[oaicite:9]{index=9}. Vacuum areas introduce a timer (oxygen supply) that forces quick navigation.
+    - **Alien: Isolation:** A first-person exploration of the Sevastopol station, which is a large semi-open environment divided into sections connected by trams and elevators. Many areas start locked and require obtaining keycards, hacking devices, or cutting tools to access:contentReference[oaicite:10]{index=10}. Ventilation shafts provide alternate routes. The game does not hold the player on rails – backtracking and free exploration are often needed to find supplies or avoid the Alien, with only save stations to mark progress.
+    - **Amnesia: The Dark Descent:** Players explore a sprawling gothic castle in first-person, solving puzzles to progress through its halls. Much of the game involves searching for items (keys, chemicals, tools) in dark rooms and managing sources of light. There is no map, so the player must orient themselves and revisit areas as needed; unsettling events and auditory cues in the environment guide the player toward objectives.
+    - **Visage:** The game takes place in a large, labyrinthine house that serves as a semi-open hub. Initially many rooms are accessible, but progress requires finding keys or triggering events to unlock new areas:contentReference[oaicite:11]{index=11}. Chapters can be started in any order by interacting with certain items, meaning exploration and revisiting central areas of the house is necessary. The house is full of interactive objects; light switches, doors, and cupboards can be operated, though ghosts may manipulate them as well:contentReference[oaicite:12]{index=12}.
+    - **Little Nightmares (series):** A 2.5D side-scrolling puzzle-platformer, where navigation involves climbing furniture, crawling through vents, and timing jumps. The environment is linear (each chapter is a sequence of rooms), but players must thoroughly explore each scene for hidden pathways or objects to progress. Vertical movement (like swinging on hooks or shimmying up cables) is often needed to navigate the giant, surreal surroundings.
+    - **Stasis: Bone Totem:** An isometric point-and-click adventure, focusing on thorough investigation of the environment. The game’s scenes are pre-rendered and players move the characters around to find items and clues. Multiple characters may be in different locations simultaneously, so exploration can involve switching between them to inspect different areas. There is no direct control of the camera, but every screen is packed with interactive details that reward careful observation.
+
+- Puzzle-Solving & Interaction:
+    - **Silent Hill 2:** Puzzle-solving is a core element. The game presents intricate riddles and combination puzzles (for example, solving clock puzzles or deciphering poems to open locks) that tie into its narrative:contentReference[oaicite:13]{index=13}. Puzzle difficulty can even be set independently from combat difficulty. Most puzzles require examining clues from notes or environmental hints to unlock doors and progress.
+    - **SOMA:** Features a variety of logical and environmental puzzles integrated into the sci-fi setting. Players might need to reroute power, unlock computer terminals with keycodes, or figure out machinery (like lifting lockdowns or adjusting life support systems). Many puzzles are physics-based – e.g. finding objects to weigh down a lever or plugging in connectors – taking advantage of the game’s interactive environment. These challenges are kept fairly intuitive to keep the story moving.
+    - **Layers of Fear:** While primarily a narrative exploration, it contains occasional puzzles (such as finding a code for a safe or arranging items to trigger a memory). These are usually solved via clues hidden in paintings, notes or the environment. The most prominent “puzzle” is navigating the ever-changing house itself – observation is needed to notice new passages or subtle changes that allow progress. Overall the puzzles are light, serving to enhance storytelling rather than stump the player:contentReference[oaicite:14]{index=14}.
+    - **Alan Wake:** Traditional puzzles are minimal; progression is straightforward. Instead, interaction challenges come from things like starting generators via quick-time events (timed button presses) to restore lights, or finding hidden supply caches using clues from collectible manuscript pages. Environmental obstacles (e.g. using searchlights to burn down darkness barriers, or moving logs with machinery) occasionally act as simple puzzles, but they are usually easy to overcome to keep pacing brisk.
+    - **Until Dawn / The Quarry:** These games forego typical puzzles in favor of decision-making and quick reactions. The closest equivalents to puzzles are finding clue items that can inform later choices, or small interactive tasks (like manually unlocking a phone or deducing a safe code from context) which are rare. The emphasis is on narrative “puzzles” – piecing together the story from clues – rather than mechanical brainteasers.
+    - **The Last of Us (series):** Incorporates environmental puzzles organically into level design. Players must figure out traversal obstacles, for example moving ladders or dumpsters to climb, finding a plank to bridge gaps, or using ropes and floating palettes to bypass water with a non-swimmer companion:contentReference[oaicite:15]{index=15}. These puzzles are usually realistic in context and often involve the AI companion (boosting Ellie up to drop a ladder, etc.). In Part II, there are new interactive puzzles like breaking glass to access areas or finding combination codes for safes by examining nearby clues.
+    - **Resident Evil 7:** True to Resident Evil tradition, it features numerous puzzles. Classic examples include finding oddly shaped keys or emblems to fit into doors, solving combination locks with clues, and the memorable shadow projector puzzles where you rotate items to cast a specific silhouette on the wall to unlock secret passages:contentReference[oaicite:16]{index=16}. Puzzle-solving is necessary to advance the plot and often requires careful observation of notes or the environment. None are overly complex, but they ratchet up tension as players solve them while vulnerable to threats.
+    - **Dead Space (remake):** Puzzles are often technology and engineering-based. Players might need to reroute power using circuit breaker panels – for instance, choosing to cut lights or oxygen to power an elevator (a choice that creates a puzzle-like risk/reward scenario):contentReference[oaicite:17]{index=17}. Zero-G puzzles appear, such as repairing equipment in weightlessness or aligning solar arrays outside the ship. Additionally, certain action set pieces function like puzzles (e.g. calibrating mining lasers or fixing the centrifuge) requiring timing and pattern observation amidst danger.
+    - **Alien: Isolation:** Offers hacking mini-games and rewiring puzzles. To open locked doors or access systems, the player completes simple mini-games (matching waveforms, inputting codes quickly, etc.). There are also “rewire” panels where you redistribute power in an area – for example, turning off air purification to power up lights or unlocking a door. These puzzles let the player manipulate the environment (shutting down alarms or sprinklers) and can be used strategically to aid stealth. Figuring out when and what to toggle adds a layer of problem-solving beyond hiding.
+    - **Amnesia: The Dark Descent:** Puzzles are integrated into the horror adventure, often involving item combination and physics. Examples include mixing chemicals in the correct order to dissolve obstacles, fixing machinery by finding cogs and oil, or assembling an elevator’s broken parts. Many puzzles force the player to explore dark, monster-infested areas for clues and tools. They are generally logical (if terrifying) tasks – completing them not only advances the game but also usually restores a bit of the character’s lost sanity as a reward:contentReference[oaicite:18]{index=18}.
+    - **Visage:** Progress requires solving subtle puzzles within the house. Each chapter contains unique challenges, such as finding fragments of an item and assembling them, interpreting cryptic signals (like radio frequencies or symbols) to open secret compartments, or navigating a looping, changing set of rooms by observing differences (a puzzle of perception). Light management itself can become a puzzle – for example, figuring out how to get power back on in a certain area or which lamp to fix with a new light bulb:contentReference[oaicite:19]{index=19}. The game provides sparse hints, expecting players to carefully inspect and deduce solutions from the environment.
+    - **Little Nightmares (series):** Every level is filled with interactive puzzles blended with platforming. Players might need to fetch a key from a high shelf by stacking crates, lure an enemy away by throwing a object, or solve pattern puzzles (like playing tunes on a piano in a certain order). Timing and physics often matter: in one scene you might rock a hanging cage to jump to a ledge, in another you quietly push open a door when the monster’s back is turned. These puzzles are usually trial-and-error, but checkpoints are forgiving. The mechanics are simple (grab, push, throw, climb), so the challenge comes from applying them cleverly under pressure.
+    - **Stasis: Bone Totem:** Puzzle-solving is the primary gameplay, done in classic point-and-click fashion. The game presents many inventory-based puzzles – collecting items and then combining them to MacGyver solutions (e.g. crafting tools or makeshift devices):contentReference[oaicite:20]{index=20}:contentReference[oaicite:21]{index=21}. Uniquely, the player controls three characters and can switch between them; each character has special abilities that factor into puzzles (Charlie can combine items to craft, Mac can break objects with brute force, and their companion Moses can interface with computers):contentReference[oaicite:22]{index=22}. Many puzzles require cooperation: for example, one character finds an item that another must use, which the game facilitates by allowing items to be “sent” between characters electronically:contentReference[oaicite:23]{index=23}. Expect to use careful observation and read data logs for clues – codes, safe combinations, and circuit schematics are hidden in the lore texts.
+
+- Stealth & Evasion:
+    - **Silent Hill 2:** While combat is possible, players can also choose to avoid many enemies. James isn’t especially agile, but running past or quietly skirting monsters is sometimes viable to conserve scarce ammo. There’s no dedicated stealth mechanic (enemies will attack if they see or hear you), yet the heavy fog and darkness effectively function as concealment at times – creatures might not notice the player until they are very close. Avoidance is a practical strategy, reinforcing James’s vulnerability.
+    - **SOMA:** There is **no combat** – stealth and evasion are the only options against creatures:contentReference[oaicite:24]{index=24}. Players must hide in the dark, crouch to reduce noise, and peek around corners to observe monster patrol patterns. Each enemy in SOMA has unique AI behaviors and audio/visual perception, requiring the player to adapt tactics (for example, one monster is blind but reacts to sound, another might linger if you look directly at it:contentReference[oaicite:25]{index=25}). Being caught doesn’t immediately kill the player in some cases; it often triggers a “fate worse than death” scenario where the world changes and the player re-emerges disoriented:contentReference[oaicite:26]{index=26}, giving another chance to flee. This dynamic keeps tension high without relying on constant death-retry loops.
+    - **Layers of Fear:** There are no enemies to hide from in this game – the horror comes from the environment itself. Thus, stealth isn’t a factor; the game instead creates tension through anticipation and the unknown. The player’s only evasive action is to look away or leave a room if a frightening apparition appears, but these are scripted events rather than AI hunts.
+    - **Alan Wake:** Stealth is not an option, as darkness actively pursues the protagonist in the form of “Taken” enemies. In most cases if enemies appear, Alan must fight or run to a lit area (safe haven). You cannot permanently evade the Taken by hiding – they will search and follow. However, players can sometimes sprint past enemies in the open forest to reach a goal instead of engaging every fight, making strategic retreats a form of evasion when low on resources.
+    - **Until Dawn / The Quarry:** These interactive horrors include occasional stealth-like sequences delivered via quick-time events. For example, during a chase you might get a prompt to **HIDE** instead of continuing to run. Succeeding triggers a mini-game where the player must hold the controller perfectly still (“Don’t Move” mechanic) to avoid detection:contentReference[oaicite:27]{index=27}. Failure means the enemy finds the character. These sequences simulate classic horror hide-and-seek moments, but they are scripted rather than free-form stealth. Choosing when to run or hide in certain scenes (sometimes a literal choice presented to the player) is crucial – hiding can save someone’s life or, if timed poorly, lead to death.
+    - **The Last of Us (series):** Stealth is a major gameplay pillar. Players are encouraged to crouch and sneak past or silently take down human and infected enemies:contentReference[oaicite:28]{index=28}. The game provides a **“Listen Mode”** (at default difficulty) that lets the player hear and locate enemies through walls, facilitating stealth planning. Thrown objects like bottles and bricks can be used to distract enemies:contentReference[oaicite:29]{index=29}, separating groups for easier silent kills or safe passage. Enemies have alert states – if they spot the player, they’ll investigate or attack, so line-of-sight and noise must be managed. Many encounters can be entirely bypassed or greatly simplified by staying hidden, which is often necessary given limited ammo. Advanced AI behaviors in Part II (enemies calling out to each other, guard dogs tracking scent trails) force the player to constantly keep moving and use cover effectively when stalking or hiding.
+    - **Resident Evil 7:** Though combat is the focus once weapons are obtained, there are key segments that rely on evasion. In the opening hours, the unarmed player must hide from Jack Baker as he patrols the house – ducking behind furniture or peeking through cracked doors to track Jack’s position until an opportunity to escape or find a weapon arises. Even later, some enemies (like the nearly invincible Jack in certain boss encounters) require temporary evasion within the environment. These stealth moments are limited and somewhat scripted, but they establish an early tone of helplessness. Once armed, players typically stand and fight, though it’s still wise to sometimes run from tougher creatures (like Molded) if low on ammo, since they won’t follow endlessly beyond certain areas.
+    - **Dead Space:** Stealth is not a designed option – Necromorphs are aggressive and attack as soon as they detect Isaac. There’s no mechanism for hiding; instead the game is balanced around confronting enemies. On occasion, a clever player can avoid a fight by not entering a room or by quickly running past a spawned enemy, but generally progress entails combat. (One exception might be the *Hunter* creature, which is unkillable – here the player must evade it briefly until a scripted trap can be used to stop it. This is a tense cat-and-mouse segment in an otherwise combat-heavy game.)
+    - **Alien: Isolation:** Stealth is the *primary* gameplay element. The Xenomorph stalks the player dynamically, reacting to noise and sight, so the player must sneak constantly. You can hide under tables, inside lockers, or in dark corners to avoid the Alien. The game even allows the player to lean back while hiding in a locker and hold a button to **hold breath**, simulating desperate concealment. The **motion tracker** tool helps track the Alien’s position, but its use comes with a risk – its pinging noise can attract the creature if it’s very near:contentReference[oaicite:30]{index=30}:contentReference[oaicite:31]{index=31}. To survive, players learn to read audio cues (hearing the Alien in the vents overhead) and stay still or out of sight. Other enemies (hostile androids and humans) also invite stealth; the player can choose to avoid combat by quietly crawling and using cover. Isolation’s AI is unpredictable, meaning the Alien can roam anywhere, which forces players to remain on edge and use distraction devices (like noisemakers or thrown objects) to lure the alien or other foes away. Hiding and patience are rewarded – if the Alien spots you, it’s usually instant death, so mastering stealth tactics is essential.
+    - **Amnesia: The Dark Descent:** Purely an evasion game – the protagonist has no means to fight the horrors in the dark. When a monster (a Gatherer) appears, the player must **run**, hide behind objects, or retreat into a dark corner and hope it passes by. There is a trade-off: hiding in darkness makes Daniel harder to notice, but staying in the dark too long drains his sanity:contentReference[oaicite:32]{index=32}. Moreover, looking directly at a monster will increase sanity loss and also risk the creature noticing you. This creates terrifying scenarios where the player crouches in a shadow, averting the camera away from the creature (to avoid both attracting it and losing sanity) and listening to its movements. The AI will wander and search for the player if alerted (they respond to noises like a slammed door). Since even a single hit can be fatal, stealth and fleeing are the only survival tactics – once spotted, the player must break line of sight and barricade doors behind them if possible.
+    - **Visage:** Similar to Amnesia, Visage gives the player no weapons – evasion and caution are key. The house is inhabited by malevolent spirits specific to each chapter. These ghosts generally appear and begin hunting if the player’s **sanity** is very low or if scripted by the story. When a haunting is active, the player should avoid the ghost’s line of sight and break away if one approaches (e.g. hide in a closet or duck behind furniture). If a ghost catches the player, it’s instant death:contentReference[oaicite:33]{index=33}. Maintaining sanity (staying in light, taking pills) therefore indirectly serves the stealth mechanic by reducing how often aggressive ghosts manifest. There are also subtle audio/visual tells (footsteps, flickering lights) that warn the player a spirit is nearby, prompting them to find a hiding spot. Visage manages tension by making even navigation potentially deadly if you’re careless – moving too fast in the dark or making noise can trigger an attack. Surviving often means slowly inching through the house, turning on lamps, and listening carefully for any sign of an entity.
+    - **Little Nightmares (series):** Stealth is a frequent necessity due to the protagonist’s small size and the grotesque enemies’ keen senses. Six (and Mono in LN2) must tiptoe around huge adversaries, staying out of sight. Many scenes involve quietly moving while an enemy’s back is turned, or freezing in place when a blind enemy is listening. The game has simple stealth mechanics: you can crouch to move silently and you often hide under objects (beds, tables, crates) to avoid detection. Enemies have set patrol patterns or behaviors that the player can learn; for instance, in one area you might creep past a Janitor character whose long arms will gropingly search under furniture if he hears something. If the player makes a noise or steps into an enemy’s light, a chase usually ensues. Little Nightmares seamlessly blends these stealth segments with its platforming – one moment you’re solving a puzzle, the next you must slip into the shadows to let a gigantic chef lumber by. Because combat is rare, stealth and running are the only defenses the children have.
+    - **Stasis: Bone Totem:** The game doesn’t include stealth gameplay; there are no roaming enemies to evade. Any danger in Stasis is predetermined (for example, certain story events can kill a character if a puzzle isn’t solved). Thus, there is no concept of hiding or sneaking – the player’s focus is on puzzles and narrative. In tense situations, it’s about solving the problem or making a choice rather than physically avoiding a threat in real time.
+
+- Combat & Weapons:
+    - **Silent Hill 2:** Combat is deliberately clunky and limited:contentReference[oaicite:34]{index=34}. James can fight using a few melee weapons (like a wooden plank or metal pipe) and firearms (revolver, shotgun, etc.), but his aim is unsteady and attacks are slow, conveying his lack of combat skill. This design heightens vulnerability:contentReference[oaicite:35]{index=35} – the player often feels it might be better to run than fight. Ammunition and health supplies are scarce, so every encounter becomes a risk-reward decision. Enemies don’t drop loot, and many can absorb a lot of damage, further discouraging unnecessary fights. Boss battles exist, but generally combat in SH2 is a means of survival rather than a power fantasy.
+    - **SOMA:** Notably has **no combat system at all** – you cannot fight the monsters. This was an intentional design choice:contentReference[oaicite:36]{index=36}. If a creature attacks, the player is either killed or (in some cases) injured and given a chance to flee. There are no weapons to pick up and no ways to harm enemies. This absence of combat turns every enemy encounter into a stealth-horror set piece, amplifying helplessness and forcing creative evasion. (A “Safe Mode” option even allows playing with creatures that don’t kill the player, highlighting that combat isn’t the focus – fear is.)
+    - **Layers of Fear:** Contains no combat. There are no enemies that the player can physically engage – any apparitions or ghosts cannot be fought, only observed or avoided in scripted moments. The tension comes from psychological terror and anticipation rather than fighting. Thus, the game plays more like a haunted house ride or “walking simulator” with horror elements, where traditional combat mechanics are completely absent.
+    - **Alan Wake:** Combines third-person shooting with a unique flashlight mechanic. Enemies, shrouded by a supernatural darkness, are *invulnerable* until you burn off that dark aura with light. The flashlight acts as a weapon: you aim the beam to weaken enemies (focus the beam to “boost” it and break the darkness shield faster, at the cost of flashlight battery power):contentReference[oaicite:37]{index=37}:contentReference[oaicite:38]{index=38}. Once an enemy is “purged” by light, conventional weapons like a revolver or shotgun can finish them off:contentReference[oaicite:39]{index=39}:contentReference[oaicite:40]{index=40}. Combat involves juggling light sources and firearms – for example, using a flare or flashbang grenade to stun or burn multiple Taken at once, then shooting them. Alan is not particularly durable, so dodging enemy attacks with a well-timed button press (triggering a slow-motion evade) is important. Healing is automatic when standing in light (street lamps serve as safe zones), encouraging the player to fight near light or retreat to it. The game provides limited ammo and batteries, making resource management part of combat. Overall, the combat system reinforces the narrative theme of light vs darkness in a literal way.
+    - **Until Dawn / The Quarry:** There is no free-form combat – all conflict is handled through quick-time event prompts and decision menus. For instance, if a character has a firearm during a crisis, the game might present a timed prompt to **SHOOT** or **DON’T SHOOT**, or a QTE to aim and fire at a target. The success or failure of these quick-time inputs determines what happens (you might kill a threat, miss and get someone killed, etc.). Because of this, combat “mechanics” boil down to the player’s reflexes and choices under pressure rather than aiming skill or strategy. Some scenes simulate fighting or running via rapid button presses (e.g. mashing a button to help a character climb or fend off an attacker). The consequence of failing a combat QTE can be character death. In short, combat in these games is cinematic: you aren’t manually controlling attacks, you’re reacting to on-screen prompts to drive the story branches.
+    - **The Last of Us (series):** Features robust third-person combat. Players have an arsenal of makeshift weapons: pistols, rifles, bows, crafted bombs (like Molotovs and nail bombs), and melee weapons (pipes, machetes) that can break after a few uses. Ammunition is extremely limited, which pushes the player toward stealthy takedowns or using melee when possible:contentReference[oaicite:41]{index=41}. When firefights occur, the gunplay is deliberately weighty and aiming is a bit wobbly to reflect desperation. Melee combat is brutal but simple – you can swing weapons or perform stealth kill strangles; in Part II, a dedicated dodge button allows for evading and countering in close quarters, adding agility. Enemies will flank and flush the player out, so combat often involves quickly taking cover, crafting a bomb or Molotov on the fly, and using the environment intelligently. The AI companions (Ellie or others) assist in combat by distracting enemies or occasionally finishing off a staggered foe. The combat scenarios are highly lethal – a single mistake can cost a lot of health or your life – reinforcing the survival aspect. Upgrades can improve combat effectiveness (like steadier aim, increased weapon damage through workbench improvements), but even at maximum the player never feels overpowered, maintaining tension in each encounter:contentReference[oaicite:42]{index=42}.
+    - **Resident Evil 7: Biohazard:** Returns to slower, tenser combat akin to early RE games. It’s played from a first-person perspective, which makes aiming weapons a stressful affair when creatures lunge at you. Ammunition is scarce and reloading is relatively slow. Many enemies (the molded creatures) can soak up bullets, so the game encourages aiming for the head or knees to conserve ammo:contentReference[oaicite:43]{index=43}. A new mechanic is the **guard** button – Ethan can raise his arms to block incoming attacks, significantly reducing damage if timed right:contentReference[oaicite:44]{index=44}. This adds a defensive option besides just backing away. The arsenal includes pistols, shotguns, flamethrower, grenade launcher, and some melee like an axe; however, even the stronger weapons must be used wisely since powerful ammo is very limited. Boss fights often have unique gimmicks (for example, using the environment or special weapons to defeat a mutated boss). Enemies sometimes feint or sway erratically:contentReference[oaicite:45]{index=45}, forcing the player to carefully time shots rather than spam. Notably, some encounters (like Jack Baker’s relentless pursuance) can’t be “won” by normal means – the player might unload bullets just to slow Jack down, then choose to flee or solve a puzzle to escape. This hybrid of fight-or-flight keeps the player on edge. Overall, combat is deliberately tough: it can take several bullets to drop a basic enemy:contentReference[oaicite:46]{index=46}, so the player is always nervous about running out of ammo, and every hit received feels costly.
+    - **Dead Space (remake):** Renowned for its **strategic dismemberment** combat system. Unlike typical shooters that encourage headshots, Dead Space requires cutting off Necromorph limbs to neutralize them. The Plasma Cutter (signature weapon) lets you rotate its firing axis to effectively sever arms and legs. Enemies often won’t die until most of their appendages are removed. The remake even deepened this mechanic by showing layers of flesh that get stripped off with each shot before a limb detaches:contentReference[oaicite:47]{index=47}. This means it can take multiple hits to actually sever a limb, demanding precision and target prioritization. Ammo conservation is critical – spraying bullets is a fast route to empty magazines, so the player learns to make each shot count (e.g. shoot legs to slow an enemy, then finish off arms):contentReference[oaicite:48]{index=48}. There’s a variety of improvised weapons (e.g. a saw blade launcher, a flamethrower, a line gun for wide energy beams), each suited to cutting or blasting specific enemy types. The **Stasis** ability is another combat tool: the player can fire a stasis module to temporarily slow enemies (or moving hazards), which is invaluable when overwhelmed. **Kinesis** (telekinesis) also factors in – you can pick up explosive canisters or severed blades from the environment and fling them at foes to impale or blow them up, effectively turning the environment into a weapon:contentReference[oaicite:49]{index=49}. Isaac’s suit can be upgraded to increase armor and inventory, but he’s never invincible; close-quarters attacks are dangerous, though a melee stomp exists to finish off crawling enemies or break crates. Dead Space’s combat is intense and gory, but methodical – panic firing tends to end badly, whereas using the right tool (for example, the Line Gun’s timed mine to strategically plant a trap) and aiming for limbs is rewarded.
+    - **Alien: Isolation:** Direct combat is generally a last resort and largely ineffective against the main enemy. The Alien cannot be killed by the player’s weapons, only scared off briefly. The player does acquire some firearms (revolver, shotgun, bolt gun) which can dispatch human enemies or androids, but discharging guns risks attracting the Alien with the noise. Ammunition is extremely limited, meaning every shot must be weighed. A crucial tool is the **flamethrower**, obtained later in the game – the Alien is afraid of fire:contentReference[oaicite:50]{index=50}, so a quick burst of flames will make it retreat into the vents for a short time (however, it learns; repeated use will shorten the time it stays away). Other craftable explosives (pipe bombs, Molotov cocktails) can deter or injure secondary enemies and theoretically drive off the Alien too, but crafting resources are scarce. Fighting the “Working Joe” androids can be done with melee hits (like using a maintenance jack or stun baton) and gunshots, but they’re tough and will grab the player if approached carelessly. Thus, Isolation often punishes attempts at open combat – for the Xenomorph, it’s outright deadly to try, and for other enemies, it might solve one problem at the cost of summoning the bigger threat. The design pushes the player toward a cat-and-mouse playstyle, where weapons are tools for **distraction** or escape rather than clearing foes. When combat does occur, it’s frantic and terrifying due to the high stakes (e.g. an android strangling you as you frantically unload revolver rounds into it, hoping to break free before the Alien hears the commotion). In summary, Isolation’s combat mechanics underscore that you’re not a soldier – surviving means knowing when to run or hide, and using weapons only sparingly and smartly:contentReference[oaicite:51]{index=51}.
+    - **Amnesia: The Dark Descent:** No combat whatsoever – the player cannot attack the monsters. If a creature catches up to Daniel, it will assault him, and the only “defense” is to run away or maybe slam a door to slow it down. There are a couple of scripted one-time-use events where the player can create a trap (for instance, luring a monster into an electrified water in a later Amnesia title), but in Dark Descent itself, you never harm enemies. This design forces a pure hide-and-seek gameplay where the player’s weapons are limited to doors, closets, and the willingness to turn off the lantern and plunge into darkness to avoid detection. It heightens fear, as every encounter is about survival, not victory.
+    - **Visage:** No combat. If a ghost or demon manifests, the player has no means to fight – they must flee to a lit area or break line of sight until the entity disappears. There are jump-scare events where a ghost might attack suddenly (resulting in death); the game gives no opportunity to resist. The only “weapon” of sorts is prevention: managing sanity and keeping lights on to minimize ghost appearances. This lack of combat maintains the tension that the player is at the mercy of the house’s spirits.
+    - **Little Nightmares:** Mostly avoids combat; the child protagonists are too weak to fight the giant creatures. In Little Nightmares I, Six has no offensive capabilities at all – she must rely on stealth and platforming to survive. In Little Nightmares II, Mono can occasionally wield improvised weapons (like pipes or axes) to smash small enemies or break obstacles, but these moments are very limited and scripted. The weapons are heavy and slow to swing, emphasizing that combat is clumsy and risky. There are a few specific encounters where using a weapon at the right time is necessary (for example, shattering the porcelain bullies in the school level of LNII), but even in those, if you mistime a swing, Mono will likely be killed. Thus, combat in Little Nightmares is not a dominant mechanic – it’s presented as a brief empowerment in a few scenes, but generally, direct confrontation is to be avoided.
+    - **Stasis: Bone Totem:** No real combat system is present, as is typical for point-and-click adventures. The characters do not have health stats or weapons to equip. Any violence that occurs is story-driven and resolved through player choices or puzzles (for instance, deciding to flood a chamber to eliminate a threat is done via a console interface puzzle, not a gun). There are some deadly scenarios, but “fighting” involves doing the correct sequence of actions in the environment rather than reflexes. Consequently, the game’s tension comes from gruesome atmosphere and puzzle stakes (e.g. disarming something before it kills you), not from combat engagements.
+
+- Resource Management & Crafting:
+    - **Silent Hill 2:** Limited resources amplify the survival horror tension. Players must manage a small inventory of healing items (health drinks, first aid kits) and a finite supply of ammunition for each gun. There is no crafting – all supplies are found in the environment, often tucked in hard-to-see corners. Inventory space isn’t formally limited by slots, but items are scarce enough that rationing is necessary. For example, bullets are precious; if you waste them shooting every monster, you may find yourself helpless later. The game also quietly tracks how you use resources (frequently healing or not) which can influence the ending, subtly tying resource management to narrative:contentReference[oaicite:52]{index=52}. In essence, careful resource use (conserving ammo by avoiding fights, using melee when safe, etc.) makes the journey more manageable.
+    - **SOMA:** There’s minimal resource management – no ammo or crafting, since there’s no combat. The primary “resources” are things like **health** (which is restored at scattered healing pods after monster encounters:contentReference[oaicite:53]{index=53}:contentReference[oaicite:54]{index=54}) and story-essential inventory items (access cards, puzzle items). These items are used automatically in context rather than managed in a traditional inventory screen. The game’s challenge doesn’t come from item scarcity but from the player’s wits and nerves. As such, SOMA’s design deliberately eschews the inventory-juggling common to survival horror, in order to keep the player immersed in the narrative and exploration.
+    - **Layers of Fear:** There is no resource management in the traditional sense – the game doesn’t have health, ammo, or consumable items. The only “items” you collect are mementos, keys, and bits of story (like notes or drawings), which are automatically recorded. You can’t run out of light (candles are infinite and merely part of the environment), and there’s no inventory interface. This frees the player to focus on the environment and psychological experience without worrying about managing supplies.
+    - **Alan Wake:** The game limits how many items you can carry, implicitly encouraging resource management. Alan’s flashlight consumes **batteries** when you use the focused beam; batteries will recharge slowly on their own, but in hectic fights you’ll need to reload batteries manually to keep the light strong. Batteries are found in limited quantities, so you can’t constantly burn the flashlight at maximum power:contentReference[oaicite:55]{index=55}:contentReference[oaicite:56]{index=56}. Firearms ammo is also finite – revolver rounds, shotgun shells, and flare gun shots are scarce, especially on higher difficulties. Flares and flashbang grenades (used to instantly fend off or kill groups of Taken) are given sparingly. The design pushes the player to use light carefully (e.g. **flashing** the torch just enough to stagger an enemy, then shooting, rather than wasting batteries) and to save powerful items for dire situations. Alan Wake has no crafting or item combining; you simply use what you find. Each episode resets some of your inventory (for story reasons, Alan often loses his gear), preventing the player from stockpiling too much. Using safe haven light pools to regenerate health instead of consuming a rare healing item (there are a few “healing” items like coffee thermoses in narrative, but not as a mechanic) is another aspect of resource strategy. Overall, survival depends on rationing batteries and ammo to make it through the dark.
+    - **Until Dawn / The Quarry:** These games have essentially no inventory or crafting. There’s no need to manage resources like health or ammo – any item (weapon or tool) a character picks up is used automatically in context, governed by choices or QTEs. For example, a character might find a shotgun, but there’s no ammo count displayed; whether it fires or how many times you get to use it depends on story decisions and events. Health isn’t a stat – characters survive or die based on narrative outcomes rather than hit points. This means the player doesn’t have to scrounge for supplies; the challenge lies in decision-making and timing rather than resource economy.
+    - **The Last of Us (series):** A hallmark of TLoU is its **crafting and resource scarcity**. The player must scavenge for supplies like alcohol, rags, sugar, explosives, blades, and binding, which can be crafted into vital items:contentReference[oaicite:57]{index=57}. For example, a blade and binding make a shiv (for stealth kills or opening locked shiv-doors with extra loot), while alcohol and rags make a health kit or Molotov cocktail. You often have to choose how to use limited resources – the same alcohol and rag are used for a Molotov or a medkit, forcing a strategic choice. Crafting happens in real-time (in Part I it pauses the game, in Part II it does not pause), so planning ahead is key. Ammunition for guns is extremely limited; you might go into a fight with just a handful of bullets across all weapons. This encourages supplementing with crafted bombs or stealth to conserve ammo. There’s also **inventory management** in that you can only carry a certain number of each item (e.g. 3 medkits max, or a limited number of pistol rounds). The game provides upgrade paths: collecting “parts” to upgrade weapons at workbenches (improving reload speed, capacity, etc.), and pills or supplements to upgrade player skills (like more health, steadier aim). These upgrades require finding collectibles and hence reward thorough exploration. Even with upgrades, you never have an abundance of supplies – the designers tune the world so that you constantly feel on the verge of running low, which keeps every encounter intense. Managing your backpack (which weapon to quick-slot, how many of each item to carry) and knowing when to craft that last health kit or save materials for a Molotov is a constant survival decision:contentReference[oaicite:58]{index=58}.
+    - **Resident Evil 7: Biohazard:** True to its survival horror roots, RE7 makes the player juggle a **limited inventory** and scarce supplies. At the start, Ethan can only hold a modest number of items; finding backpacks later slightly increases capacity. Item **boxes** (shared storage) let you stash excess items for later retrieval:contentReference[oaicite:59]{index=59}:contentReference[oaicite:60]{index=60} – using these effectively is important, since carrying too much can leave no room to pick up key items. The game also brings back **resource combining**: the player finds Chem Fluid (standard or strong) which can be combined with herbs to create First Aid Meds, or with gunpowder to create ammo:contentReference[oaicite:61]{index=61} (strong chem fluid makes enhanced ammo, etc.). You must decide what to make based on your situation – meds or more bullets. Certain weapons like the burner (flamethrower) also require fuel crafted from chem fluid + solid fuel. Because inventory slots are limited, large items (weapons, ammunition stacks) take up precious space, forcing tough choices about what to carry. Additionally, on the “Madhouse” difficulty, the game introduces old-school **ink ribbon-style saving** using cassette tapes as a consumable resource for saving progress, adding another thing to manage (on easier modes, saving is unlimited at tape recorders). Health in RE7 does not auto-regenerate; you rely on First Aid Meds (herbs alone restore only a tiny bit of health, so crafting them into Meds is usually preferable). All these factors mean the player must continuously monitor and manage their resources: for instance, if you have one healing item left and a few bullets, do you fight that molded in the hallway or run to save your resources? This inventory tension is central to RE7’s design.
+    - **Dead Space (remake):** The game combines action with traditional resource management. Isaac’s RIG suit has a finite number of inventory slots (which can be expanded by finding suit upgrades), so picking up every loot item is not always possible – the player must prioritize (e.g. more ammo versus extra medpacks). **Ammo** comes in different types for each weapon and is found sparingly; if you carry too many weapons, you’ll be splitting the ammo drops among them, which is a strategic consideration (carrying 2–3 weapons instead of all 4 increases the chance that ammo you find will be for those guns). The in-game stores allow you to spend credits (found or received for selling loot like semiconductor items) to buy ammo, health kits, or additional power nodes – but credits are limited, so you might have to choose between buying a health refill or a couple of extra ammo packs. **Power nodes** are a resource used to upgrade weapons and the RIG at workbenches – nodes are scarce, found hidden or purchased, and there’s never enough to fully upgrade everything in one playthrough, so players must manage this upgrade resource carefully (e.g. do you invest nodes to increase your Plasma Cutter’s damage, or improve your suit’s air supply and health?). Dead Space also makes the player manage **stasis energy** (for the stasis module) – you have a meter that depletes with each use of the slow-down power, and you need stasis recharge packs or stations to refill it. This becomes a resource to watch in combat and puzzle sections. Oxygen is another temporary resource in vacuum sections – the suit’s O2 meter gives you about 70 seconds (upgradeable) of air, essentially a timer resource to manage during those segments (using an Air can item can refill O2 if you find one). Between chapters, a savvy player will use the store to stash items they want to save (the store acts as a shared stash like RE item boxes) and take only what they need – for example, maybe store extra medpacks and keep ammo on hand, or vice versa, depending on upcoming challenges. This resource planning adds a layer of strategy on top of the horror action.
+    - **Alien: Isolation:** Demands careful management of both resources and crafted items. The player scavenges materials (ethanol, sensors, scrap metal, etc.) from drawers and corpses. Using blueprints found throughout the station, these materials can be crafted into helpful tools: **medkits**, noisemakers, EMP mines, Molotovs, pipe bombs, flashbangs, etc.:contentReference[oaicite:62]{index=62}. You must decide what to build because components are limited – for instance, ethanol might be used in either a medkit or a Molotov, and you have to choose. The crafting interface allows creating items on the fly, but since the game doesn’t pause completely while crafting (the menu is in real-time on harder difficulties), you typically want to craft during safe moments. Ammunition is extremely scarce; often you may have only a few bullets or a single molotov. **Fuel for the flamethrower** is one of the most precious resources – it’s the only thing keeping the Alien at bay later in the game, and running out of flamethrower fuel induces sheer panic. The player also manually reloads and cycles weapons (the revolver’s cylinder must be filled one round at a time, taking precious seconds). On higher difficulties, the motion tracker can mislead and some UI elements (like the map) are disabled, effectively making information a resource you manage (by finding crafting blueprints or updating the map at terminals). **Health** doesn’t auto-recover; you must use a crafted medkit to heal, which uses compound, a syringe, and bonding agent – items that could alternatively craft other tools. The save system (wall terminals) is another form of resource management: saves are manual and spaced out, and using them requires a short duration where you’re vulnerable (and you can’t save again at the same terminal for a brief cooldown). This creates a risk factor – the “resource” of time and safety to save must be managed (e.g. you might refrain from using your last noisemaker because you think a save station is nearby and you want to get there quietly). Overall, success in Isolation comes from conservative resource use: leaning on stealth to avoid spending ammo, crafting strategically (a noisemaker to lure the Alien can be worth more than a pipe bomb to kill a couple androids), and not hoarding too long (full inventories mean you’re leaving craft items behind). The game continuously pressures the player by making valuable items sparse – every flare or stun baton charge you find feels significant.
+    - **Amnesia: The Dark Descent:** Manages a few key resources: **oil** for your lantern, **tinderboxes** for lighting stationary light sources, and your character’s **sanity** (which, while not an item, functions as a resource to be preserved). Oil is consumed as the lantern is used; if it runs out, you’ll be stuck in darkness except for whatever torches you lit in the area. Tinderboxes are one-use consumables to ignite candles or torches in the environment. Both oil and tinder are limited, encouraging the player to be economical – for example, not every dark room needs to be lit if you plan to pass through quickly. But use them too sparingly and Daniel’s sanity will suffer from extended darkness. There is also **laudanum**, a potion for restoring health, though health is less of a concern since any monster encounter usually ends either in death or escape (minor wounds can be healed with laudanum). There’s no combat ammo to manage and no crafting system in Amnesia; the focus is on maintaining light. Players often find themselves anxiously checking how many tinderboxes and how much oil they have left, deciding “Do I light this hallway or save my fuel for the lantern in the next area?” Solving puzzles and making progress can restore a bit of lost sanity, indirectly rewarding efficient use of resources to push forward:contentReference[oaicite:63]{index=63}. Inventory space itself isn’t limited by slots or weight, but your inventory mostly contains puzzle items (chemicals, keys, etc.) and the few consumables mentioned. The balance of these mechanics forces the player to constantly weigh the risk of using resources now versus possibly needing them later – classic survival horror tension.
+    - **Visage:** Implements sanity management items as key resources. **Sanity Pills** are a consumable that restore some of Dwayne’s sanity; the player can carry a few pill bottles and deciding when to take one (to prevent a total sanity breakdown) is crucial. There are also **lighters**, which provide a portable light source – lighters have limited fluid and will eventually exhaust, so the player must find replacements. You can also place **candles** in holders around the house; candles burn indefinitely once placed and lit, acting as safe points of light that ghosts cannot snuff out:contentReference[oaicite:64]{index=64}. However, the player can only carry up to five “dynamic” items (things like lighters, pills, light bulbs, candles) at a time:contentReference[oaicite:65]{index=65}, and two can be equipped in hands. This strict inventory limit means you cannot hoard a large stockpile of pills or multiple candles – you might have to drop something to pick up something else, and dropped items can vanish if you’re not careful. Deciding, for example, whether to carry an extra lighter or an extra pill bottle can change your strategy. **Light bulbs** are another resource: ghosts frequently break lights, and if you have a spare bulb in your inventory, you can replace a broken one to keep an area safely lit:contentReference[oaicite:66]{index=66}. But bulbs too take up inventory slots. There’s no crafting; survival depends on smart use of what you find. If you waste pills (using them at the first sign of anxiety) or lighters (idling in dark areas and burning them out), you could run out at a bad time and be vulnerable. Managing the sanity meter via these tools is core to gameplay: for instance, using a lighter to traverse a dark room so your sanity won’t plummet, then quickly turning on a lamp and saving the lighter for the next dark stretch. In summary, Visage extends the Amnesia formula with tangible items to manage – it’s a constant juggle of light sources and sanity restoratives within a tight inventory, all while under threat from roaming specters if you slip up.
+    - **Little Nightmares:** This series doesn’t have a traditional inventory or any resources like health or ammo. Six can’t pick up and store items other than carrying a key or object to use immediately. There are no consumable resources to manage; if anything, the “resource” is the player’s own timing and caution. (One could say that Six’s hunger in the first game is a story event resource – at scripted points she becomes ravenously hungry and needs to find food, but this isn’t managed by the player in normal gameplay, it just happens as part of the narrative.) There is no crafting. So, unlike classic survival games, Little Nightmares keeps the focus on environmental problem-solving and platforming, without any inventory management to distract from the atmosphere.
+    - **Stasis: Bone Totem:** Inventory management in this point-and-click adventure is about puzzle items rather than survival resources. Each of the three characters has an inventory, and each inventory can hold a reasonable number of items (there isn’t a strict slot limit, but items must be transferred intentionally between characters when needed). A unique twist is that items can be magically “beamed” between characters despite distance:contentReference[oaicite:67]{index=67} – effectively a shared stash justified by sci-fi tech. There’s no concept of ammo, health kits, or crafting materials; however, **item combination** is a form of crafting. Charlie’s ability to combine two items in her inventory to create a new item is used frequently:contentReference[oaicite:68]{index=68} (for example, crafting a tool out of spare parts). The resources the player manages are mainly the information and clues to solve puzzles, and which character holds which important item at a given time. You might find you need to **pass a key item** from Mac to Charlie so she can modify it, then send it to Moses to use on a computer – this chain of exchanges is a “resource” flow to manage, though the game’s interface makes transferring items easy. There is no scarcity in a survival sense; puzzle items typically appear as needed. The challenge lies in identifying how to use and combine the items, rather than rationing them. In short, Stasis: Bone Totem’s resource management is analogous to classic adventure games: keeping track of puzzle inventory and utilizing each character’s special trait, rather than managing consumables or combat gear.
+
+- Narrative Structure & Player Choices:
+    - **Silent Hill 2:** Features multiple endings (there are 6+ endings including bonus ones) determined subtly by how the player behaves throughout the game:contentReference[oaicite:69]{index=69}. Unlike a straightforward dialogue choice, SH2 tracks things like the player’s health level (frequently healing vs. not), examination of certain story items (e.g. Mary’s photo or letter), and how much time is spent with or away from certain characters. These hidden variables influence whether the ending is optimistic, tragic, or even supernatural joke endings. This means the narrative outcome is shaped by gameplay behavior, effectively making the player’s style of play a “choice” that reflects James’s psychological state. Otherwise, the story is linear in progression – there are no branching paths until the ending variations. SH2’s heavy focus on psychological storytelling also comes through in its level and enemy design (enemies symbolize aspects of James’s psyche, etc.), but those are narrative elements rather than player choices. No explicit moral decisions or dialogue options are presented to the player; the interpretation and outcome depend on passive choices and exploration.
+    - **SOMA:** A linear narrative with a strong philosophical theme. There are a few moments where the player is given an explicit moral choice (for example, deciding whether to permanently shut down a suffering AI or leave it running, or choosing to kill or spare someone connected to life support). These choices do not branch the main storyline towards multiple endings – instead, they serve to personalize the experience and reinforce the questions of consciousness and ethics the game poses. In the end, SOMA has one definitive ending (with a poignant post-credits scene), so the player’s decisions mainly affect their own interpretation of the protagonist’s character and the fate of minor characters, rather than diverging the plot dramatically. The narrative is very much on rails; the impact of any decision is usually reflected in a bit of dialogue or a small scene, but the overarching plot remains the same. SOMA’s storytelling is praised for its depth, but it is **intended to be the same story for all players**, with your choices providing introspection rather than alternate endings.
+    - **Layers of Fear:** The game is structured around uncovering the painter’s past and descent into madness, and it offers **multiple endings** (primarily three) depending on the player’s actions and focus during the game. The endings are usually referred to as the “Self-Portrait” ending, the “Family” ending, and the “Loop” ending. Which one you get is determined by subtle factors, like how often you interact with certain objects (paintings of the wife and child vs. the canvas and rats), whether you follow the visions of your family or ignore them, etc.:contentReference[oaicite:70]{index=70}. There are no explicit choice menus – instead the game tracks these behaviors and presents an ending reflecting the painter’s obsession either with himself, his family guilt, or being trapped in a loop of insanity:contentReference[oaicite:71]{index=71}. This invites replay to see the different outcomes. The narrative delivery is linear in the sense that you go through the same sequence of rooms/chapters, but what you focus on (or whom you “favor” in terms of memories) alters the conclusion. It’s a very interpretive story, with environmental storytelling (notes, photographs) filling in details, and the ending providing a final metaphorical image of the painter’s fate. The lack of clear feedback on choices makes the narrative feel personal – your playstyle organically leads to an ending without you knowing you were “choosing” one.
+    - **Alan Wake (series):** A largely linear, scripted narrative presented in an episodic format. There are no branching story paths or alternate endings in the original Alan Wake – every player experiences the same key plot points and conclusion. The game instead emulates a TV drama structure (with episodic cliffhangers and narrations). Player agency lies mostly in combat and exploration, not in altering the story. (American Nightmare, a spin-off, has a time-loop mechanic where you repeat scenarios, but even that has a fixed ending once you do things correctly.) Alan Wake is more about guiding the player through a thriller story, with perhaps small optional bits of narrative (e.g. finding manuscript pages that foreshadow events). The upcoming sequel might introduce choices, but in the original series, story branching isn’t present. The narrative is rich and engaging, but the player’s role is to uncover it, not change it.
+    - **Until Dawn:** Famous for its **Butterfly Effect** system, it’s a branching narrative where virtually every decision can alter the story’s course. The game explicitly shows a “butterfly effect” update when a choice you made leads to a consequence later. Critical decisions include seemingly small choices (like whether to tease a friend or not) all the way to life-or-death dilemmas (“choose to save character A or B”). Characters can die in numerous ways, and if they die, they stay dead – the story adapts and continues without them:contentReference[oaicite:72]{index=72}. By the finale, there are dozens of possible variations of who is alive or dead and how the plot resolves. There are said to be “hundreds of endings” in terms of permutations:contentReference[oaicite:73]{index=73} (counting each combination of survivors as a different ending). The game enforces commitment to choices with an autosave system that prevents do-overs:contentReference[oaicite:74]{index=74} – you can’t reload a previous chapter to undo a fatal mistake, reinforcing weight to every action. Additionally, Until Dawn uses an in-game psychologist character (Dr. Hill) who periodically asks the player questions about their fears and preferences; the answers actually tailor some scenes (for instance, if you say you fear spiders more than needles, later a character might encounter a spider scare instead of a syringe). This is a unique meta-mechanic that personalizes the horror. In summary, Until Dawn is all about narrative choice mechanics – it’s designed for players to replay and see completely different scenarios and endings based on their decisions and QTE performance.
+    - **The Quarry:** Follows in Until Dawn’s footsteps with a heavily branching, choice-driven narrative. Throughout the game, you make dialogue choices and action decisions for the camp counselor characters, which lead to different relationship dynamics and plot outcomes. Nearly every character can survive or die depending on what you do, leading to a large number of possible ending states. The Quarry introduces a “Path Chosen” notification when you make a significant choice, and a menu where you can see the flow of certain decisions (the **Paths** menu) which tracks the consequences of pivotal choices:contentReference[oaicite:75]{index=75}. Like Until Dawn, there are no manual saves – choices are permanent. A feature unique to The Quarry is a **Death Rewind** system (if enabled or after an initial completion) allowing players to undo up to three character deaths per playthrough – effectively a limited continue system for the narrative. But absent that, the story will branch and possibly exclude entire chapters depending on who’s alive or what information is learned. The Quarry also supports a “movie mode” and multiplayer voting, but those are presentation variants rather than narrative mechanics. In essence, its story is a tapestry of interlocking decisions, where even small actions (like picking up a forgotten piece of evidence) can affect the endings. The game touts that every choice matters, and indeed players can experience widely different scenes on different playthroughs.
+    - **The Last of Us (series):** The series is known for a strong, fixed narrative – there are no player choices that alter the storyline. You cannot change the outcomes of the plot; the emotional, and sometimes controversial, story beats (especially the ending of the first game and key moments of the second) are predetermined. The storytelling is linear and cinematic, often using cutscenes and scripted dialogue exchanges during gameplay. While the player might explore optional areas and discover journal entries or artifacts that deepen understanding of the story, these do not change Joel or Ellie’s decisions. The narrative mechanics are more about immersion – for example, optional conversations can be triggered with your companion, giving more character development, but skipping them doesn’t change the relationship fundamentally (they just enrich it). The Last of Us Part II does present the player with harrowing situations, but you’re meant to follow the narrative direction given. In summary, TLoU delivers a **single canonical narrative**, focusing on telling it powerfully rather than branching it. The lack of choice is a deliberate design to ensure the story’s impact and themes are consistent for all players.
+    - **Resident Evil 7:** Primarily linear narrative, but it does feature one notable branching choice near its climax: at a certain point, the player must choose to cure either Mia (the protagonist’s wife) or Zoe (a supporting character) with a limited dose of serum. This choice leads to two diverging sequences and slightly different endings (one “true” ending and one alternative ending). However, the game clearly presents this binary choice, and one path is considered canonical. Aside from that moment, the story progresses the same way for everyone, with lore mostly delivered through discoverable files and VHS tape flashbacks. Those tapes are an interesting narrative mechanic – you play segments from another character’s perspective in the past via VHS recordings, which can foreshadow events or provide puzzle solutions in advance. While those don’t branch the story, they let the player experience pieces of narrative firsthand. RE7’s ending choice does not massively alter the final boss or outcome (just who is with you at the end), so it’s a minor branch compared to games like Until Dawn. In essence, RE7 sticks close to the traditional single-route Resident Evil plot with one small fork for replay value.
+    - **Dead Space (remake):** The original Dead Space had a single ending, but the 2023 remake introduced a **secret alternate ending** obtainable on New Game+ if certain criteria are met (collecting special Marker fragments). This alternate ending is more of an Easter egg/true ending that nods to Dead Space 2, rather than a choice-based branch the player can do on the first run. Throughout Dead Space, there are no dialogue options or morality choices – Isaac’s story unfolds linearly as he follows objectives to survive and help others (though the remake gives Isaac a voice and slightly more agency in cutscenes, the outcomes remain the same). The narrative is largely delivered through audio/video logs and scripted encounters. So, aside from the collectible-triggered secret ending, players will experience the same series of events. No divergent paths exist in the moment-to-moment gameplay: for instance, you can’t choose to save one NPC over another – their fates are fixed. The intensity and horror might make it feel personal, but narrative control is minimal.
+    - **Alien: Isolation:** Has a fixed narrative that closely follows the style of the Alien films. There are no branching story decisions – Amanda Ripley’s journey through Sevastopol Station will always result in the same key events and ending. The player’s influence is solely on moment-to-moment survival, not on the plot. The game does, however, feature lots of optional narrative content (logs, ID tags, archive recordings) that flesh out the story of the station and its inhabitants. Finding or missing these doesn’t change Amanda’s main storyline, but it can enhance the player’s understanding. The structure is mission-based but linear: each mission has objectives that must be completed to advance the story (e.g. stabilize life support, initiate communications, etc.), with no alternate objectives or sequence-skipping. In short, Isolation provides an intense personal gameplay experience but on rails narratively – every player ultimately encounters the same twists and conclusion (like the discovery about the creature and the final escape).
+    - **Amnesia: The Dark Descent:** After a largely linear journey, the game offers **multiple endings** (three main endings, plus a hidden gag ending). These are determined by the player’s final choices in the endgame. Without spoiling too much, depending on what you do during the final confrontation in the Inner Sanctum – e.g. whether you let an antagonist live, sacrifice someone, or perform a specific optional action – you’ll get a different resolution. This gives the player a degree of agency in how Daniel’s story concludes (revenge, redemption, or failure). Prior to that point, the narrative is linear (discovering backstory through notes and flashbacks). The different endings don’t branch the gameplay before the finale; rather, they hinge on a last decision. This is a common design in some horror games: you’re funneled to a point where your action (or inaction) triggers one of a few possible outcomes. Amnesia communicates these choices in a subtle way – there’s no dialogue choice menu; instead, you manipulate objects or decide where to stand at a crucial moment to determine the outcome. It invites replay to see the alternate fates. The existence of multiple endings ties into the game’s theme of morality and consequence, reflecting on Daniel’s actions through the player’s final choice.
+    - **Visage:** The game has more than one ending as well. There is a default ending achieved by completing the three main chapters (Lucy’s, Dolores’s, Rakan’s) and a fourth chapter of collecting VHS tapes, which uncovers the protagonist Dwayne’s full story. If the player finds all the hidden VHS tapes and completes that content, they unlock the game’s true ending, whereas missing some tapes leads to a somewhat different ending (often considered the “void” or incomplete ending). Thus, the extent of exploration influences the narrative closure. Similar to P.T. and other obscure horror, Visage doesn’t telegraph this outright – it’s up to the player to discover the extra content. There aren’t dialogue choices or branching paths during chapters (the chapters can be tackled in any order, but the outcomes of each chapter are fixed). The main variability is whether the player uncovers everything for the full ending. In effect, Visage’s narrative mechanic is about **completion**: thoroughly exploring to piece together all story fragments versus missing some and getting a more cryptic conclusion. It’s a different style of “choice” – not moral decisions, but how deep into the lore you choose to go.
+    - **Little Nightmares (series):** These games are largely linear and do not offer narrative choices – the story is implied through visuals and has a set progression. In LN1, there is one ending (with some debate on its meaning), plus a short additional DLC campaign that expands on the lore. In LN2, similarly, one canonical ending occurs. However, LN2 does have collectible glitching remains; if you collect them all, you unlock a brief secret post-credits scene which adds a twist to the story, but the main ending remains the same. The series deliberately leaves story interpretation to the player and doesn’t branch the plot via gameplay decisions. Your actions (aside from finding those collectibles) don’t change any outcomes. So there is essentially no narrative agency; everyone witnesses the same key moments. The impact comes from experiencing the unsettling journey rather than altering it.
+    - **Stasis: Bone Totem:** As a point-and-click adventure, it is very story-driven but mostly linear. You switch between characters and make dialogue choices occasionally, yet these choices primarily serve to flesh out personal stories or attitudes – they don’t significantly branch the plot. Usually, there is one course of action to solve each predicament and move the narrative forward. However, Bone Totem does include **multiple endings** depending on a major decision near the game’s finale (much like classic adventure games that sometimes have a moral choice at the end). Without spoiling, the final sequences present the player with a choice that affects which ending cutscene you see (for example, a sacrifice or an escape decision). The journey up to that point converges regardless of minor choices, so it’s that ultimate choice that defines the ending. Additionally, throughout the game, thorough exploration can reveal more about the characters’ past (through diary entries or optional dialogue), which can color the narrative experience but not redirect the main plot. In summary, Stasis: Bone Totem’s narrative is mostly on a set track (given it’s puzzle-centric), with the exception of an endgame branching decision giving a couple of different epilogues. The emphasis is on experiencing the crafted story and uncovering its dark secret, with limited player agency over its direction until the climax.
+
+- Psychological Horror & Sanity Mechanics:
+    - **Silent Hill 2:** The psychological aspect is central – while it doesn’t have a sanity meter, the entire game manifests James’s psyche. The “mechanics” of this are indirect: the game monitors player behavior (health maintenance, item examinations) to infer James’s mental state and choose an ending:contentReference[oaicite:76]{index=76}. In that sense, taking a lot of damage and not healing (suggesting James is despairing) or staying in certain areas tied to memories can be seen as a proxy for James’s psychology, feeding into the ending. Enemies and environments symbolically reflect James’s inner turmoil (for example, the iconic Pyramid Head represents his guilt), but that is a narrative design rather than an interactive system. The result is that the player *feels* the psychological strain through atmosphere – disturbing sound design, surreal visuals, and the way the game subtly reacts to how you play. There’s also a famous meta-mechanic: the “In Water” ending is more likely if you read certain depressing diary entries and spend a long time with low health, which is the game reading the player’s behavior as James being suicidal. This blending of narrative and mechanics exemplifies SH2’s psychological depth.
+    - **SOMA:** Focuses on existential dread and psychological themes of identity and consciousness. There is no insanity meter or anything similar; the game’s psychological impact comes from story events (like discovering unsettling truths about yourself and the world). One could say the **decision moments** (such as euthanizing a wounded crewmember or leaving them) are psychological tests for the player, but mechanically they are simple prompts with no effect on gameplay stats. The game continuously poses questions that mess with the player’s mind (e.g. encountering copies of yourself), but it doesn’t simulate the protagonist going insane. In terms of mechanics reflecting psychology: some creatures in SOMA affect the protagonist’s perception (the screen distorts and audio falters when they’re near – a bit like Amnesia’s sanity effects localised to certain enemies:contentReference[oaicite:77]{index=77}). These audiovisual distortions heighten psychological tension but are tied to physical proximity, not a persistent sanity value. In short, SOMA’s psychological horror is delivered through narrative and atmosphere, not a separate sanity mechanic.
+    - **Layers of Fear:** Essentially a playable depiction of a mental breakdown. The game *does not* have a sanity meter or fail-state for insanity; instead, it uses environmental metamorphosis to represent the painter’s worsening mind. The “mechanic” here is that the house keeps changing – hallways loop infinitely until you trigger an event, rooms melt or transform around you. These impossible architecture shifts serve as a gameplay mechanic (navigation puzzles) and as a psychological device. The player experiences confusion and disorientation much like the protagonist’s dementia or psychosis. Additionally, subtle cues like whispering audio or sudden paintings morphing are used to unsettle. Because the story is linear, these events are scripted rather than based on a player-driven sanity stat. Still, the effect on the player is similar to a sanity mechanic – you begin to doubt your own perceptions. In summary, Layers of Fear externalizes the character’s mental state into the level design itself, ensuring that gameplay and story both give the sensation of psychological horror.
+    - **Alan Wake:** While not featuring insanity mechanics, it blurs the line between reality and fiction in its storytelling (with Alan experiencing surreal events that may or may not be real). There is no sanity gauge, but there are moments where the world shifts (e.g. words floating in the air that turn into objects when light is shined on them) which reflect Alan’s slipping grasp on reality as a writer whose story is coming to life. These are narrative mechanics tied to light usage but have a psychological angle. The sequel is expected to delve more into psychological horror, but in the original, the psychological elements are conveyed through plot (dream sequences, an imaginary doppelgänger) and the ambient fear of darkness, rather than a numerical sanity system.
+    - **Until Dawn / The Quarry:** They are psychological in that they play on the player’s fears and involve heavy tension, but they don’t have sanity meters or hallucination systems. However, Until Dawn has the previously mentioned psychiatrist interludes with Dr. Hill which directly ask the player about their fears (clowns vs. scarecrows, spiders vs. needles, etc.), and then tailors some scare content to those answers. For example, if you expressed a fear of clowns, the psycho in the game might wear a clown mask – if you feared scarecrows more, you might encounter a scarecrow jump scare instead. This is a unique way the game psychologically targets the player. It’s not a mechanic that the character experiences (it’s *you*, the player, being analyzed), which is a playful breaking of the fourth wall. The Quarry doesn’t include an equivalent therapist, so it doesn’t adapt to player fears in the same manner. Neither game features dynamic mental state changes for characters; any “psychological” effect is scripted in the narrative (like a character going mad due to the Wendigo curse in Until Dawn is predetermined by story, not by player action).
+    - **The Last of Us:** Emphasizes psychological and emotional storytelling (characters dealing with trauma, loss, and moral ambiguity) but does so through linear narrative rather than gameplay mechanics. There’s no sanity or fear system – the psychological impact is on the player’s feelings. For example, the game might put you in an uncomfortable gameplay situation (like controlling a character bent on revenge) to impart a psychological or emotional effect, but the game systems (health, combat, etc.) remain standard. The series is grounded in reality and focuses on human drama; psychological horror elements (like hallucinations or mental state affecting gameplay) are not present.
+    - **Resident Evil 7:** RE7 is more visceral horror but does include a few hallucination scenes (induced by the Molded infection or the influence of Eveline, the bioweapon child). These are scripted moments (such as seeing Jack’s ghost or flashes of Eveline) and not something the player can control. There isn’t a sanity meter – Ethan remains stable (if shocked) through most of the game. Resident Evil as a series typically attributes hallucinations to virus effects or neurotoxins in story, but doesn’t turn them into a gameplay resource. One psychological-ish mechanic in RE7 is the **videotapes**: playing a VHS tape puts you in another person’s perspective during a terrifying scenario, effectively making you *experience* someone else’s past trauma. This is more of a narrative device, but it does play with perspective and empathy in an interactive way.
+    - **Dead Space:** Primarily survival horror with body horror, but by Dead Space 2, Isaac suffers hallucinations from Marker-induced dementia. In Dead Space 1 (and the remake), this is less pronounced until the very end (Isaac has a brief hallucination in the final scene). The remake’s alternate ending suggests a deteriorated mental state, but during gameplay, there’s no sanity mechanic – Isaac might hear whispers or see things (like Nicole appearing and talking to him), yet these don’t affect controls or require the player to do anything special. They are unsettling narrative events. No measures of fear or stress are tracked in-game aside from player heartbeat audio increasing when enemies are near (which is just an audio cue).
+    - **Amnesia: The Dark Descent:** Introduces an explicit **Sanity Meter**, a seminal mechanic in horror gaming. Staying in darkness, witnessing disturbing events, or looking directly at monsters causes Daniel’s sanity to drop:contentReference[oaicite:78]{index=78}. The game represents sanity levels with descriptive phrases (“Crystal clear” down to “...”). As sanity decreases, the game world starts to subtly change: the camera sways, controls become sluggish, Daniel experiences hallucinations like insects crawling on the screen or hearing whispers. At very low sanity, his vision is extremely distorted and he might even attract enemies more easily. In normal mode, sanity loss alone cannot kill you – it just makes everything more difficult to navigate. However, if Daniel’s sanity fully depletes, he becomes susceptible to a fainting spell, which can drop him to the ground (and in Hard Mode, reaching zero sanity will result in death:contentReference[oaicite:79]{index=79}:contentReference[oaicite:80]{index=80}). The only ways to **recover sanity** are to complete objectives/puzzles or stand in well-lit areas for a time:contentReference[oaicite:81]{index=81}. This creates a core loop: balance time in darkness (stealthy but sanity-draining) with seeking light (safe for sanity but risky for being seen). It’s a direct mechanical tie between psychological state and gameplay – panic and fear aren’t just felt by the player, they manifest in the character’s behavior and perceptions. Amnesia’s sanity system was inspired by earlier games like Eternal Darkness, and it remains one of the defining features of that game, forcing players to constantly monitor an extra “mental health” bar in addition to physical health.
+    - **Visage:** Clearly takes inspiration from Amnesia’s sanity system. Dwayne’s sanity acts as a measure of how much paranormal influence is affecting him. When the player is in the dark too long or witnesses paranormal events (lights flickering, door slamming, TV turning on by itself), the sanity meter drops:contentReference[oaicite:82]{index=82}:contentReference[oaicite:83]{index=83}. A lower sanity level leads to more frequent and aggressive supernatural events – essentially, the game’s hauntings intensify as your sanity wanes:contentReference[oaicite:84]{index=84}:contentReference[oaicite:85]{index=85}. At very low sanity, a ghost will often spawn and directly hunt the player, leading to possible death. The game communicates sanity status via a brain icon UI: a clear brain is stable, a red, clouded brain means dangerously low sanity. To **maintain sanity**, the player must stay in lit areas and use sanity-restoring pills when needed:contentReference[oaicite:86]{index=86}. If the house’s lights go out (which happens often), the player should react quickly to avoid being in complete darkness. This creates constant psychological pressure – you feel urgency to get lights back on or crack a glowstick because you know the longer you stumble in the dark, the more *your character’s mind* is unraveling (and thus the game’s threats escalate). It’s a vicious cycle where fear feeds the ghosts. Unlike Amnesia, Visage’s sanity system can lead to very tangible and immediate threats (ghost attack) if ignored. Thus, a lot of the tension comes from an interplay of the player’s *psychological* fear (not wanting to go into a dark basement) with the *mechanical* fear (knowing if you do, your sanity will drop and something bad will happen). This marriage of atmospheric horror and a sanity mechanic makes Visage a modern example of psychological horror where the player’s mental state management is integral to gameplay:contentReference[oaicite:87]{index=87}.
+    - **Little Nightmares:** While not having a sanity system, it leans on psychological horror elements like childhood fears – long shadows, grotesque adult figures, being small and helpless. Its mechanics don’t include any madness or fear gauges; the fear is induced purely through external audio-visual design. The character Six does not have a mental state the player can affect (though she has scripted moments of hunger which cause her to double over until she eats – a physiological need rather than psychological). The horror here is more visceral and thematic than psychological in a clinical sense.
+    - **Stasis: Bone Totem:** The game’s horror is story and atmosphere driven, including disturbing imagery and moral dilemmas, but it doesn’t simulate psychological status. Characters don’t have an insanity meter or fear level – any descent into despair or emotional trauma they experience is conveyed through dialogue and voice acting, not interactive mechanics. As a point-and-click adventure, it’s more about puzzle-solving under horrifying circumstances. However, the narrative can get very dark (involving personal tragedies for the protagonists), and the player must make some grim decisions, which could be considered psychological tests (for instance, choosing to perform a potentially terrible act to progress). But those are one-time narrative choices, not ongoing mechanics. Essentially, the psychological impact is on the player’s conscience and emotions rather than tracked as a game variable.
+
+
+--------------------------------------
+User:
+
+
+Good work. Now please rewrite your response to omit any symbols used in Markdown/markup-languages. Keep the text rendering parameters I requested, but remove all citations for sources.
+--------------------------------------
+ChatGPT:
+
+
+pgsql
+Copy code
+Exploration and Environmental Interaction
+    Silent Hill 2
+        Third-person navigation through fog-shrouded town and interiors
+        Dense fog and darkness limit visibility, affecting pathfinding and tension
+        Linear progression with thorough searching for keys, notes, clues, and supplies
+        Environmental examination and context-sensitive item use to unlock routes
+    SOMA
+        First-person exploration of an underwater facility with physics-based interaction
+        Grab, rotate, drag, and place objects to manipulate machinery and open paths
+        Real-time terminal and log interaction without traditional cutscenes
+        Contextual use of access cards, switches, and power routing
+    Layers of Fear
+        First-person exploration of a transforming Victorian mansion
+        Spatial manipulation and impossible architecture that reconfigures rooms and routes
+        Linear progression through setpiece spaces with environmental storytelling artifacts
+    Alan Wake series
+        Third-person guided exploration through chapter-based areas
+        Occasional vehicle traversal for larger segments
+        Collectible manuscript pages and supply caches rewarding exploration
+        Light sources as landmarks and safe havens during traversal
+    Until Dawn and The Quarry
+        Limited free-roam within setpiece locations between narrative beats
+        Clue and evidence discovery in constrained areas
+        Object inspection and light environmental interaction to inform later choices
+    The Last of Us series
+        Linear progression with semi-open exploration pockets
+        Scavenging for ammo, materials, artifacts, and optional conversations
+        Light traversal problem-solving such as ladders, dumpsters, planks, ropes, and raft assistance
+    Resident Evil 7 Biohazard
+        Semi-open mansion and grounds with key-item gating and backtracking
+        Map-assisted navigation and room-by-room clearing
+        Early-game environmental hiding and stalking sequences
+    Dead Space remake
+        Interconnected spaceship decks with tram-based backtracking and security clearances
+        Zero-gravity traversal with full 360-degree movement
+        Vacuum segments with oxygen timers influencing route planning
+    Alien Isolation
+        Semi-open space station segmented by trams, elevators, and security gates
+        Vent shaft routing and alternate pathfinding
+        Manual save stations as diegetic progression markers
+    Amnesia The Dark Descent
+        First-person exploration of a castle with no map and heavy reliance on spatial memory
+        Light source placement and route revisiting to gather keys, chemicals, and tools
+    Visage
+        Hub-like haunted house with chapter-trigger items and progressive unlocking
+        Extensive object interaction including lights, switches, cupboards, and doors
+        Inventory-limited item placement such as candles to stabilize areas
+    Little Nightmares series
+        2.5D side-scrolling traversal with vertical climbing, shimmying, and vent crawling
+        Linear room sequences with hidden passages and object boosts
+        Environmental scaling challenges due to protagonist size
+    Stasis Bone Totem
+        Isometric point-and-click scene exploration with hotspot discovery
+        Multi-character location switching for parallel investigation
+        Screen-dense interactive details without camera control
+
+Puzzle-Solving and Interaction
+    Silent Hill 2
+        Riddle and combination puzzles with adjustable difficulty
+        Poem, code, and environmental clue interpretation for locks and mechanisms
+    SOMA
+        Logical and environmental puzzles including power rerouting and terminal access
+        Physics and connector manipulation integrated with machinery operation
+    Layers of Fear
+        Light environmental puzzles such as safes, codes, and perceptual navigation
+        Progression via noticing environment changes and subtle visual cues
+    Alan Wake
+        Generator start sequences and device interactions
+        Light-based obstacle clearing and occasional machinery prompts
+    Until Dawn and The Quarry
+        Narrative clue collection and occasional contextual mini-interactions
+        Deductive assembly of story evidence rather than traditional puzzles
+    The Last of Us series
+        Realistic traversal puzzles using ladders, dumpsters, planks, ropes, glass-breaking, and safe codes
+        Companion boosting and cooperative positioning
+    Resident Evil 7 Biohazard
+        Emblem keys, combination locks, and silhouette projector puzzles
+        Note-reading and prop inspection to reveal solutions
+    Dead Space remake
+        Circuit breaker power distribution choices influencing lights, doors, oxygen
+        Zero-gravity alignment and machinery calibration tasks
+        Timed engineering setpieces functioning as procedural puzzles
+    Alien Isolation
+        Hacking mini-games with pattern matching and code entry
+        Rewire panels to reallocate power and environmental systems for access or stealth
+    Amnesia The Dark Descent
+        Item combination, machinery restoration, chemical mixing, and physical blockade removal
+    Visage
+        Perception and sequence puzzles within chapters
+        Light restoration, bulb replacement, and signal or symbol interpretation
+    Little Nightmares series
+        Physics and timing puzzles with stacking, throwing, rocking, and luring
+        Pattern and sequence tasks embedded in platforming
+    Stasis Bone Totem
+        Inventory combination crafting and multi-character cooperation puzzles
+        Code and schematic deduction from lore logs
+        Remote item transfer between characters as a puzzle vector
+
+Stealth and Evasion
+    Silent Hill 2
+        Optional enemy avoidance without formal stealth systems
+        Darkness and fog as practical concealment with proximity-based detection
+    SOMA
+        No combat; crouch, darkness, and line-of-sight management against varied enemy senses
+        Enemy-specific behaviors requiring adaptive evasion
+    Layers of Fear
+        No stealth; scripted apparitions avoided by movement and scene progression
+    Alan Wake
+        Limited evasion by sprinting to light safe havens rather than hiding
+    Until Dawn and The Quarry
+        Scripted stealth via hide prompts and controller stillness sequences
+        Run-or-hide decision points with QTE gating
+    The Last of Us series
+        Core stealth loop with crouch, cover, silent takedowns, listen mode, and throwable distractions
+        Enemy alert states and patrol logic including advanced tracking in later entries
+    Resident Evil 7 Biohazard
+        Early-game evasion against patrolling stalkers
+        Situational retreat preferred when resources are scarce
+    Dead Space remake
+        Minimal stealth; limited run-past opportunities with emphasis on confrontation
+        Brief evasion against specific unkillable threats before scripted solutions
+    Alien Isolation
+        Core stealth loop using hiding spots, leaning, breath control, and motion tracking risk
+        Distraction devices to redirect threats with unpredictable patrol AI
+    Amnesia The Dark Descent
+        Pure evasion; darkness concealment versus sanity trade-offs
+        Door barricading and line-of-sight breaks as primary survival methods
+    Visage
+        No combat; hiding, light seeking, and sanity stabilization to reduce ghost hunts
+        Audio-visual tells prompting concealment
+    Little Nightmares series
+        Crouch movement, object concealment, patrol learning, and chase breakaways
+    Stasis Bone Totem
+        No stealth mechanics; danger resolved via puzzles or choices
+
+Combat and Weapons
+    Silent Hill 2
+        Deliberately limited melee and firearm handling with scarce ammo and healing
+        Vulnerability-focused pacing and optional boss engagements
+    SOMA
+        No combat; being caught triggers punishment or disorientation states
+    Layers of Fear
+        No combat; tension from environment and scripted scares
+    Alan Wake
+        Light stripping mechanic to remove enemy protection before firearms can damage
+        Battery and ammo scarcity with flares and flashbangs as area control
+        Dodge timing and light-based healing in safe zones
+    Until Dawn and The Quarry
+        QTE-driven shooting or melee prompts with fail-state lethality
+        Cinematic combat resolved by timed inputs and branch consequences
+    The Last of Us series
+        Resource-limited firearms, bows, explosives, and breakable melee
+        Stealth kills, cover transitions, and on-the-fly crafting during encounters
+        Companion support and AI flanking behaviors
+    Resident Evil 7 Biohazard
+        First-person firearms with guarding to reduce damage
+        High enemy durability emphasizing precision and ammo conservation
+        Boss fights with unique environmental interactions
+    Dead Space remake
+        Strategic dismemberment with limb targeting and weapon-specific utility
+        Stasis for crowd control and kinesis for environmental impalement
+        Suit and weapon upgrades balanced by limited nodes
+    Alien Isolation
+        Minimal effective combat against main threat; deterrence via flamethrower and devices
+        Limited firearms for secondary enemies at risk of noise escalation
+    Amnesia The Dark Descent
+        No combat; flight as sole option
+    Visage
+        No combat; prevention and evasion only
+    Little Nightmares series
+        Rare scripted improvised weapons with heavy, slow swings in the sequel
+        Primary reliance on avoidance over confrontation
+    Stasis Bone Totem
+        No real-time combat; conflict outcomes via puzzle resolution or narrative choices
+
+Resource Management and Crafting
+    Silent Hill 2
+        Ammo and healing scarcity without crafting
+        Implicit behavior tracking influencing endings via playstyle
+    SOMA
+        Minimal resource considerations; health restoration nodes and key items only
+    Layers of Fear
+        No consumable resources; collection of story items only
+    Alan Wake
+        Battery and ammunition rationing with episodic gear resets
+        Strategic use of flares and flashbangs
+    Until Dawn and The Quarry
+        No inventory economy; item usage governed by narrative state and choices
+    The Last of Us series
+        Scavenging-based crafting for shivs, medkits, bombs, and Molotovs
+        Limited carry caps, real-time or near real-time crafting, and workbench upgrades
+    Resident Evil 7 Biohazard
+        Slot-limited inventory with shared storage boxes
+        Chem fluid combination for meds, ammo, and fuel with prioritization trade-offs
+        Mode-based limited saving as a meta-resource on higher difficulties
+    Dead Space remake
+        Inventory slot economy, credit spending, and store-based stash management
+        Ammo type diversification and weapon selection affecting drop tables
+        Power node allocation for suit and weapons; stasis energy and oxygen as timed resources
+    Alien Isolation
+        Component-based crafting for medkits, noisemakers, explosives, and tools
+        Extreme scarcity of fuel and ammo; crafting in partial real-time
+        Manual save spacing as temporal risk management
+    Amnesia The Dark Descent
+        Oil, tinderboxes, and sanity as interlinked resources
+        Laudanum for health with puzzle completion restoring sanity
+    Visage
+        Strict dynamic item carry limit for pills, lighters, bulbs, and candles
+        Light maintenance to stabilize sanity and reduce haunt frequency
+    Little Nightmares series
+        No inventory or consumables; object carry is immediate-use only
+    Stasis Bone Totem
+        Multi-inventory character management and remote item transfer
+        Crafting via inventory combination and role-based item use
+
+Narrative Structure and Player Choices
+    Silent Hill 2
+        Multiple endings determined by hidden behavioral variables and exploration focus
+        Linear chapter flow with symbolic enemy and environment design
+    SOMA
+        Linear narrative with reflective moral choices affecting localized scenes and interpretation
+    Layers of Fear
+        Multiple endings based on attention to family versus self and object interaction patterns
+        Linear chapter flow with interpretive environmental storytelling
+    Alan Wake series
+        Fixed episodic narrative structure with optional collectible foreshadowing
+    Until Dawn
+        Branching butterfly effect with character survival permutations and autosave commitment
+        Player fear profiling interludes influencing scare content
+    The Quarry
+        Extensive branching with Path tracking and optional limited death rewinds
+        Multiplayer and movie mode presentation options
+    The Last of Us series
+        Fixed canonical narratives with optional conversations and artifacts for depth
+    Resident Evil 7 Biohazard
+        Primarily linear with a late binary cure choice leading to variant sequences and endings
+        Playable flashback tapes as experiential narrative delivery
+    Dead Space remake
+        Linear narrative with an unlockable alternate ending via New Game Plus
+        Audio and video logs as primary lore conveyance
+    Alien Isolation
+        Fixed mission-based narrative with optional logs and archives for context
+    Amnesia The Dark Descent
+        Multiple endings determined by final confrontation actions
+    Visage
+        Ending variants based on chapter completion and hidden tape discovery
+    Little Nightmares series
+        Fixed endings with optional collectible-triggered post-credits additions in the sequel
+    Stasis Bone Totem
+        Mostly linear progression with late-game branching endings based on a major decision
+
+Psychological Horror and Sanity Mechanics
+    Silent Hill 2
+        Implicit psychological systems via player behavior influencing ending tone
+        Atmosphere, symbolism, and audiovisual stress as primary psychological levers
+    SOMA
+        Existential and identity-focused psychological tension without a sanity meter
+        Perceptual distortion near enemies as localized stress feedback
+    Layers of Fear
+        Environmental metamorphosis embodying mental deterioration without tracked sanity
+    Alan Wake
+        Reality versus fiction blending with light-interactive surreal elements
+    Until Dawn and The Quarry
+        Player-focused fear tailoring and scripted psychological beats without character sanity stats
+    The Last of Us series
+        Emotional and moral stress conveyed through narrative framing without mechanical sanity
+    Resident Evil 7 Biohazard
+        Scripted hallucinations and perspective shifts communicating infection and influence
+    Dead Space remake
+        Hallucinatory and suggestive elements integrated narratively rather than as a tracked state
+    Amnesia The Dark Descent
+        Explicit sanity system tied to darkness, disturbing sights, and monster observation
+        Sanity recovery via light exposure and puzzle progress, with escalating audiovisual impairment
+    Visage
+        Sanity meter tied to darkness and paranormal events, driving haunt frequency and lethality
+        Sanity stabilization through light, pills, and environmental control
+    Little Nightmares series
+        Psychological unease through scale, vulnerability, and visual storytelling without tracked sanity
+    Stasis Bone Totem
+        Psychological impact delivered through narrative dilemmas and atmosphere rather than mechanics
+
+--------------------------------------
+User:
+
+
+Now keep as much specificity as possible in the context of "a character has been given a goal to accomplish or an obstacle to overcome, but boil each mechanics down to function in the sense of paradigms for story and player agency: what obstacle/goal is each mechanic trying to overcome/accomplish with respect to the character/characters, and what choices of method is allowed the player to do so?
+
+Try to divorce each aspect of mechanics from their original context -- we are trying to isolate and understand them on the level of gameplay-craft as much as possible.
+
+Keep the text rendering parameters the same -- they're perfect.
+--------------------------------------
+ChatGPT:
+
+
+pgsql
+Copy code
+Exploration and Environmental Interaction
+    Goal or obstacle
+        Character must reach a destination, uncover hidden information, or navigate an obstructed environment
+    Methods allowed
+        Moving through spaces with restricted visibility or access
+        Unlocking barriers with keys, codes, or context-sensitive items
+        Using environmental clues to orient without maps or guides
+        Backtracking through changed or previously blocked routes
+        Switching between routes or characters to cover more ground
+        Identifying optional hidden passages or secrets that reward thoroughness
+
+Puzzle-Solving and Interaction
+    Goal or obstacle
+        Character must overcome locked, broken, or cryptic obstacles to continue toward a larger goal
+    Methods allowed
+        Interpreting symbols, codes, and riddles from environmental clues
+        Operating machinery, terminals, or power systems by correct sequence or logic
+        Combining tools or objects to form a new solution
+        Using perception and attention to environmental changes as the puzzle itself
+        Coordinating multiple characters with distinct abilities for cooperative solutions
+        Making trade-offs between alternate paths or resource expenditures to resolve barriers
+
+Stealth and Evasion
+    Goal or obstacle
+        Character must avoid capture, injury, or detection by stronger adversaries
+    Methods allowed
+        Hiding behind objects or within concealment points
+        Staying in shadow or darkness to reduce visibility
+        Remaining still or silent to reduce detection by sound
+        Timing movement to exploit patrol gaps or distracted foes
+        Choosing between running past an obstacle versus waiting safely
+        Using decoys or noise to redirect threats away from the path
+        Accepting vulnerability and fleeing until pursuit ends
+
+Combat and Weapons
+    Goal or obstacle
+        Character must neutralize or repel hostile threats blocking progress
+    Methods allowed
+        Direct confrontation using melee or ranged tools
+        Exploiting enemy vulnerabilities such as weak points, limbs, or protective layers
+        Using environmental hazards or objects as improvised weapons
+        Temporarily stunning or deterring unkillable enemies rather than defeating them
+        Executing precise timing moves to avoid harm while countering
+        Conserving scarce ammunition or durability by deciding when to fight or when to flee
+        Utilizing defensive stances or guards to endure unavoidable hits
+
+Resource Management and Crafting
+    Goal or obstacle
+        Character must endure scarcity of tools, health, or survival materials
+    Methods allowed
+        Searching environments to replenish limited supplies
+        Combining raw materials to craft healing, offensive, or utility items
+        Making strategic trade-offs when the same material can serve multiple purposes
+        Allocating upgrades across equipment or character traits with limited points
+        Restricting what can be carried at once, forcing decisions of priority
+        Using non-renewable resources like save opportunities or oxygen timers as part of planning
+        Deciding between immediate consumption for survival versus saving for later risks
+
+Narrative Structure and Player Choices
+    Goal or obstacle
+        Character must advance the story while player balances agency against fixed outcomes
+    Methods allowed
+        Selecting explicit choices that branch narrative paths or character relationships
+        Acting through gameplay style or behavior that implicitly shapes the story outcome
+        Committing to permanent consequences without retries or reversals
+        Experiencing optional perspectives or flashbacks to reveal hidden context
+        Choosing order of chapters or content which reshapes narrative pacing
+        Achieving different endings through completeness of exploration or key final decisions
+
+Psychological Horror and Sanity Mechanics
+    Goal or obstacle
+        Character must maintain mental stability while facing disturbing or disorienting forces
+    Methods allowed
+        Preserving sanity or equivalent mental resilience by managing exposure to darkness or trauma
+        Using light, medication, or progression as recovery methods
+        Enduring audiovisual distortion or impaired control when stability falters
+        Recognizing when perception is unreliable and adapting behavior despite hallucination
+        Accepting that some threats are psychological tests with no physical countermeasure
+        Balancing immediate concealment benefits against long-term psychological degradation
+
+--------------------------------------
+User:
+
+
+Specify further. Surgically-precise, academically rigorous, and absolutely clear. No mash-ups, no "and" or "&" in section titles and goals/obstacles/methods must fit within the new, granular reorganization with absolute clarity.
+--------------------------------------
+ChatGPT:
+
+
+pgsql
+Copy code
+Movement
+    Goal or obstacle
+        Character must traverse an environment that contains physical obstructions or spatial uncertainty
+    Methods
+        Walk, run, or crawl through areas with restricted visibility
+        Climb or descend ladders, ropes, or scalable surfaces
+        Jump across gaps or ledges requiring timing and precision
+        Crawl through confined spaces such as vents or tunnels
+        Balance across narrow surfaces to cross otherwise impassable terrain
+
+Access Control
+    Goal or obstacle
+        Character must bypass locked or restricted passages
+    Methods
+        Locate and use keys or access cards to open secured barriers
+        Input codes, combinations, or symbolic sequences to unlock devices
+        Align environmental props to create a correct unlocking configuration
+        Reroute power or restore systems to gain functional access
+        Complete hacking or bypass mini-games to disable electronic locks
+
+Environmental Manipulation
+    Goal or obstacle
+        Character must alter the environment to enable progress
+    Methods
+        Move furniture, debris, or heavy objects to clear or create paths
+        Place props such as ladders, planks, or pallets to bridge gaps
+        Replace or repair damaged equipment to reactivate systems
+        Trigger light sources or machinery to reveal new routes
+        Switch characters with complementary abilities to modify environments
+
+Perception and Observation
+    Goal or obstacle
+        Character must identify hidden information or interpret ambiguous stimuli
+    Methods
+        Examine notes, artifacts, or environmental details for encoded meaning
+        Observe changes in room layout, object position, or architecture to detect progression triggers
+        Interpret audio or visual distortions as warnings of threat proximity
+        Recognize patterns, symbols, or repeated motifs as puzzle solutions
+        Use line-of-sight tools such as enhanced listening or motion tracking to gain awareness
+
+Problem-Solving
+    Goal or obstacle
+        Character must overcome abstract or logical barriers blocking progression
+    Methods
+        Solve riddles or textual puzzles through reasoning
+        Perform sequence-based operations on machinery or terminals
+        Match or align visual elements to complete recognition tasks
+        Assemble or combine items into functioning mechanisms
+        Deduce safe codes or entry sequences from contextual clues
+
+Concealment
+    Goal or obstacle
+        Character must avoid visual detection by hostile entities
+    Methods
+        Hide behind static objects such as walls, furniture, or crates
+        Enter concealment zones such as lockers or under beds
+        Maintain line-of-sight obstruction by staying out of enemy view cones
+        Reduce visibility through darkness or fog where detection range is reduced
+
+Silence
+    Goal or obstacle
+        Character must avoid auditory detection by hostile entities
+    Methods
+        Crouch-walk to reduce footstep noise
+        Remain stationary during scripted checks to pass unnoticed
+        Hold breath in confined hiding spaces to avoid close-range detection
+        Time movement to avoid stepping on noisy surfaces such as broken glass
+        Throw objects or deploy noise-making tools to misdirect attention
+
+Escape
+    Goal or obstacle
+        Character must disengage from pursuit or break direct confrontation
+    Methods
+        Sprint to exit areas faster than pursuers
+        Slam or barricade doors to create momentary obstacles
+        Break line-of-sight by turning corners or hiding after a chase
+        Exploit scripted chase paths requiring evasion maneuvers
+        Temporarily disable or repel pursuers with stuns or deterrents
+
+Direct Offense
+    Goal or obstacle
+        Character must incapacitate, destroy, or weaken a threat
+    Methods
+        Use melee weapons with limited reach and durability
+        Fire ranged weapons with finite ammunition
+        Target enemy weak points such as heads, limbs, or shields
+        Apply light or other specialized tools to strip protective layers
+        Employ heavy or situational weapons for temporary advantage
+
+Indirect Offense
+    Goal or obstacle
+        Character must use non-standard means to neutralize or reduce threats
+    Methods
+        Trigger environmental hazards such as traps, fire, or explosives
+        Use telekinetic or equivalent abilities to repurpose objects as weapons
+        Deploy flares or fire-based deterrents to repel enemies without killing
+        Time-deliver explosives or mines to anticipate enemy movement
+        Exploit scripted vulnerabilities during boss or setpiece encounters
+
+Defense
+    Goal or obstacle
+        Character must mitigate or endure enemy attacks
+    Methods
+        Guard or block to reduce damage impact
+        Execute timed dodges or evasive maneuvers to avoid attacks entirely
+        Retreat into safe zones that provide automatic recovery
+        Use consumable healing items to restore lost health
+        Maintain spacing and terrain advantage to minimize exposure
+
+Resource Economy
+    Goal or obstacle
+        Character must survive with limited supplies or tools
+    Methods
+        Scavenge environments for ammunition, healing, or crafting components
+        Allocate finite inventory slots between combat, healing, and puzzle items
+        Deposit or withdraw items from storage to adjust loadout
+        Trade currency or equivalent points for equipment or upgrades
+        Prioritize carrying certain items over others due to scarcity
+
+Crafting
+    Goal or obstacle
+        Character must produce useful items from raw components
+    Methods
+        Combine chemicals, herbs, or base materials into healing or ammo products
+        Construct traps or explosives from scavenged parts
+        Assemble unique tools from parts to unlock progress
+        Choose between mutually exclusive crafting recipes using the same inputs
+        Build and upgrade equipment incrementally at workbenches or stations
+
+Narrative Agency
+    Goal or obstacle
+        Character must confront decisions that alter story trajectory or resolution
+    Methods
+        Select explicit dialogue or action choices to branch narrative
+        Allow gameplay behavior to passively influence outcome variables
+        Commit to life-or-death outcomes of characters with no reversal
+        Complete or ignore optional exploration content that influences epilogue
+        Trigger alternate endings through specific final actions or completeness thresholds
+
+Psychological Stability
+    Goal or obstacle
+        Character must resist disorientation or breakdown under horror stress
+    Methods
+        Maintain exposure to light or other stabilizing conditions
+        Consume restorative items such as sanity pills or calming agents
+        Progress through puzzles or objectives to restore equilibrium
+        Limit direct viewing of disturbing sights to reduce psychological impact
+        Endure audiovisual distortions and motor impairment when mental state deteriorates
+
+--------------------------------------
+User:
+
+
+Give each respective method (within each respective section) a 1-or-2-word title (without any "or", "and", or "&" included). Keep it precise, concise, and absolutely clear to the definition of each respective method.
+--------------------------------------
+ChatGPT:
+
+
+pgsql
+Copy code
+Movement
+    Walk
+        Traverse areas with restricted visibility
+    Climb
+        Ascend or descend scalable surfaces
+    Jump
+        Cross gaps or ledges requiring precision
+    Crawl
+        Navigate confined spaces such as vents
+    Balance
+        Cross narrow or unstable terrain
+
+Access Control
+    Key
+        Unlock secured barriers with specific items
+    Code
+        Input numerical or symbolic sequences
+    Alignment
+        Configure props into correct unlocking patterns
+    Power
+        Reroute or restore energy systems
+    Hack
+        Complete bypass mini-games for electronic access
+
+Environmental Manipulation
+    Push
+        Move objects to clear or create paths
+    Bridge
+        Place props to span traversal gaps
+    Repair
+        Replace or fix damaged devices
+    Activate
+        Trigger lights or machines to reveal routes
+    Switch
+        Change characters with distinct interaction abilities
+
+Perception
+    Inspect
+        Examine artifacts for encoded meaning
+    Notice
+        Detect environmental changes signaling progression
+    Distortion
+        Interpret audiovisual anomalies as warnings
+    Symbol
+        Recognize patterns or motifs as solutions
+    Sense
+        Use enhanced perception tools for awareness
+
+Problem-Solving
+    Riddle
+        Resolve textual or logical challenges
+    Sequence
+        Operate terminals or machines in correct order
+    Match
+        Align visual elements to satisfy recognition tasks
+    Assemble
+        Combine items into functioning mechanisms
+    Deduce
+        Derive safe codes from contextual clues
+
+Concealment
+    Cover
+        Hide behind static environmental objects
+    Shelter
+        Enter concealment zones like lockers
+    Line
+        Maintain obstruction of enemy sight cones
+    Darkness
+        Use reduced visibility zones to limit detection
+
+Silence
+    Crouch
+        Move slowly to reduce noise
+    Stillness
+        Remain motionless during scripted checks
+    Breath
+        Hold respiration to evade close detection
+    Surface
+        Avoid noisy terrain by timing steps
+    Distraction
+        Deploy thrown or crafted noisemakers
+
+Escape
+    Sprint
+        Outrun pursuers to exit areas
+    Barricade
+        Block doors to create delay
+    Break
+        Terminate line-of-sight by turning corners
+    Chase
+        Execute scripted evasion sequences
+    Stun
+        Temporarily disable pursuers with deterrents
+
+Direct Offense
+    Melee
+        Strike with short-range weapons
+    Firearm
+        Shoot with finite ammunition
+    Target
+        Exploit weak points or body parts
+    Light
+        Strip protective layers with illumination
+    Heavy
+        Employ situational high-damage tools
+
+Indirect Offense
+    Hazard
+        Trigger environmental dangers
+    Telekinesis
+        Repurpose objects as projectiles
+    Flare
+        Repel enemies with light or fire
+    Mine
+        Deploy explosives with delayed activation
+    Vulnerability
+        Exploit scripted enemy weaknesses
+
+Defense
+    Guard
+        Block to reduce incoming damage
+    Dodge
+        Evade attacks with timed maneuvers
+    Refuge
+        Retreat into safe recovery zones
+    Heal
+        Consume items to restore health
+    Space
+        Maintain terrain advantage to avoid exposure
+
+Resource Economy
+    Scavenge
+        Collect ammunition or supplies from environment
+    Slots
+        Allocate limited inventory capacity
+    Storage
+        Deposit or withdraw items from reserves
+    Trade
+        Spend currency for tools or upgrades
+    Prioritize
+        Choose essential items over excess
+
+Crafting
+    Mix
+        Combine materials into consumables
+    Construct
+        Build traps or explosives
+    Tool
+        Assemble unique functional items
+    Choice
+        Select exclusive recipes from shared inputs
+    Upgrade
+        Incrementally improve equipment
+
+Narrative Agency
+    Choice
+        Select explicit dialogue or actions
+    Behavior
+        Allow playstyle to influence outcomes
+    Consequence
+        Accept irreversible life-or-death results
+    Exploration
+        Complete optional content affecting epilogue
+    Ending
+        Trigger alternate conclusions via final actions
+
+Psychological Stability
+    Light
+        Remain in illuminated conditions to maintain clarity
+    Medicine
+        Consume sanity-restoring items
+    Progress
+        Solve puzzles or objectives to regain equilibrium
+    Avert
+        Avoid direct observation of disturbing events
+    Distortion
+        Endure impaired perception when stability declines
+
+--------------------------------------
+User:
+
+
+Within each method, after its description, include what problem(s)/obstacle(s)/goal(s) the method fixes/overcomes/acheives.
+--------------------------------------
+ChatGPT:
+
+
+pgsql
+Copy code
+Movement
+    Walk
+        Traverse areas with restricted visibility
+        Solves problem of covering distance in uncertain or tense spaces
+    Climb
+        Ascend or descend scalable surfaces
+        Solves problem of vertical barriers that block progress
+    Jump
+        Cross gaps or ledges requiring precision
+        Solves problem of unreachable platforms or separated paths
+    Crawl
+        Navigate confined spaces such as vents
+        Solves problem of bypassing blocked passages or tight obstacles
+    Balance
+        Cross narrow or unstable terrain
+        Solves problem of traversing dangerous or precarious surfaces safely
+
+Access Control
+    Key
+        Unlock secured barriers with specific items
+        Solves problem of locked doors or restricted areas
+    Code
+        Input numerical or symbolic sequences
+        Solves problem of encrypted or coded locks
+    Alignment
+        Configure props into correct unlocking patterns
+        Solves problem of symbolic or shape-based barriers
+    Power
+        Reroute or restore energy systems
+        Solves problem of inactive machinery or blocked electronic access
+    Hack
+        Complete bypass mini-games for electronic access
+        Solves problem of overridden or digital security systems
+
+Environmental Manipulation
+    Push
+        Move objects to clear or create paths
+        Solves problem of blocked corridors or inaccessible platforms
+    Bridge
+        Place props to span traversal gaps
+        Solves problem of uncrossable spaces or separations
+    Repair
+        Replace or fix damaged devices
+        Solves problem of inoperable systems needed for progression
+    Activate
+        Trigger lights or machines to reveal routes
+        Solves problem of hidden paths or disabled mechanisms
+    Switch
+        Change characters with distinct interaction abilities
+        Solves problem of environment requiring unique skill application
+
+Perception
+    Inspect
+        Examine artifacts for encoded meaning
+        Solves problem of unclear instructions or hidden solutions
+    Notice
+        Detect environmental changes signaling progression
+        Solves problem of navigation in shifting or deceptive environments
+    Distortion
+        Interpret audiovisual anomalies as warnings
+        Solves problem of recognizing imminent threats
+    Symbol
+        Recognize patterns or motifs as solutions
+        Solves problem of decoding visual puzzles or narrative clues
+    Sense
+        Use enhanced perception tools for awareness
+        Solves problem of locating unseen enemies or hidden resources
+
+Problem-Solving
+    Riddle
+        Resolve textual or logical challenges
+        Solves problem of blocked access requiring reasoning
+    Sequence
+        Operate terminals or machines in correct order
+        Solves problem of non-functional or disabled mechanisms
+    Match
+        Align visual elements to satisfy recognition tasks
+        Solves problem of locked panels or visual barriers
+    Assemble
+        Combine items into functioning mechanisms
+        Solves problem of incomplete or broken devices
+    Deduce
+        Derive safe codes from contextual clues
+        Solves problem of securing access through hidden information
+
+Concealment
+    Cover
+        Hide behind static environmental objects
+        Solves problem of enemy line-of-sight during patrols
+    Shelter
+        Enter concealment zones like lockers
+        Solves problem of surviving close-range searches
+    Line
+        Maintain obstruction of enemy sight cones
+        Solves problem of approaching guarded areas without alerting foes
+    Darkness
+        Use reduced visibility zones to limit detection
+        Solves problem of advancing undetected in hostile spaces
+
+Silence
+    Crouch
+        Move slowly to reduce noise
+        Solves problem of alerting enemies via footsteps
+    Stillness
+        Remain motionless during scripted checks
+        Solves problem of surviving enemy scans or inspections
+    Breath
+        Hold respiration to evade close detection
+        Solves problem of detection during confined hiding
+    Surface
+        Avoid noisy terrain by timing steps
+        Solves problem of unavoidable hazardous floors
+    Distraction
+        Deploy thrown or crafted noisemakers
+        Solves problem of drawing enemies away from path of progress
+
+Escape
+    Sprint
+        Outrun pursuers to exit areas
+        Solves problem of surviving direct chase
+    Barricade
+        Block doors to create delay
+        Solves problem of slowing an unavoidable pursuer
+    Break
+        Terminate line-of-sight by turning corners
+        Solves problem of disengaging from pursuit
+    Chase
+        Execute scripted evasion sequences
+        Solves problem of cinematic survival setpieces
+    Stun
+        Temporarily disable pursuers with deterrents
+        Solves problem of buying time without permanent defeat
+
+Direct Offense
+    Melee
+        Strike with short-range weapons
+        Solves problem of close threats when ammo is absent
+    Firearm
+        Shoot with finite ammunition
+        Solves problem of distant or numerous enemies
+    Target
+        Exploit weak points or body parts
+        Solves problem of conserving ammo against durable foes
+    Light
+        Strip protective layers with illumination
+        Solves problem of enemies resistant to normal attacks
+    Heavy
+        Employ situational high-damage tools
+        Solves problem of overwhelming boss-level obstacles
+
+Indirect Offense
+    Hazard
+        Trigger environmental dangers
+        Solves problem of defeating enemies with limited personal resources
+    Telekinesis
+        Repurpose objects as projectiles
+        Solves problem of fighting without ammunition
+    Flare
+        Repel enemies with light or fire
+        Solves problem of unkillable or persistent pursuers
+    Mine
+        Deploy explosives with delayed activation
+        Solves problem of anticipating and controlling enemy routes
+    Vulnerability
+        Exploit scripted enemy weaknesses
+        Solves problem of mandatory boss progression barriers
+
+Defense
+    Guard
+        Block to reduce incoming damage
+        Solves problem of enduring unavoidable attacks
+    Dodge
+        Evade attacks with timed maneuvers
+        Solves problem of avoiding lethal strikes
+    Refuge
+        Retreat into safe recovery zones
+        Solves problem of surviving encounters until respite
+    Heal
+        Consume items to restore health
+        Solves problem of recovering from accumulated damage
+    Space
+        Maintain terrain advantage to avoid exposure
+        Solves problem of limiting simultaneous threats
+
+Resource Economy
+    Scavenge
+        Collect ammunition or supplies from environment
+        Solves problem of resource scarcity
+    Slots
+        Allocate limited inventory capacity
+        Solves problem of prioritizing essential items
+    Storage
+        Deposit or withdraw items from reserves
+        Solves problem of carrying capacity and future planning
+    Trade
+        Spend currency for tools or upgrades
+        Solves problem of supplementing shortages through exchange
+    Prioritize
+        Choose essential items over excess
+        Solves problem of balancing needs under scarcity
+
+Crafting
+    Mix
+        Combine materials into consumables
+        Solves problem of immediate survival deficits
+    Construct
+        Build traps or explosives
+        Solves problem of crowd control or environmental dominance
+    Tool
+        Assemble unique functional items
+        Solves problem of unlocking progression through specialized devices
+    Choice
+        Select exclusive recipes from shared inputs
+        Solves problem of limited resources serving multiple demands
+    Upgrade
+        Incrementally improve equipment
+        Solves problem of scaling difficulty with finite tools
+
+Narrative Agency
+    Choice
+        Select explicit dialogue or actions
+        Solves problem of defining story direction
+    Behavior
+        Allow playstyle to influence outcomes
+        Solves problem of reflecting implicit character psychology
+    Consequence
+        Accept irreversible life-or-death results
+        Solves problem of maintaining narrative permanence
+    Exploration
+        Complete optional content affecting epilogue
+        Solves problem of rewarding thoroughness with narrative context
+    Ending
+        Trigger alternate conclusions via final actions
+        Solves problem of variable story resolution
+
+Psychological Stability
+    Light
+        Remain in illuminated conditions to maintain clarity
+        Solves problem of sanity loss from darkness
+    Medicine
+        Consume sanity-restoring items
+        Solves problem of breakdown from prolonged stress
+    Progress
+        Solve puzzles or objectives to regain equilibrium
+        Solves problem of psychological deterioration over time
+    Avert
+        Avoid direct observation of disturbing events
+        Solves problem of trauma from exposure to horror
+    Distortion
+        Endure impaired perception when stability declines
+        Solves problem of forced disorientation until recovery is possible
+
+--------------------------------------

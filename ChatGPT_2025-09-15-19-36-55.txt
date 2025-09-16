@@ -1,0 +1,46 @@
+--------------------------------------
+User:
+
+
+Please draw some of the blue prints that are displayed within [Unreal Engine’s official documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-4-documentation?application_version=5.4)
+--------------------------------------
+ChatGPT:
+
+
+I wasn't able to access the specific documentation page for Unreal Engine. If you have any specific blueprints in mind or details about what you need, please let me know! Alternatively, you can upload images or describe the blueprints, and I can help generate ASCII art based on that information.
+--------------------------------------
+User:
+
+
+Okay draw the blueprint (a series of nodes and connections that are labeled) at this address:
+
+https://docs.unrealengine.com/4.27/Images/ProgrammingAndScripting/Blueprints/QuickStart/BPQS_6_Step6.png
+--------------------------------------
+ChatGPT:
+
+
+It looks like I'm currently unable to access the image directly from the provided URL. If you can download the image and upload it here, I can then proceed to convert it into ASCII art for you. 
+--------------------------------------
+ChatGPT:
+
+
+Here is the ASCII art representation of the blueprint image you provided:
+
+ruby
+Copy code
+%###############%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@%%%%%%%%%%%%%%%#%%%%%%%%%%%%%%#***######%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%##%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@@@@@@@@@@@@%%%%%@%%%%%%%%%%%%%@@@%%@@%%%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@@@@@@@@@@@@%%%%%@%%%%%%%%%%%%%@@%%%@@%%%%%%%%%%%%%%%%%%%%#********######%%
+@@@@@@@@@@%%%%%%%@%%%%##%#%%%%%%%%%%%%%%%%%###########%%%%##%%%%%%%%%%%%%%%
+@@@@@@@@@@@@%%%%@@%%%%%%%%%@@%%%%%%%%%%%%%%%#@%@@%@@@%#%%%%%@%@@@@@@@@@@%@%
+@@@@@@@@@@@@%%%%@@%%%%%%%%%%%%%%%%%%%%%%%%%@%%%@@@%%%%%@%%@%%%%%%%@@@@@@@@%
+%###**#*######%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@%%%%%%@%%@@%%%%%%%%%%%@@@%
+@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@%%%%%%@@@@@@@@%
+@@@%%%%%%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@%%%%%@@@@@@@@@%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+If you need the ASCII art in a file or have any adjustments, please let me know! 
+--------------------------------------
